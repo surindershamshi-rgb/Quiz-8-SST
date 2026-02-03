@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 5,
+    "chapter_title": "Judiciary",
+    "chapter_title_hindi": "न्यायपालिका",
+    "subject": "Civics - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_CIV_CH05_Judiciary_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "The mechanism that every citizen can use to approach the courts if their rights are violated is called _______.",
+        "hi": "यदि नागरिकों के अधिकारों का उल्लंघन होता है, तो वे किस तंत्र के माध्यम से अदालत जा सकते हैं?"
+      },
+      "options": {
+        "a": {"en": "Executive", "hi": "कार्यपालिका"},
+        "b": {"en": "Judiciary", "hi": "न्यायपालिका"},
+        "c": {"en": "Legislature", "hi": "विधायिका"},
+        "d": {"en": "Police", "hi": "पुलिस"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Judiciary is the system of courts that interprets and applies the law in the name of the state.",
+        "hi": "न्यायपालिका अदालतों की वह प्रणाली है जो राज्य के नाम पर कानून की व्याख्या और उसे लागू करती है।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "What is the main role of the judiciary regarding the Constitution?",
+        "hi": "संविधान के संबंध में न्यायपालिका की मुख्य भूमिका क्या है?"
+      },
+      "options": {
+        "a": {"en": "To write it", "hi": "इसे लिखना"},
+        "b": {"en": "To uphold and enforce Fundamental Rights", "hi": "मौलिक अधिकारों की रक्षा और उन्हें लागू करना"},
+        "c": {"en": "To change it every year", "hi": "इसे हर साल बदलना"},
+        "d": {"en": "To ignore it", "hi": "इसे अनदेखा करना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Every citizen of India can approach the Supreme Court or the High Court if they believe that their Fundamental Rights have been violated.",
+        "hi": "भारत का प्रत्येक नागरिक सुप्रीम कोर्ट या हाई कोर्ट जा सकता है यदि उसे लगता है कि उसके मौलिक अधिकारों का उल्लंघन हुआ है।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "The power of the judiciary to strike down particular laws passed by the Parliament is called _______.",
+        "hi": "संसद द्वारा पारित विशिष्ट कानूनों को रद्द करने की न्यायपालिका की शक्ति को क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Legislative Action", "hi": "विधायी कार्रवाई"},
+        "b": {"en": "Judicial Review", "hi": "न्यायिक समीक्षा (Judicial Review)"},
+        "c": {"en": "Executive Order", "hi": "कार्यकारी आदेश"},
+        "d": {"en": "Police Investigation", "hi": "पुलिस जाँच"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "If the judiciary believes that a law violates the basic structure of the Constitution, it can cancel that law.",
+        "hi": "यदि न्यायपालिका को लगता है कि कोई कानून संविधान की मूल संरचना का उल्लंघन करता है, तो वह उस कानून को रद्द कर सकती है।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What does an 'Independent Judiciary' mean?",
+        "hi": "'स्वतंत्र न्यायपालिका' का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Courts are under the control of the President", "hi": "अदालतें राष्ट्रपति के नियंत्रण में हैं"},
+        "b": {"en": "The Legislature and Executive cannot interfere in the work of the judiciary", "hi": "विधायिका और कार्यपालिका न्यायपालिका के काम में हस्तक्षेप नहीं कर सकते"},
+        "c": {"en": "Judges are elected by the people", "hi": "न्यायाधीश जनता द्वारा चुने जाते हैं"},
+        "d": {"en": "There are no laws for judges", "hi": "न्यायाधीशों के लिए कोई कानून नहीं हैं"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Independence allows the courts to play a central role in ensuring that there is no misuse of power by the legislature and the executive.",
+        "hi": "स्वतंत्रता अदालतों को यह सुनिश्चित करने में केंद्रीय भूमिका निभाने की अनुमति देती है कि विधायिका और कार्यपालिका द्वारा सत्ता का दुरुपयोग न हो।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "The Supreme Court of India was established on _______.",
+        "hi": "भारत के सर्वोच्च न्यायालय की स्थापना कब हुई थी?"
+      },
+      "options": {
+        "a": {"en": "15 August 1947", "hi": "15 अगस्त 1947"},
+        "b": {"en": "26 January 1950", "hi": "26 जनवरी 1950"},
+        "c": {"en": "26 November 1949", "hi": "26 नवंबर 1949"},
+        "d": {"en": "1 January 1950", "hi": "1 जनवरी 1950"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Supreme Court was established on the day India became a Republic.",
+        "hi": "सर्वोच्च न्यायालय की स्थापना उसी दिन हुई थी जिस दिन भारत गणतंत्र बना था।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Where is the Supreme Court of India located?",
+        "hi": "भारत का सर्वोच्च न्यायालय कहाँ स्थित है?"
+      },
+      "options": {
+        "a": {"en": "Mumbai", "hi": "मुंबई"},
+        "b": {"en": "New Delhi", "hi": "नई दिल्ली"},
+        "c": {"en": "Kolkata", "hi": "कोलकाता"},
+        "d": {"en": "Chennai", "hi": "चेन्नई"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Supreme Court is located in New Delhi and is presided over by the Chief Justice of India.",
+        "hi": "सर्वोच्च न्यायालय नई दिल्ली में स्थित है और इसकी अध्यक्षता भारत के मुख्य न्यायाधीश करते हैं।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Who is the highest judicial authority in India?",
+        "hi": "भारत में सर्वोच्च न्यायिक प्राधिकरण कौन है?"
+      },
+      "options": {
+        "a": {"en": "The President", "hi": "राष्ट्रपति"},
+        "b": {"en": "The Chief Justice of India", "hi": "भारत के मुख्य न्यायाधीश"},
+        "c": {"en": "The Prime Minister", "hi": "प्रधानमंत्री"},
+        "d": {"en": "The Speaker of Lok Sabha", "hi": "लोकसभा अध्यक्ष"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Chief Justice heads the Supreme Court, which is the highest court of appeal in India.",
+        "hi": "मुख्य न्यायाधीश सर्वोच्च न्यायालय के प्रमुख होते हैं, जो भारत में अपील का सर्वोच्च न्यायालय है।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "How many levels of courts are there in India?",
+        "hi": "भारत में अदालतों के कितने स्तर हैं?"
+      },
+      "options": {
+        "a": {"en": "Two", "hi": "दो"},
+        "b": {"en": "Three", "hi": "तीन"},
+        "c": {"en": "Four", "hi": "चार"},
+        "d": {"en": "Five", "hi": "पाँच"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The three levels are: District Courts, High Courts, and the Supreme Court.",
+        "hi": "तीन स्तर हैं: जिला अदालतें, उच्च न्यायालय और सर्वोच्च न्यायालय।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Which courts are located at the district level and presided over by a District Judge?",
+        "hi": "जिला स्तर पर कौन सी अदालतें स्थित होती हैं और उनकी अध्यक्षता जिला न्यायाधीश करते हैं?"
+      },
+      "options": {
+        "a": {"en": "High Courts", "hi": "उच्च न्यायालय"},
+        "b": {"en": "Subordinate or District Courts", "hi": "अधीनस्थ या जिला अदालतें"},
+        "c": {"en": "Supreme Court", "hi": "सर्वोच्च न्यायालय"},
+        "d": {"en": "Tribunals", "hi": "ट्रिब्यूनल"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Most people interact with these courts, also known as Tehsil level or Munsif courts.",
+        "hi": "अधिकांश लोग इन अदालतों के साथ बातचीत करते हैं, जिन्हें तहसील स्तर या मुंसिफ अदालत भी कहा जाता है।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Each State in India has a _______ which is the highest court of that state.",
+        "hi": "भारत के प्रत्येक राज्य में एक _______ होता है जो उस राज्य का सर्वोच्च न्यायालय होता है।"
+      },
+      "options": {
+        "a": {"en": "Supreme Court", "hi": "सर्वोच्च न्यायालय"},
+        "b": {"en": "High Court", "hi": "उच्च न्यायालय (High Court)"},
+        "c": {"en": "District Court", "hi": "जिला अदालत"},
+        "d": {"en": "Parliament", "hi": "संसद"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "High Courts were first established in the three Presidency cities: Calcutta, Bombay, and Madras in 1862.",
+        "hi": "उच्च न्यायालय सबसे पहले 1862 में तीन प्रेसीडेंसी शहरों: कलकत्ता, बॉम्बे और मद्रास में स्थापित किए गए थे।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "What is the 'Integrated Judicial System' of India?",
+        "hi": "भारत की 'एकीकृत न्यायिक प्रणाली' क्या है?"
+      },
+      "options": {
+        "a": {"en": "States have their own supreme laws", "hi": "राज्यों के अपने सर्वोच्च कानून हैं"},
+        "b": {"en": "Decisions made by higher courts are binding on lower courts", "hi": "उच्च न्यायालयों द्वारा लिए गए निर्णय निचली अदालतों के लिए बाध्यकारी होते हैं"},
+        "c": {"en": "The President can change any court decision", "hi": "राष्ट्रपति किसी भी अदालत के फैसले को बदल सकते हैं"},
+        "d": {"en": "Judges can work in any office", "hi": "न्यायाधीश किसी भी कार्यालय में काम कर सकते हैं"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Integration means the Supreme Court's decisions govern all other courts in the country.",
+        "hi": "एकीकरण का अर्थ है कि सर्वोच्च न्यायालय के निर्णय देश की अन्य सभी अदालतों पर लागू होते हैं।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "The system that allows a person to appeal to a higher court if they believe a lower court's judgment is not just is the _______.",
+        "hi": "वह प्रणाली जो किसी व्यक्ति को उच्च न्यायालय में अपील करने की अनुमति देती है यदि उसे लगता है कि निचली अदालत का फैसला सही नहीं है, वह _______ है।"
+      },
+      "options": {
+        "a": {"en": "Criminal system", "hi": "आपराधिक प्रणाली"},
+        "b": {"en": "Appellate system", "hi": "अपीलीय प्रणाली (Appellate system)"},
+        "c": {"en": "Police system", "hi": "पुलिस प्रणाली"},
+        "d": {"en": "Voting system", "hi": "मतदान प्रणाली"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The appellate system ensures that citizens have a chance to seek justice at a higher level.",
+        "hi": "अपीलीय प्रणाली यह सुनिश्चित करती है कि नागरिकों के पास उच्च स्तर पर न्याय पाने का मौका हो।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Which type of law deals with conduct or acts that the law defines as offences, such as theft or murder?",
+        "hi": "किस प्रकार का कानून उन आचरणों या कार्यों से संबंधित है जिन्हें कानून अपराध के रूप में परिभाषित करता है, जैसे चोरी या हत्या?"
+      },
+      "options": {
+        "a": {"en": "Civil Law", "hi": "दीवानी कानून"},
+        "b": {"en": "Criminal Law", "hi": "फौजदारी (आपराधिक) कानून"},
+        "c": {"en": "International Law", "hi": "अंतरराष्ट्रीय कानून"},
+        "d": {"en": "Traffic Law", "hi": "यातायात कानून"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Criminal law cases usually begin with the lodging of a First Information Report (FIR).",
+        "hi": "आपराधिक कानून के मामले आमतौर पर प्रथम सूचना रिपोर्ट (FIR) दर्ज होने के साथ शुरू होते हैं।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Which type of law deals with disputes over property, marriage, or rent matters?",
+        "hi": "किस प्रकार का कानून संपत्ति, विवाह या किराए के मामलों से संबंधित विवादों से निपटता है?"
+      },
+      "options": {
+        "a": {"en": "Criminal Law", "hi": "फौजदारी कानून"},
+        "b": {"en": "Civil Law", "hi": "दीवानी (Civil) कानून"},
+        "c": {"en": "Military Law", "hi": "सैन्य कानून"},
+        "d": {"en": "Criminal Procedure", "hi": "आपराधिक प्रक्रिया"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Civil law focuses on resolving disagreements between individuals or organizations and providing relief.",
+        "hi": "दीवानी कानून व्यक्तियों या संगठनों के बीच असहमति को सुलझाने और राहत प्रदान करने पर केंद्रित है।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "What is the full form of PIL?",
+        "hi": "PIL का पूर्ण रूप क्या है?"
+      },
+      "options": {
+        "a": {"en": "Private Interest Litigation", "hi": "प्राइवेट इंटरेस्ट लिटिगेशन"},
+        "b": {"en": "Public Interest Litigation", "hi": "जनहित याचिका (Public Interest Litigation)"},
+        "c": {"en": "Public Interest Law", "hi": "पब्लिक इंटरेस्ट लॉ"},
+        "d": {"en": "Police Investigation List", "hi": "पुलिस इन्वेस्टिगेशन लिस्ट"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "PIL allows any individual or organization to file a case in court on behalf of those whose rights are being violated.",
+        "hi": "पीआईएल किसी भी व्यक्ति या संगठन को उन लोगों की ओर से अदालत में मामला दर्ज करने की अनुमति देता है जिनके अधिकारों का उल्लंघन हो रहा है।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "In the early 1980s, the _______ devised the mechanism of PIL to increase access to justice.",
+        "hi": "1980 के दशक की शुरुआत में, न्याय तक पहुँच बढ़ाने के लिए _______ ने PIL का तंत्र तैयार किया था।"
+      },
+      "options": {
+        "a": {"en": "Parliament", "hi": "संसद"},
+        "b": {"en": "Supreme Court", "hi": "सर्वोच्च न्यायालय"},
+        "c": {"en": "President", "hi": "राष्ट्रपति"},
+        "d": {"en": "Prime Minister", "hi": "प्रधानमंत्री"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "PIL simplified the legal process so that even a letter or telegram addressed to the court could be treated as a case.",
+        "hi": "PIL ने कानूनी प्रक्रिया को सरल बना दिया ताकि अदालत को संबोधित एक पत्र या टेलीग्राम को भी मामले के रूप में माना जा सके।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "The mid-day meal scheme in government schools was a result of a _______.",
+        "hi": "सरकारी स्कूलों में मध्याह्न भोजन (mid-day meal) योजना किसका परिणाम थी?"
+      },
+      "options": {
+        "a": {"en": "Criminal case", "hi": "आपराधिक मामला"},
+        "b": {"en": "PIL (Public Interest Litigation)", "hi": "PIL (जनहित याचिका)"},
+        "c": {"en": "Foreign aid", "hi": "विदेशी सहायता"},
+        "d": {"en": "Protest by teachers", "hi": "शिक्षकों का विरोध"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Supreme Court ordered the government to provide food to children after a PIL was filed during a drought in Rajasthan and Odisha.",
+        "hi": "राजस्थान और ओडिशा में सूखे के दौरान पीआईएल दायर होने के बाद सुप्रीम कोर्ट ने सरकार को बच्चों को भोजन उपलब्ध कराने का आदेश दिया था।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What is the phrase often used to describe the long time taken by courts to give a judgment?",
+        "hi": "अदालतों द्वारा फैसला सुनाने में लगने वाले लंबे समय का वर्णन करने के लिए अक्सर किस वाक्यांश का उपयोग किया जाता है?"
+      },
+      "options": {
+        "a": {"en": "Justice is served", "hi": "न्याय मिल गया"},
+        "b": {"en": "Justice delayed is justice denied", "hi": "न्याय में देरी, न्याय न मिलने के बराबर है"},
+        "c": {"en": "Fast track justice", "hi": "फास्ट ट्रैक न्याय"},
+        "d": {"en": "Always on time", "hi": "हमेशा समय पर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "While the judiciary is accessible, the massive number of pending cases often results in long delays.",
+        "hi": "जहाँ न्यायपालिका सुलभ है, वहीं लंबित मामलों की भारी संख्या के परिणामस्वरूप अक्सर लंबी देरी होती है।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "High Court of Delhi was established in which year?",
+        "hi": "दिल्ली उच्च न्यायालय की स्थापना किस वर्ष हुई थी?"
+      },
+      "options": {
+        "a": {"en": "1862", "hi": "1862"},
+        "b": {"en": "1966", "hi": "1966"},
+        "c": {"en": "1950", "hi": "1950"},
+        "d": {"en": "1947", "hi": "1947"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "While the first High Courts were built in 1862, Delhi got its own in 1966.",
+        "hi": "जहाँ पहले उच्च न्यायालय 1862 में बने थे, दिल्ली को अपना स्वयं का उच्च न्यायालय 1966 में मिला।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "In a criminal case, if the accused is found guilty, the court can _______.",
+        "hi": "आपराधिक मामले में, यदि आरोपी को दोषी पाया जाता है, तो अदालत _______ कर सकती है।"
+      },
+      "options": {
+        "a": {"en": "Only give a warning", "hi": "केवल चेतावनी देना"},
+        "b": {"en": "Send them to jail or impose a fine", "hi": "उन्हें जेल भेजना या जुर्माना लगाना"},
+        "c": {"en": "Ask them to go to a party", "hi": "उन्हें पार्टी में जाने के लिए कहना"},
+        "d": {"en": "Change their name", "hi": "उनका नाम बदलना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Punishment depends on the severity of the crime committed.",
+        "hi": "सजा किए गए अपराध की गंभीरता पर निर्भर करती है।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Dispute Resolution by the judiciary involves cases between _______.",
+        "hi": "न्यायपालिका द्वारा विवाद समाधान में किसके बीच के मामले शामिल हैं?"
+      },
+      "options": {
+        "a": {"en": "Citizens and the Government", "hi": "नागरिक और सरकार"},
+        "b": {"en": "Two State Governments", "hi": "दो राज्य सरकारें"},
+        "c": {"en": "Center and State Governments", "hi": "केंद्र और राज्य सरकारें"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "explanation": {
+        "en": "The judiciary provides a mechanism for resolving disputes across all levels of society and government.",
+        "hi": "न्यायपालिका समाज और सरकार के सभी स्तरों पर विवादों को सुलझाने के लिए एक तंत्र प्रदान करती है।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Who appoints the judges of the High Court and Supreme Court?",
+        "hi": "हाई कोर्ट और सुप्रीम कोर्ट के न्यायाधीशों की नियुक्ति कौन करता है?"
+      },
+      "options": {
+        "a": {"en": "The Prime Minister", "hi": "प्रधानमंत्री"},
+        "b": {"en": "The President with the advice of the Chief Justice", "hi": "मुख्य न्यायाधीश की सलाह पर राष्ट्रपति"},
+        "c": {"en": "The People through voting", "hi": "मतदान के माध्यम से जनता"},
+        "d": {"en": "The Speaker", "hi": "लोकसभा अध्यक्ष"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Once appointed, it is very difficult to remove a judge from their position.",
+        "hi": "एक बार नियुक्त होने के बाद, किसी न्यायाधीश को उनके पद से हटाना बहुत कठिन होता है।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "The removal of a Supreme Court judge is done through a process called _______.",
+        "hi": "सुप्रीम कोर्ट के न्यायाधीश को किस प्रक्रिया के माध्यम से हटाया जाता है?"
+      },
+      "options": {
+        "a": {"en": "Resignation", "hi": "इस्तीफा"},
+        "b": {"en": "Impeachment", "hi": "महाभियोग (Impeachment)"},
+        "c": {"en": "Election", "hi": "चुनाव"},
+        "d": {"en": "Promotion", "hi": "पदोन्नति"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Impeachment requires a special majority in the Parliament and is rarely used.",
+        "hi": "महाभियोग के लिए संसद में विशेष बहुमत की आवश्यकता होती है और इसका उपयोग बहुत कम किया जाता है।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "Which article of the Constitution guarantees the Right to Life, which includes the Right to Health?",
+        "hi": "संविधान का कौन सा अनुच्छेद जीवन के अधिकार की गारंटी देता है, जिसमें स्वास्थ्य का अधिकार भी शामिल है?"
+      },
+      "options": {
+        "a": {"en": "Article 14", "hi": "अनुच्छेद 14"},
+        "b": {"en": "Article 21", "hi": "अनुच्छेद 21"},
+        "c": {"en": "Article 15", "hi": "अनुच्छेद 15"},
+        "d": {"en": "Article 32", "hi": "अनुच्छेद 32"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Supreme Court interpreted the Right to Life broadly in the Paschim Banga Khet Mazdoor Samity case.",
+        "hi": "सुप्रीम कोर्ट ने पश्चिम बंग खेत मजदूर समिति मामले में जीवन के अधिकार की व्यापक व्याख्या की।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "A person can be sent to jail for _______ law violations, but not usually for _______ law.",
+        "hi": "किसी व्यक्ति को _______ कानून के उल्लंघन के लिए जेल भेजा जा सकता है, लेकिन आमतौर पर _______ कानून के लिए नहीं।"
+      },
+      "options": {
+        "a": {"en": "Civil; Criminal", "hi": "दीवानी; फौजदारी"},
+        "b": {"en": "Criminal; Civil", "hi": "फौजदारी; दीवानी"},
+        "c": {"en": "Traffic; Property", "hi": "यातायात; संपत्ति"},
+        "d": {"en": "None of the above", "hi": "इनमें से कोई नहीं"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "In civil cases, the court usually grants a specific relief (like paying back rent) instead of imprisonment.",
+        "hi": "दीवानी मामलों में, अदालत आमतौर पर कारावास के बजाय एक विशिष्ट राहत (जैसे किराया वापस करना) प्रदान करती है।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "Why were some people unhappy with the court's judgment on the eviction of slum dwellers?",
+        "hi": "झुग्गीवासियों की बेदखली पर अदालत के फैसले से कुछ लोग नाखुश क्यों थे?"
+      },
+      "options": {
+        "a": {"en": "Because it protected the environment", "hi": "क्योंकि इसने पर्यावरण की रक्षा की"},
+        "b": {"en": "Because it ignored the slum dwellers' Right to Livelihood", "hi": "क्योंकि इसने झुग्गीवासियों की आजीविका के अधिकार की अनदेखी की"},
+        "c": {"en": "Because the judges were too young", "hi": "क्योंकि न्यायाधीश बहुत युवा थे"},
+        "d": {"en": "Because it was written in Hindi", "hi": "क्योंकि यह हिंदी में लिखा गया था"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "While some judgments protect human rights, others like recent eviction orders are seen as hurting the poor.",
+        "hi": "जहाँ कुछ फैसले मानवाधिकारों की रक्षा करते हैं, वहीं हाल के बेदखली आदेशों जैसे अन्य फैसलों को गरीबों को नुकसान पहुँचाने वाला माना जाता है।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "How many High Courts are there in India currently?",
+        "hi": "वर्तमान में भारत में कितने उच्च न्यायालय हैं?"
+      },
+      "options": {
+        "a": {"en": "21", "hi": "21"},
+        "b": {"en": "25", "hi": "25"},
+        "c": {"en": "28", "hi": "28"},
+        "d": {"en": "50", "hi": "50"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "There are 25 High Courts serving different states and union territories in India.",
+        "hi": "भारत में विभिन्न राज्यों और केंद्र शासित प्रदेशों की सेवा करने वाले 25 उच्च न्यायालय हैं।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "States like Punjab and Haryana share a common High Court at _______.",
+        "hi": "पंजाब और हरियाणा जैसे राज्य _______ में एक साझा उच्च न्यायालय साझा करते हैं।"
+      },
+      "options": {
+        "a": {"en": "New Delhi", "hi": "नई दिल्ली"},
+        "b": {"en": "Chandigarh", "hi": "चंडीगढ़"},
+        "c": {"en": "Amritsar", "hi": "अमृतसर"},
+        "d": {"en": "Shimla", "hi": "शिमला"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Some High Courts serve more than one state to ensure administrative efficiency.",
+        "hi": "प्रशासनिक दक्षता सुनिश्चित करने के लिए कुछ उच्च न्यायालय एक से अधिक राज्यों की सेवा करते हैं।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "The judgment of the _______ is final and cannot be challenged in any other court in India.",
+        "hi": "_______ का फैसला अंतिम होता है और उसे भारत की किसी अन्य अदालत में चुनौती नहीं दी जा सकती।"
+      },
+      "options": {
+        "a": {"en": "High Court", "hi": "उच्च न्यायालय"},
+        "b": {"en": "Supreme Court", "hi": "सर्वोच्च न्यायालय (Supreme Court)"},
+        "c": {"en": "District Court", "hi": "जिला अदालत"},
+        "d": {"en": "Lok Adalat", "hi": "लोक अदालत"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Supreme Court is the apex court in India's judicial hierarchy.",
+        "hi": "सर्वोच्च न्यायालय भारत के न्यायिक पदानुक्रम में शीर्ष अदालत है।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "What helps in preventing the misuse of power by the legislature and the executive?",
+        "hi": "विधायिका और कार्यपालिका द्वारा सत्ता के दुरुपयोग को रोकने में क्या मदद करता है?"
+      },
+      "options": {
+        "a": {"en": "An independent judiciary", "hi": "एक स्वतंत्र न्यायपालिका"},
+        "b": {"en": "A large army", "hi": "एक बड़ी सेना"},
+        "c": {"en": "Foreign intervention", "hi": "विदेशी हस्तक्षेप"},
+        "d": {"en": "High taxes", "hi": "उच्च कर"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Independence ensures that judges can make decisions without fear or favor from political leaders.",
+        "hi": "स्वतंत्रता यह सुनिश्चित करती है कि न्यायाधीश राजनीतिक नेताओं के डर या पक्ष के बिना निर्णय ले सकें।"
+      }
+    }
+  ]
+}
