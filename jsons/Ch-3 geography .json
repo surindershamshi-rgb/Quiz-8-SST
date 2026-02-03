@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 3,
+    "chapter_title": "Agriculture",
+    "chapter_title_hindi": "कृषि",
+    "subject": "Geography - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_GEO_CH03_Agriculture_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "The word 'Agriculture' is derived from Latin words 'ager' and 'cultura'. What does 'ager' mean?",
+        "hi": "'एग्रीकल्चर' शब्द की उत्पत्ति लैटिन शब्दों 'एगर' और 'कल्चर' से हुई है। 'एगर' का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Water", "hi": "जल"},
+        "b": {"en": "Soil/Field", "hi": "मृदा/खेत"},
+        "c": {"en": "Plant", "hi": "पौधा"},
+        "d": {"en": "Food", "hi": "भोजन"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "'Ager' or 'agri' means soil or field, and 'cultura' means cultivation.",
+        "hi": "'एगर' या 'एग्री' का अर्थ मृदा या खेत है, और 'कल्चर' का अर्थ जुताई या खेती करना है।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Transformation from a plant to a finished product involves three types of economic activities. Which of these is agriculture?",
+        "hi": "पौधे से परिष्कृत उत्पाद तक के रूपांतरण में तीन प्रकार की आर्थिक क्रियाएँ शामिल हैं। इनमें से कृषि कौन सी है?"
+      },
+      "options": {
+        "a": {"en": "Primary activity", "hi": "प्राथमिक क्रिया"},
+        "b": {"en": "Secondary activity", "hi": "द्वितीयक क्रिया"},
+        "c": {"en": "Tertiary activity", "hi": "तृतीयक क्रिया"},
+        "d": {"en": "Quaternary activity", "hi": "चतुर्थक क्रिया"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Primary activities include all those connected with extraction and production of natural resources like agriculture, fishing, and gathering.",
+        "hi": "प्राथमिक क्रियाओं के अंतर्गत उन सभी क्रियाओं को शामिल किया जाता है जिनका संबंध प्राकृतिक संसाधनों के निष्कर्षण और उत्पादन से होता है, जैसे कृषि, मत्स्य पालन और संग्रहण।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Which type of activity provides support to the primary and secondary sectors through services?",
+        "hi": "किस प्रकार की क्रिया सेवाओं के माध्यम से प्राथमिक और द्वितीयक क्षेत्रों को सहायता प्रदान करती है?"
+      },
+      "options": {
+        "a": {"en": "Manufacturing", "hi": "विनिर्माण"},
+        "b": {"en": "Tertiary activity", "hi": "तृतीयक क्रिया"},
+        "c": {"en": "Mining", "hi": "खनन"},
+        "d": {"en": "Lumbering", "hi": "लठ्ठा बनाना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Transport, trade, banking, insurance, and advertising are examples of tertiary activities.",
+        "hi": "यातायात, व्यापार, बैंकिंग, बीमा और विज्ञापन तृतीयक क्रियाओं के उदाहरण हैं।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What percentage of the world's population is engaged in agricultural activity?",
+        "hi": "विश्व की कितनी प्रतिशत जनसंख्या कृषि संबंधी कार्यों में संलग्न है?"
+      },
+      "options": {
+        "a": {"en": "25%", "hi": "25%"},
+        "b": {"en": "50%", "hi": "50%"},
+        "c": {"en": "75%", "hi": "75%"},
+        "d": {"en": "90%", "hi": "90%"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "About 50% of the world's population and two-thirds of India’s population is dependent on agriculture.",
+        "hi": "विश्व की लगभग 50% जनसंख्या और भारत की दो-तिहाई जनसंख्या कृषि पर निर्भर है।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "The land on which crops are grown is known as _______.",
+        "hi": "जिस भूमि पर फसलें उगाई जाती हैं, उसे _______ कहा जाता है।"
+      },
+      "options": {
+        "a": {"en": "Barren land", "hi": "बंजर भूमि"},
+        "b": {"en": "Arable land", "hi": "कृषि योग्य (Arable) भूमि"},
+        "c": {"en": "Pasture land", "hi": "चारागाह भूमि"},
+        "d": {"en": "Dry land", "hi": "शुष्क भूमि"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Arable land is favorable for growing crops based on soil and climatic factors.",
+        "hi": "मृदा और जलवायु कारकों के आधार पर फसल उगाने के लिए अनुकूल भूमि को कृषि योग्य भूमि कहते हैं।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "What is the commercial rearing of silk worms called?",
+        "hi": "रेशम के कीड़ों के व्यावसायिक पालन को क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Pisciculture", "hi": "पिसिकल्चर"},
+        "b": {"en": "Sericulture", "hi": "सेरीकल्चर (रेशम उत्पादन)"},
+        "c": {"en": "Viticulture", "hi": "विटीकल्चर"},
+        "d": {"en": "Horticulture", "hi": "हॉर्टिकल्चर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Sericulture involves rearing silkworms to supplement the income of the farmer.",
+        "hi": "रेशम उत्पादन में रेशम के कीड़ों का पालन शामिल है जो किसान की आय का पूरक हो सकता है।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Breeding of fish in specially constructed tanks and ponds is known as _______.",
+        "hi": "विशेष रूप से निर्मित टैंकों और तालाबों में मछली के प्रजनन को _______ के रूप में जाना जाता है।"
+      },
+      "options": {
+        "a": {"en": "Pisciculture", "hi": "पिसिकल्चर (मत्स्य पालन)"},
+        "b": {"en": "Sericulture", "hi": "सेरीकल्चर"},
+        "c": {"en": "Viticulture", "hi": "विटीकल्चर"},
+        "d": {"en": "Floriculture", "hi": "फ्लोरीकल्चर"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Pisciculture is the controlled breeding and rearing of fish.",
+        "hi": "पिसिकल्चर मछली का नियंत्रित प्रजनन और पालन है।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Growing of vegetables, flowers, and fruits for commercial use is _______.",
+        "hi": "व्यावसायिक उपयोग के लिए सब्जियों, फूलों और फलों को उगाना _______ है।"
+      },
+      "options": {
+        "a": {"en": "Agriculture", "hi": "कृषि"},
+        "b": {"en": "Viticulture", "hi": "विटीकल्चर"},
+        "c": {"en": "Horticulture", "hi": "हॉर्टिकल्चर (उद्यान कृषि)"},
+        "d": {"en": "Sericulture", "hi": "सेरीकल्चर"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Horticulture is a specialized branch of agriculture focusing on garden crops.",
+        "hi": "हॉर्टिकल्चर कृषि की एक विशेष शाखा है जो उद्यान फसलों पर केंद्रित है।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Which type of farming is practiced to meet the needs of the farmer’s family?",
+        "hi": "किसान के परिवार की जरूरतों को पूरा करने के लिए किस प्रकार की कृषि की जाती है?"
+      },
+      "options": {
+        "a": {"en": "Commercial farming", "hi": "व्यावसायिक कृषि"},
+        "b": {"en": "Subsistence farming", "hi": "निर्वाह कृषि"},
+        "c": {"en": "Plantation", "hi": "रोपण कृषि"},
+        "d": {"en": "Extensive farming", "hi": "विस्तृत कृषि"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "In subsistence farming, low levels of technology and household labor are used to produce on small output.",
+        "hi": "निर्वाह कृषि में कम स्तर की तकनीक और पारिवारिक श्रम का उपयोग कम उत्पादन के लिए किया जाता है।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Shifting cultivation is also known as 'Slash and burn' agriculture. What is it called in North-East India?",
+        "hi": "स्थानांतरित कृषि को 'कर्तन एवं दहन' कृषि के रूप में भी जाना जाता है। उत्तर-पूर्वी भारत में इसे क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Milpa", "hi": "मिल्पा"},
+        "b": {"en": "Jhumming", "hi": "झूमिंग"},
+        "c": {"en": "Roca", "hi": "रोका"},
+        "d": {"en": "Ladang", "hi": "लदांग"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Shifting cultivation has different names: Jhumming (NE India), Milpa (Mexico), Roca (Brazil), and Ladang (Malaysia).",
+        "hi": "स्थानांतरित कृषि के विभिन्न नाम हैं: झूमिंग (उत्तर-पूर्वी भारत), मिल्पा (मेक्सिको), रोका (ब्राजील) और लदांग (मलेशिया)।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "In which type of farming are animals reared for milk, meat, wool, and hides while moving from place to place?",
+        "hi": "किस प्रकार की कृषि में दूध, मांस, ऊन और खाल के लिए जानवरों को एक स्थान से दूसरे स्थान पर ले जाकर पाला जाता है?"
+      },
+      "options": {
+        "a": {"en": "Intensive subsistence", "hi": "गहन निर्वाह"},
+        "b": {"en": "Nomadic herding", "hi": "खानाबदोश चरवाहा कृषि"},
+        "c": {"en": "Mixed farming", "hi": "मिश्रित कृषि"},
+        "d": {"en": "Plantations", "hi": "रोपण कृषि"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Nomadic herders move along defined routes for fodder and water.",
+        "hi": "खानाबदोश चरवाहे चारे और पानी के लिए निश्चित मार्गों पर चलते हैं।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "In mixed farming, the land is used for _______.",
+        "hi": "मिश्रित कृषि में भूमि का उपयोग _______ के लिए किया जाता है।"
+      },
+      "options": {
+        "a": {"en": "Growing food only", "hi": "केवल भोजन उगाने"},
+        "b": {"en": "Growing food and fodder crops and rearing livestock", "hi": "भोजन और चारे की फसलें उगाने और पशुपालन"},
+        "c": {"en": "Growing flowers only", "hi": "केवल फूल उगाने"},
+        "d": {"en": "Growing silk worms", "hi": "रेशम के कीड़े पालने"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Mixed farming is practiced in Europe, USA, Argentina, SE Australia, New Zealand, and South Africa.",
+        "hi": "मिश्रित कृषि यूरोप, अमेरिका, अर्जेंटीना, दक्षिण-पूर्वी ऑस्ट्रेलिया, न्यूजीलैंड और दक्षिण अफ्रीका में प्रचलित है।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Plantations are a type of _______.",
+        "hi": "रोपण (Plantations) एक प्रकार की _______ है।"
+      },
+      "options": {
+        "a": {"en": "Subsistence farming", "hi": "निर्वाह कृषि"},
+        "b": {"en": "Commercial farming", "hi": "व्यावसायिक कृषि"},
+        "c": {"en": "Nomadic herding", "hi": "खानाबदोश चरवाहा कृषि"},
+        "d": {"en": "Shifting cultivation", "hi": "स्थानांतरित कृषि"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Plantations involve a single crop like tea, coffee, sugarcane, cashew, rubber, cotton, or banana grown on a large scale.",
+        "hi": "रोपण कृषि में चाय, कॉफी, गन्ना, काजू, रबर, कपास या केले जैसी एक ही फसल बड़े पैमाने पर उगाई जाती है।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Which of these is a major food crop and requires high temperature, high humidity, and rainfall?",
+        "hi": "इनमें से कौन सी एक प्रमुख खाद्य फसल है और इसके लिए उच्च तापमान, उच्च आर्द्रता और वर्षा की आवश्यकता होती है?"
+      },
+      "options": {
+        "a": {"en": "Wheat", "hi": "गेहूँ"},
+        "b": {"en": "Rice", "hi": "चावल"},
+        "c": {"en": "Maize", "hi": "मक्का"},
+        "d": {"en": "Cotton", "hi": "कपास"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Rice is the staple diet of the tropical and sub-tropical regions. It grows best in alluvial clayey soil.",
+        "hi": "चावल उष्णकटिबंधीय और उप-उष्णकटिबंधीय क्षेत्रों का मुख्य आहार है। यह जलोढ़ चिकनी मृदा में सबसे अच्छा उगता है।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "Which crop is known as the 'Golden Fibre'?",
+        "hi": "किस फसल को 'सुनहरा रेशा' (Golden Fibre) के रूप में जाना जाता है?"
+      },
+      "options": {
+        "a": {"en": "Cotton", "hi": "कपास"},
+        "b": {"en": "Jute", "hi": "जूट"},
+        "c": {"en": "Silk", "hi": "रेशम"},
+        "d": {"en": "Nylon", "hi": "नायलॉन"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Jute grows well on alluvial soil and requires high temperature, heavy rainfall, and humid climate.",
+        "hi": "जूट जलोढ़ मृदा पर अच्छी तरह से उगता है और इसके लिए उच्च तापमान, भारी वर्षा और आर्द्र जलवायु की आवश्यकता होती है।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "Wheat requires moderate temperature and rainfall during the growing season and bright sunshine at the time of _______.",
+        "hi": "गेहूँ को बढ़ते समय मध्यम तापमान और वर्षा की आवश्यकता होती है और _______ के समय तेज धूप की।"
+      },
+      "options": {
+        "a": {"en": "Sowing", "hi": "बुवाई"},
+        "b": {"en": "Harvest", "hi": "कटाई"},
+        "c": {"en": "Irrigation", "hi": "सिंचाई"},
+        "d": {"en": "Ploughing", "hi": "जुताई"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Wheat is grown extensively in USA, Canada, Argentina, Russia, Ukraine, Australia, and India (in winter).",
+        "hi": "गेहूँ अमेरिका, कनाडा, अर्जेंटीना, रूस, यूक्रेन, ऑस्ट्रेलिया और भारत (सर्दियों में) में बड़े पैमाने पर उगाया जाता है।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "Which crop requires 210 frost-free days and bright sunshine for its growth?",
+        "hi": "किस फसल की वृद्धि के लिए 210 पाला-रहित दिन और तेज धूप की आवश्यकता होती है?"
+      },
+      "options": {
+        "a": {"en": "Jute", "hi": "जूट"},
+        "b": {"en": "Cotton", "hi": "कपास"},
+        "c": {"en": "Rice", "hi": "चावल"},
+        "d": {"en": "Tea", "hi": "चाय"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Cotton grows best on black and alluvial soils. China, USA, India, Pakistan, Brazil, and Egypt are leading producers.",
+        "hi": "कपास काली और जलोढ़ मृदा पर सबसे अच्छी तरह उगती है। चीन, अमेरिका, भारत, पाकिस्तान, ब्राजील और मिस्र इसके प्रमुख उत्पादक हैं।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "Who is the leading producer of coffee in the world?",
+        "hi": "विश्व में कॉफी का अग्रणी उत्पादक कौन है?"
+      },
+      "options": {
+        "a": {"en": "India", "hi": "भारत"},
+        "b": {"en": "Brazil", "hi": "ब्राजील"},
+        "c": {"en": "Ethiopia", "hi": "इथियोपिया"},
+        "d": {"en": "Colombia", "hi": "कोलंबिया"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Brazil is followed by Columbia and India in coffee production.",
+        "hi": "कॉफी उत्पादन में ब्राजील के बाद कोलंबिया और भारत का स्थान है।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Tea is a beverage crop grown on _______.",
+        "hi": "चाय एक पेय फसल है जो _______ पर उगाई जाती है।"
+      },
+      "options": {
+        "a": {"en": "Plains", "hi": "मैदानों"},
+        "b": {"en": "Hill slopes", "hi": "पहाड़ी ढलानों"},
+        "c": {"en": "Plateaus", "hi": "पठारों"},
+        "d": {"en": "Deserts", "hi": "रेगिस्तानों"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Tea requires cool climate and well-distributed high rainfall throughout the year for the growth of tender leaves.",
+        "hi": "चाय की कोमल पत्तियों की वृद्धि के लिए ठंडी जलवायु और साल भर समान रूप से वितरित उच्च वर्षा की आवश्यकता होती है।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What is the ultimate aim of agricultural development?",
+        "hi": "कृषि विकास का अंतिम लक्ष्य क्या है?"
+      },
+      "options": {
+        "a": {"en": "To increase food security", "hi": "खाद्य सुरक्षा बढ़ाना"},
+        "b": {"en": "To use more chemicals", "hi": "अधिक रसायनों का उपयोग करना"},
+        "c": {"en": "To reduce the number of farmers", "hi": "किसानों की संख्या कम करना"},
+        "d": {"en": "To export all crops", "hi": "सभी फसलों का निर्यात करना"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Agricultural development refers to efforts made to increase farm production in order to meet the growing demand of increasing population.",
+        "hi": "कृषि विकास का तात्पर्य बढ़ती जनसंख्या की बढ़ती मांग को पूरा करने के लिए कृषि उत्पादन बढ़ाने के प्रयासों से है।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Millets are also known as _______.",
+        "hi": "बाजरा (Millets) को _______ के रूप में भी जाना जाता है।"
+      },
+      "options": {
+        "a": {"en": "Fine grains", "hi": "महीन अनाज"},
+        "b": {"en": "Coarse grains", "hi": "मोटे अनाज (Coarse grains)"},
+        "c": {"en": "Golden grains", "hi": "सुनहरे अनाज"},
+        "d": {"en": "Soft grains", "hi": "कोमल अनाज"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Millets can be grown on less fertile and sandy soils. Examples: Jowar, Bajra, and Ragi.",
+        "hi": "बाजरा कम उपजाऊ और रेतीली मृदा पर उगाया जा सकता है। उदाहरण: ज्वार, बाजरा और रागी।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Comparing a farm in India and the USA, which one is typically larger in size?",
+        "hi": "भारत और अमेरिका के खेत की तुलना करने पर, आमतौर पर किसका आकार बड़ा होता है?"
+      },
+      "options": {
+        "a": {"en": "Indian farm", "hi": "भारतीय खेत"},
+        "b": {"en": "USA farm", "hi": "अमेरिका का खेत"},
+        "c": {"en": "Both are equal", "hi": "दोनों बराबर हैं"},
+        "d": {"en": "It depends on the crop", "hi": "यह फसल पर निर्भर करता है"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "An average farm size in the USA is about 250 hectares, compared to a typical Indian farm of about 1.5 hectares.",
+        "hi": "अमेरिका में एक औसत खेत का आकार लगभग 250 हेक्टेयर होता है, जबकि भारत में एक सामान्य खेत लगभग 1.5 हेक्टेयर का होता है।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Maize is also known as _______.",
+        "hi": "मक्का (Maize) को _______ के रूप में भी जाना जाता है।"
+      },
+      "options": {
+        "a": {"en": "Corn", "hi": "कॉर्न (Corn)"},
+        "b": {"en": "Paddy", "hi": "धान"},
+        "c": {"en": "Fiber", "hi": "रेशा"},
+        "d": {"en": "Pulse", "hi": "दाल"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Maize requires moderate temperature, rainfall, and lots of sunshine. It needs well-drained fertile soils.",
+        "hi": "मक्का को मध्यम तापमान, वर्षा और बहुत अधिक धूप की आवश्यकता होती है। इसे अच्छी जल निकासी वाली उपजाऊ मृदा की आवश्यकता होती है।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "In which country does a farmer usually work like a businessman and not a peasant farmer?",
+        "hi": "किस देश में किसान आमतौर पर एक व्यवसायी की तरह काम करता है न कि एक खेतिहर किसान की तरह?"
+      },
+      "options": {
+        "a": {"en": "India", "hi": "भारत"},
+        "b": {"en": "USA", "hi": "अमेरिका"},
+        "c": {"en": "China", "hi": "चीन"},
+        "d": {"en": "Pakistan", "hi": "पाकिस्तान"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Due to large farm sizes and extensive use of technology (tractors, harvesters, soil testing), USA farmers act like businessmen.",
+        "hi": "खेतों के बड़े आकार और तकनीक (ट्रैक्टर, हार्वेस्टर, मृदा परीक्षण) के व्यापक उपयोग के कारण, अमेरिका के किसान व्यवसायियों की तरह कार्य करते हैं।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "Organic farming is a method where _______.",
+        "hi": "जैविक कृषि (Organic farming) एक ऐसी विधि है जहाँ _______।"
+      },
+      "options": {
+        "a": {"en": "Chemical fertilizers are used heavily", "hi": "रासायनिक उर्वरकों का भारी उपयोग किया जाता है"},
+        "b": {"en": "Organic manure and natural pesticides are used instead of chemicals", "hi": "रसायनों के बजाय जैविक खाद और प्राकृतिक कीटनाशकों का उपयोग किया जाता है"},
+        "c": {"en": "No irrigation is provided", "hi": "कोई सिंचाई प्रदान नहीं की जाती है"},
+        "d": {"en": "Only one crop is grown", "hi": "केवल एक फसल उगाई जाती है"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "In organic farming, no genetic modification is done to increase the yield of the crop.",
+        "hi": "जैविक कृषि में, फसल की उपज बढ़ाने के लिए कोई आनुवंशिक संशोधन नहीं किया जाता है।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "Which of these is a climatic factor affecting agriculture?",
+        "hi": "इनमें से कौन सा कृषि को प्रभावित करने वाला जलवायु कारक है?"
+      },
+      "options": {
+        "a": {"en": "Soil", "hi": "मृदा"},
+        "b": {"en": "Rainfall", "hi": "वर्षा"},
+        "c": {"en": "Relief", "hi": "उच्चावच"},
+        "d": {"en": "Labour", "hi": "श्रम"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Favourable topography of soil and climate are vital for agricultural activity.",
+        "hi": "कृषि क्रिया के लिए मृदा और जलवायु की अनुकूल स्थलाकृति अनिवार्य है।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Agriculture is most common in _______.",
+        "hi": "कृषि सबसे अधिक कहाँ प्रचलित है?"
+      },
+      "options": {
+        "a": {"en": "Mountainous regions", "hi": "पर्वतीय क्षेत्रों"},
+        "b": {"en": "Plain areas and river valleys", "hi": "मैदानी क्षेत्रों और नदी घाटियों"},
+        "c": {"en": "Desert regions", "hi": "रेगिस्तानी क्षेत्रों"},
+        "d": {"en": "Deep forests", "hi": "घने जंगलों"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Plains and river valleys offer fertile soil and easier access to water, making them ideal for farming.",
+        "hi": "मैदानों और नदी घाटियों में उपजाऊ मृदा और पानी की आसान उपलब्धता होती है, जो उन्हें खेती के लिए आदर्श बनाती है।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "The input for a farm system includes seeds, fertilizers, and _______.",
+        "hi": "एक कृषि तंत्र के निवेश में बीज, उर्वरक और _______ शामिल हैं।"
+      },
+      "options": {
+        "a": {"en": "Output", "hi": "निर्गत"},
+        "b": {"en": "Machinery", "hi": "मशीनरी"},
+        "c": {"en": "Crops", "hi": "फसलें"},
+        "d": {"en": "Harvest", "hi": "कटाई"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Machinery, seeds, and chemicals are the physical inputs required for a farm system.",
+        "hi": "मशीनरी, बीज और रसायन कृषि तंत्र के लिए आवश्यक भौतिक निवेश हैं।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "What is the primary crop grown in intensive subsistence agriculture?",
+        "hi": "गहन निर्वाह कृषि में उगाई जाने वाली मुख्य फसल क्या है?"
+      },
+      "options": {
+        "a": {"en": "Wheat", "hi": "गेहूँ"},
+        "b": {"en": "Rice", "hi": "चावल"},
+        "c": {"en": "Maize", "hi": "मक्का"},
+        "d": {"en": "Cotton", "hi": "कपास"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "In intensive subsistence agriculture, the farmer cultivates a small plot of land using simple tools and more labor, with rice as the main crop.",
+        "hi": "गहन निर्वाह कृषि में, किसान साधारण औजारों और अधिक श्रम का उपयोग करके भूमि के एक छोटे टुकड़े पर खेती करता है, जिसमें चावल मुख्य फसल होती है।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "Coffee requires which type of climate?",
+        "hi": "कॉफी के लिए किस प्रकार की जलवायु की आवश्यकता होती है?"
+      },
+      "options": {
+        "a": {"en": "Cool and dry", "hi": "ठंडी और शुष्क"},
+        "b": {"en": "Warm and wet", "hi": "गर्म और आर्द्र"},
+        "c": {"en": "Very cold", "hi": "बहुत ठंडी"},
+        "d": {"en": "Arid", "hi": "शुष्क"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Coffee requires a warm and wet climate and well-drained loamy soil.",
+        "hi": "कॉफी के लिए गर्म एवं आर्द्र जलवायु और अच्छी जल निकासी वाली दोमट मृदा की आवश्यकता होती है।"
+      }
+    }
+  ]
+}
