@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 9,
+    "chapter_title": "Public Facilities",
+    "chapter_title_hindi": "जनसुविधाएँ",
+    "subject": "Civics - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_CIV_CH09_PublicFacilities_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Which of the following is considered a 'Public Facility'?",
+        "hi": "निम्नलिखित में से किसे 'जनसुविधा' (Public Facility) माना जाता है?"
+      },
+      "options": {
+        "a": {"en": "Private cars", "hi": "निजी कारें"},
+        "b": {"en": "Water, Electricity, and Healthcare", "hi": "जल, बिजली और स्वास्थ्य देखभाल"},
+        "c": {"en": "Personal computers", "hi": "व्यक्तिगत कंप्यूटर"},
+        "d": {"en": "Luxury watches", "hi": "लक्जरी घड़ियाँ"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Public facilities are essential services provided to a large number of people at a low cost or for free.",
+        "hi": "जनसुविधाएँ वे आवश्यक सेवाएँ हैं जो बड़ी संख्या में लोगों को कम लागत पर या मुफ्त में प्रदान की जाती हैं।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "The main responsibility for providing public facilities lies with the _______.",
+        "hi": "जनसुविधाएँ उपलब्ध कराने की मुख्य जिम्मेदारी किसकी है?"
+      },
+      "options": {
+        "a": {"en": "Private companies", "hi": "निजी कंपनियों की"},
+        "b": {"en": "Government", "hi": "सरकार की"},
+        "c": {"en": "Individual citizens", "hi": "व्यक्तिगत नागरिकों की"},
+        "d": {"en": "Foreign tourists", "hi": "विदेशी पर्यटकों की"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Since public facilities are linked to basic needs and human rights, the Constitution mandates the government to provide them.",
+        "hi": "चूंकि जनसुविधाएँ बुनियादी जरूरतों और मानवाधिकारों से जुड़ी हैं, इसलिए संविधान सरकार को उन्हें प्रदान करने का आदेश देता है।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Which Article of the Constitution recognizes the 'Right to Water' as a part of the 'Right to Life'?",
+        "hi": "संविधान का कौन सा अनुच्छेद 'जल के अधिकार' को 'जीवन के अधिकार' के हिस्से के रूप में मान्यता देता है?"
+      },
+      "options": {
+        "a": {"en": "Article 14", "hi": "अनुच्छेद 14"},
+        "b": {"en": "Article 21", "hi": "अनुच्छेद 21"},
+        "c": {"en": "Article 17", "hi": "अनुच्छेद 17"},
+        "d": {"en": "Article 15", "hi": "अनुच्छेद 15"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Article 21 ensures that everyone has access to sufficient water to meet their daily needs at an affordable price.",
+        "hi": "अनुच्छेद 21 यह सुनिश्चित करता है कि प्रत्येक व्यक्ति की वहनीय कीमत पर अपनी दैनिक जरूरतों को पूरा करने के लिए पर्याप्त पानी तक पहुँच हो।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What is the primary objective of private companies when they provide services?",
+        "hi": "निजी कंपनियाँ जब सेवाएँ प्रदान करती हैं, तो उनका प्राथमिक उद्देश्य क्या होता है?"
+      },
+      "options": {
+        "a": {"en": "Social welfare", "hi": "समाज कल्याण"},
+        "b": {"en": "Profit", "hi": "लाभ (मुनाफा)"},
+        "c": {"en": "Free education", "hi": "मुफ्त शिक्षा"},
+        "d": {"en": "National security", "hi": "राष्ट्रीय सुरक्षा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Unlike the government, private companies operate to make money, which often makes their services unaffordable for the poor.",
+        "hi": "सरकार के विपरीत, निजी कंपनियाँ पैसा कमाने के लिए काम करती हैं, जो अक्सर उनकी सेवाओं को गरीबों के लिए वहनीय नहीं बनाता है।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Why are private companies NOT interested in public facilities like sanitation or street lighting?",
+        "hi": "निजी कंपनियाँ स्वच्छता या स्ट्रीट लाइटिंग जैसी जनसुविधाओं में रुचि क्यों नहीं लेती हैं?"
+      },
+      "options": {
+        "a": {"en": "They don't know how to do it", "hi": "वे नहीं जानते कि इसे कैसे करना है"},
+        "b": {"en": "There is no profit to be made from these facilities", "hi": "इन सुविधाओं से कोई लाभ नहीं कमाया जा सकता है"},
+        "c": {"en": "The government bans them", "hi": "सरकार उन पर प्रतिबंध लगाती है"},
+        "d": {"en": "They are too busy", "hi": "वे बहुत व्यस्त हैं"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Private companies prefer facilities where they can charge a fee and earn a high return on investment.",
+        "hi": "निजी कंपनियाँ उन सुविधाओं को प्राथमिकता देती हैं जहाँ वे शुल्क ले सकें और निवेश पर उच्च लाभ कमा सकें।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "In the context of government finance, what is the main source of income to fund public facilities?",
+        "hi": "सरकारी वित्त के संदर्भ में, जनसुविधाओं के वित्तपोषण के लिए आय का मुख्य स्रोत क्या है?"
+      },
+      "options": {
+        "a": {"en": "Foreign donations", "hi": "विदेशी दान"},
+        "b": {"en": "Taxes collected from people", "hi": "लोगों से एकत्र किया गया कर (Taxes)"},
+        "c": {"en": "Selling movie tickets", "hi": "फिल्म टिकट बेचना"},
+        "d": {"en": "Winning the lottery", "hi": "लॉटरी जीतना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The government uses the money collected through taxes like Income Tax and GST to provide essential services.",
+        "hi": "सरकार आय कर और जीएसटी जैसे करों के माध्यम से एकत्र किए गए धन का उपयोग आवश्यक सेवाएँ प्रदान करने के लिए करती है।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Which city in India had a significant water shortage as described at the beginning of the chapter?",
+        "hi": "भारत के किस शहर में पानी की भारी कमी थी जैसा कि अध्याय की शुरुआत में वर्णित है?"
+      },
+      "options": {
+        "a": {"en": "Mumbai", "hi": "मुंबई"},
+        "b": {"en": "Chennai", "hi": "चेन्नई"},
+        "c": {"en": "Delhi", "hi": "दिल्ली"},
+        "d": {"en": "Kolkata", "hi": "कोलकाता"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Chennai faced severe water shortages, leading to a huge difference in water availability between rich areas and slums.",
+        "hi": "चेन्नई को पानी की भारी कमी का सामना करना पड़ा, जिससे अमीर इलाकों और झुग्गी-झोपड़ियों के बीच पानी की उपलब्धता में बहुत बड़ा अंतर पैदा हो गया।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "The amount of water recommended by the UN for a person per day is _______ liters.",
+        "hi": "संयुक्त राष्ट्र द्वारा प्रति व्यक्ति प्रतिदिन कितने लीटर पानी की सिफारिश की गई है?"
+      },
+      "options": {
+        "a": {"en": "20", "hi": "20"},
+        "b": {"en": "50", "hi": "50"},
+        "c": {"en": "100", "hi": "100"},
+        "d": {"en": "5", "hi": "5"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The UN recommends about 50 liters per person per day to ensure basic hygiene and health.",
+        "hi": "संयुक्त राष्ट्र बुनियादी स्वच्छता और स्वास्थ्य सुनिश्चित करने के लिए प्रति व्यक्ति प्रतिदिन लगभग 50 लीटर की सिफारिश करता है।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "What is the primary reason for the unequal distribution of water in cities?",
+        "hi": "शहरों में पानी के असमान वितरण का प्राथमिक कारण क्या है?"
+      },
+      "options": {
+        "a": {"en": "Some people don't like water", "hi": "कुछ लोगों को पानी पसंद नहीं है"},
+        "b": {"en": "Wealth and influence of certain neighborhoods", "hi": "कुछ पड़ोसों की संपत्ति और प्रभाव"},
+        "c": {"en": "The government forgot some areas", "hi": "सरकार कुछ क्षेत्रों को भूल गई"},
+        "d": {"en": "There are no pipes in India", "hi": "भारत में कोई पाइप नहीं हैं"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Affluent areas often get regular water supply while poor areas or slums may only get water for a few hours a week.",
+        "hi": "समृद्ध क्षेत्रों को अक्सर नियमित पानी की आपूर्ति मिलती है जबकि गरीब क्षेत्रों या झुग्गियों में सप्ताह में केवल कुछ घंटों के लिए ही पानी मिल पाता है।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "The privatization of water supply in Bolivia led to _______.",
+        "hi": "बोलीविया में जल आपूर्ति के निजीकरण का क्या परिणाम हुआ?"
+      },
+      "options": {
+        "a": {"en": "Cheaper water", "hi": "सस्ता पानी"},
+        "b": {"en": "Massive protests due to huge increase in water prices", "hi": "पानी की कीमतों में भारी वृद्धि के कारण बड़े पैमाने पर विरोध प्रदर्शन"},
+        "c": {"en": "No change", "hi": "कोई बदलाव नहीं"},
+        "d": {"en": "Closure of all schools", "hi": "सभी स्कूलों का बंद होना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Privatization in Bolivia forced the government to take back control of water after people protested against the high costs.",
+        "hi": "बोलीविया में निजीकरण ने उच्च लागत के खिलाफ लोगों के विरोध के बाद सरकार को पानी का नियंत्रण वापस लेने के लिए मजबूर किया।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Porto Alegre in Brazil is famous because _______.",
+        "hi": "ब्राजील का पोर्टो एलेग्रे इसलिए प्रसिद्ध है क्योंकि _______।"
+      },
+      "options": {
+        "a": {"en": "It has no water", "hi": "वहाँ पानी नहीं है"},
+        "b": {"en": "The city government achieved a universal water supply and low infant mortality", "hi": "नगर सरकार ने सार्वभौमिक जल आपूर्ति और निम्न शिशु मृत्यु दर हासिल की"},
+        "c": {"en": "It is a private city", "hi": "यह एक निजी शहर है"},
+        "d": {"en": "It has only rich people", "hi": "वहाँ केवल अमीर लोग हैं"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Porto Alegre is an example where a public water department worked efficiently and transparently with the people.",
+        "hi": "पोर्टो एलेग्रे एक उदाहरण है जहाँ एक सार्वजनिक जल विभाग ने लोगों के साथ कुशलतापूर्वक और पारदर्शी रूप से काम किया।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What refers to the provision of toilets and disposal of sewage?",
+        "hi": "शौचालयों के प्रावधान और सीवेज के निपटान को क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Nutrition", "hi": "पोषण"},
+        "b": {"en": "Sanitation", "hi": "स्वच्छता (Sanitation)"},
+        "c": {"en": "Education", "hi": "शिक्षा"},
+        "d": {"en": "Irrigation", "hi": "सिंचाई"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Sanitation is vital for preventing water-borne diseases like diarrhea and cholera.",
+        "hi": "दस्त और हैजा जैसी जलजनित बीमारियों को रोकने के लिए स्वच्छता अत्यंत महत्वपूर्ण है।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "The Sulabh International is a non-governmental organization working to improve _______.",
+        "hi": "सुलभ इंटरनेशनल एक गैर-सरकारी संगठन है जो किसे सुधारने के लिए काम कर रहा है?"
+      },
+      "options": {
+        "a": {"en": "Internet speed", "hi": "इंटरनेट की गति"},
+        "b": {"en": "Sanitation and toilet facilities for the poor", "hi": "गरीबों के लिए स्वच्छता और शौचालय की सुविधा"},
+        "c": {"en": "Space exploration", "hi": "अंतरिक्ष अन्वेषण"},
+        "d": {"en": "Private banking", "hi": "निजी बैंकिंग"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Sulabh has constructed thousands of community toilets and millions of household toilets in India.",
+        "hi": "सुलभ ने भारत में हजारों सामुदायिक शौचालयों और लाखों घरेलू शौचालयों का निर्माण किया है।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Which of these is a water-borne disease?",
+        "hi": "इनमें से कौन सी जलजनित बीमारी है?"
+      },
+      "options": {
+        "a": {"en": "Diarrhea and Dysentery", "hi": "दस्त और पेचिश"},
+        "b": {"en": "Fever", "hi": "बुखार"},
+        "c": {"en": "Cold", "hi": "सर्दी"},
+        "d": {"en": "Fracture", "hi": "हड्डी टूटना"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Over 1,600 Indians, mostly children, die every day from preventable water-borne diseases.",
+        "hi": "हर दिन 1,600 से अधिक भारतीय, जिनमें ज्यादातर बच्चे होते हैं, रोकथाम योग्य जलजनित बीमारियों से मर जाते हैं।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "A _______ is a short-term plan showing expected income and expenditure of the government.",
+        "hi": "_______ एक अल्पकालिक योजना है जो सरकार की अपेक्षित आय और व्यय को दर्शाती है।"
+      },
+      "options": {
+        "a": {"en": "Constitution", "hi": "संविधान"},
+        "b": {"en": "Budget", "hi": "बजट"},
+        "c": {"en": "FIR", "hi": "प्राथमिकी (FIR)"},
+        "d": {"en": "Charter", "hi": "चार्टर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "In the budget, the government announces how much it will spend on public facilities in the coming year.",
+        "hi": "बजट में, सरकार घोषणा करती है कि वह आने वाले वर्ष में जनसुविधाओं पर कितना खर्च करेगी।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What is the common method for the poor in cities to get water?",
+        "hi": "शहरों में गरीबों के लिए पानी पाने का सामान्य तरीका क्या है?"
+      },
+      "options": {
+        "a": {"en": "Ordering mineral water bottles", "hi": "मिनरल वाटर की बोतलें ऑर्डर करना"},
+        "b": {"en": "Waiting for water tankers or using public taps", "hi": "पानी के टैंकरों का इंतजार करना या सार्वजनिक नलों का उपयोग करना"},
+        "c": {"en": "Drilling their own private wells", "hi": "अपने स्वयं के निजी कुएं खोदना"},
+        "d": {"en": "Using swimming pools", "hi": "स्विमिंग पूल का उपयोग करना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Slum dwellers often have to stand in long queues for hours to collect a few buckets of water.",
+        "hi": "झुग्गीवासियों को अक्सर कुछ बाल्टी पानी इकट्ठा करने के लिए घंटों लंबी कतारों में खड़ा होना पड़ता है।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "Providing safe drinking water can prevent _______ diseases.",
+        "hi": "सुरक्षित पेयजल उपलब्ध कराकर किन बीमारियों को रोका जा सकता है?"
+      },
+      "options": {
+        "a": {"en": "Mental", "hi": "मानसिक"},
+        "b": {"en": "Water-borne", "hi": "जलजनित (Water-borne)"},
+        "c": {"en": "Bone-related", "hi": "हड्डी संबंधी"},
+        "d": {"en": "Eye-related", "hi": "आंखों संबंधी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Access to clean water is essential for public health and reducing child mortality.",
+        "hi": "स्वच्छ पानी तक पहुँच सार्वजनिक स्वास्थ्य और शिशु मृत्यु दर को कम करने के लिए आवश्यक है।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "Private hospitals and schools are often found in _______ areas.",
+        "hi": "निजी अस्पताल और स्कूल अक्सर किन क्षेत्रों में पाए जाते हैं?"
+      },
+      "options": {
+        "a": {"en": "Rural villages", "hi": "ग्रामीण गाँवों में"},
+        "b": {"en": "Urban and prosperous cities", "hi": "शहरी और समृद्ध शहरों में"},
+        "c": {"en": "Deep forests", "hi": "घने जंगलों में"},
+        "d": {"en": "Remote islands", "hi": "दूरदराज के द्वीपों पर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Private players set up facilities where people can afford to pay high prices for services.",
+        "hi": "निजी क्षेत्र के लोग उन जगहों पर सुविधाएँ स्थापित करते हैं जहाँ लोग सेवाओं के लिए उच्च कीमत चुकाने में सक्षम होते हैं।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "The 'Swachh Bharat Mission' was launched to achieve universal _______ coverage.",
+        "hi": "'स्वच्छ भारत मिशन' को सार्वभौमिक _______ कवरेज प्राप्त करने के लिए शुरू किया गया था।"
+      },
+      "options": {
+        "a": {"en": "Internet", "hi": "इंटरनेट"},
+        "b": {"en": "Sanitation", "hi": "स्वच्छता (Sanitation)"},
+        "c": {"en": "Banking", "hi": "बैंकिंग"},
+        "d": {"en": "Satellite", "hi": "सैटेलाइट"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The mission aims to end open defecation and improve waste management in India.",
+        "hi": "इस मिशन का लक्ष्य भारत में खुले में शौच को समाप्त करना और अपशिष्ट प्रबंधन में सुधार करना है।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "When the government provides a public facility, its benefits are _______.",
+        "hi": "जब सरकार जनसुविधा प्रदान करती है, तो उसके लाभ _______ होते हैं।"
+      },
+      "options": {
+        "a": {"en": "Limited to one person", "hi": "एक व्यक्ति तक सीमित"},
+        "b": {"en": "Shared by many people", "hi": "कई लोगों द्वारा साझा"},
+        "c": {"en": "Always negative", "hi": "हमेशा नकारात्मक"},
+        "d": {"en": "Only for the rich", "hi": "केवल अमीरों के लिए"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "For example, a school in a village allows many children to get educated simultaneously.",
+        "hi": "उदाहरण के लिए, गाँव के एक स्कूल से कई बच्चे एक साथ शिक्षित हो सकते हैं।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Which Indian city has a successful public transport system like the 'Metro'?",
+        "hi": "भारत के किस शहर में 'मेट्रो' जैसी सफल सार्वजनिक परिवहन प्रणाली है?"
+      },
+      "options": {
+        "a": {"en": "Delhi", "hi": "दिल्ली"},
+        "b": {"en": "Small villages", "hi": "छोटे गाँव"},
+        "c": {"en": "Only mountains", "hi": "केवल पहाड़"},
+        "d": {"en": "Nowhere", "hi": "कहीं नहीं"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The Delhi Metro is a massive public facility project that has reduced traffic and pollution.",
+        "hi": "दिल्ली मेट्रो एक विशाल जनसुविधा परियोजना है जिसने यातायात और प्रदूषण को कम किया है।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Universal access means that _______.",
+        "hi": "सार्वभौमिक पहुँच (Universal access) का अर्थ है कि _______।"
+      },
+      "options": {
+        "a": {"en": "Only some can use the facility", "hi": "केवल कुछ ही सुविधा का उपयोग कर सकते हैं"},
+        "b": {"en": "Everyone has a right to access and use the facility", "hi": "सुविधा तक पहुँचने और उपयोग करने का सभी को अधिकार है"},
+        "c": {"en": "It is located in the universe", "hi": "यह ब्रह्मांड में स्थित है"},
+        "d": {"en": "Only soldiers use it", "hi": "केवल सैनिक इसका उपयोग करते हैं"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Equity in public facilities ensures that the poor are not excluded from basic rights.",
+        "hi": "जनसुविधाओं में समानता यह सुनिश्चित करती है कि गरीबों को बुनियादी अधिकारों से बाहर न रखा जाए।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Water tankers are often used by _______ during water shortages.",
+        "hi": "पानी की कमी के दौरान पानी के टैंकरों का उपयोग अक्सर किसके द्वारा किया जाता है?"
+      },
+      "options": {
+        "a": {"en": "The Prime Minister only", "hi": "केवल प्रधानमंत्री द्वारा"},
+        "b": {"en": "Municipalities and private traders", "hi": "नगर पालिकाओं और निजी व्यापारियों द्वारा"},
+        "c": {"en": "The police for washing cars", "hi": "कार धोने के लिए पुलिस द्वारा"},
+        "d": {"en": "International spies", "hi": "अंतरराष्ट्रीय जासूसों द्वारा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "In many cities, private tankers sell water at high prices, making it a profitable business during crises.",
+        "hi": "कई शहरों में, निजी टैंकर ऊँची कीमतों पर पानी बेचते हैं, जिससे यह संकट के दौरान एक लाभदायक व्यवसाय बन जाता है।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "Basic needs include _______.",
+        "hi": "बुनियादी जरूरतों में क्या शामिल है?"
+      },
+      "options": {
+        "a": {"en": "Food, shelter, and clothing", "hi": "भोजन, आश्रय और कपड़ा"},
+        "b": {"en": "Smartphones and laptops", "hi": "स्मार्टफोन और लैपटॉप"},
+        "c": {"en": "Gold and jewelry", "hi": "सोना और गहने"},
+        "d": {"en": "Private jets", "hi": "निजी जेट"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Access to public facilities ensures that these basic needs are met with dignity.",
+        "hi": "जनसुविधाओं तक पहुँच यह सुनिश्चित करती है कि ये बुनियादी जरूरतें गरिमा के साथ पूरी हों।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "Why should the government provide water instead of leaving it to private companies?",
+        "hi": "सरकार को निजी कंपनियों पर छोड़ने के बजाय पानी स्वयं क्यों उपलब्ध कराना चाहिए?"
+      },
+      "options": {
+        "a": {"en": "Because water is a basic need and not for profit", "hi": "क्योंकि पानी एक बुनियादी जरूरत है और लाभ के लिए नहीं है"},
+        "b": {"en": "Because private companies are afraid of water", "hi": "क्योंकि निजी कंपनियाँ पानी से डरती हैं"},
+        "c": {"en": "The government likes to swim", "hi": "सरकार को तैरना पसंद है"},
+        "d": {"en": "Private companies only work at night", "hi": "निजी कंपनियाँ केवल रात में काम करती हैं"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Handing over water supply to private companies often leads to a rise in prices, making it unaffordable for the common man.",
+        "hi": "निजी कंपनियों को जल आपूर्ति सौंपने से अक्सर कीमतों में वृद्धि होती है, जिससे यह आम आदमी के लिए वहनीय नहीं रह जाता।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "Public facilities like electricity help in _______.",
+        "hi": "बिजली जैसी जनसुविधाएँ किसमें मदद करती हैं?"
+      },
+      "options": {
+        "a": {"en": "Improving farm production and helping students study", "hi": "कृषि उत्पादन में सुधार और छात्रों को पढ़ाई में मदद करने"},
+        "b": {"en": "Making people sleep more", "hi": "लोगों को अधिक सुलाने"},
+        "c": {"en": "Increasing noise pollution", "hi": "ध्वनि प्रदूषण बढ़ाने"},
+        "d": {"en": "Closing all shops", "hi": "सभी दुकानें बंद करने"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Electricity powers irrigation pumps for farmers and lights up homes for education.",
+        "hi": "बिजली किसानों के लिए सिंचाई पंप चलाती है और शिक्षा के लिए घरों को रोशन करती है।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "An NGO is a _______.",
+        "hi": "एक एनजीओ (NGO) _______ है।"
+      },
+      "options": {
+        "a": {"en": "New Government Office", "hi": "न्यू गवर्नमेंट ऑफिस"},
+        "b": {"en": "Non-Governmental Organization", "hi": "गैर-सरकारी संगठन (Non-Governmental Organization)"},
+        "c": {"en": "National Growth Officer", "hi": "नेशनल ग्रोथ ऑफिसर"},
+        "d": {"en": "Near Ganga Ocean", "hi": "नीयर गंगा ओशन"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "NGOs often work to fill the gaps in services where the government or private sector fails.",
+        "hi": "एनजीओ अक्सर उन सेवाओं में कमियों को भरने के लिए काम करते हैं जहाँ सरकार या निजी क्षेत्र विफल हो जाते हैं।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Equity means _______.",
+        "hi": "समानता/न्यायसंगतता (Equity) का अर्थ है _______।"
+      },
+      "options": {
+        "a": {"en": "Fairness and justice in distribution of resources", "hi": "संसाधनों के वितरण में निष्पक्षता और न्याय"},
+        "b": {"en": "Giving everything to the rich", "hi": "अमीरों को सब कुछ दे देना"},
+        "c": {"en": "Ignoring the laws", "hi": "कानूनों की अनदेखी करना"},
+        "d": {"en": "Building only one road", "hi": "केवल एक सड़क बनाना"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Equity ensures that public facilities reach those who need them the most.",
+        "hi": "समानता यह सुनिश्चित करती है कि जनसुविधाएँ उन लोगों तक पहुँचें जिन्हें उनकी सबसे अधिक आवश्यकता है।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "The Indian Constitution guarantees the right to _______ as a fundamental right.",
+        "hi": "भारतीय संविधान मौलिक अधिकार के रूप में किसकी गारंटी देता है?"
+      },
+      "options": {
+        "a": {"en": "Safe drinking water, sanitation and health", "hi": "सुरक्षित पेयजल, स्वच्छता और स्वास्थ्य"},
+        "b": {"en": "Own a private plane", "hi": "निजी विमान रखने"},
+        "c": {"en": "Eat at five-star hotels daily", "hi": "रोजाना पांच सितारा होटलों में खाना खाने"},
+        "d": {"en": "Not paying taxes", "hi": "कर न देने"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "These are part of the broader 'Right to Life' under Article 21.",
+        "hi": "ये अनुच्छेद 21 के तहत व्यापक 'जीवन के अधिकार' का हिस्सा हैं।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "Public transport is a public facility because it _______.",
+        "hi": "सार्वजनिक परिवहन एक जनसुविधा है क्योंकि यह _______।"
+      },
+      "options": {
+        "a": {"en": "Is used by thousands of people simultaneously", "hi": "हजारों लोगों द्वारा एक साथ उपयोग किया जाता है"},
+        "b": {"en": "Is very expensive", "hi": "बहुत महंगा है"},
+        "c": {"en": "Is only for cars", "hi": "केवल कारों के लिए है"},
+        "d": {"en": "Doesn't need fuel", "hi": "को ईंधन की आवश्यकता नहीं होती है"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Buses, trains, and metros allow citizens to travel to work and school affordably.",
+        "hi": "बसें, ट्रेनें और मेट्रो नागरिकों को काम और स्कूल तक वहनीय तरीके से यात्रा करने की अनुमति देती हैं।"
+      }
+    }
+  ]
+}
