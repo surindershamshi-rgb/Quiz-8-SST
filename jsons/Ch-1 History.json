@@ -1,0 +1,800 @@
+{
+  "metadata": {
+    "chapter_number": 1,
+    "chapter_title": "How, When and Where",
+    "chapter_title_hindi": "कैसे, कब और कहाँ",
+    "subject": "History - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_HI_CH01_HowWhenWhere_30MCQ.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "Gemini",
+    "checked_at": "2026-02-03T14:45:00Z",
+    "notes": "Full 30-question set covering periodization, colonial records, and the importance of dates."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Who was the first Governor-General of India?",
+        "hi": "भारत के पहले गवर्नर-जनरल कौन थे?"
+      },
+      "options": {
+        "a": {"en": "Lord Dalhousie", "hi": "लॉर्ड डलहौजी"},
+        "b": {"en": "Warren Hastings", "hi": "वॉरेन हेस्टिंग्स"},
+        "c": {"en": "Lord Mountbatten", "hi": "लॉर्ड माउंटबेटन"},
+        "d": {"en": "William Bentinck", "hi": "विलियम बेंटिक"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He took office in 1773 and is often mentioned at the start of British administrative history in India.",
+        "hi": "उन्होंने 1773 में पदभार संभाला था और अक्सर भारत में ब्रिटिश प्रशासनिक इतिहास की शुरुआत में उनका उल्लेख किया जाता है।"
+      },
+      "explanation": {
+        "en": "Warren Hastings became the first Governor-General in 1773. In British history books, the rule of Governor-Generals is a central theme, starting with Hastings and ending with the last Viceroy, Lord Mountbatten.",
+        "hi": "वॉरेन हेस्टिंग्स 1773 में पहले गवर्नर-जनरल बने। ब्रिटिश इतिहास की किताबों में गवर्नर-जनरलों का शासन एक मुख्य विषय है, जो हेस्टिंग्स से शुरू होकर अंतिम वायसराय लॉर्ड माउंटबेटन पर समाप्त होता है।"
+      },
+      "key_takeaway": {
+        "en": "First Governor-General (1773) = Warren Hastings.",
+        "hi": "प्रथम गवर्नर-जनरल (1773) = वॉरेन हेस्टिंग्स।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "James Mill published his three-volume work 'A History of British India' in which year?",
+        "hi": "जेम्स मिल ने अपनी तीन खंडों वाली कृति 'ए हिस्ट्री ऑफ ब्रिटिश इंडिया' किस वर्ष प्रकाशित की थी?"
+      },
+      "options": {
+        "a": {"en": "1817", "hi": "1817"},
+        "b": {"en": "1857", "hi": "1857"},
+        "c": {"en": "1773", "hi": "1773"},
+        "d": {"en": "1947", "hi": "1947"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "This was in the early 19th century, long before the revolt of 1857.",
+        "hi": "यह 19वीं शताब्दी की शुरुआत में था, 1857 के विद्रोह से बहुत पहले।"
+      },
+      "explanation": {
+        "en": "James Mill, a Scottish economist and political philosopher, published this massive work in 1817. In it, he divided Indian history into three periods: Hindu, Muslim, and British.",
+        "hi": "स्कॉटिश अर्थशास्त्री और राजनीतिक दार्शनिक जेम्स मिल ने 1817 में यह विशाल कार्य प्रकाशित किया था। इसमें उन्होंने भारतीय इतिहास को तीन अवधियों में विभाजित किया: हिंदू, मुस्लिम और ब्रिटिश।"
+      },
+      "key_takeaway": {
+        "en": "James Mill's History (1817) = Hindu, Muslim, British periods.",
+        "hi": "जेम्स मिल का इतिहास (1817) = हिंदू, मुस्लिम, ब्रिटिश काल।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Which of the following was NOT a periodization used by James Mill?",
+        "hi": "निम्नलिखित में से कौन सा जेम्स मिल द्वारा उपयोग किया गया कालखंड (periodization) नहीं था?"
+      },
+      "options": {
+        "a": {"en": "Hindu", "hi": "हिंदू"},
+        "b": {"en": "Muslim", "hi": "मुस्लिम"},
+        "c": {"en": "Christian", "hi": "ईसाई"},
+        "d": {"en": "British", "hi": "ब्रिटिश"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Mill divided history based on the religion of the rulers, but he used a political term for the final period.",
+        "hi": "मिल ने शासकों के धर्म के आधार पर इतिहास को विभाजित किया, लेकिन उन्होंने अंतिम अवधि के लिए एक राजनीतिक शब्द का इस्तेमाल किया।"
+      },
+      "explanation": {
+        "en": "James Mill divided Indian history into Hindu, Muslim, and British. He believed that all Asian societies were at a lower level of civilization than Europe and that British rule could civilize India.",
+        "hi": "जेम्स मिल ने भारतीय इतिहास को हिंदू, मुस्लिम और ब्रिटिश में विभाजित किया। उनका मानना था कि सभी एशियाई समाज सभ्यता के मामले में यूरोप से निचले स्तर पर थे।"
+      },
+      "key_takeaway": {
+        "en": "Mill's classification: Hindu, Muslim, British.",
+        "hi": "मिल का वर्गीकरण: हिंदू, मुस्लिम, ब्रिटिश।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What do historians often refer to the British period in India as?",
+        "hi": "इतिहासकार अक्सर भारत में ब्रिटिश काल को क्या कहते हैं?"
+      },
+      "options": {
+        "a": {"en": "Ancient", "hi": "प्राचीन"},
+        "b": {"en": "Colonial", "hi": "औपनिवेशिक"},
+        "c": {"en": "Medieval", "hi": "मध्यकालीन"},
+        "d": {"en": "Modern", "hi": "आधुनिक"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This term relates to one country's political, social, and economic domination over another.",
+        "hi": "यह शब्द एक देश के दूसरे देश पर राजनीतिक, सामाजिक और आर्थिक प्रभुत्व से संबंधित है।"
+      },
+      "explanation": {
+        "en": "Historians often call the British period 'colonial' because it was a time when the British established their rule, subjugated local nawabs and rajas, and brought about changes in values, tastes, and customs.",
+        "hi": "इतिहासकार अक्सर ब्रिटिश काल को 'औपनिवेशिक' कहते हैं क्योंकि यह वह समय था जब अंग्रेजों ने अपना शासन स्थापित किया और मूल्यों, स्वाद और रीति-रिवाजों में बदलाव लाया।"
+      },
+      "key_takeaway": {
+        "en": "Colonialism = Subjugation of one country by another.",
+        "hi": "औपनिवेशिकवाद = एक देश द्वारा दूसरे देश को अपने अधीन करना।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "The National Archives of India came up in which decade?",
+        "hi": "भारतीय राष्ट्रीय अभिलेखागार किस दशक में बना?"
+      },
+      "options": {
+        "a": {"en": "1820s", "hi": "1820 के दशक में"},
+        "b": {"en": "1850s", "hi": "1850 के दशक में"},
+        "c": {"en": "1920s", "hi": "1920 के दशक में"},
+        "d": {"en": "1940s", "hi": "1940 के दशक में"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It was built close to the Viceregal Palace when the capital was shifted to New Delhi.",
+        "hi": "राजधानी को नई दिल्ली स्थानांतरित करने के बाद इसे वायसराय के महल के पास बनाया गया था।"
+      },
+      "explanation": {
+        "en": "The National Archives of India was built in the 1920s. Its location near the Viceregal Palace reflects the importance these institutions held in the minds of the British administration.",
+        "hi": "भारतीय राष्ट्रीय अभिलेखागार 1920 के दशक में बनाया गया था। वायसराय के महल के पास इसकी स्थिति ब्रिटिश प्रशासन की नजर में इन संस्थानों के महत्व को दर्शाती है।"
+      },
+      "key_takeaway": {
+        "en": "National Archives (1920s) = Preservation of official records.",
+        "hi": "राष्ट्रीय अभिलेखागार (1920 का दशक) = आधिकारिक रिकॉर्ड का संरक्षण।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Who were the specialists in the art of beautiful writing?",
+        "hi": "सुंदर लेखन की कला के विशेषज्ञ कौन थे?"
+      },
+      "options": {
+        "a": {"en": "Calligraphists", "hi": "खुशनवीस (Calligraphists)"},
+        "b": {"en": "Cartographers", "hi": "मानचित्रकार"},
+        "c": {"en": "Archivists", "hi": "पुरालेखपाल"},
+        "d": {"en": "Chronologists", "hi": "कालक्रमविज्ञानी"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "They were employed to carefully copy out official documents before printing became common.",
+        "hi": "छपाई आम होने से पहले सरकारी दस्तावेजों की सावधानीपूर्वक नकल करने के लिए उन्हें नियुक्त किया जाता था।"
+      },
+      "explanation": {
+        "en": "In the early years of the 19th century, documents were carefully copied out and beautifully written by calligraphists (also known as khushnavis). These people specialized in the art of beautiful writing.",
+        "hi": "19वीं शताब्दी के शुरुआती वर्षों में, दस्तावेजों को खुशनवीस (जिन्हें कैलीग्राफिस्ट भी कहा जाता है) द्वारा सावधानीपूर्वक और खूबसूरती से लिखा जाता था।"
+      },
+      "key_takeaway": {
+        "en": "Calligraphy = Art of beautiful writing.",
+        "hi": "कैलीग्राफी = सुंदर लेखन की कला।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Why did the British conduct botanical, zoological, and forest surveys?",
+        "hi": "अंग्रेजों ने वनस्पति, प्राणी विज्ञान और वन सर्वेक्षण क्यों कराए?"
+      },
+      "options": {
+        "a": {"en": "To protect wildlife", "hi": "वन्यजीवों की रक्षा के लिए"},
+        "b": {"en": "To know the country properly for effective administration", "hi": "प्रभावी प्रशासन के लिए देश को ठीक से जानने के लिए"},
+        "c": {"en": "To help Indian farmers", "hi": "भारतीय किसानों की मदद के लिए"},
+        "d": {"en": "To promote tourism", "hi": "पर्यटन को बढ़ावा देने के लिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Think about how a ruler needs to understand the resources and geography of a land to control it better.",
+        "hi": "सोचिए कि कैसे एक शासक को किसी भूमि पर बेहतर नियंत्रण के लिए वहां के संसाधनों और भूगोल को समझने की जरूरत होती है।"
+      },
+      "explanation": {
+        "en": "By the early 19th century, the British believed that a country had to be properly known before it could be effectively administered. Detailed surveys were carried out to map the entire country, its flora, fauna, and topography.",
+        "hi": "19वीं शताब्दी की शुरुआत तक, अंग्रेजों का मानना था कि प्रभावी ढंग से शासन करने से पहले किसी देश को ठीक से जानना जरूरी है।"
+      },
+      "key_takeaway": {
+        "en": "Surveys = Tools for colonial mapping and administration.",
+        "hi": "सर्वेक्षण = औपनिवेशिक मानचित्रण और प्रशासन के उपकरण।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Which of these sources provide information that official records do not?",
+        "hi": "इनमें से कौन से स्रोत ऐसी जानकारी प्रदान करते हैं जो आधिकारिक रिकॉर्ड नहीं देते?"
+      },
+      "options": {
+        "a": {"en": "Diaries of people", "hi": "लोगों की डायरियां"},
+        "b": {"en": "Governor-General's files", "hi": "गवर्नर-जनरल की फाइलें"},
+        "c": {"en": "Police reports", "hi": "पुलिस रिपोर्ट"},
+        "d": {"en": "Revenue surveys", "hi": "राजस्व सर्वेक्षण"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Official records tell us what the government thought; these sources tell us what ordinary people felt.",
+        "hi": "आधिकारिक रिकॉर्ड हमें बताते हैं कि सरकार ने क्या सोचा; ये स्रोत हमें बताते हैं कि आम लोगों ने क्या महसूस किया।"
+      },
+      "explanation": {
+        "en": "Official records tell us about the interests and actions of the administrators. To know what other people in the country felt, we must look at personal diaries, accounts of pilgrims, and autobiographies.",
+        "hi": "आधिकारिक रिकॉर्ड हमें प्रशासकों के बारे में बताते हैं। देश के अन्य लोगों ने क्या महसूस किया, यह जानने के लिए हमें डायरी और आत्मकथाओं को देखना होगा।"
+      },
+      "key_takeaway": {
+        "en": "Unofficial records = Insight into the lives of ordinary people.",
+        "hi": "गैर-आधिकारिक रिकॉर्ड = आम लोगों के जीवन की झलक।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "The practice of surveying became common under which administration?",
+        "hi": "सर्वेक्षण करने की प्रथा किस प्रशासन के तहत आम हो गई?"
+      },
+      "options": {
+        "a": {"en": "Mughal Administration", "hi": "मुगल प्रशासन"},
+        "b": {"en": "Colonial Administration", "hi": "औपनिवेशिक प्रशासन"},
+        "c": {"en": "Gupta Administration", "hi": "गुप्त प्रशासन"},
+        "d": {"en": "Mauryan Administration", "hi": "मौर्य प्रशासन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This administration was obsessed with keeping records and mapping resources.",
+        "hi": "यह प्रशासन रिकॉर्ड रखने और संसाधनों के मानचित्रण का जुनूनी था।"
+      },
+      "explanation": {
+        "en": "Under the British (colonial) administration, the practice of surveying became very common. They conducted revenue surveys in villages to understand the land quality and local customs.",
+        "hi": "ब्रिटिश (औपनिवेशिक) प्रशासन के तहत सर्वेक्षण की प्रथा बहुत आम हो गई। उन्होंने भूमि की गुणवत्ता समझने के लिए गांवों में राजस्व सर्वेक्षण किए।"
+      },
+      "key_takeaway": {
+        "en": "Colonial rule prioritized systematic surveying.",
+        "hi": "औपनिवेशिक शासन ने व्यवस्थित सर्वेक्षण को प्राथमिकता दी।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "James Mill thought that all Asian societies were at a _______ level of civilization than Europe.",
+        "hi": "जेम्स मिल का मानना था कि सभी एशियाई समाज यूरोप की तुलना में सभ्यता के _______ स्तर पर थे।"
+      },
+      "options": {
+        "a": {"en": "Higher", "hi": "उच्च"},
+        "b": {"en": "Equal", "hi": "समान"},
+        "c": {"en": "Lower", "hi": "निम्न (निचले)"},
+        "d": {"en": "Superior", "hi": "श्रेष्ठ"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Mill used this belief to justify the need for British rule to introduce European manners and laws.",
+        "hi": "मिल ने यूरोपीय शिष्टाचार और कानूनों को पेश करने के लिए ब्रिटिश शासन की आवश्यकता को सही ठहराने के लिए इस विश्वास का उपयोग किया।"
+      },
+      "explanation": {
+        "en": "James Mill had a very Eurocentric view. He believed Asia was less civilized and that India could only progress with British help, laws, and manners.",
+        "hi": "जेम्स मिल का नजरिया यूरोपीय केंद्रित था। उनका मानना था कि एशिया कम सभ्य था और भारत केवल ब्रिटिश मदद से ही प्रगति कर सकता था।"
+      },
+      "key_takeaway": {
+        "en": "Mill's view = European superiority over Asian civilization.",
+        "hi": "मिल का विचार = एशियाई सभ्यता पर यूरोपीय श्रेष्ठता।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "In what way did the British preserve their important documents?",
+        "hi": "अंग्रेजों ने अपने महत्वपूर्ण दस्तावेजों को किस प्रकार सुरक्षित रखा?"
+      },
+      "options": {
+        "a": {"en": "By throwing them away", "hi": "उन्हें फेंक कर"},
+        "b": {"en": "In specialized record rooms and archives", "hi": "विशेष रिकॉर्ड रूम और अभिलेखागार में"},
+        "c": {"en": "By giving them to local kings", "hi": "स्थानीय राजाओं को देकर"},
+        "d": {"en": "They didn't believe in preserving records", "hi": "वे रिकॉर्ड रखने में विश्वास नहीं करते थे"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They attached these rooms to all administrative institutions like the secretariat and collectorate.",
+        "hi": "उन्होंने इन कमरों को सचिवालय और कलेक्ट्रेट जैसे सभी प्रशासनिक संस्थानों से जोड़ा।"
+      },
+      "explanation": {
+        "en": "The British believed that the act of writing was important. Every instruction, plan, and policy had to be clearly written. To preserve these, they built record rooms in all administrative offices and established archives and museums.",
+        "hi": "अंग्रेजों का मानना था कि लिखने का कार्य महत्वपूर्ण है। इसे सुरक्षित रखने के लिए उन्होंने सभी कार्यालयों में रिकॉर्ड रूम और अभिलेखागार बनाए।"
+      },
+      "key_takeaway": {
+        "en": "Preservation = Record rooms, Archives, and Museums.",
+        "hi": "संरक्षण = रिकॉर्ड रूम, अभिलेखागार और संग्रहालय।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What did British historians emphasize in their accounts of India?",
+        "hi": "ब्रिटिश इतिहासकारों ने भारत के अपने विवरणों में किस पर जोर दिया?"
+      },
+      "options": {
+        "a": {"en": "The lives of common peasants", "hi": "आम किसानों का जीवन"},
+        "b": {"en": "The rule of Governor-Generals", "hi": "गवर्नर-जनरलों का शासन"},
+        "c": {"en": "Indian art and culture", "hi": "भारतीय कला और संस्कृति"},
+        "d": {"en": "The struggles of the freedom fighters", "hi": "स्वतंत्रता सेनानियों का संघर्ष"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Their stories often read like a biography of the men who ruled India for Britain.",
+        "hi": "उनकी कहानियाँ अक्सर उन पुरुषों की जीवनी की तरह लगती हैं जिन्होंने ब्रिटेन के लिए भारत पर शासन किया था।"
+      },
+      "explanation": {
+        "en": "For British historians, the history of India was the history of the Governor-Generals—their activities, policies, and achievements. It was as if there was nothing outside their lives that was important.",
+        "hi": "ब्रिटिश इतिहासकारों के लिए, भारत का इतिहास गवर्नर-जनरलों का इतिहास था—उनकी गतिविधियाँ, नीतियाँ और उपलब्धियाँ।"
+      },
+      "key_takeaway": {
+        "en": "British History = Centered on Governor-Generals.",
+        "hi": "ब्रिटिश इतिहास = गवर्नर-जनरलों पर केंद्रित।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Census operations were held every _______ years starting from the late 19th century.",
+        "hi": "19वीं शताब्दी के अंत से हर _______ साल में जनगणना अभियान आयोजित किए गए।"
+      },
+      "options": {
+        "a": {"en": "5", "hi": "5"},
+        "b": {"en": "10", "hi": "10"},
+        "c": {"en": "20", "hi": "20"},
+        "d": {"en": "15", "hi": "15"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This pattern is still followed in modern India for counting the population.",
+        "hi": "जनसंख्या गणना के लिए आधुनिक भारत में आज भी इसी पैटर्न का पालन किया जाता है।"
+      },
+      "explanation": {
+        "en": "Census operations were carried out every ten years. They prepared detailed records of the number of people in all provinces of India, noting information on castes, religions, and occupations.",
+        "hi": "जनगणना हर दस साल में की जाती थी। उन्होंने भारत के सभी प्रांतों में लोगों की संख्या, उनकी जातियों, धर्मों और व्यवसायों के रिकॉर्ड तैयार किए।"
+      },
+      "key_takeaway": {
+        "en": "Census = Every 10 years.",
+        "hi": "जनगणना = हर 10 साल में।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What is the problem with dividing Indian history into 'Hindu' and 'Muslim' periods?",
+        "hi": "भारतीय इतिहास को 'हिंदू' और 'मुस्लिम' अवधियों में विभाजित करने में क्या समस्या है?"
+      },
+      "options": {
+        "a": {"en": "The dates are wrong", "hi": "तारीखें गलत हैं"},
+        "b": {"en": "A variety of faiths existed simultaneously in these periods", "hi": "इन अवधियों में विभिन्न धर्म एक साथ मौजूद थे"},
+        "c": {"en": "There were no Hindu kings", "hi": "कोई हिंदू राजा नहीं थे"},
+        "d": {"en": "It makes history too easy to learn", "hi": "यह इतिहास को सीखना बहुत आसान बना देता है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Should we characterize an entire age only by the religion of the rulers?",
+        "hi": "क्या हमें पूरे युग को केवल शासकों के धर्म के आधार पर परिभाषित करना चाहिए?"
+      },
+      "explanation": {
+        "en": "Dividing history by the religion of rulers suggests that the lives and faiths of others do not matter. In reality, many different religions and cultures flourished together at the same time.",
+        "hi": "शासकों के धर्म के आधार पर इतिहास को बांटना यह बताता है कि दूसरों का जीवन और विश्वास मायने नहीं रखते। हकीकत में कई धर्म एक साथ फले-फूले।"
+      },
+      "key_takeaway": {
+        "en": "Periodization by religion is oversimplified and biased.",
+        "hi": "धर्म के आधार पर कालखंड का विभाजन अतिसरलीकृत और पक्षपाती है।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "Which of the following is NOT an official record?",
+        "hi": "निम्नलिखित में से कौन सा आधिकारिक रिकॉर्ड नहीं है?"
+      },
+      "options": {
+        "a": {"en": "Letters and memos in archives", "hi": "अभिलेखागार में पत्र और मेमो"},
+        "b": {"en": "Autobiographies of famous personalities", "hi": "प्रसिद्ध हस्तियों की आत्मकथाएँ"},
+        "c": {"en": "Reports to district collectors", "hi": "जिला कलेक्टरों को रिपोर्ट"},
+        "d": {"en": "Village revenue maps", "hi": "गांव के राजस्व मानचित्र"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Official records are generated by the government or administrative bodies.",
+        "hi": "आधिकारिक रिकॉर्ड सरकार या प्रशासनिक निकायों द्वारा उत्पन्न किए जाते हैं।"
+      },
+      "explanation": {
+        "en": "Autobiographies are personal accounts and are considered 'unofficial' sources. Official records consist of memos, letters, notes, and reports produced by government departments.",
+        "hi": "आत्मकथाएँ व्यक्तिगत विवरण हैं और उन्हें 'गैर-आधिकारिक' स्रोत माना जाता है। आधिकारिक रिकॉर्ड में सरकारी विभागों की रिपोर्ट और पत्र शामिल होते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Autobiographies = Unofficial personal sources.",
+        "hi": "आत्मकथाएँ = गैर-आधिकारिक व्यक्तिगत स्रोत।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What was the purpose of the 'Lipton Tea' advertisement shown in the chapter?",
+        "hi": "अध्याय में दिखाए गए 'लिप्टन चाय' के विज्ञापन का उद्देश्य क्या था?"
+      },
+      "options": {
+        "a": {"en": "To show Indian culture", "hi": "भारतीय संस्कृति दिखाने के लिए"},
+        "b": {"en": "To associate royalty with the product", "hi": "उत्पाद के साथ राजशाही को जोड़ने के लिए"},
+        "c": {"en": "To promote Indian tea", "hi": "भारतीय चाय को बढ़ावा देने के लिए"},
+        "d": {"en": "To support the freedom struggle", "hi": "स्वतंत्रता संग्राम का समर्थन करने के लिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The ad featured Prince Arthur, a son of Queen Victoria, to suggest the tea was for the elite.",
+        "hi": "विज्ञापन में महारानी विक्टोरिया के बेटे प्रिंस आर्थर को दिखाया गया था, ताकि यह सुझाव दिया जा सके कि चाय अभिजात वर्ग के लिए थी।"
+      },
+      "explanation": {
+        "en": "Advertisements help us understand how markets were created and new tastes were popularized. The 1922 Lipton Tea ad used royalty to suggest that this tea was preferred by high-ranking people.",
+        "hi": "विज्ञापनों से हमें यह समझने में मदद मिलती है कि बाजार कैसे बनाए गए। 1922 के लिप्टन चाय के विज्ञापन ने राजशाही का इस्तेमाल यह बताने के लिए किया कि यह चाय उच्च पदस्थ लोगों की पसंद थी।"
+      },
+      "key_takeaway": {
+        "en": "Advertisements = Tools for creating consumer tastes.",
+        "hi": "विज्ञापन = उपभोक्ता की पसंद बनाने के उपकरण।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "Why are dates important in history?",
+        "hi": "इतिहास में तारीखें क्यों महत्वपूर्ण हैं?"
+      },
+      "options": {
+        "a": {"en": "They are the only thing in history", "hi": "वे इतिहास में एकमात्र चीज हैं"},
+        "b": {"en": "They help track changes over time", "hi": "वे समय के साथ होने वाले परिवर्तनों को ट्रैक करने में मदद करती हैं"},
+        "c": {"en": "Historians like memorizing numbers", "hi": "इतिहासकारों को नंबर याद रखना पसंद है"},
+        "d": {"en": "Dates never change", "hi": "तारीखें कभी नहीं बदलतीं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "History is about how things were in the past and how they have transformed into the present.",
+        "hi": "इतिहास इस बारे में है कि अतीत में चीजें कैसी थीं और वे वर्तमान में कैसे बदल गई हैं।"
+      },
+      "explanation": {
+        "en": "History is synonymous with change. We use dates to mark when certain events happened, but for many processes (like the spread of tea-drinking), there is no single clear date.",
+        "hi": "इतिहास परिवर्तन का पर्याय है। हम यह बताने के लिए तारीखों का उपयोग करते हैं कि कोई घटना कब हुई।"
+      },
+      "key_takeaway": {
+        "en": "Dates = Framework for understanding change.",
+        "hi": "तारीखें = परिवर्तन को समझने का ढांचा।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "The last Viceroy of India was:",
+        "hi": "भारत के अंतिम वायसराय थे:"
+      },
+      "options": {
+        "a": {"en": "Lord Curzon", "hi": "लॉर्ड कर्जन"},
+        "b": {"en": "Lord Irwin", "hi": "लॉर्ड इरविन"},
+        "c": {"en": "Lord Mountbatten", "hi": "लॉर्ड माउंटबेटन"},
+        "d": {"en": "Lord Canning", "hi": "लॉर्ड कैनिंग"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "He oversaw the partition and independence of India in 1947.",
+        "hi": "उन्होंने 1947 में भारत के विभाजन और स्वतंत्रता की देखरेख की।"
+      },
+      "explanation": {
+        "en": "The succession of Governor-Generals and Viceroys is a major part of British Indian history. Lord Mountbatten was the last one in this long line of administrators.",
+        "hi": "गवर्नर-जनरलों और वायसरायों का उत्तराधिकार ब्रिटिश भारतीय इतिहास का एक बड़ा हिस्सा है। लॉर्ड माउंटबेटन इस लंबी कतार में अंतिम थे।"
+      },
+      "key_takeaway": {
+        "en": "Last Viceroy = Lord Mountbatten.",
+        "hi": "अंतिम वायसराय = लॉर्ड माउंटबेटन।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Which periodization of history is often borrowed from the West?",
+        "hi": "इतिहास का कौन सा कालखंड अक्सर पश्चिम से उधार लिया गया है?"
+      },
+      "options": {
+        "a": {"en": "Hindu, Muslim, British", "hi": "हिंदू, मुस्लिम, ब्रिटिश"},
+        "b": {"en": "Ancient, Medieval, Modern", "hi": "प्राचीन, मध्यकालीन, आधुनिक"},
+        "c": {"en": "Stone Age, Bronze Age, Iron Age", "hi": "पाषाण युग, कांस्य युग, लौह युग"},
+        "d": {"en": "Pre-colonial and Post-colonial", "hi": "पूर्व-औपनिवेशिक और उत्तर-औपनिवेशिक"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This division associates the latest period with democracy, science, and reason.",
+        "hi": "यह विभाजन नवीनतम काल को लोकतंत्र, विज्ञान और तर्क के साथ जोड़ता है।"
+      },
+      "explanation": {
+        "en": "Many historians divide history into Ancient, Medieval, and Modern. However, this is problematic because 'Modern' in the West implies progress and liberty—things that were missing for Indians under British rule.",
+        "hi": "कई इतिहासकार इतिहास को प्राचीन, मध्यकालीन और आधुनिक में बांटते हैं। हालांकि, यह समस्याग्रस्त है क्योंकि भारत में 'आधुनिक' काल ब्रिटिश गुलामी का काल था।"
+      },
+      "key_takeaway": {
+        "en": "Modern period (West) = Science, Reason, Democracy.",
+        "hi": "आधुनिक काल (पश्चिम) = विज्ञान, तर्क, लोकतंत्र।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What was the main reason James Mill felt India needed British rule?",
+        "hi": "जेम्स मिल को ऐसा क्यों लगा कि भारत को ब्रिटिश शासन की आवश्यकता है?"
+      },
+      "options": {
+        "a": {"en": "To increase trade with China", "hi": "चीन के साथ व्यापार बढ़ाने के लिए"},
+        "b": {"en": "To civilize the people and introduce progress", "hi": "लोगों को सभ्य बनाने और प्रगति लाने के लिए"},
+        "c": {"en": "To learn from Indian traditions", "hi": "भारतीय परंपराओं से सीखने के लिए"},
+        "d": {"en": "To establish a new religion", "hi": "एक नया धर्म स्थापित करने के लिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He believed that India could not progress without European manners, arts, and laws.",
+        "hi": "उनका मानना था कि यूरोपीय शिष्टाचार, कला और कानूनों के बिना भारत प्रगति नहीं कर सकता।"
+      },
+      "explanation": {
+        "en": "Mill suggested that the British should conquer all the territories in India to ensure the enlightenment and happiness of the Indian people, as he believed India was incapable of progress on its own.",
+        "hi": "मिल ने सुझाव दिया कि अंग्रेजों को भारत के सभी क्षेत्रों पर विजय प्राप्त करनी चाहिए ताकि भारतीय लोगों की खुशी सुनिश्चित हो सके।"
+      },
+      "key_takeaway": {
+        "en": "Mill's justification = 'Civilizing Mission'.",
+        "hi": "मिल का औचित्य = 'सभ्य बनाने का मिशन'।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "In the early 19th century, how were official records moved between departments?",
+        "hi": "19वीं शताब्दी की शुरुआत में, सरकारी रिकॉर्ड विभागों के बीच कैसे स्थानांतरित किए जाते थे?"
+      },
+      "options": {
+        "a": {"en": "Through email", "hi": "ईमेल के माध्यम से"},
+        "b": {"en": "In the form of letters and memos", "hi": "पत्रों और मेमो के रूप में"},
+        "c": {"en": "Via radio signals", "hi": "रेडियो संकेतों के माध्यम से"},
+        "d": {"en": "They were never moved", "hi": "वे कभी स्थानांतरित नहीं किए गए थे"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "These hand-written or copied documents can still be read in archives today.",
+        "hi": "इन हाथ से लिखे या कॉपी किए गए दस्तावेजों को आज भी अभिलेखागार में पढ़ा जा सकता है।"
+      },
+      "explanation": {
+        "en": "Before printing became widespread in the mid-19th century, memos and letters were the primary way departments communicated. These were carefully filed and preserved in record rooms.",
+        "hi": "19वीं शताब्दी के मध्य में छपाई व्यापक होने से पहले, मेमो और पत्र विभागों के बीच संचार का प्राथमिक तरीका थे।"
+      },
+      "key_takeaway": {
+        "en": "Official communication = Letters and Memos.",
+        "hi": "आधिकारिक संचार = पत्र और मेमो।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "What did common people's diaries and travel accounts tell us about history?",
+        "hi": "आम लोगों की डायरियां और यात्रा वृत्तांत हमें इतिहास के बारे में क्या बताते हैं?"
+      },
+      "options": {
+        "a": {"en": "Official government policies", "hi": "आधिकारिक सरकारी नीतियां"},
+        "b": {"en": "The feelings and experiences of ordinary people", "hi": "आम लोगों की भावनाएं और अनुभव"},
+        "c": {"en": "Details of tax collection", "hi": "कर संग्रह का विवरण"},
+        "d": {"en": "The military strategy of the British", "hi": "अंग्रेजों की सैन्य रणनीति"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "These sources provide the 'view from below' that government documents often miss.",
+        "hi": "ये स्रोत 'नीचे से दृश्य' प्रदान करते हैं जो सरकारी दस्तावेज अक्सर छोड़ देते हैं।"
+      },
+      "explanation": {
+        "en": "While official records explain what officials wanted to preserve for posterity, diaries and travel accounts help us understand the lives of those not in power—pilgrims, workers, and common citizens.",
+        "hi": "आधिकारिक रिकॉर्ड बताते हैं कि अधिकारी क्या सुरक्षित रखना चाहते थे, जबकि डायरियां हमें उन लोगों के जीवन को समझने में मदद करती हैं जो सत्ता में नहीं थे।"
+      },
+      "key_takeaway": {
+        "en": "Unofficial sources = Human side of history.",
+        "hi": "गैर-आधिकारिक स्रोत = इतिहास का मानवीय पक्ष।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Anthropological surveys focus on the study of:",
+        "hi": "नृवंशविज्ञान (Anthropological) सर्वेक्षण किस पर ध्यान केंद्रित करते हैं?"
+      },
+      "options": {
+        "a": {"en": "Plant life", "hi": "पौधों का जीवन"},
+        "b": {"en": "Human societies and cultures", "hi": "मानव समाज और संस्कृतियां"},
+        "c": {"en": "Rocks and minerals", "hi": "चट्टानें और खनिज"},
+        "d": {"en": "Atmospheric pressure", "hi": "वायुमंडलीय दबाव"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It involves studying people, their origins, and how they live together.",
+        "hi": "इसमें लोगों, उनकी उत्पत्ति और वे एक साथ कैसे रहते हैं, इसका अध्ययन शामिल है।"
+      },
+      "explanation": {
+        "en": "The British conducted various types of surveys to gain full knowledge of India. Anthropological surveys were specifically meant to study the diverse human cultures and societies within the subcontinent.",
+        "hi": "अंग्रेजों ने भारत का पूर्ण ज्ञान प्राप्त करने के लिए विभिन्न प्रकार के सर्वेक्षण किए। मानवशास्त्रीय सर्वेक्षण मानव संस्कृतियों के अध्ययन के लिए थे।"
+      },
+      "key_takeaway": {
+        "en": "Anthropological Survey = Study of people and culture.",
+        "hi": "मानवशास्त्रीय सर्वेक्षण = लोगों और संस्कृति का अध्ययन।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "What is the limitation of sources like diaries and newspapers?",
+        "hi": "डायरी और समाचार पत्रों जैसे स्रोतों की सीमा क्या है?"
+      },
+      "options": {
+        "a": {"en": "They are too old", "hi": "वे बहुत पुराने हैं"},
+        "b": {"en": "They don't tell us much about the illiterate and poor", "hi": "वे हमें अनपढ़ों और गरीबों के बारे में ज्यादा नहीं बताते"},
+        "c": {"en": "They are always written in English", "hi": "वे हमेशा अंग्रेजी में लिखे जाते हैं"},
+        "d": {"en": "They only contain pictures", "hi": "उनमें केवल चित्र होते हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Think about who had the ability to read and write during that time.",
+        "hi": "सोचिए कि उस समय किसके पास पढ़ने और लिखने की क्षमता थी।"
+      },
+      "explanation": {
+        "en": "Most unofficial sources like diaries and newspapers were produced by those who were literate. It remains difficult to find records of the lives of tribals, peasants, and workers who could not read or write.",
+        "hi": "डायरी और समाचार पत्र जैसे अधिकांश स्रोत शिक्षित लोगों द्वारा तैयार किए गए थे। आदिवासियों और श्रमिकों के जीवन के रिकॉर्ड खोजना कठिन बना हुआ है।"
+      },
+      "key_takeaway": {
+        "en": "Illiterate masses = Hardest to find in written history.",
+        "hi": "अनपढ़ जनता = लिखित इतिहास में खोजना सबसे कठिन।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "Printing became common in India by the _______ of the 19th century.",
+        "hi": "19वीं शताब्दी के _______ तक भारत में छपाई आम हो गई थी।"
+      },
+      "options": {
+        "a": {"en": "Beginning", "hi": "शुरुआत"},
+        "b": {"en": "Middle", "hi": "मध्य"},
+        "c": {"en": "End", "hi": "अंत"},
+        "d": {"en": "It was never common", "hi": "यह कभी आम नहीं थी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "By this time, multiple copies of records were being produced by government departments.",
+        "hi": "इस समय तक, सरकारी विभागों द्वारा रिकॉर्ड की कई प्रतियां तैयार की जा रही थीं।"
+      },
+      "explanation": {
+        "en": "By the middle of the 19th century, with the spread of printing, multiple copies of official proceedings were printed as records of each government department.",
+        "hi": "19वीं शताब्दी के मध्य तक, छपाई के प्रसार के साथ, प्रत्येक सरकारी विभाग के रिकॉर्ड के रूप में कार्यवाही की कई प्रतियां छापी गईं।"
+      },
+      "key_takeaway": {
+        "en": "Printing (mid-19th century) = Mass production of records.",
+        "hi": "छपाई (19वीं सदी का मध्य) = रिकॉर्ड का बड़े पैमाने पर उत्पादन।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "Why do we try to divide history into different periods?",
+        "hi": "हम इतिहास को अलग-अलग अवधियों में विभाजित करने की कोशिश क्यों करते हैं?"
+      },
+      "options": {
+        "a": {"en": "To make it confusing", "hi": "इसे भ्रमित करने वाला बनाने के लिए"},
+        "b": {"en": "To capture the characteristics and central features of a time", "hi": "किसी समय की विशेषताओं और मुख्य लक्षणों को पकड़ने के लिए"},
+        "c": {"en": "To prove that the past was better", "hi": "यह साबित करने के लिए कि अतीत बेहतर था"},
+        "d": {"en": "Because calendars were not invented", "hi": "क्योंकि कैलेंडर का आविष्कार नहीं हुआ था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It helps us identify what was special about a specific era compared to another.",
+        "hi": "यह हमें यह पहचानने में मदद करता है कि किसी विशिष्ट युग में दूसरे की तुलना में क्या खास था।"
+      },
+      "explanation": {
+        "en": "Periodization is a way of identifying the 'spirit' of a particular age. It helps us understand how we view the significance of changes from one period to the next.",
+        "hi": "कालखंडों में बांटना किसी विशेष युग की 'आत्मा' को पहचानने का एक तरीका है। यह हमें एक अवधि से दूसरी अवधि में हुए परिवर्तनों के महत्व को समझने में मदद करता है।"
+      },
+      "key_takeaway": {
+        "en": "Periodization = Identifying the essence of an era.",
+        "hi": "कालखंड = एक युग के सार की पहचान करना।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Britannia was a visual symbol used to represent:",
+        "hi": "ब्रिटानिया किसका दृश्य प्रतीक था?"
+      },
+      "options": {
+        "a": {"en": "Indian independence", "hi": "भारतीय स्वतंत्रता"},
+        "b": {"en": "The power of the British Empire", "hi": "ब्रिटिश साम्राज्य की शक्ति"},
+        "c": {"en": "The French Republic", "hi": "फ्रांसीसी गणराज्य"},
+        "d": {"en": "Peace between all nations", "hi": "सभी देशों के बीच शांति"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She was often shown receiving the Shastras from Brahmans in colonial imagery.",
+        "hi": "औपनिवेशिक चित्रों में उसे अक्सर ब्राह्मणों से शास्त्र प्राप्त करते हुए दिखाया गया था।"
+      },
+      "explanation": {
+        "en": "In a 1782 frontispiece by James Rennel, Brahmans are shown offering their sacred texts to Britannia, suggesting that the British were the protectors of Indian culture.",
+        "hi": "जेम्स रेनेल द्वारा 1782 के एक चित्र में, ब्राह्मणों को अपने पवित्र ग्रंथों को ब्रिटानिया को भेंट करते हुए दिखाया गया है, जो ब्रिटिश साम्राज्य की शक्ति का प्रतीक है।"
+      },
+      "key_takeaway": {
+        "en": "Britannia = Symbol of British Power.",
+        "hi": "ब्रिटानिया = ब्रिटिश शक्ति का प्रतीक।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Which department's reports provide information about the Mutiny in the Royal Indian Navy (1946)?",
+        "hi": "किस विभाग की रिपोर्ट 1946 में शाही भारतीय नौसेना में विद्रोह के बारे में जानकारी प्रदान करती है?"
+      },
+      "options": {
+        "a": {"en": "Education Department", "hi": "शिक्षा विभाग"},
+        "b": {"en": "Home Department", "hi": "गृह विभाग"},
+        "c": {"en": "Agriculture Department", "hi": "कृषि विभाग"},
+        "d": {"en": "Forest Department", "hi": "वन विभाग"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This department deals with internal security and police matters.",
+        "hi": "यह विभाग आंतरिक सुरक्षा और पुलिस मामलों से संबंधित है।"
+      },
+      "explanation": {
+        "en": "Reports from the Home Department in 1946 provide a glimpse into how the government monitored and reacted to the naval mutiny in various ports like Bombay and Karachi.",
+        "hi": "1946 में गृह विभाग की रिपोर्ट से यह झलक मिलती है कि सरकार ने विभिन्न बंदरगाहों में नौसेना विद्रोह पर कैसे प्रतिक्रिया दी।"
+      },
+      "key_takeaway": {
+        "en": "Home Dept records = Source for internal security events.",
+        "hi": "गृह विभाग के रिकॉर्ड = आंतरिक सुरक्षा घटनाओं के स्रोत।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "Why do historians avoid saying a specific thing happened on 'one' date for long processes?",
+        "hi": "इतिहासकार लंबी प्रक्रियाओं के लिए यह कहने से क्यों बचते हैं कि कोई विशिष्ट कार्य 'एक' तारीख को हुआ था?"
+      },
+      "options": {
+        "a": {"en": "Because they forgot the date", "hi": "क्योंकि वे तारीख भूल गए"},
+        "b": {"en": "Because processes happen over a span of time", "hi": "क्योंकि प्रक्रियाएं समय की एक अवधि में होती हैं"},
+        "c": {"en": "Dates are not used in modern history", "hi": "आधुनिक इतिहास में तारीखों का उपयोग नहीं किया जाता है"},
+        "d": {"en": "To make history more mysterious", "hi": "इतिहास को और अधिक रहस्यमय बनाने के लिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Think about things like the development of a national movement or people starting to drink tea.",
+        "hi": "राष्ट्रीय आंदोलन के विकास या लोगों के चाय पीना शुरू करने जैसी चीजों के बारे में सोचें।"
+      },
+      "explanation": {
+        "en": "Processes like the establishment of British rule or the spread of a new culture didn't happen in a single day. They occurred over a period of time, so historians refer to a 'span of time' rather than a fixed date.",
+        "hi": "ब्रिटिश शासन की स्थापना या नई संस्कृति का प्रसार एक ही दिन में नहीं हुआ। वे समय की एक अवधि में हुए।"
+      },
+      "key_takeaway": {
+        "en": "Historical processes = Span of time, not just one date.",
+        "hi": "ऐतिहासिक प्रक्रियाएं = समय की अवधि, न कि केवल एक तारीख।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "James Mill was a _______ economist and political philosopher.",
+        "hi": "जेम्स मिल एक _______ अर्थशास्त्री और राजनीतिक दार्शनिक थे।"
+      },
+      "options": {
+        "a": {"en": "Indian", "hi": "भारतीय"},
+        "b": {"en": "Scottish", "hi": "स्कॉटिश"},
+        "c": {"en": "French", "hi": "फ्रांसीसी"},
+        "d": {"en": "German", "hi": "जर्मन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He came from the northern part of the United Kingdom.",
+        "hi": "वह यूनाइटेड किंगडम के उत्तरी भाग से आए थे।"
+      },
+      "explanation": {
+        "en": "James Mill was from Scotland. His work on Indian history was very influential in Britain, though it was later criticized for its religious bias and Eurocentric views.",
+        "hi": "जेम्स मिल स्कॉटलैंड से थे। भारतीय इतिहास पर उनके कार्य का ब्रिटेन में बहुत प्रभाव था, हालांकि बाद में इसकी आलोचना हुई।"
+      },
+      "key_takeaway": {
+        "en": "James Mill = Scottish philosopher.",
+        "hi": "जेम्स मिल = स्कॉटिश दार्शनिक।"
+      }
+    }
+  ]
+}
