@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 7,
+    "chapter_title": "Understanding Marginalisation",
+    "chapter_title_hindi": "हाशियाकरण की समझ",
+    "subject": "Civics - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_CIV_CH07_Marginalisation_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "What does the term 'Marginalisation' mean in a social context?",
+        "hi": "सामाजिक संदर्भ में 'हाशियाकरण' (Marginalisation) शब्द का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Being at the center of all decisions", "hi": "सभी निर्णयों के केंद्र में होना"},
+        "b": {"en": "Being forced to occupy the sides or fringes and not being at the center of things", "hi": "किनारे या हाशिए पर रहने के लिए मजबूर होना और चीजों के केंद्र में न होना"},
+        "c": {"en": "Being a member of the ruling party", "hi": "सत्ताधारी दल का सदस्य होना"},
+        "d": {"en": "Living in a large city", "hi": "एक बड़े शहर में रहना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Marginalisation is a multi-layered process where people feel they do not belong to the dominant group due to language, religion, or economic status.",
+        "hi": "हाशियाकरण एक बहुस्तरीय प्रक्रिया है जहाँ लोग महसूस करते हैं कि वे भाषा, धर्म या आर्थिक स्थिति के कारण मुख्य समूह का हिस्सा नहीं हैं।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "The term 'Adivasi' literally means _______.",
+        "hi": "'आदिवासी' शब्द का शाब्दिक अर्थ है _______।"
+      },
+      "options": {
+        "a": {"en": "Rich people", "hi": "अमीर लोग"},
+        "b": {"en": "Original inhabitants", "hi": "मूल निवासी"},
+        "c": {"en": "City dwellers", "hi": "शहर में रहने वाले"},
+        "d": {"en": "Foreigners", "hi": "विदेशी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Adivasis are communities who lived, and often continue to live, in close association with forests.",
+        "hi": "आदिवासी वे समुदाय हैं जो जंगलों के साथ घनिष्ठ संबंध में रहते आए हैं, और अक्सर अभी भी रहते हैं।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "What percentage of India's population is Adivasi?",
+        "hi": "भारत की जनसंख्या का कितना प्रतिशत आदिवासी है?"
+      },
+      "options": {
+        "a": {"en": "2%", "hi": "2%"},
+        "b": {"en": "8%", "hi": "8%"},
+        "c": {"en": "15%", "hi": "15%"},
+        "d": {"en": "25%", "hi": "25%"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Adivasis make up about 8% of India's population, and many of India's most important mining and industrial centers are located in Adivasi areas.",
+        "hi": "भारत की आबादी में आदिवासियों का हिस्सा लगभग 8% है, और भारत के कई महत्वपूर्ण खनन और औद्योगिक केंद्र आदिवासी क्षेत्रों में स्थित हैं।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Which of these states has a very high number of diverse Adivasi groups?",
+        "hi": "इनमें से किस राज्य में विविध आदिवासी समूहों की संख्या बहुत अधिक है?"
+      },
+      "options": {
+        "a": {"en": "Odisha", "hi": "ओडिशा"},
+        "b": {"en": "Punjab", "hi": "पंजाब"},
+        "c": {"en": "Haryana", "hi": "हरियाणा"},
+        "d": {"en": "Uttar Pradesh", "hi": "उत्तर प्रदेश"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Odisha is home to over 60 different tribal groups.",
+        "hi": "ओडिशा 60 से अधिक विभिन्न जनजातीय समूहों का घर है।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Adivasi societies are often described as having very little _______.",
+        "hi": "आदिवासी समाजों को अक्सर बहुत कम _______ के रूप में वर्णित किया जाता है।"
+      },
+      "options": {
+        "a": {"en": "History", "hi": "इतिहास"},
+        "b": {"en": "Hierarchy (division into rich and poor)", "hi": "ऊँच-नीच/पदानुक्रम (अमीर और गरीब में विभाजन)"},
+        "c": {"en": "Art", "hi": "कला"},
+        "d": {"en": "Language", "hi": "भाषा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Adivasi societies are distinctive because they often lack the strict hierarchy found in societies organized around caste or kings.",
+        "hi": "आदिवासी समाज विशिष्ट होते हैं क्योंकि उनमें अक्सर जाति या राजाओं के आधार पर संगठित समाजों जैसा कठोर पदानुक्रम नहीं होता।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Most Adivasi religions involve the worship of _______.",
+        "hi": "अधिकांश आदिवासी धर्मों में किसकी पूजा शामिल है?"
+      },
+      "options": {
+        "a": {"en": "Only one book", "hi": "केवल एक पुस्तक"},
+        "b": {"en": "Ancestors, village and nature spirits", "hi": "पूर्वजों, गाँव और प्रकृति की आत्माओं"},
+        "c": {"en": "Strict idols only", "hi": "केवल कठोर मूर्तियों"},
+        "d": {"en": "Scientific theories", "hi": "वैज्ञानिक सिद्धांतों"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Adivasi spirituality is deeply connected to their landscape—mountain-spirits, river-spirits, and grove-spirits.",
+        "hi": "आदिवासी आध्यात्मिकता उनके परिदृश्य - पर्वत-आत्माओं, नदी-आत्माओं और कुंज-आत्माओं से गहराई से जुड़ी हुई है।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Which Adivasi language is spoken by a large number of people and has its own publications/magazines?",
+        "hi": "कौन सी आदिवासी भाषा बड़ी संख्या में लोगों द्वारा बोली जाती है और उसके अपने प्रकाशन/पत्रिकाएं हैं?"
+      },
+      "options": {
+        "a": {"en": "Santhali", "hi": "संथाली"},
+        "b": {"en": "Sanskrit", "hi": "संस्कृत"},
+        "c": {"en": "Greek", "hi": "ग्रीक"},
+        "d": {"en": "Latin", "hi": "लैटिन"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Santhali has the largest number of speakers and a significant body of literature, including on the internet.",
+        "hi": "संथाली बोलने वालों की संख्या सबसे अधिक है और इंटरनेट सहित साहित्य का एक महत्वपूर्ण हिस्सा इसमें उपलब्ध है।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "A 'Stereotype' refers to _______.",
+        "hi": "'रूढ़िबद्ध धारणा' (Stereotype) का तात्पर्य _______ से है।"
+      },
+      "options": {
+        "a": {"en": "A new scientific discovery", "hi": "एक नई वैज्ञानिक खोज"},
+        "b": {"en": "A fixed and oversimplified image or idea of a particular type of person or thing", "hi": "किसी विशेष प्रकार के व्यक्ति या वस्तु की एक निश्चित और अति-सरलीकृत छवि या विचार"},
+        "c": {"en": "A government law", "hi": "एक सरकारी कानून"},
+        "d": {"en": "A type of modern music", "hi": "आधुनिक संगीत का एक प्रकार"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Stereotyping Adivasis as 'exotic', 'primitive', and 'backward' leads to discrimination against them.",
+        "hi": "आदिवासियों को 'विचित्र', 'आदिम' और 'पिछड़ा' मान लेना उनके प्रति भेदभाव का कारण बनता है।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Why are Adivasis being increasingly displaced from their lands?",
+        "hi": "आदिवासियों को उनकी भूमि से तेजी से विस्थापित क्यों किया जा रहा है?"
+      },
+      "options": {
+        "a": {"en": "They want to live in apartments", "hi": "वे अपार्टमेंट में रहना चाहते हैं"},
+        "b": {"en": "For mining projects and setting up large industries", "hi": "खनन परियोजनाओं और बड़े उद्योगों की स्थापना के लिए"},
+        "c": {"en": "To clear land for playgrounds", "hi": "खेल के मैदानों के लिए जमीन साफ करने के लिए"},
+        "d": {"en": "Because they forgot where they lived", "hi": "क्योंकि वे भूल गए कि वे कहाँ रहते थे"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Huge tracts of forest land have been cleared for mining and dam projects, forcing Adivasis to lose their livelihoods and homes.",
+        "hi": "खनन और बांध परियोजनाओं के लिए वन भूमि के विशाल क्षेत्रों को साफ कर दिया गया है, जिससे आदिवासियों को अपनी आजीविका और घर खोने पड़े हैं।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "What percentage of persons displaced due to mines and mining projects are Adivasis?",
+        "hi": "खदानों और खनन परियोजनाओं के कारण विस्थापित होने वाले व्यक्तियों में कितने प्रतिशत आदिवासी हैं?"
+      },
+      "options": {
+        "a": {"en": "10%", "hi": "10%"},
+        "b": {"en": "Over 50%", "hi": "50% से अधिक"},
+        "c": {"en": "5%", "hi": "5%"},
+        "d": {"en": "100%", "hi": "100%"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Despite being only 8% of the population, Adivasis bear a disproportionate burden of displacement in India.",
+        "hi": "जनसंख्या का केवल 8% होने के बावजूद, भारत में विस्थापन का सबसे अधिक बोझ आदिवासियों पर पड़ता है।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "What refers to the loss of livelihood and culture when Adivasis are displaced?",
+        "hi": "आदिवासियों के विस्थापित होने पर आजीविका और संस्कृति के नुकसान को क्या कहते हैं?"
+      },
+      "options": {
+        "a": {"en": "Poverty", "hi": "गरीबी"},
+        "b": {"en": "Malnourishment", "hi": "कुपोषण"},
+        "c": {"en": "Dispossession", "hi": "बेदखली (Dispossession)"},
+        "d": {"en": "Promotion", "hi": "पदोन्नति"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Dispossession is the action of depriving someone of land, property, or other possessions.",
+        "hi": "बेदखली किसी को जमीन, संपत्ति या अन्य वस्तुओं से वंचित करने की क्रिया है।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "According to the 2011 census, Muslims are _______ of India’s population.",
+        "hi": "2011 की जनगणना के अनुसार, मुस्लिम भारत की जनसंख्या का _______ हैं।"
+      },
+      "options": {
+        "a": {"en": "14.2%", "hi": "14.2%"},
+        "b": {"en": "20.5%", "hi": "20.5%"},
+        "c": {"en": "8.6%", "hi": "8.6%"},
+        "d": {"en": "45%", "hi": "45%"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "They are considered a marginalised community because they lag behind in socio-economic development compared to other communities.",
+        "hi": "उन्हें एक हाशिए पर रहने वाला समुदाय माना जाता है क्योंकि वे अन्य समुदायों की तुलना में सामाजिक-आर्थिक विकास में पीछे हैं।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "In 2005, the government set up a high-level committee to examine the socio-economic status of Muslims, headed by _______.",
+        "hi": "2005 में, सरकार ने किसकी अध्यक्षता में मुसलमानों की सामाजिक-आर्थिक स्थिति की जाँच के लिए एक उच्च-स्तरीय समिति गठित की थी?"
+      },
+      "options": {
+        "a": {"en": "Justice Rajindar Sachar", "hi": "न्यायमूर्ति राजिंदर सच्चर"},
+        "b": {"en": "Dr. B.R. Ambedkar", "hi": "डॉ. बी.आर. अंबेडकर"},
+        "c": {"en": "Sardar Patel", "hi": "सरदार पटेल"},
+        "d": {"en": "Justice D.K. Basu", "hi": "न्यायमूर्ति डी.के. बसु"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The Sachar Committee report debunked myths and showed that on many counts, Muslims were comparable to SCs and STs.",
+        "hi": "सच्चर समिति की रिपोर्ट ने मिथकों को तोड़ा और दिखाया कि कई मामलों में मुसलमान अनुसूचित जाति और अनुसूचित जनजाति के समान थे।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What term is used for a locality where members of a specific community live together due to social or economic pressure?",
+        "hi": "उस इलाके के लिए किस शब्द का प्रयोग किया जाता है जहाँ एक विशिष्ट समुदाय के सदस्य सामाजिक या आर्थिक दबाव के कारण एक साथ रहते हैं?"
+      },
+      "options": {
+        "a": {"en": "Apartment", "hi": "अपार्टमेंट"},
+        "b": {"en": "Ghetto", "hi": "घेटो (Ghetto)"},
+        "c": {"en": "Palace", "hi": "महल"},
+        "d": {"en": "Resort", "hi": "रिसॉर्ट"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Ghettoisation often leads to further isolation and lack of integration with the wider society.",
+        "hi": "घेटोकरण (Ghettoisation) अक्सर समाज से अलगाव और मुख्यधारा से जुड़ने की कमी का कारण बनता है।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "Why do many Adivasis migrate to cities?",
+        "hi": "कई आदिवासी शहरों की ओर पलायन क्यों करते हैं?"
+      },
+      "options": {
+        "a": {"en": "To work in forests", "hi": "जंगलों में काम करने के लिए"},
+        "b": {"en": "Because they lose access to their traditional lands and forests", "hi": "क्योंकि वे अपनी पारंपरिक भूमि और जंगलों तक पहुँच खो देते हैं"},
+        "c": {"en": "To go on a vacation", "hi": "छुट्टियां मनाने के लिए"},
+        "d": {"en": "To buy expensive cars", "hi": "महंगी कारें खरीदने के लिए"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Loss of land forces them to take up low-paying jobs as domestic helps or construction workers in cities.",
+        "hi": "भूमि छिन जाने के कारण उन्हें शहरों में घरेलू मदद या निर्माण श्रमिकों के रूप में कम वेतन वाली नौकरियां करने के लिए मजबूर होना पड़ता है।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "The literacy rate among Muslims in India (as per the chapter) is _______.",
+        "hi": "भारत में मुसलमानों के बीच साक्षरता दर (अध्याय के अनुसार) _______ है।"
+      },
+      "options": {
+        "a": {"en": "57%", "hi": "57%"},
+        "b": {"en": "74%", "hi": "74%"},
+        "c": {"en": "90%", "hi": "90%"},
+        "d": {"en": "30%", "hi": "30%"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Compared to the national average (74%), Muslims have a lower literacy rate, indicating marginalisation in education.",
+        "hi": "राष्ट्रीय औसत (74%) की तुलना में, मुसलमानों की साक्षरता दर कम है, जो शिक्षा में हाशियाकरण का संकेत देती है।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "Customs like wearing a burqa or growing a long beard often lead to _______ of Muslims.",
+        "hi": "बुर्का पहनना या लंबी दाढ़ी रखना जैसी प्रथाएं अक्सर मुसलमानों के _______ का कारण बनती हैं।"
+      },
+      "options": {
+        "a": {"en": "Inclusion", "hi": "समावेश"},
+        "b": {"en": "Stereotyping", "hi": "रूढ़िबद्धता (Stereotyping)"},
+        "c": {"en": "Promotion", "hi": "पदोन्नति"},
+        "d": {"en": "Awards", "hi": "पुरस्कारों"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "People often mistakenly judge the whole community based on these visible markers, leading to prejudice and fear.",
+        "hi": "लोग अक्सर इन दिखाई देने वाले चिन्हों के आधार पर पूरे समुदाय को गलत तरीके से आंकते हैं, जिससे पूर्वाग्रह और डर पैदा होता है।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "Which group is often called 'tribals'?",
+        "hi": "किस समूह को अक्सर 'जनजाति' कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Brahmans", "hi": "ब्राह्मण"},
+        "b": {"en": "Adivasis", "hi": "आदिवासी"},
+        "c": {"en": "Traders", "hi": "व्यापारी"},
+        "d": {"en": "Kings", "hi": "राजा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Tribal is a term used for Adivasis, often implying they are a distinct cultural and social group.",
+        "hi": "जनजाति शब्द का प्रयोग आदिवासियों के लिए किया जाता है, जो अक्सर यह संकेत देता है कि वे एक विशिष्ट सांस्कृतिक और सामाजिक समूह हैं।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Marginalisation is often linked to experiencing _______.",
+        "hi": "हाशियाकरण अक्सर किसके अनुभव से जुड़ा होता है?"
+      },
+      "options": {
+        "a": {"en": "Extreme wealth", "hi": "अत्यधिक धन"},
+        "b": {"en": "Powerlessness and disadvantage", "hi": "शक्तिहीनता और नुकसान (हानि)"},
+        "c": {"en": "Winning elections", "hi": "चुनाव जीतने"},
+        "d": {"en": "Global fame", "hi": "वैश्विक प्रसिद्धि"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Marginalised groups have less access to resources and less say in the decisions that affect them.",
+        "hi": "हाशिए पर रहने वाले समूहों की संसाधनों तक कम पहुँच होती है और उन्हें प्रभावित करने वाले निर्णयों में उनकी बात कम सुनी जाती है।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "Which minerals are often found in Adivasi lands?",
+        "hi": "आदिवासी भूमि में अक्सर कौन से खनिज पाए जाते हैं?"
+      },
+      "options": {
+        "a": {"en": "Iron and Coal", "hi": "लोहा और कोयला"},
+        "b": {"en": "Gold and Copper", "hi": "सोना और तांबा"},
+        "c": {"en": "Bauxite and Manganese", "hi": "बॉक्साइट और मैंगनीज"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "explanation": {
+        "en": "Adivasi lands are rich in minerals, which is why they are often targeted for industrial development.",
+        "hi": "आदिवासी भूमि खनिजों से समृद्ध है, यही कारण है कि उन्हें अक्सर औद्योगिक विकास के लिए निशाना बनाया जाता है।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "The loss of forests means Adivasis lose their main source of _______.",
+        "hi": "वनों के नुकसान का मतलब है कि आदिवासी अपनी _______ का मुख्य स्रोत खो देते हैं।"
+      },
+      "options": {
+        "a": {"en": "Entertainment", "hi": "मनोरंजन"},
+        "b": {"en": "Food and Livelihood", "hi": "भोजन और आजीविका"},
+        "c": {"en": "Social media", "hi": "सोशल मीडिया"},
+        "d": {"en": "Electricity", "hi": "बिजली"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Forests provide them with everything from food and medicine to materials for building homes.",
+        "hi": "वन उन्हें भोजन और दवा से लेकर घर बनाने की सामग्री तक सब कुछ प्रदान करते हैं।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "How does the Constitution of India help marginalised groups?",
+        "hi": "भारत का संविधान हाशिए पर रहने वाले समूहों की मदद कैसे करता है?"
+      },
+      "options": {
+        "a": {"en": "By ignoring them", "hi": "उन्हें अनदेखा करके"},
+        "b": {"en": "By providing fundamental rights and safeguards to protect them from discrimination", "hi": "उन्हें भेदभाव से बचाने के लिए मौलिक अधिकार और सुरक्षा उपाय प्रदान करके"},
+        "c": {"en": "By sending everyone to city", "hi": "सभी को शहर भेजकर"},
+        "d": {"en": "By banning all languages", "hi": "सभी भाषाओं पर प्रतिबंध लगाकर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Constitution ensures that minority and marginalised groups have a right to preserve their culture and are not dominated by the majority.",
+        "hi": "संविधान यह सुनिश्चित करता है कि अल्पसंख्यक और हाशिए पर रहने वाले समूहों को अपनी संस्कृति को संरक्षित करने का अधिकार है और वे बहुसंख्यकों के अधीन नहीं हैं।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Niyamgiri Hill, an area of conflict for Adivasis, is located in which state?",
+        "hi": "नियमगिरी पहाड़ी, जो आदिवासियों के लिए संघर्ष का क्षेत्र है, किस राज्य में स्थित है?"
+      },
+      "options": {
+        "a": {"en": "West Bengal", "hi": "पश्चिम बंगाल"},
+        "b": {"en": "Odisha", "hi": "ओडिशा"},
+        "c": {"en": "Chhattisgarh", "hi": "छत्तीसगढ़"},
+        "d": {"en": "Jharkhand", "hi": "झारखंड"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Dongarria Konds of Odisha protested against an aluminum refinery on this hill.",
+        "hi": "ओडिशा के डोंगरिया कोंधों ने इस पहाड़ी पर एल्युमीनियम रिफाइनरी के खिलाफ विरोध प्रदर्शन किया था।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "When a community is marginalised, it leads to a low _______.",
+        "hi": "जब किसी समुदाय का हाशियाकरण होता है, तो उसका _______ निम्न हो जाता है।"
+      },
+      "options": {
+        "a": {"en": "Height of people", "hi": "लोगों की लंबाई"},
+        "b": {"en": "Social and economic status", "hi": "सामाजिक और आर्थिक स्तर"},
+        "c": {"en": "Speed of walking", "hi": "चलने की गति"},
+        "d": {"en": "Number of holidays", "hi": "छुट्टियों की संख्या"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Marginalisation results in poor education, lack of health facilities, and poverty.",
+        "hi": "हाशियाकरण के परिणामस्वरूप खराब शिक्षा, स्वास्थ्य सुविधाओं की कमी और गरीबी होती है।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "Can marginalisation be experienced by more than one group in a country?",
+        "hi": "क्या किसी देश में एक से अधिक समूहों द्वारा हाशियाकरण का अनुभव किया जा सकता है?"
+      },
+      "options": {
+        "a": {"en": "No, only one group can be marginalised", "hi": "नहीं, केवल एक समूह ही हाशिए पर हो सकता है"},
+        "b": {"en": "Yes, different groups like Adivasis, Dalits, and minorities can be marginalised simultaneously", "hi": "हाँ, आदिवासी, दलित और अल्पसंख्यकों जैसे विभिन्न समूह एक साथ हाशिए पर हो सकते हैं"},
+        "c": {"en": "Only rich people can be marginalised", "hi": "केवल अमीर लोग ही हाशिए पर हो सकते हैं"},
+        "d": {"en": "Only people in films are marginalised", "hi": "केवल फिल्मों के लोग ही हाशिए पर होते हैं"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Multiple social, religious, and economic factors can push various groups to the edges of society.",
+        "hi": "विभिन्न सामाजिक, धार्मिक और आर्थिक कारक विभिन्न समूहों को समाज के हाशिए पर धकेल सकते हैं।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "Adivasis are often portrayed in school books as _______.",
+        "hi": "स्कूल की किताबों में आदिवासियों को अक्सर किस रूप में चित्रित किया जाता है?"
+      },
+      "options": {
+        "a": {"en": "Scientists and Doctors", "hi": "वैज्ञानिक और डॉक्टर"},
+        "b": {"en": "Dancing in colorful costumes", "hi": "रंगीन वेशभूषा में नृत्य करते हुए"},
+        "c": {"en": "Leading industrialists", "hi": "अग्रणी उद्योगपति"},
+        "d": {"en": "Computer experts", "hi": "कंप्यूटर विशेषज्ञ"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "This limited portrayal fails to show the reality of their complex lives and struggles.",
+        "hi": "यह सीमित चित्रण उनके जटिल जीवन और संघर्षों की वास्तविकता को दिखाने में विफल रहता है।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "What does the Sachar Committee report say about Muslim representation in government jobs?",
+        "hi": "सच्चर समिति की रिपोर्ट सरकारी नौकरियों में मुस्लिम प्रतिनिधित्व के बारे में क्या कहती है?"
+      },
+      "options": {
+        "a": {"en": "It is very high", "hi": "यह बहुत अधिक है"},
+        "b": {"en": "It is disproportionately low", "hi": "यह अनुपातहीन रूप से कम है"},
+        "c": {"en": "It is 50%", "hi": "यह 50% है"},
+        "d": {"en": "There is no information", "hi": "कोई जानकारी नहीं है"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The report showed that Muslims have low representation in elite services like IAS and IPS.",
+        "hi": "रिपोर्ट ने दिखाया कि आईएएस और आईपीएस जैसी कुलीन सेवाओं में मुसलमानों का प्रतिनिधित्व कम है।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Which of these is a major reason why Muslims are marginalised in some areas?",
+        "hi": "इनमें से कौन सा एक प्रमुख कारण है कि कुछ क्षेत्रों में मुस्लिम हाशिए पर हैं?"
+      },
+      "options": {
+        "a": {"en": "They have too many resources", "hi": "उनके पास बहुत अधिक संसाधन हैं"},
+        "b": {"en": "Prejudice and discrimination based on their religion and appearance", "hi": "उनके धर्म और पहनावे के आधार पर पूर्वाग्रह और भेदभाव"},
+        "c": {"en": "They don't want to live in India", "hi": "वे भारत में नहीं रहना चाहते"},
+        "d": {"en": "They are all very rich", "hi": "वे सभी बहुत अमीर हैं"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Prejudice often leads to discrimination in housing and employment, making them feel like 'other' people.",
+        "hi": "पूर्वाग्रह अक्सर आवास और रोजगार में भेदभाव का कारण बनता है, जिससे वे 'दूसरे' लोगों जैसा महसूस करते हैं।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "What is necessary to end marginalisation?",
+        "hi": "हाशियाकरण को समाप्त करने के लिए क्या आवश्यक है?"
+      },
+      "options": {
+        "a": {"en": "Giving everyone a car", "hi": "सभी को कार देना"},
+        "b": {"en": "Ensuring equal access to resources, education, and political voice", "hi": "संसाधनों, शिक्षा और राजनीतिक आवाज तक समान पहुँच सुनिश्चित करना"},
+        "c": {"en": "Moving all marginalised people to one city", "hi": "हाशिए पर रहने वाले सभी लोगों को एक शहर में ले जाना"},
+        "d": {"en": "Closing all schools", "hi": "सभी स्कूलों को बंद करना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Empowerment through education and legal protection is key to social inclusion.",
+        "hi": "शिक्षा और कानूनी सुरक्षा के माध्यम से सशक्तिकरण सामाजिक समावेश की कुंजी है।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "The struggle against marginalisation is also a struggle for _______.",
+        "hi": "हाशियाकरण के खिलाफ संघर्ष _______ के लिए भी एक संघर्ष है।"
+      },
+      "options": {
+        "a": {"en": "Dignity and Respect", "hi": "गरिमा और सम्मान"},
+        "b": {"en": "Free food only", "hi": "केवल मुफ्त भोजन"},
+        "c": {"en": "More holidays", "hi": "अधिक छुट्टियों"},
+        "d": {"en": "A specific religion", "hi": "एक विशिष्ट धर्म"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Every group wants to live with dignity and have their culture respected by the rest of society.",
+        "hi": "हर समूह गरिमा के साथ जीना चाहता है और चाहता है कि समाज का बाकी हिस्सा उनकी संस्कृति का सम्मान करे।"
+      }
+    }
+  ]
+}
