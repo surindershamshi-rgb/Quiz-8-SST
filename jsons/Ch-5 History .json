@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 5,
+    "chapter_title": "When People Rebel: 1857 and After",
+    "chapter_title_hindi": "जब जनता बगावत करती है: 1857 और उसके बाद",
+    "subject": "History - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_HI_CH05_1857Revolt_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Who was the last Mughal Emperor to be recognized by the British?",
+        "hi": "अंग्रेजों द्वारा मान्यता प्राप्त अंतिम मुगल सम्राट कौन थे?"
+      },
+      "options": {
+        "a": {"en": "Akbar Shah II", "hi": "अकबर शाह द्वितीय"},
+        "b": {"en": "Bahadur Shah Zafar", "hi": "बहादुर शाह ज़फ़र"},
+        "c": {"en": "Shah Alam II", "hi": "शाह आलम द्वितीय"},
+        "d": {"en": "Aurangzeb", "hi": "औरंगज़ेब"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "In 1849, Governor-General Dalhousie announced that after the death of Bahadur Shah Zafar, his family would be moved out of the Red Fort.",
+        "hi": "1849 में, गवर्नर-जनरल डलहौजी ने घोषणा की कि बहादुर शाह ज़फ़र की मृत्यु के बाद, उनके परिवार को लाल किले से बाहर कर दिया जाएगा।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Nana Sahib was the adopted son of which Peshwa?",
+        "hi": "नाना साहिब किस पेशवा के दत्तक पुत्र थे?"
+      },
+      "options": {
+        "a": {"en": "Baji Rao I", "hi": "बाजीराव प्रथम"},
+        "b": {"en": "Balaji Vishwanath", "hi": "बालाजी विश्वनाथ"},
+        "c": {"en": "Peshwa Baji Rao II", "hi": "पेशवा बाजीराव द्वितीय"},
+        "d": {"en": "Madhav Rao", "hi": "माधव राव"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Nana Sahib pleaded that he be given his father's pension when the latter died, but the Company refused the request.",
+        "hi": "नाना साहिब ने दलील दी कि उनके पिता की मृत्यु के बाद उन्हें उनकी पेंशन दी जाए, लेकिन कंपनी ने इस अनुरोध को ठुकरा दिया।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "In 1801, a Subsidiary Alliance was imposed on which territory?",
+        "hi": "1801 में किस क्षेत्र पर सहायक संधि (Subsidiary Alliance) थोपी गई थी?"
+      },
+      "options": {
+        "a": {"en": "Jhansi", "hi": "झांसी"},
+        "b": {"en": "Awadh", "hi": "अवध"},
+        "c": {"en": "Satara", "hi": "सतारा"},
+        "d": {"en": "Bengal", "hi": "बंगाल"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Awadh was one of the last territories to be annexed. In 1856, it was taken over on grounds of 'misgovernment'.",
+        "hi": "अवध उन अंतिम क्षेत्रों में से एक था जिसका विलय किया गया था। 1856 में, इसे 'कुशासन' के आधार पर अपने कब्जे में ले लिया गया था।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What was the religious objection of the sepoys to the new cartridges?",
+        "hi": "नए कारतूसों के प्रति सिपाहियों की धार्मिक आपत्ति क्या थी?"
+      },
+      "options": {
+        "a": {"en": "They were too heavy", "hi": "वे बहुत भारी थे"},
+        "b": {"en": "They were suspected of being coated with the fat of cows and pigs", "hi": "संदेह था कि उन पर गाय और सूअर की चर्बी का लेप लगाया गया है"},
+        "c": {"en": "They were made of gold", "hi": "वे सोने के बने थे"},
+        "d": {"en": "They did not fit the guns", "hi": "वे बंदूकों में फिट नहीं बैठते थे"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "To use the new Enfield rifle, soldiers had to bite off the ends of the cartridges, which offended both Hindu and Muslim sentiments.",
+        "hi": "नई एनफील्ड राइफल का उपयोग करने के लिए, सैनिकों को कारतूस के सिरों को दांतों से काटना पड़ता था, जिससे हिंदू और मुस्लिम दोनों की भावनाएं आहत हुईं।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "On 29 March 1857, which young soldier was hanged for attacking his officers in Barrackpore?",
+        "hi": "29 मार्च 1857 को बैरकपुर में अपने अधिकारियों पर हमला करने के आरोप में किस युवा सैनिक को फांसी दी गई थी?"
+      },
+      "options": {
+        "a": {"en": "Tantia Tope", "hi": "तांत्या टोपे"},
+        "b": {"en": "Mangal Pandey", "hi": "मंगल पांडे"},
+        "c": {"en": "Kunwar Singh", "hi": "कुंवर सिंह"},
+        "d": {"en": "Bakht Khan", "hi": "बख्त खान"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Mangal Pandey's act of rebellion in Barrackpore is often seen as the immediate spark for the events of 1857.",
+        "hi": "बैरकपुर में मंगल पांडे के विद्रोह को अक्सर 1857 की घटनाओं की तत्काल चिंगारी के रूप में देखा जाता है।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "The revolt of 1857 began from which city on May 10?",
+        "hi": "1857 का विद्रोह 10 मई को किस शहर से शुरू हुआ था?"
+      },
+      "options": {
+        "a": {"en": "Delhi", "hi": "दिल्ली"},
+        "b": {"en": "Meerut", "hi": "मेरठ"},
+        "c": {"en": "Kanpur", "hi": "कानपुर"},
+        "d": {"en": "Lucknow", "hi": "लखनऊ"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Sepoys in Meerut released imprisoned fellow soldiers, killed British officers, and marched towards Delhi.",
+        "hi": "मेरठ के सिपाहियों ने कैद साथी सैनिकों को छुड़ाया, ब्रिटिश अधिकारियों को मारा और दिल्ली की ओर कूच किया।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Whom did the mutinous sepoys proclaim as the Emperor of India?",
+        "hi": "विद्रोही सिपाहियों ने किसे भारत का सम्राट घोषित किया?"
+      },
+      "options": {
+        "a": {"en": "Nana Sahib", "hi": "नाना साहिब"},
+        "b": {"en": "Bahadur Shah Zafar", "hi": "बहादुर शाह ज़फ़र"},
+        "c": {"en": "Shah Alam", "hi": "शाह आलम"},
+        "d": {"en": "Birjis Qadr", "hi": "बिरजिस कद्र"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Though reluctant at first, the aging Emperor agreed to lead the rebellion, giving it a sense of legitimacy.",
+        "hi": "हालाँकि शुरुआत में हिचकिचा रहे थे, लेकिन वृद्ध सम्राट विद्रोह का नेतृत्व करने के लिए सहमत हो गए, जिससे इसे वैधता मिली।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Who led the revolt in Kanpur?",
+        "hi": "कानपुर में विद्रोह का नेतृत्व किसने किया?"
+      },
+      "options": {
+        "a": {"en": "Begum Hazrat Mahal", "hi": "बेगम हजरत महल"},
+        "b": {"en": "Nana Sahib", "hi": "नाना साहिब"},
+        "c": {"en": "Rani Lakshmibai", "hi": "रानी लक्ष्मीबाई"},
+        "d": {"en": "Kunwar Singh", "hi": "कुंवर सिंह"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Nana Sahib gathered armed forces and expelled the British garrison from Kanpur.",
+        "hi": "नाना साहिब ने सशस्त्र सेना इकट्ठी की और कानपुर से ब्रिटिश गैरीसन को बाहर निकाल दिया।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Birjis Qadr was the son of which deposed Nawab of Awadh?",
+        "hi": "बिरजिस कद्र अवध के किस अपदस्थ नवाब के पुत्र थे?"
+      },
+      "options": {
+        "a": {"en": "Asaf-ud-Daula", "hi": "आसफ-उद-दौला"},
+        "b": {"en": "Wajid Ali Shah", "hi": "वाजिद अली शाह"},
+        "c": {"en": "Shuja-ud-Daula", "hi": "शुजा-उद-दौला"},
+        "d": {"en": "Saadat Ali Khan", "hi": "सादत अली खान"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "In Lucknow, Birjis Qadr was proclaimed the new Nawab under the leadership of his mother, Begum Hazrat Mahal.",
+        "hi": "लखनऊ में, उनकी माँ बेगम हज़रत महल के नेतृत्व में बिरजिस कद्र को नया नवाब घोषित किया गया।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Which brave queen of Jhansi joined the rebel sepoys and fought the British along with Tantia Tope?",
+        "hi": "झांसी की किस बहादुर रानी ने विद्रोही सिपाहियों के साथ मिलकर तांत्या टोपे के साथ अंग्रेजों से लड़ाई लड़ी?"
+      },
+      "options": {
+        "a": {"en": "Rani Chennamma", "hi": "रानी चेन्नम्मा"},
+        "b": {"en": "Rani Lakshmibai", "hi": "रानी लक्ष्मीबाई"},
+        "c": {"en": "Rani Avantibai Lodhi", "hi": "रानी अवंतीबाई लोधी"},
+        "d": {"en": "Begum Hazrat Mahal", "hi": "बेगम हजरत महल"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Rani Lakshmibai fought because the British refused to recognize her adopted son as the heir to the throne of Jhansi.",
+        "hi": "रानी लक्ष्मीबाई ने लड़ाई लड़ी क्योंकि अंग्रेजों ने उनके दत्तक पुत्र को झांसी के सिंहासन के उत्तराधिकारी के रूप में मान्यता देने से इनकार कर दिया था।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Kunwar Singh, an old zamindar who joined the rebellion, belonged to which state?",
+        "hi": "विद्रोह में शामिल होने वाले एक पुराने ज़मींदार कुंवर सिंह किस राज्य के थे?"
+      },
+      "options": {
+        "a": {"en": "Uttar Pradesh", "hi": "उत्तर प्रदेश"},
+        "b": {"en": "Bihar (Arrah)", "hi": "बिहार (आरा)"},
+        "c": {"en": "Madhya Pradesh", "hi": "मध्य प्रदेश"},
+        "d": {"en": "Rajasthan", "hi": "राजस्थान"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Kunwar Singh led the rebellion in Bihar and fought against the British for many months despite his age.",
+        "hi": "कुंवर सिंह ने बिहार में विद्रोह का नेतृत्व किया और अपनी उम्र के बावजूद कई महीनों तक अंग्रेजों के खिलाफ लड़ाई लड़ी।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "Who was the soldier from Bareilly who became a key military leader of the rebellion in Delhi?",
+        "hi": "बरेली का वह कौन सा सैनिक था जो दिल्ली में विद्रोह का प्रमुख सैन्य नेता बना?"
+      },
+      "options": {
+        "a": {"en": "Bakht Khan", "hi": "बख्त खान"},
+        "b": {"en": "Ahmadullah Shah", "hi": "अहमदुल्लाह शाह"},
+        "c": {"en": "Tantia Tope", "hi": "तांत्या टोपे"},
+        "d": {"en": "Nana Sahib", "hi": "नाना साहिब"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Bakht Khan took charge of a large force of fighters who came from Bareilly to Delhi.",
+        "hi": "बख्त खान ने बरेली से दिल्ली आए लड़ाकों की एक बड़ी फौज की कमान संभाली।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "In which year did the British recapture Delhi?",
+        "hi": "अंग्रेजों ने किस वर्ष दिल्ली पर पुनः अधिकार कर लिया?"
+      },
+      "options": {
+        "a": {"en": "May 1857", "hi": "मई 1857"},
+        "b": {"en": "September 1857", "hi": "सितंबर 1857"},
+        "c": {"en": "March 1858", "hi": "मार्च 1858"},
+        "d": {"en": "June 1858", "hi": "जून 1858"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "British forces reinforced from the North finally recaptured Delhi in September 1857 after heavy fighting.",
+        "hi": "उत्तर से आई ब्रिटिश सुदृढीकरण सेना ने भारी लड़ाई के बाद अंततः सितंबर 1857 में दिल्ली पर फिर से कब्जा कर लिया।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Where was Bahadur Shah Zafar sent in exile after being tried by the British?",
+        "hi": "अंग्रेजों द्वारा मुकदमा चलाए जाने के बाद बहादुर शाह ज़फ़र को निर्वासन में कहाँ भेजा गया था?"
+      },
+      "options": {
+        "a": {"en": "London", "hi": "लंदन"},
+        "b": {"en": "Rangoon", "hi": "रंगून"},
+        "c": {"en": "Andaman Islands", "hi": "अंडमान द्वीप समूह"},
+        "d": {"en": "Colombo", "hi": "कोलंबो"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Bahadur Shah Zafar and his wife Begum Zinat Mahal were sent to prison in Rangoon, where he died in 1862.",
+        "hi": "बहादुर शाह ज़फ़र और उनकी पत्नी बेगम ज़ीनत महल को रंगून की जेल भेज दिया गया, जहाँ 1862 में उनकी मृत्यु हो गई।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "A new Act passed in 1858 transferred the powers of the East India Company to the:",
+        "hi": "1858 में पारित एक नए अधिनियम ने ईस्ट इंडिया कंपनी की शक्तियों को किसे हस्तांतरित कर दिया?"
+      },
+      "options": {
+        "a": {"en": "Mughal Emperor", "hi": "मुगल सम्राट को"},
+        "b": {"en": "British Crown", "hi": "ब्रिटिश क्राउन को"},
+        "c": {"en": "Viceroy of India", "hi": "भारत के वायसराय को"},
+        "d": {"en": "Indian National Congress", "hi": "भारतीय राष्ट्रीय कांग्रेस को"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The British Parliament passed a new Act in 1858 to ensure a more responsible management of Indian affairs under the Crown.",
+        "hi": "ब्रिटिश संसद ने क्राउन के तहत भारतीय मामलों के अधिक जिम्मेदार प्रबंधन को सुनिश्चित करने के लिए 1858 में एक नया अधिनियम पारित किया।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "After the 1857 revolt, the Governor-General of India was given the title of:",
+        "hi": "1857 के विद्रोह के बाद, भारत के गवर्नर-जनरल को कौन सी उपाधि दी गई थी?"
+      },
+      "options": {
+        "a": {"en": "President", "hi": "राष्ट्रपति"},
+        "b": {"en": "Viceroy", "hi": "वायसराय"},
+        "c": {"en": "Commander-in-Chief", "hi": "कमांडर-इन-चीफ"},
+        "d": {"en": "Supreme Leader", "hi": "सर्वोच्च नेता"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "A Viceroy was a personal representative of the British Crown in India.",
+        "hi": "वायसराय भारत में ब्रिटिश क्राउन का एक व्यक्तिगत प्रतिनिधि होता था।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What policy change was made regarding Indian states after the rebellion?",
+        "hi": "विद्रोह के बाद भारतीय राज्यों के संबंध में क्या नीतिगत बदलाव किया गया?"
+      },
+      "options": {
+        "a": {"en": "All states were annexed", "hi": "सभी राज्यों का विलय कर दिया गया"},
+        "b": {"en": "States were allowed to adopt heirs to their kingdoms", "hi": "राज्यों को अपने साम्राज्यों के लिए उत्तराधिकारी गोद लेने की अनुमति दी गई"},
+        "c": {"en": "Rulers were removed from power", "hi": "शासकों को सत्ता से हटा दिया गया"},
+        "d": {"en": "Indian states were merged with Britain", "hi": "भारतीय राज्यों का ब्रिटेन के साथ विलय कर दिया गया"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The British promised that no more territories would be annexed, and rulers could pass their kingdoms to adopted sons.",
+        "hi": "अंग्रेजों ने वादा किया कि अब किसी और क्षेत्र का विलय नहीं किया जाएगा, और शासक अपने साम्राज्य को दत्तक पुत्रों को सौंप सकते हैं।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "To reduce the chance of another rebellion, the British increased the proportion of _______ soldiers in the army.",
+        "hi": "एक और विद्रोह की संभावना को कम करने के लिए, अंग्रेजों ने सेना में _______ सैनिकों का अनुपात बढ़ा दिया।"
+      },
+      "options": {
+        "a": {"en": "Indian", "hi": "भारतीय"},
+        "b": {"en": "European", "hi": "यूरोपीय"},
+        "c": {"en": "African", "hi": "अफ्रीकी"},
+        "d": {"en": "Chinese", "hi": "चीनी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The British decided that the ratio of European to Indian soldiers would be increased to maintain better control over the army.",
+        "hi": "अंग्रेजों ने फैसला किया कि सेना पर बेहतर नियंत्रण बनाए रखने के लिए यूरोपीय और भारतीय सैनिकों का अनुपात बढ़ाया जाएगा।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "From which of these regions did the British stop recruiting soldiers after the revolt?",
+        "hi": "विद्रोह के बाद अंग्रेजों ने इनमें से किस क्षेत्र से सैनिकों की भर्ती बंद कर दी थी?"
+      },
+      "options": {
+        "a": {"en": "Gorkhas", "hi": "गोरखा"},
+        "b": {"en": "Sikhs", "hi": "सिख"},
+        "c": {"en": "Pathans", "hi": "पठान"},
+        "d": {"en": "Awadh and Bihar", "hi": "अवध और बिहार"}
+      },
+      "correct_option": "d",
+      "explanation": {
+        "en": "The British recruited more soldiers from 'martial races' like Gorkhas and Sikhs, who had remained loyal during the revolt.",
+        "hi": "अंग्रेजों ने गोरखाओं और सिखों जैसी 'लड़ाकू जातियों' से अधिक सैनिकों की भर्ती की, जो विद्रोह के दौरान वफादार रहे थे।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "The British began to treat which community with suspicion and hostility after the 1857 revolt?",
+        "hi": "1857 के विद्रोह के बाद अंग्रेजों ने किस समुदाय को संदेह और शत्रुता की दृष्टि से देखना शुरू कर दिया?"
+      },
+      "options": {
+        "a": {"en": "Sikhs", "hi": "सिखों को"},
+        "b": {"en": "Muslims", "hi": "मुसलमानों को"},
+        "c": {"en": "Parsis", "hi": "पारसियों को"},
+        "d": {"en": "Christians", "hi": "ईसाइयों को"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The British believed that Muslims were primarily responsible for the rebellion in a big way.",
+        "hi": "अंग्रेजों का मानना था कि मुख्य रूप से मुसलमान बड़े पैमाने पर विद्रोह के लिए जिम्मेदार थे।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Who was Ahmadullah Shah?",
+        "hi": "अहमदुल्लाह शाह कौन थे?"
+      },
+      "options": {
+        "a": {"en": "A British General", "hi": "एक ब्रिटिश जनरल"},
+        "b": {"en": "A maulvi from Faizabad who predicted the end of British rule", "hi": "फैजाबाद के एक मौलवी जिन्होंने ब्रिटिश शासन के अंत की भविष्यवाणी की थी"},
+        "c": {"en": "A Mughal prince", "hi": "एक मुगल राजकुमार"},
+        "d": {"en": "A trader from Bengal", "hi": "बंगाल का एक व्यापारी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Ahmadullah Shah came to Lucknow to fight the British and was a popular leader among the people.",
+        "hi": "अहमदुल्लाह शाह अंग्रेजों से लड़ने के लिए लखनऊ आए थे और लोगों के बीच एक लोकप्रिय नेता थे।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Which term describes a rebellion where soldiers disobey their officers?",
+        "hi": "सैनिकों द्वारा अपने अधिकारियों की आज्ञा न मानने वाले विद्रोह के लिए किस शब्द का प्रयोग किया जाता है?"
+      },
+      "options": {
+        "a": {"en": "Strike", "hi": "हड़ताल"},
+        "b": {"en": "Mutiny", "hi": "सिपाही विद्रोह (Mutiny)"},
+        "c": {"en": "Election", "hi": "चुनाव"},
+        "d": {"en": "Boycott", "hi": "बहिष्कार"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "A mutiny occurs when soldiers as a group disobey their officers in the army.",
+        "hi": "म्यूटिनी तब होती है जब सेना के सैनिक समूह के रूप में अपने अधिकारियों की आज्ञा का उल्लंघन करते हैं।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "The law passed in 1850 made it easier for Indians to:",
+        "hi": "1850 में पारित कानून ने भारतीयों के लिए क्या आसान बना दिया?"
+      },
+      "options": {
+        "a": {"en": "Join the army", "hi": "सेना में शामिल होना"},
+        "b": {"en": "Convert to Christianity and inherit ancestral property", "hi": "ईसाई धर्म अपनाना और पैतृक संपत्ति विरासत में प्राप्त करना"},
+        "c": {"en": "Travel to Europe", "hi": "यूरोप की यात्रा करना"},
+        "d": {"en": "Vote in elections", "hi": "चुनावों में मतदान करना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Many Indians felt the British were trying to destroy their religion and social customs through such laws.",
+        "hi": "कई भारतीयों को लगा कि अंग्रेज ऐसे कानूनों के माध्यम से उनके धर्म और सामाजिक रीति-रिवाजों को नष्ट करने की कोशिश कर रहे हैं।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "Who among these was a famous leader of the revolt in Mandla region of Madhya Pradesh?",
+        "hi": "इनमें से मध्य प्रदेश के मांडला क्षेत्र में विद्रोह की प्रसिद्ध नेता कौन थीं?"
+      },
+      "options": {
+        "a": {"en": "Begum Hazrat Mahal", "hi": "बेगम हजरत महल"},
+        "b": {"en": "Rani Avantibai Lodhi", "hi": "रानी अवंतीबाई लोधी"},
+        "c": {"en": "Rani Lakshmibai", "hi": "रानी लक्ष्मीबाई"},
+        "d": {"en": "Uda Devi", "hi": "उदा देवी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Rani Avantibai Lodhi of Ramgarh raised an army of 4000 against the British who had taken over the administration of her state.",
+        "hi": "रामगढ़ की रानी अवंतीबाई लोधी ने अंग्रेजों के खिलाफ 4000 की सेना खड़ी की, जिन्होंने उनके राज्य का प्रशासन अपने हाथ में ले लिया था।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "When the rebellion spread to the countryside, who did the peasants attack?",
+        "hi": "जब विद्रोह ग्रामीण इलाकों में फैला, तो किसानों ने किस पर हमला किया?"
+      },
+      "options": {
+        "a": {"en": "Other peasants", "hi": "अन्य किसानों पर"},
+        "b": {"en": "Moneylenders and Zamindars", "hi": "साहूकारों और ज़मींदारों पर"},
+        "c": {"en": "Tribal chiefs", "hi": "आदिवासी मुखियाओं पर"},
+        "d": {"en": "Foreign tourists", "hi": "विदेशी पर्यटकों पर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Peasants and zamindars joined the revolt to express their anger against high taxes and the loss of their land.",
+        "hi": "उच्च करों और अपनी भूमि खोने के खिलाफ अपना गुस्सा व्यक्त करने के लिए किसान और ज़मींदार विद्रोह में शामिल हुए।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "Why did the sepoys refuse to go to Burma across the sea in 1824?",
+        "hi": "1824 में सिपाहियों ने समुद्र पार करके बर्मा जाने से इनकार क्यों कर दिया था?"
+      },
+      "options": {
+        "a": {"en": "They were afraid of war", "hi": "वे युद्ध से डरे हुए थे"},
+        "b": {"en": "They believed they would lose their religion and caste", "hi": "उनका मानना था कि वे अपना धर्म और जाति खो देंगे"},
+        "c": {"en": "They wanted higher pay", "hi": "वे अधिक वेतन चाहते थे"},
+        "d": {"en": "The weather was bad", "hi": "मौसम खराब था"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "In those days, crossing the sea was believed to lead to a loss of one's caste and religion.",
+        "hi": "उन दिनों, समुद्र पार करने से किसी की जाति और धर्म के नष्ट होने का विश्वास था।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Which British officer was famous for defending the Residency in Lucknow during the siege?",
+        "hi": "घेराबंदी के दौरान लखनऊ में रेजिडेंसी की रक्षा करने के लिए कौन सा ब्रिटिश अधिकारी प्रसिद्ध था?"
+      },
+      "options": {
+        "a": {"en": "Sir Henry Lawrence", "hi": "सर हेनरी लॉरेंस"},
+        "b": {"en": "Colin Campbell", "hi": "कोलिन कैंपबेल"},
+        "c": {"en": "James Outram", "hi": "जेम्स आउट्राम"},
+        "d": {"en": "General Havelock", "hi": "जनरल हैवलॉक"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Sir Henry Lawrence, the Chief Commissioner, died during the siege of the Lucknow Residency.",
+        "hi": "मुख्य आयुक्त सर हेनरी लॉरेंस की लखनऊ रेजिडेंसी की घेराबंदी के दौरान मृत्यु हो गई थी।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "After the revolt, the British decided to respect Indian _______.",
+        "hi": "विद्रोह के बाद, अंग्रेजों ने भारतीय _______ का सम्मान करने का निर्णय लिया।"
+      },
+      "options": {
+        "a": {"en": "Freedom", "hi": "स्वतंत्रता"},
+        "b": {"en": "Religious and social practices", "hi": "धार्मिक और सामाजिक प्रथाओं"},
+        "c": {"en": "Political boundaries", "hi": "राजनीतिक सीमाओं"},
+        "d": {"en": "Industrial growth", "hi": "औद्योगिक विकास"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The British realized that interfering with social and religious customs had been a major cause of the rebellion.",
+        "hi": "अंग्रेजों ने महसूस किया कि सामाजिक और धार्मिक रीति-रिवाजों में हस्तक्षेप करना विद्रोह का एक प्रमुख कारण था।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "Who managed to escape to the jungles of central India and continued a guerrilla war against the British?",
+        "hi": "कौन मध्य भारत के जंगलों में भागने में सफल रहा और अंग्रेजों के खिलाफ गुरिल्ला युद्ध जारी रखा?"
+      },
+      "options": {
+        "a": {"en": "Nana Sahib", "hi": "नाना साहिब"},
+        "b": {"en": "Tantia Tope", "hi": "तांत्या टोपे"},
+        "c": {"en": "Kunwar Singh", "hi": "कुंवर सिंह"},
+        "d": {"en": "Bakht Khan", "hi": "बख्त खान"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Tantia Tope continued the struggle for many months with the help of tribal and peasant leaders before he was captured and killed.",
+        "hi": "तांत्या टोपे ने पकड़े जाने और मारे जाने से पहले आदिवासी और किसान नेताओं की मदद से कई महीनों तक संघर्ष जारी रखा।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "The rebellion of 1857 is also known as:",
+        "hi": "1857 के विद्रोह को इस नाम से भी जाना जाता है:"
+      },
+      "options": {
+        "a": {"en": "The First War of Independence", "hi": "स्वतंत्रता का पहला युद्ध"},
+        "b": {"en": "The Sepoy Mutiny", "hi": "सिपाही विद्रोह"},
+        "c": {"en": "The Great Rebellion", "hi": "महान विद्रोह"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "explanation": {
+        "en": "Historians use various terms to describe this massive uprising that shook the foundations of British rule in India.",
+        "hi": "इतिहासकार भारत में ब्रिटिश शासन की नींव हिला देने वाले इस बड़े विद्रोह का वर्णन करने के लिए विभिन्न शब्दों का उपयोग करते हैं।"
+      }
+    }
+  ]
+}
