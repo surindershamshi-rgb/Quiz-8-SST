@@ -1,0 +1,794 @@
+{
+  "metadata": {
+    "chapter_number": 2,
+    "chapter_title": "From Trade to Territory: The Company Establishes Power",
+    "chapter_title_hindi": "व्यापार से साम्राज्य तक: कंपनी की सत्ता स्थापित होती है",
+    "subject": "History - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_HI_CH02_TradeToTerritory_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Who was the last of the powerful Mughal rulers?",
+        "hi": "शक्तिशाली मुगल शासकों में अंतिम कौन था?"
+      },
+      "options": {
+        "a": {"en": "Akbar", "hi": "अकबर"},
+        "b": {"en": "Aurangzeb", "hi": "औरंगज़ेब"},
+        "c": {"en": "Bahadur Shah Zafar", "hi": "बहादुर शाह ज़फ़र"},
+        "d": {"en": "Shah Jahan", "hi": "शाहजहाँ"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He died in 1707, after which many Mughal governors established independent kingdoms.",
+        "hi": "उनकी मृत्यु 1707 में हुई थी, जिसके बाद कई मुगल गवर्नरों ने स्वतंत्र राज्य स्थापित किए।"
+      },
+      "explanation": {
+        "en": "Aurangzeb was the last of the powerful Mughal rulers. After his death in 1707, the Mughal Empire began to decline as regional governors (Subadars) asserted their authority.",
+        "hi": "औरंगज़ेब अंतिम शक्तिशाली मुगल शासक थे। 1707 में उनकी मृत्यु के बाद मुगल साम्राज्य कमजोर होने लगा।"
+      },
+      "key_takeaway": {
+        "en": "Aurangzeb's death (1707) = Decline of Mughal central power.",
+        "hi": "औरंगज़ेब की मृत्यु (1707) = मुगल केंद्रीय सत्ता का पतन।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "In which year did the East India Company acquire a Charter from Queen Elizabeth I?",
+        "hi": "ईस्ट इंडिया कंपनी ने किस वर्ष महारानी एलिजाबेथ प्रथम से चार्टर (इजाज़तनामा) प्राप्त किया?"
+      },
+      "options": {
+        "a": {"en": "1600", "hi": "1600"},
+        "b": {"en": "1650", "hi": "1650"},
+        "c": {"en": "1700", "hi": "1700"},
+        "d": {"en": "1500", "hi": "1500"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "This Charter gave the Company the sole right to trade with the East.",
+        "hi": "इस चार्टर ने कंपनी को पूर्व के साथ व्यापार करने का एकमात्र अधिकार दिया।"
+      },
+      "explanation": {
+        "en": "In 1600, the East India Company acquired a Charter from Queen Elizabeth I, granting it the monopoly to trade with the East, meaning no other English group could compete with it.",
+        "hi": "1600 में ईस्ट इंडिया कंपनी को महारानी से पूर्व में व्यापार करने का एकाधिकार मिला।"
+      },
+      "key_takeaway": {
+        "en": "1600 Charter = Trading Monopoly for EIC.",
+        "hi": "1600 का चार्टर = ईस्ट इंडिया कंपनी के लिए व्यापारिक एकाधिकार।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Who was the first Portuguese explorer to discover the sea route to India in 1498?",
+        "hi": "1498 में भारत के लिए समुद्री मार्ग की खोज करने वाला पहला पुर्तगाली खोजकर्ता कौन था?"
+      },
+      "options": {
+        "a": {"en": "Christopher Columbus", "hi": "क्रिस्टोफर कोलंबस"},
+        "b": {"en": "Vasco da Gama", "hi": "वास्को डी गामा"},
+        "c": {"en": "Captain Cook", "hi": "कैप्टन कुक"},
+        "d": {"en": "Albuquerque", "hi": "अल्बुकर्क"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He landed at Calicut on the western coast of India.",
+        "hi": "वह भारत के पश्चिमी तट पर कालीकट पहुँचा था।"
+      },
+      "explanation": {
+        "en": "Vasco da Gama, a Portuguese explorer, discovered the sea route to India in 1498, which opened the way for European trade in the East.",
+        "hi": "वास्को डी गामा ने 1498 में भारत पहुँचने के समुद्री मार्ग का पता लगाया था।"
+      },
+      "key_takeaway": {
+        "en": "Vasco da Gama (1498) = First European sea route to India.",
+        "hi": "वास्को डी गामा (1498) = भारत के लिए पहला यूरोपीय समुद्री मार्ग।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "The first English factory was set up on the banks of the river ______ in 1651.",
+        "hi": "पहली अंग्रेजी फैक्ट्री 1651 में ______ नदी के किनारे स्थापित की गई थी।"
+      },
+      "options": {
+        "a": {"en": "Ganga", "hi": "गंगा"},
+        "b": {"en": "Hugli", "hi": "हुगली"},
+        "c": {"en": "Yamuna", "hi": "यमुना"},
+        "d": {"en": "Narmada", "hi": "नर्मदा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This river flows through Bengal.",
+        "hi": "यह नदी बंगाल से होकर बहती है।"
+      },
+      "explanation": {
+        "en": "The first English factory was set up on the banks of the river Hugli in 1651. This was the base from which the Company’s traders, known at that time as 'factors', operated.",
+        "hi": "अंग्रेजों ने अपनी पहली व्यापारिक कोठी (फैक्ट्री) 1651 में हुगली नदी के किनारे शुरू की थी।"
+      },
+      "key_takeaway": {
+        "en": "1651 = First English Factory on Hugli.",
+        "hi": "1651 = हुगली पर पहली अंग्रेजी फैक्ट्री।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Which battle is often considered the first major victory of the English East India Company in India?",
+        "hi": "किस युद्ध को अक्सर भारत में अंग्रेजी ईस्ट इंडिया कंपनी की पहली बड़ी जीत माना जाता है?"
+      },
+      "options": {
+        "a": {"en": "Battle of Buxar", "hi": "बक्सर का युद्ध"},
+        "b": {"en": "Battle of Plassey", "hi": "प्लासी का युद्ध"},
+        "c": {"en": "Battle of Panipat", "hi": "पानीपत का युद्ध"},
+        "d": {"en": "Battle of Seringapatam", "hi": "श्रीरंगपट्टनम का युद्ध"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was fought in 1757 against Nawab Sirajuddaulah.",
+        "hi": "यह 1757 में नवाब सिराजुद्दौला के खिलाफ लड़ा गया था।"
+      },
+      "explanation": {
+        "en": "The Battle of Plassey (1757) became famous because it was the first major victory the Company won in India, leading to their political influence in Bengal.",
+        "hi": "1757 में प्लासी का युद्ध अंग्रेजों की भारत में पहली बड़ी जीत थी।"
+      },
+      "key_takeaway": {
+        "en": "Battle of Plassey (1757) = Start of British political power.",
+        "hi": "प्लासी का युद्ध (1757) = ब्रिटिश राजनीतिक शक्ति की शुरुआत।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Who led the Company's army in the Battle of Plassey against Sirajuddaulah?",
+        "hi": "सिराजुद्दौला के खिलाफ प्लासी के युद्ध में कंपनी की सेना का नेतृत्व किसने किया था?"
+      },
+      "options": {
+        "a": {"en": "Robert Clive", "hi": "रॉबर्ट क्लाइव"},
+        "b": {"en": "Warren Hastings", "hi": "वॉरेन हेस्टिंग्स"},
+        "c": {"en": "Lord Cornwallis", "hi": "लॉर्ड कॉर्नवालिस"},
+        "d": {"en": "Lord Dalhousie", "hi": "लॉर्ड डलहौजी"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "He managed to ensure the neutrality of Mir Jafar, one of the Nawab's commanders.",
+        "hi": "उन्होंने नवाब के सेनापतियों में से एक, मीर जाफर की तटस्थता सुनिश्चित करने में सफलता पाई थी।"
+      },
+      "explanation": {
+        "en": "Robert Clive led the Company’s army against Sirajuddaulah at Plassey. One of the main reasons for the Nawab's defeat was that the forces led by Mir Jafar never fought the battle.",
+        "hi": "रॉबर्ट क्लाइव ने प्लासी के युद्ध में अंग्रेजी सेना की कमान संभाली थी।"
+      },
+      "key_takeaway": {
+        "en": "Robert Clive = Architect of Plassey victory.",
+        "hi": "रॉबर्ट क्लाइव = प्लासी विजय के सूत्रधार।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "In 1765, the Mughal Emperor appointed the Company as the ________ of the provinces of Bengal.",
+        "hi": "1765 में, मुगल सम्राट ने कंपनी को बंगाल प्रांत का ________ नियुक्त किया।"
+      },
+      "options": {
+        "a": {"en": "King", "hi": "राजा"},
+        "b": {"en": "Diwan", "hi": "दीवान"},
+        "c": {"en": "Nawab", "hi": "नवाब"},
+        "d": {"en": "Viceroy", "hi": "वायसराय"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This allowed the Company to use the vast revenue resources of Bengal.",
+        "hi": "इससे कंपनी को बंगाल के विशाल राजस्व संसाधनों का उपयोग करने की अनुमति मिल गई।"
+      },
+      "explanation": {
+        "en": "In 1765, the Mughal emperor appointed the Company as the Diwan of Bengal. This solved a major problem as it allowed the Company to use local revenues to buy Indian goods.",
+        "hi": "1765 में कंपनी को बंगाल की दीवानी मिल गई, जिससे उन्हें राजस्व वसूली का अधिकार मिल गया।"
+      },
+      "key_takeaway": {
+        "en": "Diwani Right (1765) = Control over Bengal's revenues.",
+        "hi": "दीवानी अधिकार (1765) = बंगाल के राजस्व पर नियंत्रण।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Under which policy did the Company annex Indian states if a ruler died without a male heir?",
+        "hi": "किस नीति के तहत कंपनी उन भारतीय राज्यों को हड़प लेती थी जिनके शासक की मृत्यु बिना किसी पुरुष उत्तराधिकारी के हो जाती थी?"
+      },
+      "options": {
+        "a": {"en": "Subsidiary Alliance", "hi": "सहायक संधि"},
+        "b": {"en": "Doctrine of Lapse", "hi": "विलय नीति (Doctrine of Lapse)"},
+        "c": {"en": "Paramountcy", "hi": "सर्वोच्चता की नीति"},
+        "d": {"en": "Direct Annexation", "hi": "प्रत्यक्ष विलय"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This policy was introduced by Lord Dalhousie.",
+        "hi": "यह नीति लॉर्ड डलहौजी द्वारा शुरू की गई थी।"
+      },
+      "explanation": {
+        "en": "The Doctrine of Lapse was devised by Lord Dalhousie. It stated that if an Indian ruler died without a male heir his kingdom would 'lapse' and become part of Company territory.",
+        "hi": "लॉर्ड डलहौजी की विलय नीति (डॉक्ट्रिन ऑफ लैप्स) के तहत वारिस न होने पर राज्य कंपनी के नियंत्रण में आ जाता था।"
+      },
+      "key_takeaway": {
+        "en": "Doctrine of Lapse = Lord Dalhousie's annexation tool.",
+        "hi": "विलय नीति = लॉर्ड डलहौजी का राज्य हड़पने का हथियार।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Who was known as the 'Tiger of Mysore'?",
+        "hi": "'मैसूर का शेर' किसे कहा जाता था?"
+      },
+      "options": {
+        "a": {"en": "Haider Ali", "hi": "हैदर अली"},
+        "b": {"en": "Tipu Sultan", "hi": "टीपू सुल्तान"},
+        "c": {"en": "Nana Phadnavis", "hi": "नाना फड़नवीस"},
+        "d": {"en": "Mahadji Sindhia", "hi": "महादजी सिंधिया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He fought four wars against the British and died defending his capital Seringapatam.",
+        "hi": "उन्होंने अंग्रेजों के खिलाफ चार युद्ध लड़े और अपनी राजधानी श्रीरंगपट्टनम की रक्षा करते हुए शहीद हुए।"
+      },
+      "explanation": {
+        "en": "Tipu Sultan was the ruler of Mysore and a fierce opponent of the British. He was known as the Tiger of Mysore.",
+        "hi": "टीपू सुल्तान को उनकी बहादुरी के कारण 'मैसूर का शेर' कहा जाता था।"
+      },
+      "key_takeaway": {
+        "en": "Tipu Sultan = Tiger of Mysore.",
+        "hi": "टीपू सुल्तान = मैसूर का शेर।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "In the 'Subsidiary Alliance' system, what was an Indian ruler forced to do?",
+        "hi": "'सहायक संधि' (Subsidiary Alliance) प्रणाली में, एक भारतीय शासक को क्या करने के लिए मजबूर किया जाता था?"
+      },
+      "options": {
+        "a": {"en": "Keep his own independent army", "hi": "अपनी स्वतंत्र सेना रखना"},
+        "b": {"en": "Accept a British Resident and pay for British subsidiary forces", "hi": "ब्रिटिश रेजिडेंट को स्वीकार करना और ब्रिटिश सहायक सेना के लिए भुगतान करना"},
+        "c": {"en": "Marry a British princess", "hi": "एक ब्रिटिश राजकुमारी से शादी करना"},
+        "d": {"en": "Stop all trade with foreign countries", "hi": "विदेशों के साथ सारा व्यापार बंद करना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "If they failed to pay, part of their territory was taken away as penalty.",
+        "hi": "यदि वे भुगतान करने में विफल रहते थे, तो उनके क्षेत्र का हिस्सा दंड के रूप में ले लिया जाता था।"
+      },
+      "explanation": {
+        "en": "Under the Subsidiary Alliance, Indian rulers were not allowed to have independent armed forces and had to pay for the Company's subsidiary force. Failure to pay led to loss of territory.",
+        "hi": "सहायक संधि के तहत शासकों को अपनी सेना रखने की इजाज़त नहीं थी और उन्हें ब्रिटिश सेना का खर्च उठाना पड़ता था।"
+      },
+      "key_takeaway": {
+        "en": "Subsidiary Alliance = Loss of military independence.",
+        "hi": "सहायक संधि = सैन्य स्वतंत्रता का अंत।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Who introduced the policy of 'Paramountcy'?",
+        "hi": "'सर्वोच्चता' (Paramountcy) की नीति किसने शुरू की थी?"
+      },
+      "options": {
+        "a": {"en": "Warren Hastings", "hi": "वॉरेन हेस्टिंग्स"},
+        "b": {"en": "Lord Hastings", "hi": "लॉर्ड हेस्टिंग्स"},
+        "c": {"en": "Lord Bentinck", "hi": "लॉर्ड बेंटिक"},
+        "d": {"en": "Lord Wellesley", "hi": "लॉर्ड वेलेज़ली"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Under this, the Company claimed its authority was supreme or paramount over all Indian states.",
+        "hi": "इसके तहत, कंपनी ने दावा किया कि उसकी सत्ता सभी भारतीय राज्यों से ऊपर या सर्वोच्च है।"
+      },
+      "explanation": {
+        "en": "Under Lord Hastings (Governor-General from 1813 to 1823), a new policy of 'paramountcy' was initiated, claiming that the Company's power was greater than that of Indian states.",
+        "hi": "लॉर्ड हेस्टिंग्स के काल में सर्वोच्चता की नीति शुरू हुई, जिसमें कंपनी ने खुद को भारतीय राज्यों से श्रेष्ठ घोषित किया।"
+      },
+      "key_takeaway": {
+        "en": "Paramountcy = Claim of British superiority.",
+        "hi": "सर्वोच्चता = ब्रिटिश श्रेष्ठता का दावा।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "Which brave queen of Kitoor led an anti-British resistance movement when her state was annexed?",
+        "hi": "कित्तूर की किस बहादुर रानी ने अपने राज्य के विलय होने पर अंग्रेज विरोधी प्रतिरोध आंदोलन का नेतृत्व किया था?"
+      },
+      "options": {
+        "a": {"en": "Rani Laxmibai", "hi": "रानी लक्ष्मीबाई"},
+        "b": {"en": "Rani Channamma", "hi": "रानी चेन्नम्मा"},
+        "c": {"en": "Razia Sultan", "hi": "रज़िया सुल्तान"},
+        "d": {"en": "Begum Hazrat Mahal", "hi": "बेगम हज़रत महल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She was arrested in 1824 and died in prison in 1829.",
+        "hi": "उन्हें 1824 में गिरफ्तार किया गया था और 1829 में जेल में उनकी मृत्यु हो गई थी।"
+      },
+      "explanation": {
+        "en": "When the British tried to annex the small state of Kitoor (in Karnataka), Rani Channamma took to arms and led an anti-British resistance movement.",
+        "hi": "रानी चेन्नम्मा ने कित्तूर को बचाने के लिए अंग्रेजों के खिलाफ हथियार उठाए थे।"
+      },
+      "key_takeaway": {
+        "en": "Rani Channamma = Resistance against Paramountcy.",
+        "hi": "रानी चेन्नम्मा = सर्वोच्चता की नीति के खिलाफ प्रतिरोध।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "The Battle of Buxar was fought in which year?",
+        "hi": "बक्सर का युद्ध किस वर्ष लड़ा गया था?"
+      },
+      "options": {
+        "a": {"en": "1757", "hi": "1757"},
+        "b": {"en": "1764", "hi": "1764"},
+        "c": {"en": "1761", "hi": "1761"},
+        "d": {"en": "1857", "hi": "1857"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It resulted in the defeat of Mir Qasim and the signing of the Treaty of Allahabad.",
+        "hi": "इसके परिणामस्वरूप मीर कासिम की हार हुई और इलाहाबाद की संधि पर हस्ताक्षर किए गए।"
+      },
+      "explanation": {
+        "en": "The Battle of Buxar (1764) saw the defeat of the combined forces of Mir Qasim, Shuja-ud-Daulah, and Shah Alam II. This battle firmly established the British as masters of Bengal.",
+        "hi": "1764 में बक्सर के युद्ध ने बंगाल पर अंग्रेजों का नियंत्रण पक्का कर दिया।"
+      },
+      "key_takeaway": {
+        "en": "Battle of Buxar (1764) = Consolidated British rule in Bengal.",
+        "hi": "बक्सर का युद्ध (1764) = बंगाल में ब्रिटिश शासन सुदृढ़ हुआ।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Which Indian state was annexed by the British in 1856 on the grounds of 'misgovernment'?",
+        "hi": "1856 में किस भारतीय राज्य को अंग्रेजों ने 'कुशासन' के आधार पर हड़प लिया था?"
+      },
+      "options": {
+        "a": {"en": "Jhansi", "hi": "झांसी"},
+        "b": {"en": "Satara", "hi": "सतारा"},
+        "c": {"en": "Awadh", "hi": "अवध"},
+        "d": {"en": "Nagpur", "hi": "नागपुर"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "The people of this state were enraged and joined the great revolt of 1857.",
+        "hi": "इस राज्य के लोग क्रोधित हो गए और 1857 के महान विद्रोह में शामिल हो गए।"
+      },
+      "explanation": {
+        "en": "In 1856, the Company took over Awadh. The British added an argument: they said they were 'obliged by duty' to take over Awadh to free the people from 'misgovernment'.",
+        "hi": "1856 में अंग्रेजों ने कुशासन का बहाना बनाकर अवध पर कब्ज़ा कर लिया था।"
+      },
+      "key_takeaway": {
+        "en": "Awadh Annexation (1856) = Based on 'Misgovernment'.",
+        "hi": "अवध का विलय (1856) = 'कुशासन' के आधार पर।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "What did the term 'Nabobs' refer to in 18th-century Britain?",
+        "hi": "18वीं सदी के ब्रिटेन में 'नबोब' (Nabobs) शब्द का क्या अर्थ था?"
+      },
+      "options": {
+        "a": {"en": "Indian princes who visited London", "hi": "लंदन जाने वाले भारतीय राजकुमार"},
+        "b": {"en": "Company officials who returned to Britain with great wealth", "hi": "कंपनी के वे अधिकारी जो भारी संपत्ति के साथ ब्रिटेन लौटे"},
+        "c": {"en": "British tea merchants", "hi": "ब्रिटिश चाय व्यापारी"},
+        "d": {"en": "Soldiers who died in India", "hi": "भारत में मरने वाले सैनिक"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was an anglicized version of the Indian word 'Nawab'.",
+        "hi": "यह भारतीय शब्द 'नवाब' का अंग्रेजी संस्करण था।"
+      },
+      "explanation": {
+        "en": "Company officials who managed to return with wealth led flashy lives and showed off their riches. They were called 'nabobs' – an anglicised version of the Indian word Nawab.",
+        "hi": "भारत से बेहिसाब दौलत कमाकर इंग्लैंड लौटने वाले कंपनी अधिकारियों को 'नबोब' कहा जाता था।"
+      },
+      "key_takeaway": {
+        "en": "Nabobs = Corrupt and wealthy EIC officials.",
+        "hi": "नबोब = भ्रष्ट और धनी ईस्ट इंडिया कंपनी के अधिकारी।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "The Marathas were defeated in the Third Battle of Panipat in:",
+        "hi": "पानीपत के तीसरे युद्ध में मराठों की हार कब हुई थी?"
+      },
+      "options": {
+        "a": {"en": "1757", "hi": "1757"},
+        "b": {"en": "1761", "hi": "1761"},
+        "c": {"en": "1764", "hi": "1764"},
+        "d": {"en": "1818", "hi": "1818"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This defeat shattered their dream of ruling from Delhi.",
+        "hi": "इस हार ने दिल्ली से शासन करने के उनके सपने को चकनाचूर कर दिया।"
+      },
+      "explanation": {
+        "en": "With their defeat in the Third Battle of Panipat in 1761, the Marathas' dream of ruling from Delhi was shattered. They were divided into many states under different chiefs.",
+        "hi": "1761 के पानीपत के तीसरे युद्ध में मराठों की हार से उनकी शक्ति कमजोर हो गई।"
+      },
+      "key_takeaway": {
+        "en": "1761 = Third Battle of Panipat.",
+        "hi": "1761 = पानीपत का तीसरा युद्ध।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "Who were the 'Residents' in the context of the Company's administration?",
+        "hi": "कंपनी के प्रशासन के संदर्भ में 'रेजिडेंट' (Residents) कौन थे?"
+      },
+      "options": {
+        "a": {"en": "Indian peasants living in factories", "hi": "फैक्ट्रियों में रहने वाले भारतीय किसान"},
+        "b": {"en": "Political or commercial agents of the Company in Indian states", "hi": "भारतीय राज्यों में कंपनी के राजनीतिक या व्यावसायिक एजेंट"},
+        "c": {"en": "British soldiers stationed in villages", "hi": "गाँवों में तैनात ब्रिटिश सैनिक"},
+        "d": {"en": "Judges in the local courts", "hi": "स्थानीय अदालतों में न्यायाधीश"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Through them, the Company began interfering in the internal affairs of Indian states.",
+        "hi": "उनके माध्यम से, कंपनी ने भारतीय राज्यों के आंतरिक मामलों में हस्तक्षेप करना शुरू कर दिया।"
+      },
+      "explanation": {
+        "en": "After the Battle of Buxar, the Company appointed Residents in Indian states. Their job was to serve and further the interests of the Company.",
+        "hi": "रेजिडेंट कंपनी के वे अधिकारी थे जो भारतीय रियासतों में रहकर कंपनी के हितों की रक्षा करते थे।"
+      },
+      "key_takeaway": {
+        "en": "Residents = Tools for internal interference.",
+        "hi": "रेजिडेंट = आंतरिक हस्तक्षेप के साधन।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "The first Governor-General who introduced several administrative and judicial reforms was:",
+        "hi": "कई प्रशासनिक और न्यायिक सुधारों की शुरुआत करने वाले पहले गवर्नर-जनरल कौन थे?"
+      },
+      "options": {
+        "a": {"en": "Lord Clive", "hi": "लॉर्ड क्लाइव"},
+        "b": {"en": "Warren Hastings", "hi": "वॉरेन हेस्टिंग्स"},
+        "c": {"en": "Lord Wellesley", "hi": "लॉर्ड वेलेज़ली"},
+        "d": {"en": "Lord Mountbatten", "hi": "लॉर्ड माउंटबेटन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He established a new system of justice in 1772.",
+        "hi": "उन्होंने 1772 में न्याय की एक नई प्रणाली स्थापित की।"
+      },
+      "explanation": {
+        "en": "Warren Hastings (1773-1785) played a significant role in the expansion of Company power. He introduced a new system of justice where each district had two courts: a criminal court (faujdari adalat) and a civil court (diwani adalat).",
+        "hi": "वॉरेन हेस्टिंग्स ने न्याय प्रणाली में सुधार करते हुए फौजदारी और दीवानी अदालतों की स्थापना की।"
+      },
+      "key_takeaway": {
+        "en": "Warren Hastings = Judicial Reforms (Faujdari/Diwani).",
+        "hi": "वॉरेन हेस्टिंग्स = न्यायिक सुधार (फौजदारी/दीवानी)।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What was the 'Faujdari Adalat'?",
+        "hi": "'फौजदारी अदालत' क्या थी?"
+      },
+      "options": {
+        "a": {"en": "Civil Court", "hi": "दीवानी अदालत"},
+        "b": {"en": "Criminal Court", "hi": "आपराधिक (क्रिमिनल) अदालत"},
+        "c": {"en": "Military Court", "hi": "सैन्य अदालत"},
+        "d": {"en": "Supreme Court", "hi": "सुप्रीम कोर्ट"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was presided over by a Qazi and a Mufti.",
+        "hi": "इसकी अध्यक्षता काज़ी और मुफ्ती करते थे।"
+      },
+      "explanation": {
+        "en": "Under the 1772 system, each district had a criminal court known as the Faujdari Adalat. It was under a Qazi and a Mufti but supervised by the Collector.",
+        "hi": "फौजदारी अदालत का अर्थ आपराधिक मामलों की सुनवाई करने वाली अदालत था।"
+      },
+      "key_takeaway": {
+        "en": "Faujdari = Criminal; Diwani = Civil.",
+        "hi": "फौजदारी = आपराधिक; दीवानी = नागरिक।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "Who were the 'Sepoys' in the Company's army?",
+        "hi": "कंपनी की सेना में 'सिपाही' (Sepoys) कौन थे?"
+      },
+      "options": {
+        "a": {"en": "British soldiers", "hi": "ब्रिटिश सैनिक"},
+        "b": {"en": "Indian soldiers trained in European style", "hi": "यूरोपीय शैली में प्रशिक्षित भारतीय सैनिक"},
+        "c": {"en": "Tribal warriors", "hi": "आदिवासी योद्धा"},
+        "d": {"en": "Secret spies", "hi": "गुप्त जासूस"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The word comes from the Indian word 'Sipahi'.",
+        "hi": "यह शब्द भारतीय शब्द 'सिपाही' से आया है।"
+      },
+      "explanation": {
+        "en": "The Company began recruiting peasants into their own army and training them as professional soldiers. This was known as the sepoy army (from the Indian word sipahi).",
+        "hi": "कंपनी ने भारतीय किसानों को सिपाही के रूप में भर्ती कर उन्हें आधुनिक प्रशिक्षण दिया।"
+      },
+      "key_takeaway": {
+        "en": "Sepoy = Indian soldier of British army.",
+        "hi": "सिपाही = ब्रिटिश सेना का भारतीय सैनिक।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "What changed in the Company's army in the 1820s?",
+        "hi": "1820 के दशक में कंपनी की सेना में क्या बदलाव आया?"
+      },
+      "options": {
+        "a": {"en": "Cavalry (horses) became more important", "hi": "घुड़सवार सेना अधिक महत्वपूर्ण हो गई"},
+        "b": {"en": "Infantry (foot soldiers) armed with muskets became more important", "hi": "मस्केट (बंदूक) से लैस पैदल सेना अधिक महत्वपूर्ण हो गई"},
+        "c": {"en": "The use of elephants was increased", "hi": "हाथियों का उपयोग बढ़ा दिया गया"},
+        "d": {"en": "Soldiers stopped using weapons", "hi": "सैनिकों ने हथियारों का उपयोग बंद कर दिया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Warfare technology changed as the British fought in Burma and Afghanistan.",
+        "hi": "युद्ध तकनीक बदल गई क्योंकि अंग्रेज बर्मा और अफगानिस्तान में लड़े थे।"
+      },
+      "explanation": {
+        "en": "As warfare technology changed from the 1820s, the cavalry requirements of the Company’s army declined and infantry (soldiers with muskets) became more important.",
+        "hi": "1820 के दशक से युद्ध की तकनीक बदलने लगी और पैदल सेना (इंफेंट्री) का महत्व बढ़ गया।"
+      },
+      "key_takeaway": {
+        "en": "1820s Shift = Focus on Infantry with Firearms.",
+        "hi": "1820 का दशक = बंदूकों से लैस पैदल सेना पर ध्यान।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "The Maratha power was finally crushed after the:",
+        "hi": "मराठा शक्ति को अंततः किस युद्ध के बाद कुचल दिया गया था?"
+      },
+      "options": {
+        "a": {"en": "First Anglo-Maratha War", "hi": "प्रथम आंग्ल-मराठा युद्ध"},
+        "b": {"en": "Second Anglo-Maratha War", "hi": "द्वितीय आंग्ल-मराठा युद्ध"},
+        "c": {"en": "Third Anglo-Maratha War", "hi": "तृतीय आंग्ल-मराठा युद्ध"},
+        "d": {"en": "Battle of Plassey", "hi": "प्लासी का युद्ध"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It took place between 1817 and 1819.",
+        "hi": "यह 1817 और 1819 के बीच हुआ था।"
+      },
+      "explanation": {
+        "en": "The Third Anglo-Maratha War of 1817-19 crushed Maratha power. The Peshwa was removed and sent away to Bithur near Kanpur with a pension.",
+        "hi": "1817-19 के तीसरे आंग्ल-मराठा युद्ध के बाद मराठा शक्ति पूरी तरह खत्म हो गई।"
+      },
+      "key_takeaway": {
+        "en": "Third Anglo-Maratha War = End of Maratha dream.",
+        "hi": "तीसरा आंग्ल-मराठा युद्ध = मराठा शक्ति का अंत।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Which of these was the administrative capital of British India in the 18th century?",
+        "hi": "18वीं शताब्दी में ब्रिटिश भारत की प्रशासनिक राजधानी इनमें से कौन सी थी?"
+      },
+      "options": {
+        "a": {"en": "Bombay", "hi": "बंबई"},
+        "b": {"en": "Calcutta", "hi": "कलकत्ता"},
+        "c": {"en": "Madras", "hi": "मद्रास"},
+        "d": {"en": "Surat", "hi": "सूरत"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was the main center of power in Bengal.",
+        "hi": "यह बंगाल में शक्ति का मुख्य केंद्र था।"
+      },
+      "explanation": {
+        "en": "British territories were broadly divided into administrative units called Presidencies. The three Presidencies were Bengal, Madras and Bombay. Calcutta (Bengal) was the primary center.",
+        "hi": "अंग्रेजों ने अपने शासन के लिए तीन प्रेसीडेंसी बनाई थीं: बंगाल, मद्रास और बंबई।"
+      },
+      "key_takeaway": {
+        "en": "Presidencies = Bengal, Madras, Bombay.",
+        "hi": "प्रेसीडेंसी = बंगाल, मद्रास, बंबई।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "Who translated 'A Code of Gentoo Laws' in 1775 to help British judges?",
+        "hi": "1775 में ब्रिटिश न्यायाधीशों की मदद के लिए 'ए कोड ऑफ जेंटू लॉज़' का अनुवाद किसने किया था?"
+      },
+      "options": {
+        "a": {"en": "N.B. Halhed", "hi": "एन.बी. हलहेड (N.B. Halhed)"},
+        "b": {"en": "William Jones", "hi": "विलियम जोन्स"},
+        "c": {"en": "James Mill", "hi": "जेम्स मिल"},
+        "d": {"en": "Warren Hastings", "hi": "वॉरेन हेस्टिंग्स"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "A digest of Hindu laws was compiled by eleven pandits.",
+        "hi": "ग्यारह पंडितों द्वारा हिंदू कानूनों का एक सार संकलित किया गया था।"
+      },
+      "explanation": {
+        "en": "To bring about uniformity, in 1775 eleven pandits were asked to compile a digest of Hindu laws. N.B. Halhed translated this digest into English.",
+        "hi": "एन.बी. हलहेड ने हिंदू कानूनों के सार का अंग्रेजी में अनुवाद किया था।"
+      },
+      "key_takeaway": {
+        "en": "N.B. Halhed = Translator of Hindu laws for EIC.",
+        "hi": "एन.बी. हलहेड = ईस्ट इंडिया कंपनी के लिए हिंदू कानूनों के अनुवादक।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "What did the 'Charter' of 1600 fail to do?",
+        "hi": "1600 का 'चार्टर' क्या करने में विफल रहा?"
+      },
+      "options": {
+        "a": {"en": "Grant monopoly to the EIC", "hi": "ईस्ट इंडिया कंपनी को एकाधिकार देना"},
+        "b": {"en": "Prevent other European powers from entering the Eastern markets", "hi": "अन्य यूरोपीय शक्तियों को पूर्वी बाज़ारों में प्रवेश करने से रोकना"},
+        "c": {"en": "Stop English groups from trading", "hi": "अंग्रेजी समूहों को व्यापार करने से रोकना"},
+        "d": {"en": "Authorize trade in spices", "hi": "मसालों में व्यापार को अधिकृत करना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The Charter only applied to English traders, not to Portuguese or Dutch.",
+        "hi": "चार्टर केवल अंग्रेजी व्यापारियों पर लागू होता था, पुर्तगालियों या डचों पर नहीं।"
+      },
+      "explanation": {
+        "en": "The royal charter could not prevent other European powers from entering the Eastern markets. By the time the first English ships arrived, the Portuguese were already in Goa.",
+        "hi": "महारानी का चार्टर पुर्तगालियों और डचों को भारत आने से नहीं रोक सका।"
+      },
+      "key_takeaway": {
+        "en": "EIC Monopoly = Only against other English companies.",
+        "hi": "ईस्ट इंडिया कंपनी का एकाधिकार = केवल अन्य ब्रिटिश कंपनियों के खिलाफ।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "Why were European trading companies interested in India?",
+        "hi": "यूरोपीय व्यापारिक कंपनियां भारत में क्यों रुचि रखती थीं?"
+      },
+      "options": {
+        "a": {"en": "For fine qualities of cotton and silk", "hi": "कपास और रेशम की अच्छी किस्मों के लिए"},
+        "b": {"en": "For spices like pepper, cloves, cardamom and cinnamon", "hi": "काली मिर्च, लौंग, इलायची और दालचीनी जैसे मसालों के लिए"},
+        "c": {"en": "To buy goods cheap and sell high in Europe", "hi": "सस्ता सामान खरीदने और यूरोप में ऊँचे दामों पर बेचने के लिए"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "India produced high-quality textiles and spices that were in great demand.",
+        "hi": "भारत उच्च गुणवत्ता वाले वस्त्रों और मसालों का उत्पादन करता था जिनकी बहुत मांग थी।"
+      },
+      "explanation": {
+        "en": "The fine qualities of cotton and silk produced in India had a big market in Europe. Spices were also in great demand. All companies competed to buy these goods.",
+        "hi": "भारतीय मसालों और सूती कपड़ों की यूरोप में बहुत मांग थी, जिससे मुनाफा कमाया जा सकता था।"
+      },
+      "key_takeaway": {
+        "en": "India = Hub of luxury exports (Textiles & Spices).",
+        "hi": "भारत = विलासिता के सामानों के निर्यात का केंद्र (वस्त्र और मसाले)।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "What did Nawab Alivardi Khan and his successors insist on from the Company?",
+        "hi": "नवाब अलीवर्दी खान और उनके उत्तराधिकारियों ने कंपनी से क्या मांग की?"
+      },
+      "options": {
+        "a": {"en": "More weapons", "hi": "अधिक हथियार"},
+        "b": {"en": "Tributes for the right to trade and no right to mint coins", "hi": "व्यापार के अधिकार के लिए नज़राना और सिक्के ढालने का अधिकार न देना"},
+        "c": {"en": "Free food for Bengal", "hi": "बंगाल के लिए मुफ्त भोजन"},
+        "d": {"en": "Control over London", "hi": "लंदन पर नियंत्रण"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They refused to grant the Company concessions and demanded large sums of money.",
+        "hi": "उन्होंने कंपनी को रियायतें देने से इनकार कर दिया और बड़ी रकम की मांग की।"
+      },
+      "explanation": {
+        "en": "The Nawabs of Bengal refused to grant the Company concessions, demanded tributes, denied it the right to mint coins, and stopped it from extending its fortifications.",
+        "hi": "बंगाल के नवाबों ने कंपनी की मनमानी रोकने के लिए उनसे नज़राना माँगा और किलेबंदी बंद करने को कहा।"
+      },
+      "key_takeaway": {
+        "en": "Nawab's stance = Protecting local sovereignty.",
+        "hi": "नवाब का रुख = स्थानीय संप्रभुता की रक्षा।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "The Regulating Act of 1773 established which new institution in Calcutta?",
+        "hi": "1773 के रेगुलेटिंग एक्ट ने कलकत्ता में किस नए संस्थान की स्थापना की?"
+      },
+      "options": {
+        "a": {"en": "The Supreme Court", "hi": "सुप्रीम कोर्ट (Supreme Court)"},
+        "b": {"en": "The RBI", "hi": "आरबीआई"},
+        "c": {"en": "The Parliament", "hi": "संसद"},
+        "d": {"en": "The National Archives", "hi": "राष्ट्रीय अभिलेखागार"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It was part of the judicial reforms to regulate Company affairs.",
+        "hi": "यह कंपनी के मामलों को विनियमित करने के लिए न्यायिक सुधारों का हिस्सा था।"
+      },
+      "explanation": {
+        "en": "Under the Regulating Act of 1773, a new Supreme Court was established at Calcutta, while a court of appeal – the Sadar Nizamat Adalat – was also set up.",
+        "hi": "1773 के रेगुलेटिंग एक्ट के तहत कलकत्ता में एक सुप्रीम कोर्ट बनाया गया था।"
+      },
+      "key_takeaway": {
+        "en": "1773 Act = First Supreme Court in India.",
+        "hi": "1773 का एक्ट = भारत में पहला सुप्रीम कोर्ट।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "Who was the 'Collector' in the British administrative system?",
+        "hi": "ब्रिटिश प्रशासनिक प्रणाली में 'कलेक्टर' (Collector) कौन था?"
+      },
+      "options": {
+        "a": {"en": "A person who collects stamps", "hi": "डाक टिकट इकट्ठा करने वाला व्यक्ति"},
+        "b": {"en": "The main administrative figure responsible for revenue collection and law and order", "hi": "राजस्व संग्रह और कानून-व्यवस्था के लिए जिम्मेदार मुख्य प्रशासनिक व्यक्ति"},
+        "c": {"en": "A soldier in the army", "hi": "सेना में एक सैनिक"},
+        "d": {"en": "A merchant in the factory", "hi": "फैक्ट्री में एक व्यापारी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The title suggests his main job was to collect revenue.",
+        "hi": "पद का नाम बताता है कि उसका मुख्य काम राजस्व एकत्र करना था।"
+      },
+      "explanation": {
+        "en": "The main figure in an Indian district was the Collector. His main job was to collect revenue and taxes and maintain law and order with the help of judges and police.",
+        "hi": "जिले का सबसे महत्वपूर्ण अधिकारी कलेक्टर होता था जिसका मुख्य काम लगान वसूलना और शांति बनाए रखना था।"
+      },
+      "key_takeaway": {
+        "en": "Collector = Head of district administration.",
+        "hi": "कलेक्टर = जिला प्रशासन का प्रमुख।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "By 1857, the Company had direct rule over ________ of the territory of the Indian subcontinent.",
+        "hi": "1857 तक, भारतीय उपमहाद्वीप के ________ भूभाग पर कंपनी का सीधा शासन था।"
+      },
+      "options": {
+        "a": {"en": "10%", "hi": "10%"},
+        "b": {"en": "63%", "hi": "63%"},
+        "c": {"en": "90%", "hi": "90%"},
+        "d": {"en": "25%", "hi": "25%"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It also controlled 78 per cent of the population.",
+        "hi": "इसने 78 प्रतिशत जनसंख्या को भी नियंत्रित किया।"
+      },
+      "explanation": {
+        "en": "By 1857, the Company came to exercise direct rule over about 63 per cent of the territory and 78 per cent of the population of the Indian subcontinent.",
+        "hi": "1857 तक कंपनी का भारत के 63% इलाके और 78% आबादी पर सीधा नियंत्रण हो चुका था।"
+      },
+      "key_takeaway": {
+        "en": "1857 Power = Dominant control over India.",
+        "hi": "1857 की शक्ति = भारत पर प्रभुत्वशाली नियंत्रण।"
+      }
+    }
+  ]
+}
