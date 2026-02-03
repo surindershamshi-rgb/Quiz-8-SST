@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 2,
+    "chapter_title": "Understanding Secularism",
+    "chapter_title_hindi": "धर्मनिरपेक्षता की समझ",
+    "subject": "Civics - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_CIV_CH02_Secularism_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "What refers to the separation of religion from the State?",
+        "hi": "धर्म को राज्य से अलग रखने को क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Monarchy", "hi": "राजतंत्र"},
+        "b": {"en": "Secularism", "hi": "धर्मनिरपेक्षता (Secularism)"},
+        "c": {"en": "Democracy", "hi": "लोकतंत्र"},
+        "d": {"en": "Theocracy", "hi": "धर्मतंत्र"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Secularism is the principle of separating religious institutions from the institutions of the state.",
+        "hi": "धर्मनिरपेक्षता धार्मिक संस्थानों को राज्य के संस्थानों से अलग रखने का सिद्धांत है।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Why is it important to separate religion from the State in a democracy?",
+        "hi": "लोकतंत्र में धर्म को राज्य से अलग रखना क्यों महत्वपूर्ण है?"
+      },
+      "options": {
+        "a": {"en": "To prevent the tyranny of the majority", "hi": "बहुसंख्यक की निरंकुशता को रोकने के लिए"},
+        "b": {"en": "To protect the freedom of individuals to exit from their religion", "hi": "व्यक्तियों को अपने धर्म से बाहर निकलने की स्वतंत्रता की रक्षा के लिए"},
+        "c": {"en": "To allow people to embrace another religion", "hi": "लोगों को दूसरा धर्म अपनाने की अनुमति देने के लिए"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "explanation": {
+        "en": "Separation ensures that no one religious group can use State power to discriminate against others.",
+        "hi": "पृथक्करण यह सुनिश्चित करता है कि कोई भी धार्मिक समूह दूसरों के विरुद्ध भेदभाव करने के लिए राज्य की शक्ति का उपयोग न कर सके।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "In which country were Jews persecuted during the Hitler regime?",
+        "hi": "हिटलर के शासनकाल में यहूदियों पर किस देश में अत्याचार हुए थे?"
+      },
+      "options": {
+        "a": {"en": "USA", "hi": "अमेरिका"},
+        "b": {"en": "Germany", "hi": "जर्मनी"},
+        "c": {"en": "India", "hi": "भारत"},
+        "d": {"en": "Israel", "hi": "इजराइल"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "In Nazi Germany, millions of Jews were killed, showing the danger of State power being used for religious persecution.",
+        "hi": "नाजी जर्मनी में लाखों यहूदी मारे गए, जो धार्मिक उत्पीड़न के लिए राज्य की शक्ति के उपयोग के खतरे को दर्शाता है।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Which of the following is NOT a feature of Indian secularism?",
+        "hi": "निम्नलिखित में से कौन भारतीय धर्मनिरपेक्षता की विशेषता नहीं है?"
+      },
+      "options": {
+        "a": {"en": "One religious community does not dominate another", "hi": "एक धार्मिक समुदाय दूसरे पर हावी नहीं होता"},
+        "b": {"en": "The State enforces one particular religion", "hi": "राज्य किसी एक विशेष धर्म को लागू करता है"},
+        "c": {"en": "The State does not take away the religious freedom of individuals", "hi": "राज्य व्यक्तियों की धार्मिक स्वतंत्रता नहीं छीनता"},
+        "d": {"en": "Some members do not dominate other members of the same religious community", "hi": "कुछ सदस्य अपने ही धार्मिक समुदाय के अन्य सदस्यों पर हावी नहीं होते"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "In India, the State is neutral and does not promote or enforce any religion.",
+        "hi": "भारत में राज्य तटस्थ है और किसी भी धर्म को बढ़ावा या लागू नहीं करता है।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Government spaces like schools, courts, and police stations are not supposed to display or promote any one religion. This is a strategy of _______.",
+        "hi": "सरकारी स्थानों जैसे स्कूलों, अदालतों और पुलिस स्टेशनों में किसी एक धर्म को प्रदर्शित या बढ़ावा नहीं दिया जाना चाहिए। यह _______ की एक रणनीति है।"
+      },
+      "options": {
+        "a": {"en": "Intervention", "hi": "हस्तक्षेप"},
+        "b": {"en": "Distancing", "hi": "दूरी बनाना (Distancing)"},
+        "c": {"en": "Domination", "hi": "वर्चस्व"},
+        "d": {"en": "Cooperation", "hi": "सहयोग"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Indian State distances itself from religion by not supporting any particular religious festival or display in government offices.",
+        "hi": "भारतीय राज्य सरकारी कार्यालयों में किसी विशेष धार्मिक त्योहार या प्रदर्शन का समर्थन न करके स्वयं को धर्म से दूर रखता है।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Why are Sikh youth exempted from wearing a helmet in some states while riding a scooter?",
+        "hi": "कुछ राज्यों में स्कूटर चलाते समय सिख युवाओं को हेलमेट पहनने से छूट क्यों दी गई है?"
+      },
+      "options": {
+        "a": {"en": "The government likes them", "hi": "सरकार उन्हें पसंद करती है"},
+        "b": {"en": "Wearing a 'pagri' is central to their religious practice", "hi": "'पगड़ी' पहनना उनकी धार्मिक प्रथा का केंद्र है"},
+        "c": {"en": "Helmets don't fit them", "hi": "हेलमेट उन्हें फिट नहीं आते"},
+        "d": {"en": "They are safe drivers", "hi": "वे सुरक्षित ड्राइवर हैं"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "This is an example of the State making 'exceptions' to respect religious sentiments and practices.",
+        "hi": "यह धार्मिक भावनाओं और प्रथाओं का सम्मान करने के लिए राज्य द्वारा 'अपवाद' बनाने का एक उदाहरण है।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "The State can intervene in religious matters to prevent practices like 'untouchability'. This is a strategy of _______.",
+        "hi": "'अस्पृश्यता' जैसी प्रथाओं को रोकने के लिए राज्य धार्मिक मामलों में हस्तक्षेप कर सकता है। यह _______ की एक रणनीति है।"
+      },
+      "options": {
+        "a": {"en": "Non-interference", "hi": "अहस्तक्षेप"},
+        "b": {"en": "Intervention", "hi": "हस्तक्षेप (Intervention)"},
+        "c": {"en": "Distance", "hi": "दूरी"},
+        "d": {"en": "Assimilation", "hi": "आत्मसात"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "To ensure fundamental rights, the Indian Constitution allows the State to intervene in religion to ban discriminatory practices.",
+        "hi": "मौलिक अधिकार सुनिश्चित करने के लिए, भारतीय संविधान राज्य को भेदभावपूर्ण प्रथाओं पर प्रतिबंध लगाने के लिए धर्म में हस्तक्षेप करने की अनुमति देता है।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "How is Indian secularism different from the secularism practiced in the USA?",
+        "hi": "भारतीय धर्मनिरपेक्षता अमेरिका में प्रचलित धर्मनिरपेक्षता से किस प्रकार भिन्न है?"
+      },
+      "options": {
+        "a": {"en": "USA can intervene in religion, India cannot", "hi": "अमेरिका धर्म में हस्तक्षेप कर सकता है, भारत नहीं"},
+        "b": {"en": "There is a strict separation between religion and State in USA, but in India, the State can intervene on a 'principled basis'", "hi": "अमेरिका में धर्म और राज्य के बीच सख्त अलगाव है, लेकिन भारत में राज्य 'सैद्धांतिक आधार' पर हस्तक्षेप कर सकता है"},
+        "c": {"en": "India has a state religion, USA does not", "hi": "भारत का एक राजकीय धर्म है, अमेरिका का नहीं"},
+        "d": {"en": "They are exactly the same", "hi": "वे बिल्कुल एक जैसे हैं"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "In the USA, neither State nor religion can interfere in each other's affairs. In India, the State can intervene to promote social justice.",
+        "hi": "अमेरिका में, न तो राज्य और न ही धर्म एक-दूसरे के मामलों में हस्तक्षेप कर सकते हैं। भारत में, राज्य सामाजिक न्याय को बढ़ावा देने के लिए हस्तक्षेप कर सकता है।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "The First Amendment of the US Constitution prohibits the legislature from _______.",
+        "hi": "अमेरिकी संविधान का पहला संशोधन विधायिका को _______ से रोकता है।"
+      },
+      "options": {
+        "a": {"en": "Making any law respecting an establishment of religion", "hi": "धर्म की स्थापना के संबंध में कोई भी कानून बनाने से"},
+        "b": {"en": "Building roads", "hi": "सड़कें बनाने से"},
+        "c": {"en": "Collecting taxes", "hi": "कर वसूलने से"},
+        "d": {"en": "Electing a President", "hi": "राष्ट्रपति चुनने से"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "This means the legislature cannot declare any religion as the official religion or give preference to one religion.",
+        "hi": "इसका मतलब है कि विधायिका किसी भी धर्म को आधिकारिक धर्म घोषित नहीं कर सकती या किसी एक धर्म को वरीयता नहीं दे सकती।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "In 2004, which country passed a law banning students from wearing conspicuous religious symbols like Islamic headscarves or Jewish skullcaps in schools?",
+        "hi": "2004 में, किस देश ने छात्रों द्वारा स्कूलों में इस्लामी हिजाब या यहूदी टोपी जैसे विशिष्ट धार्मिक प्रतीकों को पहनने पर प्रतिबंध लगाने वाला कानून पारित किया?"
+      },
+      "options": {
+        "a": {"en": "India", "hi": "भारत"},
+        "b": {"en": "France", "hi": "फ्रांस"},
+        "c": {"en": "USA", "hi": "अमेरिका"},
+        "d": {"en": "United Kingdom", "hi": "यूनाइटेड किंगडम"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "France faced significant protests from immigrants, particularly from former colonies like Algeria and Tunisia, due to this law.",
+        "hi": "इस कानून के कारण फ्रांस को प्रवासियों, विशेष रूप से अल्जीरिया और ट्यूनीशिया जैसे पूर्व उपनिवेशों के प्रवासियों के कड़े विरोध का सामना करना पड़ा।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "The word 'Intervene' in the context of this chapter means _______.",
+        "hi": "इस अध्याय के संदर्भ में 'हस्तक्षेप' (Intervene) शब्द का अर्थ है _______।"
+      },
+      "options": {
+        "a": {"en": "To support completely", "hi": "पूरी तरह से समर्थन करना"},
+        "b": {"en": "The State's effort to influence a particular matter in accordance with the Constitution", "hi": "संविधान के अनुसार किसी विशेष मामले को प्रभावित करने का राज्य का प्रयास"},
+        "c": {"en": "To ignore everyone", "hi": "सभी को अनदेखा करना"},
+        "d": {"en": "To start a war", "hi": "युद्ध शुरू करना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Intervention is based on constitutional ideals to ensure equality and justice.",
+        "hi": "हस्तक्षेप समानता और न्याय सुनिश्चित करने के लिए संवैधानिक आदर्शों पर आधारित होता है।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "Which Fundamental Right is violated when someone is not allowed to enter a temple based on their caste?",
+        "hi": "जब किसी को उसकी जाति के आधार पर मंदिर में प्रवेश करने की अनुमति नहीं दी जाती है, तो किस मौलिक अधिकार का उल्लंघन होता है?"
+      },
+      "options": {
+        "a": {"en": "Right to Education", "hi": "शिक्षा का अधिकार"},
+        "b": {"en": "Right to Equality", "hi": "समानता का अधिकार"},
+        "c": {"en": "Right to Freedom of Speech", "hi": "वाक् स्वतंत्रता का अधिकार"},
+        "d": {"en": "Right to Property", "hi": "संपत्ति का अधिकार"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Indian secularism protects the right to equality by allowing the state to ban practices that discriminate within a religion.",
+        "hi": "भारतीय धर्मनिरपेक्षता राज्य को धर्म के भीतर भेदभाव करने वाली प्रथाओं पर प्रतिबंध लगाने की अनुमति देकर समानता के अधिकार की रक्षा करती है।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Most religious festivals are celebrated in schools in India by _______.",
+        "hi": "भारत में स्कूलों में अधिकांश धार्मिक त्योहार कैसे मनाए जाते हैं?"
+      },
+      "options": {
+        "a": {"en": "Holding mandatory prayers", "hi": "अनिवार्य प्रार्थनाएँ आयोजित करके"},
+        "b": {"en": "Declaring a public holiday so people can celebrate at home", "hi": "सार्वजनिक अवकाश घोषित करके ताकि लोग घर पर मना सकें"},
+        "c": {"en": "Displaying images of gods in classrooms", "hi": "कक्षाओं में देवताओं की छवियां प्रदर्शित करके"},
+        "d": {"en": "Forcing everyone to attend a specific temple", "hi": "सभी को एक विशिष्ट मंदिर में जाने के लिए मजबूर करके"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Government schools cannot promote any one religion, so they give holidays instead of celebrating festivals on campus.",
+        "hi": "सरकारी स्कूल किसी एक धर्म को बढ़ावा नहीं दे सकते, इसलिए वे परिसर में त्योहार मनाने के बजाय छुट्टियां देते हैं।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Principled Intervention means that State interference in religion must be based on _______.",
+        "hi": "'सैद्धांतिक हस्तक्षेप' का अर्थ है कि धर्म में राज्य का हस्तक्षेप किस पर आधारित होना चाहिए?"
+      },
+      "options": {
+        "a": {"en": "The whim of the Prime Minister", "hi": "प्रधानमंत्री की मर्जी पर"},
+        "b": {"en": "Ideals laid out in the Constitution", "hi": "संविधान में दिए गए आदर्शों पर"},
+        "c": {"en": "The demands of the majority", "hi": "बहुसंख्यक की मांगों पर"},
+        "d": {"en": "Financial profit", "hi": "वित्तीय लाभ पर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Constitution provides the standard by which we judge if a State is behaving secularly.",
+        "hi": "संविधान वह मानक प्रदान करता है जिसके द्वारा हम यह तय करते हैं कि कोई राज्य धर्मनिरपेक्ष व्यवहार कर रहा है या नहीं।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "Untouchability was a practice where _______.",
+        "hi": "अस्पृश्यता एक ऐसी प्रथा थी जहाँ _______।"
+      },
+      "options": {
+        "a": {"en": "Upper-caste Hindus dominated lower castes within the same religion", "hi": "एक ही धर्म के भीतर उच्च जाति के हिंदू निचली जातियों पर हावी थे"},
+        "b": {"en": "Hindus and Muslims fought", "hi": "हिंदू और मुस्लिम लड़ते थे"},
+        "c": {"en": "People were not allowed to go to school", "hi": "लोगों को स्कूल जाने की अनुमति नहीं थी"},
+        "d": {"en": "The State ruled without a King", "hi": "राज्य बिना राजा के शासन करता था"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Indian secularism allows intervention to end such intra-religious domination and discrimination.",
+        "hi": "भारतीय धर्मनिरपेक्षता इस तरह के अंतः-धार्मिक वर्चस्व और भेदभाव को समाप्त करने के लिए हस्तक्षेप की अनुमति देती है।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "Which country does not allow its citizens to practice their own religion and excludes non-Muslims from building temples?",
+        "hi": "कौन सा देश अपने नागरिकों को अपने धर्म का पालन करने की अनुमति नहीं देता है और गैर-मुसलमानों को मंदिर बनाने से रोकता है?"
+      },
+      "options": {
+        "a": {"en": "India", "hi": "भारत"},
+        "b": {"en": "Saudi Arabia", "hi": "सऊदी अरब"},
+        "c": {"en": "USA", "hi": "अमेरिका"},
+        "d": {"en": "France", "hi": "फ्रांस"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "In Saudi Arabia, non-Muslims cannot gather in public for prayer or build places of worship.",
+        "hi": "सऊदी अरब में, गैर-मुस्लिम प्रार्थना के लिए सार्वजनिक रूप से एकत्र नहीं हो सकते या पूजा स्थल नहीं बना सकते।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What is the primary objective of a secular State?",
+        "hi": "एक धर्मनिरपेक्ष राज्य का प्राथमिक उद्देश्य क्या है?"
+      },
+      "options": {
+        "a": {"en": "To promote the majority religion", "hi": "बहुसंख्यक धर्म को बढ़ावा देना"},
+        "b": {"en": "To ensure freedom of religion for all citizens", "hi": "सभी नागरिकों के लिए धर्म की स्वतंत्रता सुनिश्चित करना"},
+        "c": {"en": "To ban all religious activities", "hi": "सभी धार्मिक गतिविधियों पर प्रतिबंध लगाना"},
+        "d": {"en": "To collect more taxes from religious places", "hi": "धार्मिक स्थानों से अधिक कर वसूलना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "A secular state protects the right of individuals to follow any religion of their choice.",
+        "hi": "एक धर्मनिरपेक्ष राज्य व्यक्तियों के अपनी पसंद के किसी भी धर्म का पालन करने के अधिकार की रक्षा करता है।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "Indian secularism allows religious communities to _______.",
+        "hi": "भारतीय धर्मनिरपेक्षता धार्मिक समुदायों को _______ करने की अनुमति देती है।"
+      },
+      "options": {
+        "a": {"en": "Set up their own schools and colleges", "hi": "अपने स्वयं के स्कूल और कॉलेज स्थापित करने"},
+        "b": {"en": "Fight with other religions", "hi": "दूसरे धर्मों के साथ लड़ने"},
+        "c": {"en": "Ignore the Constitution", "hi": "संविधान की अनदेखी करने"},
+        "d": {"en": "Take over the police department", "hi": "पुलिस विभाग पर कब्जा करने"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The Constitution gives communities the right to set up educational institutions and provides them financial aid on a non-preferential basis.",
+        "hi": "संविधान समुदायों को शैक्षणिक संस्थान स्थापित करने का अधिकार देता है और उन्हें गैर-अधिमान्य आधार पर वित्तीय सहायता प्रदान करता है।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "The 'Coercion' of religious minorities refers to _______.",
+        "hi": "धार्मिक अल्पसंख्यकों के 'अत्याचार' (Coercion) का तात्पर्य है _______।"
+      },
+      "options": {
+        "a": {"en": "Giving them gifts", "hi": "उन्हें उपहार देना"},
+        "b": {"en": "Forcing them to do something against their will using State power", "hi": "राज्य की शक्ति का उपयोग करके उन्हें उनकी इच्छा के विरुद्ध कुछ करने के लिए मजबूर करना"},
+        "c": {"en": "Providing them education", "hi": "उन्हें शिक्षा प्रदान करना"},
+        "d": {"en": "Inviting them to elections", "hi": "उन्हें चुनावों में आमंत्रित करना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Secularism prevents the majority from using coercion against minorities.",
+        "hi": "धर्मनिरपेक्षता बहुसंख्यकों को अल्पसंख्यकों के खिलाफ जबरदस्ती (coercion) का उपयोग करने से रोकती है।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "In US government schools, students used to start their day with the 'Pledge of Allegiance', which included the phrase _______.",
+        "hi": "अमेरिकी सरकारी स्कूलों में, छात्र अपने दिन की शुरुआत 'वफादारी की शपथ' (Pledge of Allegiance) के साथ करते थे, जिसमें यह वाक्यांश शामिल था _______।"
+      },
+      "options": {
+        "a": {"en": "Under God", "hi": "ईश्वर के अधीन (Under God)"},
+        "b": {"en": "Under the King", "hi": "राजा के अधीन"},
+        "c": {"en": "Under the Army", "hi": "सेना के अधीन"},
+        "d": {"en": "Only for some", "hi": "केवल कुछ के लिए"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "This phrase was challenged for violating the separation of church and state.",
+        "hi": "चर्च और राज्य के अलगाव के उल्लंघन के लिए इस वाक्यांश को चुनौती दी गई थी।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "The core essence of secularism is that _______.",
+        "hi": "धर्मनिरपेक्षता का मूल तत्व यह है कि _______।"
+      },
+      "options": {
+        "a": {"en": "No one should be discriminated against on grounds of their religious practices and beliefs", "hi": "किसी के साथ उनकी धार्मिक प्रथाओं और विश्वासों के आधार पर भेदभाव नहीं किया जाना चाहिए"},
+        "b": {"en": "Everyone must follow the same god", "hi": "सभी को एक ही भगवान का पालन करना चाहिए"},
+        "c": {"en": "Religion is more important than law", "hi": "धर्म कानून से अधिक महत्वपूर्ण है"},
+        "d": {"en": "Only scientists should live in a country", "hi": "किसी देश में केवल वैज्ञानिकों को ही रहना चाहिए"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Secularism ensures equal treatment and respect for all faiths.",
+        "hi": "धर्मनिरपेक्षता सभी विश्वासों के लिए समान व्यवहार और सम्मान सुनिश्चित करती है।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Which country recently struggled with immigrants wearing headscarves?",
+        "hi": "हाल ही में किस देश को हिजाब पहनने वाले प्रवासियों के साथ संघर्ष करना पड़ा?"
+      },
+      "options": {
+        "a": {"en": "India", "hi": "भारत"},
+        "b": {"en": "France", "hi": "फ्रांस"},
+        "c": {"en": "Saudi Arabia", "hi": "सऊदी अरब"},
+        "d": {"en": "Israel", "hi": "इजराइल"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The 2004 law in France banned conspicuous religious symbols in schools.",
+        "hi": "फ्रांस में 2004 के कानून ने स्कूलों में विशिष्ट धार्मिक प्रतीकों पर प्रतिबंध लगा दिया था।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Democracies need secularism because most countries have _______.",
+        "hi": "लोकतंत्रों को धर्मनिरपेक्षता की आवश्यकता है क्योंकि अधिकांश देशों में _______ होते हैं।"
+      },
+      "options": {
+        "a": {"en": "More than one religious group", "hi": "एक से अधिक धार्मिक समूह"},
+        "b": {"en": "Only one language", "hi": "केवल एक भाषा"},
+        "c": {"en": "A single king", "hi": "एक ही राजा"},
+        "d": {"en": "No religion", "hi": "कोई धर्म नहीं"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "With multiple religious groups, secularism prevents one group from dominating others.",
+        "hi": "एकाधिक धार्मिक समूहों के साथ, धर्मनिरपेक्षता एक समूह को दूसरों पर हावी होने से रोकती है।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "If a religious group says their religion allows them to kill someone, can the State stop them?",
+        "hi": "यदि कोई धार्मिक समूह कहता है कि उनका धर्म उन्हें किसी को मारने की अनुमति देता है, तो क्या राज्य उन्हें रोक सकता है?"
+      },
+      "options": {
+        "a": {"en": "No, religion is supreme", "hi": "नहीं, धर्म सर्वोच्च है"},
+        "b": {"en": "Yes, to protect the right to life and law and order", "hi": "हाँ, जीवन के अधिकार और कानून व्यवस्था की रक्षा के लिए"},
+        "c": {"en": "Only if they are a minority", "hi": "केवल तभी जब वे अल्पसंख्यक हों"},
+        "d": {"en": "Only if the majority says so", "hi": "केवल तभी जब बहुसंख्यक ऐसा कहें"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The State can intervene to protect basic human rights and legal order, even in religious matters.",
+        "hi": "राज्य बुनियादी मानवाधिकारों और कानूनी व्यवस्था की रक्षा के लिए हस्तक्षेप कर सकता है, यहाँ तक कि धार्मिक मामलों में भी।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "Secularism is a part of the 'Basic Structure' of the Indian Constitution. What does this mean?",
+        "hi": "धर्मनिरपेक्षता भारतीय संविधान की 'मूल संरचना' का हिस्सा है। इसका क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "It can be removed easily", "hi": "इसे आसानी से हटाया जा सकता है"},
+        "b": {"en": "It is a core part that cannot be changed even by an amendment", "hi": "यह एक मुख्य हिस्सा है जिसे संशोधन द्वारा भी बदला नहीं जा सकता"},
+        "c": {"en": "It only applies to big cities", "hi": "यह केवल बड़े शहरों पर लागू होता है"},
+        "d": {"en": "It was added recently", "hi": "इसे हाल ही में जोड़ा गया था"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Fundamental principles like secularism define the identity of the Constitution.",
+        "hi": "धर्मनिरपेक्षता जैसे मौलिक सिद्धांत संविधान की पहचान को परिभाषित करते हैं।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "When the State intervenes to support personal laws of different religions regarding marriage, it is _______.",
+        "hi": "जब राज्य विवाह के संबंध में विभिन्न धर्मों के व्यक्तिगत कानूनों का समर्थन करने के लिए हस्तक्षेप करता है, तो यह _______ है।"
+      },
+      "options": {
+        "a": {"en": "Oppression", "hi": "उत्पीड़न"},
+        "b": {"en": "Principled Intervention", "hi": "सैद्धांतिक हस्तक्षेप"},
+        "c": {"en": "Dictatorship", "hi": "तानाशाही"},
+        "d": {"en": "Ignoring the law", "hi": "कानून की अनदेखी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Intervention can be both for prohibition (untouchability) and support (personal laws) on a principled basis.",
+        "hi": "सैद्धांतिक आधार पर हस्तक्षेप निषेध (अस्पृश्यता) और समर्थन (व्यक्तिगत कानून) दोनों के लिए हो सकता है।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "In Indian secularism, the state is not _______ separate from religion.",
+        "hi": "भारतीय धर्मनिरपेक्षता में राज्य धर्म से _______ अलग नहीं है।"
+      },
+      "options": {
+        "a": {"en": "Legally", "hi": "कानूनी रूप से"},
+        "b": {"en": "Strictly", "hi": "सख्ती से (Strictly)"},
+        "c": {"en": "Politically", "hi": "राजनीतिक रूप से"},
+        "d": {"en": "Actually", "hi": "वास्तव में"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Unlike the USA, the Indian State maintains a principled distance rather than a complete, wall-like separation.",
+        "hi": "अमेरिका के विपरीत, भारतीय राज्य पूर्ण, दीवार जैसी अलगाव के बजाय एक सैद्धांतिक दूरी बनाए रखता है।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Individuals have the freedom to _______ their religion.",
+        "hi": "व्यक्तियों को अपने धर्म की _______ स्वतंत्रता है।"
+      },
+      "options": {
+        "a": {"en": "Exit from", "hi": "बाहर निकलने की"},
+        "b": {"en": "Interpret differently", "hi": "अलग व्याख्या करने की"},
+        "c": {"en": "Adopt another", "hi": "दूसरा अपनाने की"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "explanation": {
+        "en": "Democratic secularism protects personal liberty regarding faith.",
+        "hi": "लोकतांत्रिक धर्मनिरपेक्षता आस्था के संबंध में व्यक्तिगत स्वतंत्रता की रक्षा करती है।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "A theocratic state is a state _______.",
+        "hi": "एक धर्मतंत्रवादी (theocratic) राज्य वह राज्य है _______।"
+      },
+      "options": {
+        "a": {"en": "Ruled by religious leaders or based on a specific religion", "hi": "धार्मिक नेताओं द्वारा शासित या किसी विशिष्ट धर्म पर आधारित"},
+        "b": {"en": "Where everyone is an atheist", "hi": "जहाँ हर कोई नास्तिक है"},
+        "c": {"en": "That has no laws", "hi": "जिसमें कोई कानून नहीं है"},
+        "d": {"en": "Ruled by a computer", "hi": "कंप्यूटर द्वारा शासित"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Theocracy is the opposite of secularism.",
+        "hi": "धर्मतंत्र (Theocracy) धर्मनिरपेक्षता का विलोम है।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "Can a private school celebrate a religious festival in India?",
+        "hi": "क्या भारत में कोई निजी स्कूल धार्मिक त्योहार मना सकता है?"
+      },
+      "options": {
+        "a": {"en": "No, it's banned for all", "hi": "नहीं, यह सभी के लिए प्रतिबंधित है"},
+        "b": {"en": "Yes, secularism restrictions mainly apply to government institutions", "hi": "हाँ, धर्मनिरपेक्षता के प्रतिबंध मुख्य रूप से सरकारी संस्थानों पर लागू होते हैं"},
+        "c": {"en": "Only if the government gives permission", "hi": "केवल तभी जब सरकार अनुमति दे"},
+        "d": {"en": "Only at night", "hi": "केवल रात में"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Government schools cannot promote religion, but private schools have more flexibility, though they must still respect diversity.",
+        "hi": "सरकारी स्कूल धर्म को बढ़ावा नहीं दे सकते, लेकिन निजी स्कूलों में अधिक लचीलापन होता है, हालांकि उन्हें अभी भी विविधता का सम्मान करना चाहिए।"
+      }
+    }
+  ]
+}
