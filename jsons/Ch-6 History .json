@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 6,
+    "chapter_title": "Civilising the 'Native', Educating the Nation",
+    "chapter_title_hindi": "देशी जनता को सभ्य बनाना, राष्ट्र को शिक्षित करना",
+    "subject": "History - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_HI_CH06_Education_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Who arrived in Calcutta in 1783 as a junior judge at the Supreme Court and was a famous linguist?",
+        "hi": "1783 में सुप्रीम कोर्ट में जूनियर जज के रूप में कौन कलकत्ता आया था जो एक प्रसिद्ध भाषाविद् था?"
+      },
+      "options": {
+        "a": {"en": "Thomas Macaulay", "hi": "थॉमस मैकाले"},
+        "b": {"en": "William Jones", "hi": "विलियम जोन्स"},
+        "c": {"en": "James Mill", "hi": "जेम्स मिल"},
+        "d": {"en": "Charles Wood", "hi": "चार्ल्स वुड"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "William Jones had a deep respect for ancient cultures, both Indian and Western, and studied Sanskrit, Persian, and Arabic.",
+        "hi": "विलियम जोन्स के मन में भारतीय और पश्चिमी दोनों प्राचीन संस्कृतियों के लिए गहरा सम्मान था और उन्होंने संस्कृत, फारसी और अरबी का अध्ययन किया।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "The Asiatic Society of Bengal was founded by:",
+        "hi": "बंगाल की एशियाटिक सोसाइटी की स्थापना किसके द्वारा की गई थी?"
+      },
+      "options": {
+        "a": {"en": "Warren Hastings", "hi": "वॉरेन हेस्टिंग्स"},
+        "b": {"en": "William Jones and Henry Thomas Colebrooke", "hi": "विलियम जोन्स और हेनरी थॉमस कोलब्रुक"},
+        "c": {"en": "Lord Macaulay", "hi": "लॉर्ड मैकाले"},
+        "d": {"en": "Mahatma Gandhi", "hi": "महात्मा गांधी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Jones and Colebrooke shared an enthusiasm for discovering ancient Indian texts to understand Indian law and philosophy.",
+        "hi": "जोन्स और कोलब्रुक ने भारतीय कानून और दर्शन को समझने के लिए प्राचीन भारतीय ग्रंथों की खोज के प्रति उत्साह साझा किया।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "A person who knows and studies several languages is known as a:",
+        "hi": "वह व्यक्ति जो कई भाषाओं को जानता और उनका अध्ययन करता है, कहलाता है:"
+      },
+      "options": {
+        "a": {"en": "Linguist", "hi": "भाषाविद् (Linguist)"},
+        "b": {"en": "Orientalist", "hi": "प्राच्यवादी (Orientalist)"},
+        "c": {"en": "Munshi", "hi": "मुंशी"},
+        "d": {"en": "Vernacular", "hi": "वरनाकुलर"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "William Jones was a linguist who knew Greek, Latin, French, English, Arabic, and Persian.",
+        "hi": "विलियम जोन्स एक भाषाविद् थे जो ग्रीक, लैटिन, फ्रेंच, अंग्रेजी, अरबी और फारसी जानते थे।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Orientalists were people who had a scholarly interest in the language and culture of:",
+        "hi": "प्राच्यवादी (Orientalists) वे लोग थे जिनकी भाषा और संस्कृति में विद्वतापूर्ण रुचि थी:"
+      },
+      "options": {
+        "a": {"en": "Europe", "hi": "यूरोप की"},
+        "b": {"en": "Asia", "hi": "एशिया की"},
+        "c": {"en": "America", "hi": "अमेरिका की"},
+        "d": {"en": "Africa", "hi": "अफ्रीका की"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Orientalists believed that the British should promote Indian rather than Western learning to win the hearts of the natives.",
+        "hi": "प्राच्यवादियों का मानना था कि अंग्रेजों को स्थानीय लोगों का दिल जीतने के लिए पश्चिमी शिक्षा के बजाय भारतीय शिक्षा को बढ़ावा देना चाहिए।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "In which year was a madrasa set up in Calcutta to promote the study of Arabic, Persian, and Islamic law?",
+        "hi": "अरबी, फारसी और इस्लामी कानून के अध्ययन को बढ़ावा देने के लिए कलकत्ता में किस वर्ष एक मदरसा स्थापित किया गया था?"
+      },
+      "options": {
+        "a": {"en": "1781", "hi": "1781"},
+        "b": {"en": "1835", "hi": "1835"},
+        "c": {"en": "1854", "hi": "1854"},
+        "d": {"en": "1901", "hi": "1901"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Warren Hastings supported the Orientalist vision and helped establish the Calcutta Madrasa.",
+        "hi": "वॉरेन हेस्टिंग्स ने प्राच्यवादी दृष्टिकोण का समर्थन किया और कलकत्ता मदरसा स्थापित करने में मदद की।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "The Hindu College was established in 1791 at which place?",
+        "hi": "1791 में हिंदू कॉलेज की स्थापना किस स्थान पर की गई थी?"
+      },
+      "options": {
+        "a": {"en": "Calcutta", "hi": "कलकत्ता"},
+        "b": {"en": "Benaras", "hi": "बनारस"},
+        "c": {"en": "Madras", "hi": "मद्रास"},
+        "d": {"en": "Bombay", "hi": "बॉम्बे"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Benaras Hindu College was established to encourage the study of ancient Sanskrit texts useful for administration.",
+        "hi": "बनारस हिंदू कॉलेज की स्थापना प्रशासन के लिए उपयोगी प्राचीन संस्कृत ग्रंथों के अध्ययन को प्रोत्साहित करने के लिए की गई थी।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Who attacked the Orientalists and said that 'a single shelf of a good European library was worth the whole native literature of India and Arabia'?",
+        "hi": "किसने प्राच्यवादियों पर हमला किया और कहा कि 'एक अच्छे यूरोपीय पुस्तकालय की एक अलमारी भारत और अरब के पूरे देशी साहित्य के बराबर है'?"
+      },
+      "options": {
+        "a": {"en": "William Jones", "hi": "विलियम जोन्स"},
+        "b": {"en": "Thomas Babington Macaulay", "hi": "थॉमस बैबिंगटन मैकाले"},
+        "c": {"en": "Henry Colebrooke", "hi": "हेनरी कोलब्रुक"},
+        "d": {"en": "William Carey", "hi": "विलियम केरी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Macaulay saw India as an uncivilized country that needed to be taught Western knowledge through the English language.",
+        "hi": "मैकाले भारत को एक असभ्य देश के रूप में देखते थे जिसे अंग्रेजी भाषा के माध्यम से पश्चिमी ज्ञान सिखाने की आवश्यकता थी।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "The English Education Act was passed in which year?",
+        "hi": "अंग्रेजी शिक्षा अधिनियम (English Education Act) किस वर्ष पारित किया गया था?"
+      },
+      "options": {
+        "a": {"en": "1835", "hi": "1835"},
+        "b": {"en": "1854", "hi": "1854"},
+        "c": {"en": "1813", "hi": "1813"},
+        "d": {"en": "1882", "hi": "1882"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Based on Macaulay's minute, the 1835 Act made English the medium of instruction for higher education.",
+        "hi": "मैकाले के विवरण (minute) के आधार पर, 1835 के अधिनियम ने अंग्रेजी को उच्च शिक्षा के लिए शिक्षा का माध्यम बना दिया।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Wood’s Despatch of 1854 was sent by the Court of Directors of the East India Company in London to the:",
+        "hi": "1854 का वुड डिस्पैच लंदन में ईस्ट इंडिया कंपनी के कोर्ट ऑफ डायरेक्टर्स द्वारा किसे भेजा गया था?"
+      },
+      "options": {
+        "a": {"en": "Mughal Emperor", "hi": "मुगल सम्राट को"},
+        "b": {"en": "Governor-General in India", "hi": "भारत के गवर्नर-जनरल को"},
+        "c": {"en": "People of India", "hi": "भारत की जनता को"},
+        "d": {"en": "Mahatma Gandhi", "hi": "महात्मा गांधी को"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Wood’s Despatch outlined the educational policy that was to be followed in India, emphasizing practical benefits of European learning.",
+        "hi": "वुड्स डिस्पैच ने भारत में अपनाई जाने वाली शैक्षिक नीति की रूपरेखा तैयार की, जिसमें यूरोपीय शिक्षा के व्यावहारिक लाभों पर जोर दिया गया।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "One of the practical reasons given by Wood’s Despatch for European education was to improve the _______ of Indians.",
+        "hi": "वुड्स डिस्पैच द्वारा यूरोपीय शिक्षा के लिए दिए गए व्यावहारिक कारणों में से एक भारतीयों के _______ में सुधार करना था।"
+      },
+      "options": {
+        "a": {"en": "Physical strength", "hi": "शारीरिक शक्ति"},
+        "b": {"en": "Moral character and honesty", "hi": "नैतिक चरित्र और ईमानदारी"},
+        "c": {"en": "Handwriting", "hi": "लिखावट"},
+        "d": {"en": "Cooking skills", "hi": "खाना पकाने के कौशल"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The British believed European literature would make Indians more truthful and honest, thus providing reliable civil servants.",
+        "hi": "अंग्रेजों का मानना था कि यूरोपीय साहित्य भारतीयों को अधिक सच्चा और ईमानदार बनाएगा, जिससे विश्वसनीय सिविल सेवक प्राप्त होंगे।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Following Wood’s Despatch, universities were established in 1857 in which cities?",
+        "hi": "वुड्स डिस्पैच के बाद, 1857 में किन शहरों में विश्वविद्यालयों की स्थापना की गई?"
+      },
+      "options": {
+        "a": {"en": "Delhi, Agra, Lahore", "hi": "दिल्ली, आगरा, लाहौर"},
+        "b": {"en": "Calcutta, Madras, Bombay", "hi": "कलकत्ता, मद्रास, बॉम्बे"},
+        "c": {"en": "Lucknow, Patna, Benaras", "hi": "लखनऊ, पटना, बनारस"},
+        "d": {"en": "Mysore, Hyderabad, Jaipur", "hi": "मैसूर, हैदराबाद, जयपुर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Universities were set up in the presidency towns while attempts were also made to bring changes in the system of school education.",
+        "hi": "प्रेसिडेन्सी शहरों में विश्वविद्यालय स्थापित किए गए जबकि स्कूली शिक्षा की प्रणाली में बदलाव लाने के प्रयास भी किए गए।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "Who was William Adam?",
+        "hi": "विलियम एडम कौन थे?"
+      },
+      "options": {
+        "a": {"en": "A British General", "hi": "एक ब्रिटिश जनरल"},
+        "b": {"en": "A Scottish missionary who toured Bengal and Bihar", "hi": "एक स्कॉटिश मिशनरी जिन्होंने बंगाल और बिहार का दौरा किया"},
+        "c": {"en": "A French scientist", "hi": "एक फ्रांसीसी वैज्ञानिक"},
+        "d": {"en": "The first Viceroy of India", "hi": "भारत के पहले वायसराय"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "William Adam was asked by the Company to report on the progress of education in vernacular schools.",
+        "hi": "कंपनी ने विलियम एडम से देशी भाषाओं के स्कूलों में शिक्षा की प्रगति पर रिपोर्ट देने के लिए कहा था।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "What did Adam find about the system of education in local pathshalas?",
+        "hi": "एडम ने स्थानीय पाठशालाओं में शिक्षा की प्रणाली के बारे में क्या पाया?"
+      },
+      "options": {
+        "a": {"en": "It was very rigid with strict exams", "hi": "यह कड़े इम्तिहानों के साथ बहुत कठोर थी"},
+        "b": {"en": "It was flexible with no fixed fee, benches, or timetables", "hi": "यह लचीली थी जिसमें कोई निश्चित शुल्क, बेंच या समय सारणी नहीं थी"},
+        "c": {"en": "Only English was taught", "hi": "केवल अंग्रेजी पढ़ाई जाती थी"},
+        "d": {"en": "Pathshalas were large buildings", "hi": "पाठशालाएं बड़ी इमारतें थीं"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The system was flexible and suited to local needs; for example, classes were not held during harvest time when children worked in fields.",
+        "hi": "प्रणाली लचीली थी और स्थानीय जरूरतों के अनुकूल थी; उदाहरण के लिए, कटाई के समय कक्षाएं नहीं लगती थीं जब बच्चे खेतों में काम करते थे।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Mahatma Gandhi argued that colonial education created a sense of _______ in the minds of Indians.",
+        "hi": "महात्मा गांधी ने तर्क दिया कि औपनिवेशिक शिक्षा ने भारतीयों के मन में _______ की भावना पैदा की।"
+      },
+      "options": {
+        "a": {"en": "Pride", "hi": "गर्व"},
+        "b": {"en": "Inferiority", "hi": "हीनता"},
+        "c": {"en": "Independence", "hi": "स्वतंत्रता"},
+        "d": {"en": "Superiority", "hi": "श्रेष्ठता"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Gandhi believed Western education made Indians see Western civilization as superior and destroyed the pride they had in their own culture.",
+        "hi": "गांधी का मानना था कि पश्चिमी शिक्षा ने भारतीयों को पश्चिमी सभ्यता को श्रेष्ठ मानने पर मजबूर किया और अपनी संस्कृति के प्रति गर्व को नष्ट कर दिया।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "According to Mahatma Gandhi, which language should be the medium of instruction in India?",
+        "hi": "महात्मा गांधी के अनुसार भारत में शिक्षा का माध्यम कौन सी भाषा होनी चाहिए?"
+      },
+      "options": {
+        "a": {"en": "English", "hi": "अंग्रेजी"},
+        "b": {"en": "Indian languages (Vernaculars)", "hi": "भारतीय भाषाएँ (देशी भाषाएँ)"},
+        "c": {"en": "Latin", "hi": "लैटिन"},
+        "d": {"en": "French", "hi": "फ्रांसीसी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Gandhi felt that English education 'enslaved' Indians and distanced them from their own social surroundings.",
+        "hi": "गांधी को लगा कि अंग्रेजी शिक्षा ने भारतीयों को 'गुलाम' बना दिया और उन्हें अपने सामाजिक परिवेश से दूर कर दिया।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "Who started Santiniketan in 1901?",
+        "hi": "1901 में शांतिनिकेतन की शुरुआत किसने की थी?"
+      },
+      "options": {
+        "a": {"en": "Mahatma Gandhi", "hi": "महात्मा गांधी"},
+        "b": {"en": "Rabindranath Tagore", "hi": "रवींद्रनाथ टैगोर"},
+        "c": {"en": "Jawaharlal Nehru", "hi": "जवाहरलाल नेहरू"},
+        "d": {"en": "Subhas Chandra Bose", "hi": "सुभाष चंद्र बोस"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Tagore wanted to create a place where children could be creative and free, away from the rigid and restrictive British school system.",
+        "hi": "टैगोर एक ऐसी जगह बनाना चाहते थे जहाँ बच्चे कठोर ब्रिटिश स्कूली व्यवस्था से दूर, रचनात्मक और स्वतंत्र हो सकें।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "Santiniketan was located _______ km away from Calcutta in a rural setting.",
+        "hi": "शांतिनिकेतन कलकत्ता से _______ किमी दूर एक ग्रामीण परिवेश में स्थित था।"
+      },
+      "options": {
+        "a": {"en": "10", "hi": "10"},
+        "b": {"en": "50", "hi": "50"},
+        "c": {"en": "100", "hi": "100"},
+        "d": {"en": "500", "hi": "500"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Tagore chose a rural setting to allow children to learn in harmony with nature.",
+        "hi": "टैगोर ने बच्चों को प्रकृति के साथ सद्भाव में सीखने की अनुमति देने के लिए एक ग्रामीण परिवेश को चुना।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "How did Tagore's view on education differ from Mahatma Gandhi's?",
+        "hi": "शिक्षा पर टैगोर के विचार महात्मा गांधी से किस प्रकार भिन्न थे?"
+      },
+      "options": {
+        "a": {"en": "Tagore rejected all Western knowledge", "hi": "टैगोर ने सभी पश्चिमी ज्ञान को खारिज कर दिया"},
+        "b": {"en": "Tagore wanted to combine modern Western science with Indian tradition", "hi": "टैगोर आधुनिक पश्चिमी विज्ञान को भारतीय परंपरा के साथ जोड़ना चाहते थे"},
+        "c": {"en": "Tagore was in favor of strict discipline", "hi": "टैगोर सख्त अनुशासन के पक्ष में थे"},
+        "d": {"en": "There was no difference", "hi": "कोई अंतर नहीं था"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "While Gandhi was highly critical of Western civilization and its machines, Tagore wanted to bridge the gap between East and West.",
+        "hi": "जहाँ गांधी पश्चिमी सभ्यता और मशीनों के अत्यधिक आलोचक थे, वहीं टैगोर पूर्व और पश्चिम के बीच की खाई को पाटना चाहते थे।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "The term 'Vernacular' refers to:",
+        "hi": "'वरनाकुलर' (Vernacular) शब्द का अर्थ है:"
+      },
+      "options": {
+        "a": {"en": "A formal language of kings", "hi": "राजाओं की एक औपचारिक भाषा"},
+        "b": {"en": "A local language or dialect distinct from the standard language", "hi": "मानक भाषा से अलग एक स्थानीय भाषा या बोली"},
+        "c": {"en": "The English language", "hi": "अंग्रेजी भाषा"},
+        "d": {"en": "A dead language", "hi": "एक मृत भाषा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The British used this term to differentiate between local Indian languages and English.",
+        "hi": "अंग्रेजों ने स्थानीय भारतीय भाषाओं और अंग्रेजी के बीच अंतर करने के लिए इस शब्द का इस्तेमाल किया।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "After 1854, the Company decided to improve the system of vernacular education by appointing _______.",
+        "hi": "1854 के बाद, कंपनी ने _______ की नियुक्ति करके देशी शिक्षा की प्रणाली में सुधार करने का निर्णय लिया।"
+      },
+      "options": {
+        "a": {"en": "Soldiers", "hi": "सैनिकों"},
+        "b": {"en": "Government Pandits", "hi": "सरकारी पंडितों"},
+        "c": {"en": "French teachers", "hi": "फ्रांसीसी शिक्षकों"},
+        "d": {"en": "Collectors", "hi": "कलेक्टरों"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Each Pandit was in charge of four to five schools and was tasked with introducing order and periodic exams.",
+        "hi": "प्रत्येक पंडित चार से पांच स्कूलों का प्रभारी था और उसे व्यवस्था और समय-समय पर परीक्षा शुरू करने का काम सौंपा गया था।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Why did many pathshalas go out of business after the new government rules?",
+        "hi": "सरकारी नए नियमों के बाद कई पाठशालाएं क्यों बंद हो गईं?"
+      },
+      "options": {
+        "a": {"en": "The teachers were too old", "hi": "शिक्षक बहुत बूढ़े थे"},
+        "b": {"en": "They found it difficult to compete with government-aided schools", "hi": "उन्हें सरकार सहायता प्राप्त स्कूलों के साथ प्रतिस्पर्धा करना मुश्किल लगा"},
+        "c": {"en": "The students stopped coming", "hi": "छात्रों ने आना बंद कर दिया"},
+        "d": {"en": "Building collapsed", "hi": "इमारत गिर गई"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Pathshalas that did not accept the new government rules were not given government grants and found it hard to survive.",
+        "hi": "जो पाठशालाएं सरकारी नए नियमों को स्वीकार नहीं करती थीं, उन्हें सरकारी अनुदान नहीं दिया गया और उनके लिए अस्तित्व बचाना कठिन हो गया।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Macaulay believed that the British should produce a class of people who are 'Indian in blood and colour, but _______ in taste, opinions, and intellect.'",
+        "hi": "मैकाले का मानना था कि अंग्रेजों को ऐसे लोगों का एक वर्ग तैयार करना चाहिए जो 'रक्त और रंग में भारतीय हों, लेकिन स्वाद, विचारों और बुद्धि में _______ हों'?"
+      },
+      "options": {
+        "a": {"en": "French", "hi": "फ्रांसीसी"},
+        "b": {"en": "English", "hi": "अंग्रेजी"},
+        "c": {"en": "Mughal", "hi": "मुगल"},
+        "d": {"en": "Greek", "hi": "यूनानी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "This class was intended to act as interpreters between the British and the millions they governed.",
+        "hi": "इस वर्ग का उद्देश्य अंग्रेजों और उनके द्वारा शासित लाखों लोगों के बीच दुभाषिए (interpreters) के रूप में कार्य करना था।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Which religious group was active in spreading Western education and setting up colleges in India?",
+        "hi": "भारत में पश्चिमी शिक्षा के प्रसार और कॉलेजों की स्थापना में कौन सा धार्मिक समूह सक्रिय था?"
+      },
+      "options": {
+        "a": {"en": "Buddhist Monks", "hi": "बौद्ध भिक्षु"},
+        "b": {"en": "Christian Missionaries", "hi": "ईसाई मिशनरी"},
+        "c": {"en": "Jain Scholars", "hi": "जैन विद्वान"},
+        "d": {"en": "Sikh Saints", "hi": "सिख संत"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Missionaries like William Carey established the Serampore Mission to provide education with a focus on moral change.",
+        "hi": "विलियम केरी जैसे मिशनरियों ने नैतिक परिवर्तन पर ध्यान केंद्रित करते हुए शिक्षा प्रदान करने के लिए सीरमपुर मिशन की स्थापना की।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "According to the Orientalists, the British should study Indian texts to:",
+        "hi": "प्राच्यवादियों के अनुसार, अंग्रेजों को भारतीय ग्रंथों का अध्ययन किस लिए करना चाहिए?"
+      },
+      "options": {
+        "a": {"en": "Destroy Indian culture", "hi": "भारतीय संस्कृति को नष्ट करने के लिए"},
+        "b": {"en": "Discover the 'glories' of the Indian past and understand India better", "hi": "भारतीय अतीत के 'गौरव' की खोज करने और भारत को बेहतर ढंग से समझने के लिए"},
+        "c": {"en": "Learn how to grow spices", "hi": "मसाले उगाना सीखने के लिए"},
+        "d": {"en": "Translate English books to Latin", "hi": "अंग्रेजी किताबों का लैटिन में अनुवाद करने के लिए"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "They believed this would help the British win authority over Indian subjects by showing respect for their heritage.",
+        "hi": "उनका मानना था कि इससे अंग्रेजों को भारतीयों की विरासत के प्रति सम्मान दिखाकर उन पर अधिकार हासिल करने में मदद मिलेगी।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "In the Serampore Mission, which printing press was set up in 1800?",
+        "hi": "सीरमपुर मिशन में 1800 में कौन सा प्रिंटिंग प्रेस स्थापित किया गया था?"
+      },
+      "options": {
+        "a": {"en": "Oxford Press", "hi": "ऑक्सफोर्ड प्रेस"},
+        "b": {"en": "Serampore Press", "hi": "सीरमपुर प्रेस"},
+        "c": {"en": "Calcutta Times Press", "hi": "कलकत्ता टाइम्स प्रेस"},
+        "d": {"en": "Royal Press", "hi": "रॉयल प्रेस"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Until 1813, the Company was suspicious of missionary activities, so they operated from Serampore, which was under Danish control.",
+        "hi": "1813 तक, कंपनी मिशनरी गतिविधियों को लेकर संदिग्ध थी, इसलिए उन्होंने सीरमपुर से काम किया, जो डेनिश नियंत्रण में था।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "Mahatma Gandhi believed that true education was the development of:",
+        "hi": "महात्मा गांधी का मानना था कि सच्ची शिक्षा किसका विकास है?"
+      },
+      "options": {
+        "a": {"en": "Only reading and writing skills", "hi": "केवल पढ़ने और लिखने का कौशल"},
+        "b": {"en": "The mind and the soul", "hi": "मन और आत्मा"},
+        "c": {"en": "The ability to earn money", "hi": "पैसा कमाने की क्षमता"},
+        "d": {"en": "Military discipline", "hi": "सैन्य अनुशासन"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Gandhi emphasized learning a craft and working with hands to understand how things operated.",
+        "hi": "गांधी ने एक शिल्प (craft) सीखने और हाथ से काम करने पर जोर दिया ताकि यह समझ सकें कि चीजें कैसे काम करती हैं।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "What did the term 'Anglicists' stand for in the 19th-century education debate?",
+        "hi": "19वीं सदी की शिक्षा बहस में 'एंग्लिसिस्ट' (Anglicists) का क्या अर्थ था?"
+      },
+      "options": {
+        "a": {"en": "Supporters of Indian learning", "hi": "भारतीय शिक्षा के समर्थक"},
+        "b": {"en": "Supporters of Western education through English", "hi": "अंग्रेजी के माध्यम से पश्चिमी शिक्षा के समर्थक"},
+        "c": {"en": "Supporters of French art", "hi": "फ्रांसीसी कला के समर्थक"},
+        "d": {"en": "Religious leaders of Bengal", "hi": "बंगाल के धार्मिक नेता"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Anglicists like Macaulay ridiculed Indian knowledge as unscientific and full of errors.",
+        "hi": "मैकाले जैसे एंग्लिसिस्टों ने भारतीय ज्ञान का उपहास उड़ाया और इसे अवैज्ञानिक और त्रुटियों से भरा बताया।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Which city became the headquarters of the Asiatic Society of Bengal?",
+        "hi": "कौन सा शहर एशियाटिक सोसाइटी ऑफ बंगाल का मुख्यालय बना?"
+      },
+      "options": {
+        "a": {"en": "Delhi", "hi": "दिल्ली"},
+        "b": {"en": "Calcutta", "hi": "कलकत्ता"},
+        "c": {"en": "Bombay", "hi": "बॉम्बे"},
+        "d": {"en": "Madras", "hi": "मद्रास"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Calcutta was the administrative capital of British India at the time, making it the center of such scholarly activities.",
+        "hi": "कलकत्ता उस समय ब्रिटिश भारत की प्रशासनिक राजधानी थी, जिसने इसे ऐसी विद्वत्तापूर्ण गतिविधियों का केंद्र बना दिया था।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "In Tagore's Santiniketan, education was provided in:",
+        "hi": "टैगोर के शांतिनिकेतन में शिक्षा प्रदान की जाती थी:"
+      },
+      "options": {
+        "a": {"en": "Dark classrooms", "hi": "अंधेरे कमरों में"},
+        "b": {"en": "A natural environment under trees", "hi": "पेड़ों के नीचे प्राकृतिक वातावरण में"},
+        "c": {"en": "Factory-like buildings", "hi": "फैक्ट्री जैसी इमारतों में"},
+        "d": {"en": "Only at night", "hi": "केवल रात में"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Tagore believed that a natural setting encouraged creativity and curiosity in a child.",
+        "hi": "टैगोर का मानना था कि प्राकृतिक वातावरण बच्चे में रचनात्मकता और जिज्ञासा को प्रोत्साहित करता है।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "The name 'Santiniketan' literally means:",
+        "hi": "'शांतिनिकेतन' नाम का शाब्दिक अर्थ है:"
+      },
+      "options": {
+        "a": {"en": "Abode of Knowledge", "hi": "ज्ञान का निवास"},
+        "b": {"en": "Abode of Peace", "hi": "शांति का निवास"},
+        "c": {"en": "Abode of Strength", "hi": "शक्ति का निवास"},
+        "d": {"en": "Abode of Nature", "hi": "प्रकृति का निवास"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The name reflects Tagore’s vision of a peaceful place where children can learn without fear.",
+        "hi": "यह नाम टैगोर के एक शांतिपूर्ण स्थान के विजन को दर्शाता है जहाँ बच्चे बिना किसी डर के सीख सकते हैं।"
+      }
+    }
+  ]
+}
