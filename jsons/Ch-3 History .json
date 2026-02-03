@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 3,
+    "chapter_title": "Ruling the Countryside",
+    "chapter_title_hindi": "ग्रामीण क्षेत्र पर शासन चलाना",
+    "subject": "History - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.1",
+    "naming_convention": "08_HI_CH03_RulingCountryside_FullSet.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "On 12 August 1765, the Mughal emperor appointed the East India Company as the _______ of Bengal.",
+        "hi": "12 अगस्त 1765 को, मुगल सम्राट ने ईस्ट इंडिया कंपनी को बंगाल का _______ नियुक्त किया।"
+      },
+      "options": {
+        "a": {"en": "Governor", "hi": "गवर्नर"},
+        "b": {"en": "Diwan", "hi": "दीवान"},
+        "c": {"en": "Wazir", "hi": "वज़ीर"},
+        "d": {"en": "Nawab", "hi": "नवाब"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "As Diwan, the Company became the chief financial administrator of the territory under its control.",
+        "hi": "दीवान के रूप में, कंपनी अपने नियंत्रण वाले क्षेत्र की मुख्य वित्तीय प्रशासक बन गई।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Before 1865, the Company purchased goods in India by importing _______ from Britain.",
+        "hi": "1865 से पहले, कंपनी ब्रिटेन से _______ आयात करके भारत में सामान खरीदती थी।"
+      },
+      "options": {
+        "a": {"en": "Gold and Silver", "hi": "सोना और चाँदी"},
+        "b": {"en": "Cotton and Silk", "hi": "कपास और रेशम"},
+        "c": {"en": "Machinery", "hi": "मशीनरी"},
+        "d": {"en": "Tea and Coffee", "hi": "चाय और कॉफी"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Earlier, the Company had to import gold and silver to buy goods. After becoming Diwan, it could use Indian revenues to finance its trade.",
+        "hi": "पहले, कंपनी को सामान खरीदने के लिए सोना और चाँदी आयात करना पड़ता था। दीवान बनने के बाद, वह अपने व्यापार के वित्तपोषण के लिए भारतीय राजस्व का उपयोग कर सकती थी।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Which famine in Bengal killed ten million people in 1770?",
+        "hi": "1770 में बंगाल के किस अकाल में एक करोड़ लोग मारे गए थे?"
+      },
+      "options": {
+        "a": {"en": "The Great Bengal Famine", "hi": "बंगाल का भीषण अकाल"},
+        "b": {"en": "The Madras Famine", "hi": "मद्रास का अकाल"},
+        "c": {"en": "The Doab Famine", "hi": "दोआब का अकाल"},
+        "d": {"en": "The Deccan Famine", "hi": "दक्कन का अकाल"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "A terrible famine in 1770 wiped out one-third of the population of Bengal.",
+        "hi": "1770 में एक भयानक अकाल ने बंगाल की एक-तिहाई आबादी को खत्म कर दिया था।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "The Permanent Settlement was introduced in 1793 by:",
+        "hi": "1793 में स्थायी बंदोबस्त (Permanent Settlement) किसके द्वारा शुरू किया गया था?"
+      },
+      "options": {
+        "a": {"en": "Lord Wellesley", "hi": "लॉर्ड वेलेजली"},
+        "b": {"en": "Thomas Munro", "hi": "थॉमस मुनरो"},
+        "c": {"en": "Lord Cornwallis", "hi": "लॉर्ड कॉर्नवालिस"},
+        "d": {"en": "Warren Hastings", "hi": "वॉरेन हेस्टिंग्स"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Lord Cornwallis introduced this system to ensure a fixed revenue for the Company.",
+        "hi": "लॉर्ड कॉर्नवालिस ने कंपनी के लिए एक निश्चित राजस्व सुनिश्चित करने के लिए यह प्रणाली शुरू की थी।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Under the Permanent Settlement, who were made responsible for collecting rent and paying revenue?",
+        "hi": "स्थायी बंदोबस्त के तहत, लगान वसूलने और राजस्व का भुगतान करने के लिए किसे जिम्मेदार बनाया गया था?"
+      },
+      "options": {
+        "a": {"en": "The Peasants", "hi": "किसानों को"},
+        "b": {"en": "The Village Headman", "hi": "गाँव के मुखिया को"},
+        "c": {"en": "The Zamindars (Rajas and Taluqdars)", "hi": "ज़मींदारों (राजाओं और तालुकदारों) को"},
+        "d": {"en": "British Officials", "hi": "ब्रिटिश अधिकारियों को"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Rajas and taluqdars were recognized as zamindars. They collected rent from peasants and paid a fixed amount to the Company.",
+        "hi": "राजाओं और तालुकदारों को ज़मींदारों के रूप में मान्यता दी गई थी। वे किसानों से लगान वसूलते थे और कंपनी को एक निश्चित राशि का भुगतान करते थे।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "What was the main drawback of the Permanent Settlement for the zamindars?",
+        "hi": "ज़मींदारों के लिए स्थायी बंदोबस्त की मुख्य कमी क्या थी?"
+      },
+      "options": {
+        "a": {"en": "The revenue was too high", "hi": "राजस्व बहुत अधिक था"},
+        "b": {"en": "They had to give up their lands if they failed to pay", "hi": "भुगतान न करने पर उन्हें अपनी ज़मीन छोड़नी पड़ती थी"},
+        "c": {"en": "Both a and b", "hi": "ए और बी दोनों"},
+        "d": {"en": "They became too powerful", "hi": "वे बहुत शक्तिशाली हो गए"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "The revenue fixed was so high that many zamindars found it difficult to pay and lost their zamindari.",
+        "hi": "तय किया गया राजस्व इतना अधिक था कि कई ज़मींदारों के लिए इसका भुगतान करना मुश्किल हो गया और उन्होंने अपनी ज़मींदारी खो दी।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Who devised the Mahalwari system in the North Western Provinces of Bengal?",
+        "hi": "बंगाल के उत्तर-पश्चिमी प्रांतों में महलवारी प्रणाली किसने तैयार की थी?"
+      },
+      "options": {
+        "a": {"en": "Holt Mackenzie", "hi": "होल्ट मैकेंजी"},
+        "b": {"en": "Thomas Munro", "hi": "थॉमस मुनरो"},
+        "c": {"en": "Captain Alexander Read", "hi": "कैप्टन अलेक्जेंडर रीड"},
+        "d": {"en": "Charles Metcalfe", "hi": "चार्ल्स मेटकाफ"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Holt Mackenzie devised the system, which came into effect in 1822.",
+        "hi": "होल्ट मैकेंजी ने इस प्रणाली को तैयार किया, जो 1822 में प्रभावी हुई।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "In the Mahalwari system, a 'Mahal' refers to a:",
+        "hi": "महलवारी प्रणाली में, 'महल' का अर्थ है:"
+      },
+      "options": {
+        "a": {"en": "Palace", "hi": "महल"},
+        "b": {"en": "Revenue estate (Village or group of villages)", "hi": "राजस्व संपदा (गाँव या गाँवों का समूह)"},
+        "c": {"en": "Mughal Office", "hi": "मुगल कार्यालय"},
+        "d": {"en": "Temple", "hi": "मंदिर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The revenue was estimated for each plot and added up to calculate the total for the entire village (Mahal).",
+        "hi": "प्रत्येक भूखंड के लिए राजस्व का अनुमान लगाया गया था और पूरे गाँव (महल) के कुल योग की गणना की गई थी।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "In the Mahalwari system, who was given the charge of collecting revenue and paying it to the Company?",
+        "hi": "महलवारी प्रणाली में, राजस्व एकत्र करने और कंपनी को भुगतान करने का प्रभार किसे दिया गया था?"
+      },
+      "options": {
+        "a": {"en": "Zamindar", "hi": "ज़मींदार"},
+        "b": {"en": "Peasant", "hi": "किसान"},
+        "c": {"en": "Village headman", "hi": "गाँव का मुखिया"},
+        "d": {"en": "British Collector", "hi": "ब्रिटिश कलेक्टर"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Unlike the Permanent Settlement, the headman was responsible for revenue collection in Mahalwari.",
+        "hi": "स्थायी बंदोबस्त के विपरीत, महलवारी में राजस्व संग्रह के लिए मुखिया जिम्मेदार था।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "The Ryotwari system (or Munro system) was first tried on a small scale by:",
+        "hi": "रैयतवारी प्रणाली (या मुनरो प्रणाली) को पहली बार छोटे पैमाने पर किसके द्वारा आजमाया गया था?"
+      },
+      "options": {
+        "a": {"en": "Captain Alexander Read", "hi": "कैप्टन अलेक्जेंडर रीड"},
+        "b": {"en": "Thomas Munro", "hi": "थॉमस मुनरो"},
+        "c": {"en": "Lord Hastings", "hi": "लॉर्ड हेस्टिंग्स"},
+        "d": {"en": "Robert Clive", "hi": "रॉबर्ट क्लाइव"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Captain Alexander Read tried it in areas taken after wars with Tipu Sultan; it was later developed by Thomas Munro.",
+        "hi": "कैप्टन अलेक्जेंडर रीड ने टीपू सुल्तान के साथ युद्ध के बाद लिए गए क्षेत्रों में इसे आजमाया; बाद में इसे थॉमस मुनरो द्वारा विकसित किया गया।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "In the Ryotwari system, the settlement was made directly with the:",
+        "hi": "रैयतवारी प्रणाली में, बंदोबस्त सीधे किसके साथ किया गया था?"
+      },
+      "options": {
+        "a": {"en": "Zamindars", "hi": "ज़मींदारों"},
+        "b": {"en": "Taluqdars", "hi": "तालुकदारों"},
+        "c": {"en": "Ryots (Cultivators)", "hi": "रैयतों (काश्तकारों)"},
+        "d": {"en": "Village Elders", "hi": "गाँव के बुजुर्गों"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Munro believed that in the South there were no traditional zamindars, so the Company had to deal with the cultivators directly.",
+        "hi": "मुनरो का मानना था कि दक्षिण में कोई पारंपरिक ज़मींदार नहीं थे, इसलिए कंपनी को काश्तकारों के साथ सीधे व्यवहार करना पड़ा।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "Indigo was in high demand in Europe for:",
+        "hi": "यूरोप में नील की उच्च मांग किसके लिए थी?"
+      },
+      "options": {
+        "a": {"en": "Making medicine", "hi": "दवा बनाने"},
+        "b": {"en": "Dyeing cloth", "hi": "कपड़ा रंगने"},
+        "c": {"en": "Cooking", "hi": "खाना पकाने"},
+        "d": {"en": "Building ships", "hi": "जहाज़ बनाने"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Indigo produced a rich blue color, which was highly prized by cloth manufacturers.",
+        "hi": "नील से गहरा नीला रंग प्राप्त होता था, जिसे कपड़ा निर्माताओं द्वारा अत्यधिक महत्व दिया जाता था।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "European cloth producers used a plant called _______ to make violet and blue dyes before indigo became popular.",
+        "hi": "नील के लोकप्रिय होने से पहले यूरोपीय कपड़ा उत्पादक बैंगनी और नीले रंग बनाने के लिए _______ नामक पौधे का उपयोग करते थे।"
+      },
+      "options": {
+        "a": {"en": "Woad", "hi": "वोड (Woad)"},
+        "b": {"en": "Saffron", "hi": "केसर"},
+        "c": {"en": "Turmeric", "hi": "हल्दी"},
+        "d": {"en": "Cactus", "hi": "कैक्टस"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Woad was a plant of the temperate zones, but the color it produced was dull compared to indigo.",
+        "hi": "वोड समशीतोष्ण क्षेत्रों का एक पौधा था, लेकिन इससे उत्पन्न रंग नील की तुलना में फीका था।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "The two main systems of indigo cultivation were:",
+        "hi": "नील की खेती की दो मुख्य प्रणालियाँ थीं:"
+      },
+      "options": {
+        "a": {"en": "Nij and Ryoti", "hi": "निज और रैयती"},
+        "b": {"en": "Zabit and Dahsala", "hi": "ज़बित और दहसाला"},
+        "c": {"en": "Kharif and Rabi", "hi": "खरीफ और रबी"},
+        "d": {"en": "Permanent and Temporary", "hi": "स्थायी और अस्थायी"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "In Nij, the planter produced indigo on land he controlled directly; in Ryoti, it was grown on the ryot's land.",
+        "hi": "निज में, बागान मालिक सीधे अपने नियंत्रण वाली भूमि पर नील का उत्पादन करता था; रैयती में, इसे रैयत की ज़मीन पर उगाया जाता था।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "In Nij cultivation, a 'Bigha' was standardized by the British in Bengal as:",
+        "hi": "निज खेती में, बंगाल में अंग्रेजों द्वारा 'बीघा' को किस रूप में मानकीकृत किया गया था?"
+      },
+      "options": {
+        "a": {"en": "One acre", "hi": "एक एकड़"},
+        "b": {"en": "Half an acre", "hi": "आधा एकड़"},
+        "c": {"en": "One-third of an acre", "hi": "एक-तिहाई एकड़"},
+        "d": {"en": "Two acres", "hi": "दो एकड़"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "The size of a bigha varied across regions, but the British fixed it at about one-third of an acre in Bengal.",
+        "hi": "बीघा का आकार अलग-अलग क्षेत्रों में अलग-अलग होता था, लेकिन अंग्रेजों ने बंगाल में इसे लगभग एक-तिहाई एकड़ तय किया था।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What was the main problem with Nij cultivation?",
+        "hi": "निज खेती की मुख्य समस्या क्या थी?"
+      },
+      "options": {
+        "a": {"en": "It required large areas of compact land", "hi": "इसके लिए सघन भूमि के बड़े क्षेत्रों की आवश्यकता थी"},
+        "b": {"en": "It needed many ploughs and bullocks", "hi": "इसे बहुत सारे हलों और बैलों की आवश्यकता थी"},
+        "c": {"en": "It competed with rice cultivation for labor", "hi": "यह श्रम के लिए चावल की खेती के साथ प्रतिस्पर्धा करती थी"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "explanation": {
+        "en": "Nij cultivation was expensive and difficult to organize due to land, equipment, and labor constraints.",
+        "hi": "भूमि, उपकरण और श्रम की बाधाओं के कारण निज खेती महंगी और व्यवस्थित करना कठिन थी।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "Under the 'Ryoti' system, planters forced the ryots to sign a contract called a _______.",
+        "hi": "'रैयती' प्रणाली के तहत, बागान मालिक रैयतों को एक अनुबंध पर हस्ताक्षर करने के लिए मजबूर करते थे जिसे _______ कहा जाता था।"
+      },
+      "options": {
+        "a": {"en": "Sanad", "hi": "सनद"},
+        "b": {"en": "Satta", "hi": "सट्टा (Satta)"},
+        "c": {"en": "Kabuliyat", "hi": "कबूलियत"},
+        "d": {"en": "Charter", "hi": "चार्टर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Those who signed the satta got cash advances at low interest rates but were tied to growing indigo.",
+        "hi": "जिन लोगों ने सट्टा पर हस्ताक्षर किए उन्हें कम ब्याज दरों पर नकद अग्रिम मिला लेकिन वे नील उगाने के लिए बाध्य थे।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "Under the contract, the ryot had to grow indigo on at least _______ of his land.",
+        "hi": "अनुबंध के तहत, रैयत को अपनी कम से कम _______ भूमि पर नील उगाना पड़ता था।"
+      },
+      "options": {
+        "a": {"en": "10%", "hi": "10%"},
+        "b": {"en": "25%", "hi": "25%"},
+        "c": {"en": "50%", "hi": "50%"},
+        "d": {"en": "75%", "hi": "75%"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Planters insisted that the best soil be used for indigo, which the ryots preferred for rice.",
+        "hi": "बागान मालिकों ने जोर दिया कि नील के लिए सबसे अच्छी मिट्टी का उपयोग किया जाए, जिसे रैयत चावल के लिए पसंद करते थे।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Indigo harvest left the soil exhausted because it had:",
+        "hi": "नील की फसल मिट्टी की उर्वरता को समाप्त कर देती थी क्योंकि इसमें:"
+      },
+      "options": {
+        "a": {"en": "Deep roots", "hi": "गहरी जड़ें थीं"},
+        "b": {"en": "Broad leaves", "hi": "चौड़ी पत्तियाँ थीं"},
+        "c": {"en": "Toxic seeds", "hi": "विषाक्त बीज थे"},
+        "d": {"en": "High water requirement", "hi": "पानी की अधिक आवश्यकता थी"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Indigo's deep roots exhausted the soil so much that rice could not be sown there after a harvest.",
+        "hi": "नील की गहरी जड़ों ने मिट्टी की उर्वरता को इतना समाप्त कर दिया कि कटाई के बाद वहां चावल नहीं बोया जा सकता था।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "The 'Blue Rebellion' began in Bengal in which year?",
+        "hi": "बंगाल में 'नीला विद्रोह' (Blue Rebellion) किस वर्ष शुरू हुआ?"
+      },
+      "options": {
+        "a": {"en": "1857", "hi": "1857"},
+        "b": {"en": "1859", "hi": "1859"},
+        "c": {"en": "1860", "hi": "1860"},
+        "d": {"en": "1822", "hi": "1822"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Thousands of ryots in Bengal refused to grow indigo and attacked indigo factories.",
+        "hi": "बंगाल में हजारों रैयतों ने नील उगाने से इनकार कर दिया और नील की फैक्ट्रियों पर हमला किया।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Who were the 'Lathiyals' used by the indigo planters?",
+        "hi": "नील बागान मालिकों द्वारा इस्तेमाल किए जाने वाले 'लठियाल' कौन थे?"
+      },
+      "options": {
+        "a": {"en": "Peasant leaders", "hi": "किसान नेता"},
+        "b": {"en": "Lathi-wielding strongmen", "hi": "लाठी चलाने वाले ताकतवर लोग (लठैत)"},
+        "c": {"en": "British judges", "hi": "ब्रिटिश न्यायाधीश"},
+        "d": {"en": "Tax collectors", "hi": "कर संग्रहकर्ता"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Planters used lathiyals to intimidate and beat up ryots who refused to pay or grow indigo.",
+        "hi": "बागान मालिकों ने उन रैयतों को डराने और पीटने के लिए लठियालों का इस्तेमाल किया जिन्होंने भुगतान करने या नील उगाने से इनकार कर दिया था।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Which magistrate issued a notice stating that ryots would not be compelled to accept indigo contracts?",
+        "hi": "किस मजिस्ट्रेट ने एक नोटिस जारी किया जिसमें कहा गया था कि रैयतों को नील के अनुबंध स्वीकार करने के लिए मजबूर नहीं किया जाएगा?"
+      },
+      "options": {
+        "a": {"en": "Ashley Eden", "hi": "एशले ईडन"},
+        "b": {"en": "Thomas Munro", "hi": "थॉमस मुनरो"},
+        "c": {"en": "Charles Canning", "hi": "चार्ल्स कैनिंग"},
+        "d": {"en": "Alexander Read", "hi": "अलेक्जेंडर रीड"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Ashley Eden's notice was seen by the ryots as support for their rebellion, though the British were trying to maintain peace.",
+        "hi": "एशले ईडन के नोटिस को रैयतों ने अपने विद्रोह के समर्थन के रूप में देखा, हालांकि अंग्रेज शांति बनाए रखने की कोशिश कर रहे थे।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "The government set up the _______ in 1860 to enquire into the system of indigo production.",
+        "hi": "सरकार ने नील उत्पादन की प्रणाली की जांच के लिए 1860 में _______ की स्थापना की।"
+      },
+      "options": {
+        "a": {"en": "Revenue Commission", "hi": "राजस्व आयोग"},
+        "b": {"en": "Indigo Commission", "hi": "नील आयोग"},
+        "c": {"en": "Famine Commission", "hi": "अकाल आयोग"},
+        "d": {"en": "Peasant Welfare Board", "hi": "किसान कल्याण बोर्ड"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The commission held the planters guilty and declared that indigo production was not profitable for ryots.",
+        "hi": "आयोग ने बागान मालिकों को दोषी पाया और घोषित किया कि नील उत्पादन रैयतों के लिए लाभदायक नहीं था।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "After the collapse of indigo production in Bengal, planters shifted to:",
+        "hi": "बंगाल में नील उत्पादन ठप होने के बाद बागान मालिक कहाँ स्थानांतरित हो गए?"
+      },
+      "options": {
+        "a": {"en": "Madras", "hi": "मद्रास"},
+        "b": {"en": "Punjab", "hi": "पंजाब"},
+        "c": {"en": "Bihar", "hi": "बिहार"},
+        "d": {"en": "Assam", "hi": "असम"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "With the discovery of synthetic dyes, indigo became less profitable, but production continued in Bihar.",
+        "hi": "सिंथेटिक रंगों की खोज के साथ, नील कम लाभदायक हो गया, लेकिन बिहार में उत्पादन जारी रहा।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "In 1917, Mahatma Gandhi visited _______ in Bihar to see the plight of indigo cultivators.",
+        "hi": "1917 में, महात्मा गांधी ने नील की खेती करने वालों की दुर्दशा देखने के लिए बिहार के _______ का दौरा किया।"
+      },
+      "options": {
+        "a": {"en": "Patna", "hi": "पटना"},
+        "b": {"en": "Champaran", "hi": "चंपारण"},
+        "c": {"en": "Gaya", "hi": "गया"},
+        "d": {"en": "Bhagalpur", "hi": "भागलपुर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Mahatma Gandhi's visit to Champaran marked the beginning of his first major movement in India.",
+        "hi": "महात्मा गांधी की चंपारण यात्रा ने भारत में उनके पहले बड़े आंदोलन की शुरुआत की।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "The British used to force Indian farmers to grow _______ for the Chinese market.",
+        "hi": "अंग्रेज चीनी बाजार के लिए भारतीय किसानों को _______ उगाने के लिए मजबूर करते थे।"
+      },
+      "options": {
+        "a": {"en": "Tea", "hi": "चाय"},
+        "b": {"en": "Opium", "hi": "अफीम"},
+        "c": {"en": "Indigo", "hi": "नील"},
+        "d": {"en": "Sugar", "hi": "चीनी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Opium and Indigo were the two major commercial crops forced upon Indian peasants to finance the Company's trade.",
+        "hi": "अफीम और नील दो प्रमुख वाणिज्यिक फसलें थीं जिन्हें कंपनी के व्यापार के वित्तपोषण के लिए भारतीय किसानों पर थोपा गया था।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "A famous play called 'Nil Darpan' was written by _______ to portray the misery of indigo farmers.",
+        "hi": "नील किसानों के कष्टों को चित्रित करने के लिए _______ द्वारा 'नील दर्पण' नामक एक प्रसिद्ध नाटक लिखा गया था।"
+      },
+      "options": {
+        "a": {"en": "Rabindranath Tagore", "hi": "रवींद्रनाथ टैगोर"},
+        "b": {"en": "Bankim Chandra Chattopadhyay", "hi": "बंकिम चंद्र चट्टोपाध्याय"},
+        "c": {"en": "Dinabandhu Mitra", "hi": "दीनबंधु मित्र"},
+        "d": {"en": "Sarat Chandra Chattopadhyay", "hi": "शरत चंद्र चट्टोपाध्याय"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Dinabandhu Mitra's play played a major role in raising awareness about the oppression of indigo planters.",
+        "hi": "दीनबंधु मित्र के नाटक ने नील बागान मालिकों के उत्पीड़न के बारे में जागरूकता बढ़ाने में प्रमुख भूमिका निभाई।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Who were the 'Gomasthas'?",
+        "hi": "'गोमास्ता' कौन थे?"
+      },
+      "options": {
+        "a": {"en": "Village leaders", "hi": "गाँव के नेता"},
+        "b": {"en": "Agents of planters who collected rent", "hi": "लगान वसूलने वाले बागान मालिकों के एजेंट"},
+        "c": {"en": "French traders", "hi": "फ्रांसीसी व्यापारी"},
+        "d": {"en": "Peasant warriors", "hi": "किसान योद्धा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Gomasthas were the agents sent by the planters to collect rent, often using force.",
+        "hi": "गोमास्ता बागान मालिकों द्वारा लगान वसूलने के लिए भेजे गए एजेंट थे, जो अक्सर बल का प्रयोग करते थे।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "The Permanent Settlement actually discouraged the zamindars from:",
+        "hi": "स्थायी बंदोबस्त ने वास्तव में ज़मींदारों को किसके लिए हतोत्साहित किया:"
+      },
+      "options": {
+        "a": {"en": "Collecting rent", "hi": "लगान वसूलने के लिए"},
+        "b": {"en": "Investing in land improvement", "hi": "भूमि सुधार में निवेश करने के लिए"},
+        "c": {"en": "Buying more land", "hi": "अधिक भूमि खरीदने के लिए"},
+        "d": {"en": "Following British laws", "hi": "ब्रिटिश कानूनों का पालन करने के लिए"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Since the revenue was fixed, zamindars had no incentive to improve the land; they just wanted to extract as much rent as possible.",
+        "hi": "चूंकि राजस्व निश्चित था, ज़मींदारों के पास भूमि में सुधार करने के लिए कोई प्रोत्साहन नहीं था; वे बस अधिक से अधिक लगान वसूलना चाहते थे।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "Why did the price of indigo fall in the late 19th century?",
+        "hi": "19वीं शताब्दी के अंत में नील की कीमत क्यों गिर गई?"
+      },
+      "options": {
+        "a": {"en": "Due to overproduction", "hi": "अति उत्पादन के कारण"},
+        "b": {"en": "Discovery of synthetic dyes", "hi": "सिंथेटिक रंगों की खोज के कारण"},
+        "c": {"en": "End of industrial revolution", "hi": "औद्योगिक क्रांति के अंत के कारण"},
+        "d": {"en": "Ban on cloth dyeing", "hi": "कपड़ा रंगने पर प्रतिबंध के कारण"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Synthetic dyes developed in Germany were cheaper and easier to use, leading to a decline in natural indigo demand.",
+        "hi": "जर्मनी में विकसित सिंथेटिक रंग सस्ते और उपयोग में आसान थे, जिससे प्राकृतिक नील की मांग में गिरावट आई।"
+      }
+    }
+  ]
+}
