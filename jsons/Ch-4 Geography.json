@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 4,
+    "chapter_title": "Industries",
+    "chapter_title_hindi": "उद्योग",
+    "subject": "Geography - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_GEO_CH04_Industries_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Secondary activities or manufacturing change _______ into products of more value to people.",
+        "hi": "द्वितीयक क्रियाएँ या विनिर्माण _______ को लोगों के लिए अधिक मूल्य के उत्पादों में बदल देते हैं।"
+      },
+      "options": {
+        "a": {"en": "Finished goods", "hi": "तैयार माल"},
+        "b": {"en": "Raw materials", "hi": "कच्चे माल"},
+        "c": {"en": "Services", "hi": "सेवाओं"},
+        "d": {"en": "Capital", "hi": "पूंजी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Manufacturing adds value to raw materials by processing them into finished products, like wood into paper.",
+        "hi": "विनिर्माण कच्चे माल को तैयार उत्पादों में संसाधित करके उनके मूल्य में वृद्धि करता है, जैसे लकड़ी से कागज बनाना।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Industries that use plant and animal-based products as their raw materials are called _______.",
+        "hi": "वे उद्योग जो अपने कच्चे माल के रूप में पौधों और जंतु आधारित उत्पादों का उपयोग करते हैं, _______ कहलाते हैं।"
+      },
+      "options": {
+        "a": {"en": "Mineral-based", "hi": "खनिज आधारित"},
+        "b": {"en": "Agro-based", "hi": "कृषि आधारित"},
+        "c": {"en": "Marine-based", "hi": "समुद्र आधारित"},
+        "d": {"en": "Forest-based", "hi": "वन आधारित"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Food processing, vegetable oil, cotton textiles, and leather industries are examples of agro-based industries.",
+        "hi": "खाद्य संसाधन, वनस्पति तेल, सूती वस्त्र और चमड़ा उद्योग कृषि आधारित उद्योगों के उदाहरण हैं।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Which type of industry uses ores as their raw materials?",
+        "hi": "किस प्रकार के उद्योग अयस्कों (ores) का उपयोग अपने कच्चे माल के रूप में करते हैं?"
+      },
+      "options": {
+        "a": {"en": "Agro-based", "hi": "कृषि आधारित"},
+        "b": {"en": "Mineral-based", "hi": "खनिज आधारित"},
+        "c": {"en": "Marine-based", "hi": "समुद्र आधारित"},
+        "d": {"en": "Forest-based", "hi": "वन आधारित"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Mineral-based industries are primary industries that use mineral ores as their raw materials, like iron and steel.",
+        "hi": "खनिज आधारित उद्योग प्राथमिक उद्योग हैं जो खनिज अयस्कों का उपयोग कच्चे माल के रूप में करते हैं, जैसे लोहा और इस्पात।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Basket weaving and pottery are examples of which type of industry?",
+        "hi": "टोकरी बुनना और मिट्टी के बर्तन बनाना किस प्रकार के उद्योग के उदाहरण हैं?"
+      },
+      "options": {
+        "a": {"en": "Large-scale industry", "hi": "बड़े पैमाने के उद्योग"},
+        "b": {"en": "Cottage or household industry", "hi": "कुटीर या घरेलू उद्योग"},
+        "c": {"en": "Public sector industry", "hi": "सार्वजनिक क्षेत्र के उद्योग"},
+        "d": {"en": "Joint sector industry", "hi": "संयुक्त क्षेत्र के उद्योग"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Cottage industries are small-scale industries where products are manufactured by hand, by the artisans.",
+        "hi": "कुटीर उद्योग छोटे पैमाने के उद्योग हैं जहाँ उत्पादों का निर्माण कारीगरों द्वारा हाथों से किया जाता है।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Industries owned and operated by the state/government are called _______.",
+        "hi": "राज्य/सरकार के स्वामित्व और संचालन वाले उद्योग _______ कहलाते हैं।"
+      },
+      "options": {
+        "a": {"en": "Private sector", "hi": "निजी क्षेत्र"},
+        "b": {"en": "Public sector", "hi": "सार्वजनिक क्षेत्र"},
+        "c": {"en": "Joint sector", "hi": "संयुक्त क्षेत्र"},
+        "d": {"en": "Cooperative sector", "hi": "सहकारी क्षेत्र"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Hindustan Aeronautics Limited (HAL) and Steel Authority of India Limited (SAIL) are examples of public sector industries.",
+        "hi": "हिंदुस्तान एयरोनॉटिक्स लिमिटेड (HAL) और स्टील अथॉरिटी ऑफ इंडिया लिमिटेड (SAIL) सार्वजनिक क्षेत्र के उद्योगों के उदाहरण हैं।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Maruti Udyog Limited is an example of which sector?",
+        "hi": "मारुति उद्योग लिमिटेड किस क्षेत्र का उदाहरण है?"
+      },
+      "options": {
+        "a": {"en": "Public sector", "hi": "सार्वजनिक क्षेत्र"},
+        "b": {"en": "Joint sector", "hi": "संयुक्त क्षेत्र"},
+        "c": {"en": "Private sector", "hi": "निजी क्षेत्र"},
+        "d": {"en": "Cooperative sector", "hi": "सहकारी क्षेत्र"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Joint sector industries are owned and operated by the state and individuals or a group of individuals.",
+        "hi": "संयुक्त क्षेत्र के उद्योगों का स्वामित्व और संचालन राज्य और व्यक्तियों या व्यक्तियों के समूह द्वारा किया जाता है।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Anand Milk Union Limited (AMUL) is an example of which sector?",
+        "hi": "आनंद मिल्क यूनियन लिमिटेड (AMUL) किस क्षेत्र का उदाहरण है?"
+      },
+      "options": {
+        "a": {"en": "Public sector", "hi": "सार्वजनिक क्षेत्र"},
+        "b": {"en": "Cooperative sector", "hi": "सहकारी क्षेत्र"},
+        "c": {"en": "Joint sector", "hi": "संयुक्त क्षेत्र"},
+        "d": {"en": "Private sector", "hi": "निजी क्षेत्र"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Cooperative sector industries are owned and operated by the producers or suppliers of raw materials, workers, or both.",
+        "hi": "सहकारी क्षेत्र के उद्योगों का स्वामित्व और संचालन कच्चे माल के उत्पादकों या आपूर्तिकर्ताओं, श्रमिकों या दोनों द्वारा किया जाता है।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Which of these is NOT a factor affecting the location of an industry?",
+        "hi": "इनमें से कौन सा कारक किसी उद्योग की अवस्थिति को प्रभावित नहीं करता है?"
+      },
+      "options": {
+        "a": {"en": "Availability of raw material", "hi": "कच्चे माल की उपलब्धता"},
+        "b": {"en": "Proximity to markets", "hi": "बाजार से निकटता"},
+        "c": {"en": "Language spoken in the area", "hi": "क्षेत्र में बोली जाने वाली भाषा"},
+        "d": {"en": "Availability of power and water", "hi": "बिजली और पानी की उपलब्धता"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Industrial location is primarily determined by economic and geographical factors like land, labor, capital, and infrastructure.",
+        "hi": "औद्योगिक अवस्थिति मुख्य रूप से भूमि, श्रम, पूंजी और बुनियादी ढांचे जैसे आर्थिक और भौगोलिक कारकों द्वारा निर्धारित की जाती है।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "What does an industrial system consist of?",
+        "hi": "एक औद्योगिक तंत्र में क्या शामिल होता है?"
+      },
+      "options": {
+        "a": {"en": "Only raw materials", "hi": "केवल कच्चा माल"},
+        "b": {"en": "Inputs, processes, and outputs", "hi": "निवेश, प्रक्रम और निर्गत"},
+        "c": {"en": "Profit and loss", "hi": "लाभ और हानि"},
+        "d": {"en": "Only machinery", "hi": "केवल मशीनरी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Inputs are raw materials/labor, processes are conversion steps, and outputs are finished goods.",
+        "hi": "निवेश कच्चे माल/श्रम हैं, प्रक्रम रूपांतरण के चरण हैं, और निर्गत तैयार माल हैं।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Steel is often called the _______ of modern industry.",
+        "hi": "इस्पात को अक्सर आधुनिक उद्योग की _______ कहा जाता है।"
+      },
+      "options": {
+        "a": {"en": "Brain", "hi": "मस्तिष्क"},
+        "b": {"en": "Backbone", "hi": "रीढ़ की हड्डी"},
+        "c": {"en": "Heart", "hi": "हृदय"},
+        "d": {"en": "Face", "hi": "चेहरा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Almost everything we use is either made of iron/steel or has been made with tools and machinery of these metals.",
+        "hi": "हम जो कुछ भी उपयोग करते हैं वह या तो लोहे/इस्पात से बना है या इन धातुओं के औजारों और मशीनों से बनाया गया है।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Before 1800 A.D., iron and steel industry was located where _______.",
+        "hi": "1800 ईस्वी से पहले, लोहा और इस्पात उद्योग कहाँ स्थित था?"
+      },
+      "options": {
+        "a": {"en": "Coal fields were near", "hi": "कोयला क्षेत्र पास थे"},
+        "b": {"en": "Raw materials, power supply, and running water were easily available", "hi": "कच्चा माल, बिजली की आपूर्ति और बहता जल आसानी से उपलब्ध था"},
+        "c": {"en": "Markets were huge", "hi": "बाजार बहुत बड़े थे"},
+        "d": {"en": "Ports were available", "hi": "बंदरगाह उपलब्ध थे"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Initial locations were chosen based on the immediate availability of essential raw materials and power.",
+        "hi": "प्रारंभिक स्थानों का चयन आवश्यक कच्चे माल और बिजली की तत्काल उपलब्धता के आधार पर किया गया था।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "The first iron and steel plant in India (TISCO) was set up in 1907 at _______.",
+        "hi": "भारत में पहला लोहा और इस्पात संयंत्र (TISCO) 1907 में _______ में स्थापित किया गया था।"
+      },
+      "options": {
+        "a": {"en": "Bhilai", "hi": "भिलाई"},
+        "b": {"en": "Sakchi (Jamshedpur)", "hi": "साक्ची (जमशेदपुर)"},
+        "c": {"en": "Rourkela", "hi": "राउरकेला"},
+        "d": {"en": "Durgapur", "hi": "दुर्गापुर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Sakchi was chosen because it was near the confluence of the rivers Subarnarekha and Kharkai, providing water and transport.",
+        "hi": "साक्ची को इसलिए चुना गया क्योंकि यह सुवर्णरेखा और खरकई नदियों के संगम के पास था, जिससे जल और परिवहन की सुविधा उपलब्ध थी।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Which of these is a major steel center in the United States of America?",
+        "hi": "इनमें से कौन सा संयुक्त राज्य अमेरिका में एक प्रमुख इस्पात केंद्र है?"
+      },
+      "options": {
+        "a": {"en": "New York", "hi": "न्यूयॉर्क"},
+        "b": {"en": "Pittsburgh", "hi": "पिट्सबर्ग"},
+        "c": {"en": "Los Angeles", "hi": "लॉस एंजिल्स"},
+        "d": {"en": "Chicago", "hi": "शिकागो"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Pittsburgh benefits from local coal and iron ore brought from the Great Lakes region.",
+        "hi": "पिट्सबर्ग को स्थानीय कोयले और ग्रेट लेक्स क्षेत्र से लाए गए लौह अयस्क का लाभ मिलता है।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "The Information Technology (IT) industry deals in the _______ of information.",
+        "hi": "सूचना प्रौद्योगिकी (IT) उद्योग सूचनाओं के _______ से संबंधित है।"
+      },
+      "options": {
+        "a": {"en": "Storage, processing, and distribution", "hi": "भंडारण, प्रसंस्करण और वितरण"},
+        "b": {"en": "Digging and mining", "hi": "खुदाई और खनन"},
+        "c": {"en": "Cooking", "hi": "खाना पकाने"},
+        "d": {"en": "Spinning and weaving", "hi": "कताई और बुनाई"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The IT industry has become global due to a series of technological, political, and socio-economic events.",
+        "hi": "तकनीकी, राजनीतिक और सामाजिक-आर्थिक घटनाओं की एक श्रृंखला के कारण आईटी उद्योग वैश्विक हो गया है।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "Which city is known as the 'Silicon Valley of India'?",
+        "hi": "किस शहर को 'भारत की सिलिकॉन वैली' के रूप में जाना जाता है?"
+      },
+      "options": {
+        "a": {"en": "Hyderabad", "hi": "हैदराबाद"},
+        "b": {"en": "Bengaluru", "hi": "बेंगलुरु"},
+        "c": {"en": "Pune", "hi": "पुणे"},
+        "d": {"en": "Chennai", "hi": "चेन्नई"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Bengaluru is located on the Deccan Plateau and has a mild climate throughout the year, suitable for the IT industry.",
+        "hi": "बेंगलुरु दक्कन के पठार पर स्थित है और यहाँ पूरे साल सुहावनी जलवायु रहती है, जो आईटी उद्योग के लिए उपयुक्त है।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "Silicon Valley is located in which state of the USA?",
+        "hi": "सिलिकॉन वैली अमेरिका के किस राज्य में स्थित है?"
+      },
+      "options": {
+        "a": {"en": "Texas", "hi": "टेक्सास"},
+        "b": {"en": "California", "hi": "कैलिफोर्निया"},
+        "c": {"en": "Florida", "hi": "फ्लोरिडा"},
+        "d": {"en": "Washington", "hi": "वाशिंगटन"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "It is located in the Santa Clara Valley, next to the Rocky Mountains, in California.",
+        "hi": "यह कैलिफोर्निया में रॉकी पर्वत के बगल में सांता क्लारा घाटी में स्थित है।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "Smelting is the process of extracting metal from its ore using _______.",
+        "hi": "प्रगलन (Smelting) अयस्क से धातु निकालने की प्रक्रिया है, जिसमें किसका उपयोग किया जाता है?"
+      },
+      "options": {
+        "a": {"en": "Water", "hi": "जल"},
+        "b": {"en": "Heat", "hi": "ऊष्मा (गर्मी)"},
+        "c": {"en": "Wind", "hi": "पवन"},
+        "d": {"en": "Magnets", "hi": "चुम्बक"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Smelting involves heating the ore beyond its melting point to separate the metal.",
+        "hi": "प्रगलन में धातु को अलग करने के लिए अयस्क को उसके गलनांक से अधिक गर्म करना शामिल है।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "Osaka is an important textile center of which country?",
+        "hi": "ओसाका किस देश का एक महत्वपूर्ण वस्त्र केंद्र है?"
+      },
+      "options": {
+        "a": {"en": "China", "hi": "चीन"},
+        "b": {"en": "Japan", "hi": "जापान"},
+        "c": {"en": "South Korea", "hi": "दक्षिण कोरिया"},
+        "d": {"en": "India", "hi": "भारत"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Osaka is also known as the 'Manchester of Japan' due to its extensive cotton textile industry.",
+        "hi": "ओसाका को इसके व्यापक सूती वस्त्र उद्योग के कारण 'जापान का मैनचेस्टर' भी कहा जाता है।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Which city was known as the 'Manchester of India'?",
+        "hi": "किस शहर को 'भारत का मैनचेस्टर' कहा जाता था?"
+      },
+      "options": {
+        "a": {"en": "Mumbai", "hi": "मुंबई"},
+        "b": {"en": "Ahmedabad", "hi": "अहमदाबाद"},
+        "c": {"en": "Coimbatore", "hi": "कोयंबटूर"},
+        "d": {"en": "Kanpur", "hi": "कानपुर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Ahmedabad is located in Gujarat near cotton-growing areas, making it a major textile hub.",
+        "hi": "अहमदाबाद गुजरात में कपास उत्पादक क्षेत्रों के पास स्थित है, जो इसे एक प्रमुख वस्त्र केंद्र बनाता है।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "The great lakes of North America include Lake Superior, Huron, Ontario, Michigan, and _______.",
+        "hi": "उत्तरी अमेरिका की महान झीलों में सुपीरियर, ह्यूरन, ओंटारियो, मिशिगन और _______ शामिल हैं।"
+      },
+      "options": {
+        "a": {"en": "Victoria", "hi": "विक्टोरिया"},
+        "b": {"en": "Erie", "hi": "इरी"},
+        "c": {"en": "Baikal", "hi": "बैकाल"},
+        "d": {"en": "Caspian", "hi": "कैस्पियन"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Lake Superior is the largest of these five lakes. These lakes provide cheap shipping for iron ore to Pittsburgh.",
+        "hi": "सुपीरियर इन पांच झीलों में सबसे बड़ी है। ये झीलें पिट्सबर्ग तक लौह अयस्क के लिए सस्ता शिपिंग प्रदान करती हैं।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Which of these is a 'Sunrise Industry'?",
+        "hi": "इनमें से कौन सा एक 'सनराइज उद्योग' (उभरता हुआ उद्योग) है?"
+      },
+      "options": {
+        "a": {"en": "Iron and steel industry", "hi": "लोहा और इस्पात उद्योग"},
+        "b": {"en": "Information Technology", "hi": "सूचना प्रौद्योगिकी"},
+        "c": {"en": "Cotton textile industry", "hi": "सूती वस्त्र उद्योग"},
+        "d": {"en": "Coal mining", "hi": "कोयला खनन"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Sunrise industries are emerging industries like IT, Wellness, Hospitality, and Knowledge.",
+        "hi": "सनराइज उद्योग उभरते हुए उद्योग हैं जैसे आईटी, स्वास्थ्य लाभ, सत्कार और ज्ञान।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Marine-based industries use products from _______ as raw materials.",
+        "hi": "समुद्र आधारित उद्योग कच्चे माल के रूप में कहाँ के उत्पादों का उपयोग करते हैं?"
+      },
+      "options": {
+        "a": {"en": "Forests", "hi": "वनों"},
+        "b": {"en": "Sea and Oceans", "hi": "सागरों और महासागरों"},
+        "c": {"en": "Mines", "hi": "खानों"},
+        "d": {"en": "Farms", "hi": "खेतों"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Examples include fish oil manufacturing and seafood processing.",
+        "hi": "उदाहरणों में मछली के तेल का निर्माण और समुद्री खाद्य प्रसंस्करण शामिल हैं।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Which type of industry is owned by a group of individuals who provide raw materials?",
+        "hi": "किस प्रकार के उद्योग का स्वामित्व उन व्यक्तियों के समूह के पास होता है जो कच्चा माल उपलब्ध कराते हैं?"
+      },
+      "options": {
+        "a": {"en": "Private sector", "hi": "निजी क्षेत्र"},
+        "b": {"en": "Cooperative sector", "hi": "सहकारी क्षेत्र"},
+        "c": {"en": "Public sector", "hi": "सार्वजनिक क्षेत्र"},
+        "d": {"en": "Joint sector", "hi": "संयुक्त क्षेत्र"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Amul and the sugar industry in Maharashtra are major examples of cooperatives.",
+        "hi": "अमूल और महाराष्ट्र का चीनी उद्योग सहकारी समितियों के प्रमुख उदाहरण हैं।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "TISCO was started near which river?",
+        "hi": "TISCO की शुरुआत किस नदी के पास हुई थी?"
+      },
+      "options": {
+        "a": {"en": "Ganga", "hi": "गंगा"},
+        "b": {"en": "Subarnarekha", "hi": "सुवर्णरेखा"},
+        "c": {"en": "Yamuna", "hi": "यमुना"},
+        "d": {"en": "Indus", "hi": "सिंधु"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The location provided sufficient water for the steel plant.",
+        "hi": "इस स्थान ने इस्पात संयंत्र के लिए पर्याप्त जल प्रदान किया।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "Which industry is often called the 'Feeder Industry'?",
+        "hi": "किस उद्योग को अक्सर 'पोषक उद्योग' (Feeder Industry) कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Textile", "hi": "वस्त्र"},
+        "b": {"en": "Iron and Steel", "hi": "लोहा और इस्पात"},
+        "c": {"en": "Food processing", "hi": "खाद्य प्रसंस्करण"},
+        "d": {"en": "Tourism", "hi": "पर्यटन"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Iron and Steel industry is called a feeder industry because its products are used as raw materials for other industries.",
+        "hi": "लोहा और इस्पात उद्योग को पोषक उद्योग कहा जाता है क्योंकि इसके उत्पादों का उपयोग अन्य उद्योगों के लिए कच्चे माल के रूप में किया जाता है।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "Industrial regions emerge when a number of industries _______.",
+        "hi": "औद्योगिक प्रदेश तब विकसित होते हैं जब कई उद्योग _______।"
+      },
+      "options": {
+        "a": {"en": "Compete with each other", "hi": "एक-दूसरे के साथ प्रतिस्पर्धा करते हैं"},
+        "b": {"en": "Locate close to each other and share the benefits of their closeness", "hi": "एक-दूसरे के निकट स्थित होते हैं और अपनी निकटता के लाभ साझा करते हैं"},
+        "c": {"en": "Are in different countries", "hi": "अलग-अलग देशों में होते हैं"},
+        "d": {"en": "Use only manual labor", "hi": "केवल शारीरिक श्रम का उपयोग करते हैं"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Major industrial regions include Eastern North America, Western and Central Europe, and Eastern Asia.",
+        "hi": "प्रमुख औद्योगिक प्रदेशों में पूर्वी उत्तरी अमेरिका, पश्चिमी और मध्य यूरोप और पूर्वी एशिया शामिल हैं।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "The process of making steel involves adding metals like manganese and nickel to _______.",
+        "hi": "इस्पात बनाने की प्रक्रिया में मैंगनीज और निकेल जैसी धातुओं को किसमें मिलाया जाता है?"
+      },
+      "options": {
+        "a": {"en": "Copper", "hi": "तांबा"},
+        "b": {"en": "Iron", "hi": "लोहा"},
+        "c": {"en": "Gold", "hi": "सोना"},
+        "d": {"en": "Silver", "hi": "चांदी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Adding small amounts of other metals gives steel unusual hardness, toughness, or ability to resist rust.",
+        "hi": "अन्य धातुओं की थोड़ी मात्रा मिलाने से इस्पात को असामान्य कठोरता, दृढ़ता या जंग प्रतिरोधक क्षमता मिलती है।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "In Japan, Osaka's textile industry depends completely on _______.",
+        "hi": "जापान में ओसाका का वस्त्र उद्योग पूरी तरह से किस पर निर्भर है?"
+      },
+      "options": {
+        "a": {"en": "Domestic cotton", "hi": "घरेलू कपास"},
+        "b": {"en": "Imported raw materials", "hi": "आयातित कच्चे माल"},
+        "c": {"en": "Only wool", "hi": "केवल ऊन"},
+        "d": {"en": "Hand spinning", "hi": "हाथ की कताई"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Osaka imports cotton from Egypt, India, China, and the USA.",
+        "hi": "ओसाका मिस्र, भारत, चीन और अमेरिका से कपास का आयात करता है।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "Bengaluru has the largest number of _______ in India.",
+        "hi": "बेंगलुरु में भारत में सबसे अधिक संख्या में क्या हैं?"
+      },
+      "options": {
+        "a": {"en": "Steel plants", "hi": "इस्पात संयंत्र"},
+        "b": {"en": "Educational institutions and IT corporations", "hi": "शैक्षणिक संस्थान और आईटी कंपनियां"},
+        "c": {"en": "Jute mills", "hi": "जूट मिलें"},
+        "d": {"en": "Coal mines", "hi": "कोयला खदानें"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The city’s high concentration of skilled labor and research institutions makes it an IT hub.",
+        "hi": "शहर में कुशल श्रम और अनुसंधान संस्थानों की उच्च सांद्रता इसे आईटी हब बनाती है।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "A shift in the location of the iron and steel industry after 1950 was towards _______.",
+        "hi": "1950 के बाद लोहा और इस्पात उद्योग की अवस्थिति में बदलाव किसकी ओर हुआ?"
+      },
+      "options": {
+        "a": {"en": "Mountains", "hi": "पहाड़ों"},
+        "b": {"en": "Large areas of flat land near sea ports", "hi": "समुद्र पत्तनों के निकट सपाट भूमि के विशाल क्षेत्र"},
+        "c": {"en": "Dense forests", "hi": "घने वनों"},
+        "d": {"en": "Desert regions", "hi": "रेगिस्तानी क्षेत्रों"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "This shift occurred because steel works became very large and iron ore had to be imported from overseas.",
+        "hi": "यह बदलाव इसलिए हुआ क्योंकि इस्पात निर्माण बहुत बड़ा हो गया और लौह अयस्क को विदेशों से आयात करना पड़ा।"
+      }
+    }
+  ]
+}
