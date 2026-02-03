@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 2,
+    "chapter_title": "Land, Soil, Water, Natural Vegetation and Wildlife Resources",
+    "chapter_title_hindi": "भूमि, मृदा, जल, प्राकृतिक वनस्पति और वन्यजीवन संसाधन",
+    "subject": "Geography - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_GEO_CH02_PhysicalResources_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "What percentage of the Earth's surface is covered by land?",
+        "hi": "पृथ्वी की सतह का कितना प्रतिशत भाग भूमि से ढका है?"
+      },
+      "options": {
+        "a": {"en": "20%", "hi": "20%"},
+        "b": {"en": "30%", "hi": "30%"},
+        "c": {"en": "50%", "hi": "50%"},
+        "d": {"en": "70%", "hi": "70%"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "About 30% of the Earth's surface is land, and not all of it is habitable.",
+        "hi": "पृथ्वी की सतह का लगभग 30% भाग भूमि है, और इसका सारा हिस्सा रहने योग्य नहीं है।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "The uneven distribution of population in different parts of the world is mainly due to varied characteristics of _______.",
+        "hi": "विश्व के विभिन्न भागों में जनसंख्या का असमान वितरण मुख्य रूप से _______ की विविध विशेषताओं के कारण है।"
+      },
+      "options": {
+        "a": {"en": "Language", "hi": "भाषा"},
+        "b": {"en": "Land and Climate", "hi": "भूमि और जलवायु"},
+        "c": {"en": "Government", "hi": "सरकार"},
+        "d": {"en": "Technology", "hi": "प्रौद्योगिकी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Rugged topography and extreme climates are sparsely populated, while plains and river valleys are densely populated.",
+        "hi": "ऊबड़-खाबड़ स्थलाकृति और अत्यधिक जलवायु वाले क्षेत्रों में जनसंख्या कम होती है, जबकि मैदानों और नदी घाटियों में जनसंख्या सघन होती है।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Land owned by the community for common uses like collection of fodder, fruits, or medicinal herbs is called _______.",
+        "hi": "चारे, फलों या औषधीय जड़ी-बूटियों के संग्रह जैसे सामान्य उपयोगों के लिए समुदाय के स्वामित्व वाली भूमि को _______ कहा जाता है।"
+      },
+      "options": {
+        "a": {"en": "Private land", "hi": "निजी भूमि"},
+        "b": {"en": "Common property resources", "hi": "साझा संपत्ति संसाधन"},
+        "c": {"en": "Government land", "hi": "सरकारी भूमि"},
+        "d": {"en": "Barren land", "hi": "बंजर भूमि"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Community land is also called common property resources as it belongs to the whole community.",
+        "hi": "सामुदायिक भूमि को साझा संपत्ति संसाधन भी कहा जाता है क्योंकि यह पूरे समुदाय की होती है।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "The thin layer of grainy substance covering the surface of the earth is called _______.",
+        "hi": "पृथ्वी की सतह पर दानेदार पदार्थ की पतली परत को _______ कहा जाता है।"
+      },
+      "options": {
+        "a": {"en": "Soil", "hi": "मृदा (मिट्टी)"},
+        "b": {"en": "Rock", "hi": "चट्टान"},
+        "c": {"en": "Ice", "hi": "बर्फ"},
+        "d": {"en": "Mineral", "hi": "खनिज"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Soil is closely linked to land and is made up of organic matter, minerals, and weathered rocks.",
+        "hi": "मृदा भूमि से गहराई से जुड़ी हुई है और यह कार्बनिक पदार्थों, खनिजों और अपक्षयित चट्टानों से बनी है।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Which factor determines the color, texture, and chemical properties of soil?",
+        "hi": "कौन सा कारक मृदा के रंग, गठन और रासायनिक गुणों को निर्धारित करता है?"
+      },
+      "options": {
+        "a": {"en": "Climate", "hi": "जलवायु"},
+        "b": {"en": "Parent Rock", "hi": "जनक शैल"},
+        "c": {"en": "Time", "hi": "समय"},
+        "d": {"en": "Relief", "hi": "उच्चावच"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Parent rock is the original rock from which the soil is formed and it determines its basic characteristics.",
+        "hi": "जनक शैल वह मूल चट्टान है जिससे मृदा का निर्माण होता है और यह इसकी बुनियादी विशेषताओं को निर्धारित करती है।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "The breaking up and decay of exposed rocks by temperature changes, frost action, plants, and animals is called _______.",
+        "hi": "तापमान परिवर्तन, पाले की क्रिया, पौधों और जानवरों द्वारा खुली चट्टानों के टूटने और क्षय होने को _______ कहा जाता है।"
+      },
+      "options": {
+        "a": {"en": "Erosion", "hi": "अपरदन"},
+        "b": {"en": "Weathering", "hi": "अपक्षय"},
+        "c": {"en": "Mulching", "hi": "मल्चिंग"},
+        "d": {"en": "Landslide", "hi": "भूस्खलन"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Weathering is the process that leads to soil formation over hundreds of years.",
+        "hi": "अपक्षय वह प्रक्रिया है जो सैकड़ों वर्षों में मृदा निर्माण की ओर ले जाती है।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Which method of soil conservation involves plugging gullies to stop water flow and prevent soil loss?",
+        "hi": "मृदा संरक्षण की किस विधि में जल के प्रवाह को रोकने और मृदा के नुकसान को रोकने के लिए गुल्ली (अवनलिका) प्लगिंग शामिल है?"
+      },
+      "options": {
+        "a": {"en": "Mulching", "hi": "मल्चिंग"},
+        "b": {"en": "Rock dam", "hi": "चट्टान बाँध"},
+        "c": {"en": "Contour ploughing", "hi": "समोच्च जुताई"},
+        "d": {"en": "Shelter belts", "hi": "रक्षक मेखलाएँ"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Rocks are piled up to slow down the flow of water, which prevents gullies and further soil erosion.",
+        "hi": "जल के प्रवाह को धीमा करने के लिए चट्टानों को इकट्ठा किया जाता है, जो अवनलिका और आगे मृदा अपरदन को रोकता है।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "What is the method called when bare ground between plants is covered with a layer of organic matter like straw?",
+        "hi": "उस विधि को क्या कहा जाता है जब पौधों के बीच की खाली जमीन को पुआल जैसे कार्बनिक पदार्थों की परत से ढक दिया जाता है?"
+      },
+      "options": {
+        "a": {"en": "Terrace farming", "hi": "वेदिका फार्मिंग"},
+        "b": {"en": "Mulching", "hi": "मल्चिंग"},
+        "c": {"en": "Intercropping", "hi": "बीच की फसल उगाना"},
+        "d": {"en": "Contour barriers", "hi": "समोच्च रोधिकाएँ"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Mulching helps to retain soil moisture.",
+        "hi": "मल्चिंग मृदा की आर्द्रता बनाए रखने में मदद करती है।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "In coastal and dry regions, rows of trees are planted to check the wind movement. These are called _______.",
+        "hi": "तटीय और शुष्क क्षेत्रों में, पवन की गति को रोकने के लिए पेड़ों की कतारें लगाई जाती हैं। इन्हें _______ कहा जाता है।"
+      },
+      "options": {
+        "a": {"en": "Shelter belts", "hi": "रक्षक मेखलाएँ"},
+        "b": {"en": "Contour ploughing", "hi": "समोच्च जुताई"},
+        "c": {"en": "Terrace farming", "hi": "वेदिका फार्मिंग"},
+        "d": {"en": "Rock dams", "hi": "चट्टान बाँध"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Shelter belts protect the soil cover by reducing wind speed.",
+        "hi": "रक्षक मेखलाएँ पवन की गति को कम करके मृदा आवरण की रक्षा करती हैं।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "What percentage of the Earth's water is freshwater?",
+        "hi": "पृथ्वी के जल का कितना प्रतिशत भाग अलवण जल (मीठा पानी) है?"
+      },
+      "options": {
+        "a": {"en": "1%", "hi": "1%"},
+        "b": {"en": "2.7%", "hi": "2.7%"},
+        "c": {"en": "10%", "hi": "10%"},
+        "d": {"en": "70%", "hi": "70%"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Only about 2.7% of Earth's water is freshwater, and most of it is trapped in ice sheets and glaciers.",
+        "hi": "पृथ्वी के जल का केवल लगभग 2.7% भाग ही मीठा पानी है, और इसका अधिकांश हिस्सा बर्फ की चादरों और हिमनदों में जमा है।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Freshwater available for human use is only about _______.",
+        "hi": "मानव उपयोग के लिए उपलब्ध अलवण जल केवल लगभग _______ है।"
+      },
+      "options": {
+        "a": {"en": "1%", "hi": "1%"},
+        "b": {"en": "2.7%", "hi": "2.7%"},
+        "c": {"en": "30%", "hi": "30%"},
+        "d": {"en": "50%", "hi": "50%"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Only 1% of freshwater is available and fit for human use, found as groundwater and in rivers and lakes.",
+        "hi": "केवल 1% मीठा पानी ही मानव उपयोग के लिए उपलब्ध और उपयुक्त है, जो भूजल और नदियों तथा झीलों में पाया जाता है।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "The process by which water continually changes its form and circulates between oceans, atmosphere, and land is the _______.",
+        "hi": "वह प्रक्रिया जिसके द्वारा जल निरंतर अपना रूप बदलता है और महासागरों, वायुमंडल और भूमि के बीच चक्रण करता है, _______ है।"
+      },
+      "options": {
+        "a": {"en": "Tidal cycle", "hi": "ज्वारीय चक्र"},
+        "b": {"en": "Water cycle", "hi": "जल चक्र"},
+        "c": {"en": "Ocean current", "hi": "महासागरीय धारा"},
+        "d": {"en": "Precipitation", "hi": "वर्षा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Water cycle involves evaporation, condensation, and precipitation.",
+        "hi": "जल चक्र में वाष्पीकरण, संघनन और वर्षण शामिल हैं।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Which of these is a major cause of water pollution?",
+        "hi": "इनमें से कौन सा जल प्रदूषण का एक प्रमुख कारण है?"
+      },
+      "options": {
+        "a": {"en": "Rainwater harvesting", "hi": "वर्षा जल संचयन"},
+        "b": {"en": "Discharge of untreated sewage and agricultural chemicals", "hi": "अनुपचारित सीवेज और कृषि रसायनों का विसर्जन"},
+        "c": {"en": "Forestry", "hi": "वानिकी"},
+        "d": {"en": "Drip irrigation", "hi": "टपकन सिंचाई"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Nitrates, metals, and pesticides from agriculture and industry are major water contaminants.",
+        "hi": "कृषि और उद्योग से निकलने वाले नाइट्रेट, धातु और कीटनाशक प्रमुख जल प्रदूषक हैं।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "A narrow zone of contact between the lithosphere, hydrosphere, and atmosphere is the _______.",
+        "hi": "स्थलमंडल, जलमंडल और वायुमंडल के बीच संपर्क का एक संकीर्ण क्षेत्र _______ है।"
+      },
+      "options": {
+        "a": {"en": "Ecosystem", "hi": "पारिस्थितिकी तंत्र"},
+        "b": {"en": "Biosphere", "hi": "जैवमंडल"},
+        "c": {"en": "Stratosphere", "hi": "समताप मंडल"},
+        "d": {"en": "Ionosphere", "hi": "आयनमंडल"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Natural vegetation and wildlife exist only in the biosphere.",
+        "hi": "प्राकृतिक वनस्पति और वन्यजीवन केवल जैवमंडल में मौजूद होते हैं।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "In an ecosystem, living beings are inter-dependent on each other for _______.",
+        "hi": "एक पारिस्थितिकी तंत्र में, जीवित प्राणी _______ के लिए एक-दूसरे पर परस्पर निर्भर होते हैं।"
+      },
+      "options": {
+        "a": {"en": "Entertainment", "hi": "मनोरंजन"},
+        "b": {"en": "Survival", "hi": "उत्तरजीविता (जीवित रहने)"},
+        "c": {"en": "Competition", "hi": "प्रतिस्पर्धा"},
+        "d": {"en": "Migration", "hi": "प्रवास"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "This life-supporting system is called an ecosystem where plants, animals, and humans depend on each other.",
+        "hi": "इस जीवन-आधारित प्रणाली को पारिस्थितिकी तंत्र कहा जाता है जहाँ पौधे, जानवर और मनुष्य एक-दूसरे पर निर्भर होते हैं।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "Which bird is known as a 'scavenger' because it feeds on dead livestock?",
+        "hi": "किस पक्षी को 'अपमार्जक' (scavenger) के रूप में जाना जाता है क्योंकि यह मृत पशुओं को खाता है?"
+      },
+      "options": {
+        "a": {"en": "Eagle", "hi": "बाज"},
+        "b": {"en": "Vulture", "hi": "गिद्ध"},
+        "c": {"en": "Peacock", "hi": "मोर"},
+        "d": {"en": "Parrot", "hi": "तोता"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Vultures play a vital role in cleaning the environment by consuming dead animals.",
+        "hi": "गिद्ध मृत जानवरों को खाकर पर्यावरण को साफ करने में महत्वपूर्ण भूमिका निभाते हैं।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "Forests that do not shed their leaves simultaneously in any season are called _______.",
+        "hi": "वे वन जो किसी भी मौसम में एक साथ अपनी पत्तियाँ नहीं गिराते, _______ कहलाते हैं।"
+      },
+      "options": {
+        "a": {"en": "Deciduous forests", "hi": "पर्णपाती वन"},
+        "b": {"en": "Evergreen forests", "hi": "सदाबहार वन"},
+        "c": {"en": "Thorny bushes", "hi": "कांटेदार झाड़ियाँ"},
+        "d": {"en": "Tundra", "hi": "टुंड्रा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Evergreen forests always appear green as trees shed leaves at different times of the year.",
+        "hi": "सदाबहार वन हमेशा हरे दिखाई देते हैं क्योंकि पेड़ साल के अलग-अलग समय पर पत्तियाँ गिराते हैं।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "Deciduous forests shed their leaves in a particular season to _______.",
+        "hi": "पर्णपाती वन एक विशेष मौसम में अपनी पत्तियाँ _______ के लिए गिरा देते हैं।"
+      },
+      "options": {
+        "a": {"en": "Conserve moisture", "hi": "आर्द्रता (नमी) संरक्षित करने"},
+        "b": {"en": "Attract birds", "hi": "पक्षियों को आकर्षित करने"},
+        "c": {"en": "Produce more seeds", "hi": "अधिक बीज पैदा करने"},
+        "d": {"en": "Grow taller", "hi": "लंबे होने"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Trees in deciduous forests shed leaves during the dry season to prevent loss of water through transpiration.",
+        "hi": "पर्णपाती वनों के पेड़ शुष्क मौसम के दौरान वाष्पोत्सर्जन के माध्यम से पानी के नुकसान को रोकने के लिए पत्तियाँ गिरा देते हैं।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Thorny bushes and scrubs grow in areas of _______.",
+        "hi": "कांटेदार झाड़ियाँ और गुल्म _______ वाले क्षेत्रों में उगते हैं।"
+      },
+      "options": {
+        "a": {"en": "Heavy rainfall", "hi": "भारी वर्षा"},
+        "b": {"en": "Low rainfall", "hi": "कम वर्षा"},
+        "c": {"en": "Moderate rainfall", "hi": "मध्यम वर्षा"},
+        "d": {"en": "Snowfall", "hi": "हिमपात"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "In dry areas with low rainfall, plants have deep roots and thorny surfaces to reduce moisture loss.",
+        "hi": "कम वर्षा वाले शुष्क क्षेत्रों में, नमी के नुकसान को कम करने के लिए पौधों की जड़ें गहरी और सतह कांटेदार होती है।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "Tundra vegetation is found in _______.",
+        "hi": "टुंड्रा वनस्पति _______ में पाई जाती है।"
+      },
+      "options": {
+        "a": {"en": "Hot deserts", "hi": "गर्म रेगिस्तानों"},
+        "b": {"en": "Cold Polar Regions", "hi": "ठंडे ध्रुवीय क्षेत्रों"},
+        "c": {"en": "Equatorial regions", "hi": "भूमध्यरेखीय क्षेत्रों"},
+        "d": {"en": "Plains", "hi": "मैदानों"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Tundra vegetation comprises mosses and lichens found in cold climates.",
+        "hi": "टुंड्रा वनस्पति में ठंडी जलवायु में पाए जाने वाले काई और लाइकेन शामिल हैं।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "The mass movement of rock, debris, or earth down a slope is known as a _______.",
+        "hi": "शैल, मलबे या ढाल से गिरने वाली मिट्टी के वृहद् संचलन को _______ के रूप में जाना जाता है।"
+      },
+      "options": {
+        "a": {"en": "Earthquake", "hi": "भूकंप"},
+        "b": {"en": "Landslide", "hi": "भूस्खलन"},
+        "c": {"en": "Flood", "hi": "बाढ़"},
+        "d": {"en": "Tsunami", "hi": "सुनामी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Landslides often occur in conjunction with earthquakes, floods, and volcanoes.",
+        "hi": "भूस्खलन अक्सर भूकंप, बाढ़ और ज्वालामुखियों के साथ मिलकर होते हैं।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "CITES is an international agreement that aims to _______.",
+        "hi": "CITES एक अंतरराष्ट्रीय समझौता है जिसका उद्देश्य _______ है।"
+      },
+      "options": {
+        "a": {"en": "Promote industrial trade", "hi": "औद्योगिक व्यापार को बढ़ावा देना"},
+        "b": {"en": "Ensure international trade in wild animals and plants does not threaten their survival", "hi": "यह सुनिश्चित करना कि वन्य जीवों और पौधों के अंतरराष्ट्रीय व्यापार से उनके अस्तित्व को खतरा न हो"},
+        "c": {"en": "Explore space", "hi": "अंतरिक्ष की खोज करना"},
+        "d": {"en": "Build smart cities", "hi": "स्मार्ट शहरों का निर्माण करना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "CITES protects thousands of species of animals and plants from over-exploitation through trade.",
+        "hi": "CITES व्यापार के माध्यम से जानवरों और पौधों की हजारों प्रजातियों को अत्यधिक दोहन से बचाता है।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Which of these is a method to mitigate landslides?",
+        "hi": "इनमें से कौन सी भूस्खलन को कम करने की एक विधि है?"
+      },
+      "options": {
+        "a": {"en": "Deforestation", "hi": "वनों की कटाई"},
+        "b": {"en": "Construction of retention walls", "hi": "प्रतिधारी दीवारों (retention walls) का निर्माण"},
+        "c": {"en": "Overgrazing", "hi": "अतिचारण (Overgrazing)"},
+        "d": {"en": "Mining", "hi": "खनन"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Retention walls help stop land from slipping.",
+        "hi": "प्रतिधारी दीवारें भूमि को खिसकने से रोकने में मदद करती हैं।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "Why is it important to conserve natural vegetation and wildlife?",
+        "hi": "प्राकृतिक वनस्पति और वन्यजीवन का संरक्षण करना क्यों महत्वपूर्ण है?"
+      },
+      "options": {
+        "a": {"en": "To clear land for factories", "hi": "कारखानों के लिए भूमि साफ करने के लिए"},
+        "b": {"en": "To maintain ecological balance", "hi": "पारिस्थितिक संतुलन बनाए रखने के लिए"},
+        "c": {"en": "To increase pollution", "hi": "प्रदूषण बढ़ाने के लिए"},
+        "d": {"en": "To build more roads", "hi": "अधिक सड़कों के निर्माण के लिए"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Changes in climate and human interference can cause the loss of natural habitats for plants and animals.",
+        "hi": "जलवायु में परिवर्तन और मानवीय हस्तक्षेप पौधों और जानवरों के प्राकृतिक आवासों के नुकसान का कारण बन सकते हैं।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "The process of collecting water from rooftops and directing it to an appropriate location for future use is _______.",
+        "hi": "छतों से पानी इकट्ठा करने और उसे भविष्य के उपयोग के लिए उपयुक्त स्थान पर भेजने की प्रक्रिया _______ है।"
+      },
+      "options": {
+        "a": {"en": "Drip irrigation", "hi": "टपकन सिंचाई"},
+        "b": {"en": "Rainwater harvesting", "hi": "वर्षा जल संचयन"},
+        "c": {"en": "Canal irrigation", "hi": "नहर सिंचाई"},
+        "d": {"en": "Water evaporation", "hi": "जल वाष्पीकरण"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Rainwater harvesting is a great way to conserve water in water-scarce areas.",
+        "hi": "जल की कमी वाले क्षेत्रों में जल संरक्षण के लिए वर्षा जल संचयन एक शानदार तरीका है।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "In which irrigation method is water delivered directly to the base of the plant through pipes?",
+        "hi": "सिंचाई की किस विधि में पाइपों के माध्यम से पानी सीधे पौधे के आधार तक पहुँचाया जाता है?"
+      },
+      "options": {
+        "a": {"en": "Sprinkler irrigation", "hi": "छिड़काव सिंचाई"},
+        "b": {"en": "Drip or trickle irrigation", "hi": "टपकन या ड्रिप सिंचाई"},
+        "c": {"en": "Flood irrigation", "hi": "बाढ़ सिंचाई"},
+        "d": {"en": "Manual watering", "hi": "हाथ से पानी देना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Drip irrigation is very useful in dry regions as it minimizes water wastage.",
+        "hi": "शुष्क क्षेत्रों में ड्रिप सिंचाई बहुत उपयोगी है क्योंकि यह पानी की बर्बादी को कम करती है।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Vanamahotsava is an awareness program to encourage _______.",
+        "hi": "वनमहोत्सव _______ को प्रोत्साहित करने वाला एक जागरूकता कार्यक्रम है।"
+      },
+      "options": {
+        "a": {"en": "Hunting", "hi": "शिकार"},
+        "b": {"en": "Planting trees", "hi": "पेड़ लगाना"},
+        "c": {"en": "Industrialization", "hi": "औद्योगिकीकरण"},
+        "d": {"en": "Fishing", "hi": "मछली पकड़ना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Social forestry and Vanamahotsava should be encouraged at the regional and community levels.",
+        "hi": "क्षेत्रीय और सामुदायिक स्तर पर सामाजिक वानिकी और वनमहोत्सव को प्रोत्साहित किया जाना चाहिए।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Which layer of the soil profile contains humus and vegetation?",
+        "hi": "मृदा परिच्छेदिका (soil profile) की किस परत में ह्यूमस और वनस्पति होती है?"
+      },
+      "options": {
+        "a": {"en": "Sub soil", "hi": "उप मृदा"},
+        "b": {"en": "Top soil", "hi": "ऊपरी मृदा"},
+        "c": {"en": "Weathered rock", "hi": "अपक्षयित चट्टान"},
+        "d": {"en": "Parent rock", "hi": "जनक शैल"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Top soil is the upper layer of soil that is rich in organic matter (humus) and supports plant growth.",
+        "hi": "ऊपरी मृदा मिट्टी की वह ऊपरी परत है जो कार्बनिक पदार्थों (ह्यूमस) से भरपूर होती है और पौधों की वृद्धि में सहायता करती है।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "Large-scale destruction of forests is called _______.",
+        "hi": "वनों का बड़े पैमाने पर विनाश _______ कहलाता है।"
+      },
+      "options": {
+        "a": {"en": "Afforestation", "hi": "वनीकरण"},
+        "b": {"en": "Deforestation", "hi": "वनों की कटाई (Deforestation)"},
+        "c": {"en": "Agriculture", "hi": "कृषि"},
+        "d": {"en": "Pollution", "hi": "प्रदूषण"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Deforestation is a major factor leading to soil erosion and loss of wildlife habitats.",
+        "hi": "वनों की कटाई मृदा अपरदन और वन्यजीवों के आवासों के नुकसान का एक प्रमुख कारक है।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "What is the primary factor responsible for the formation of soil?",
+        "hi": "मृदा के निर्माण के लिए उत्तरदायी प्राथमिक कारक क्या है?"
+      },
+      "options": {
+        "a": {"en": "Human activity", "hi": "मानवीय गतिविधि"},
+        "b": {"en": "Nature of parent rock and climatic factors", "hi": "जनक शैल की प्रकृति और जलवायु कारक"},
+        "c": {"en": "Color of the rock", "hi": "चट्टान का रंग"},
+        "d": {"en": "Distance from the sea", "hi": "समुद्र से दूरी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The nature of parent rock and climate are the most important factors for soil formation.",
+        "hi": "मृदा निर्माण के लिए जनक शैल की प्रकृति और जलवायु सबसे महत्वपूर्ण कारक हैं।"
+      }
+    }
+  ]
+}
