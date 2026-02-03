@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 5,
+    "chapter_title": "Human Resources",
+    "chapter_title_hindi": "मानव संसाधन",
+    "subject": "Geography - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_GEO_CH05_HumanResources_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Why are people considered the ultimate resource of a nation?",
+        "hi": "लोगों को किसी राष्ट्र का अंतिम संसाधन क्यों माना जाता है?"
+      },
+      "options": {
+        "a": {"en": "Because of their large number", "hi": "उनकी बड़ी संख्या के कारण"},
+        "b": {"en": "Because they use their demands and abilities to turn nature's bounty into resources", "hi": "क्योंकि वे अपनी मांगों और क्षमताओं का उपयोग प्रकृति की देन को संसाधनों में बदलने के लिए करते हैं"},
+        "c": {"en": "Because they pay taxes", "hi": "क्योंकि वे कर चुकाते हैं"},
+        "d": {"en": "Because they build houses", "hi": "क्योंकि वे घर बनाते हैं"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Nature's bounty becomes significant only when people find it useful and transform it using their skills.",
+        "hi": "प्रकृति की देन तभी महत्वपूर्ण होती है जब लोग इसे उपयोगी पाते हैं और अपने कौशल का उपयोग करके इसे बदलते हैं।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "The way in which people are spread across the earth's surface is known as the _______.",
+        "hi": "जिस प्रकार लोग पृथ्वी की सतह पर फैले हुए हैं, उसे _______ के रूप में जाना जाता है।"
+      },
+      "options": {
+        "a": {"en": "Population density", "hi": "जनसंख्या घनत्व"},
+        "b": {"en": "Pattern of population distribution", "hi": "जनसंख्या वितरण का प्रतिरूप"},
+        "c": {"en": "Population growth", "hi": "जनसंख्या वृद्धि"},
+        "d": {"en": "Migration", "hi": "प्रवास"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The distribution of population in the world is extremely uneven.",
+        "hi": "विश्व में जनसंख्या का वितरण अत्यंत असमान है।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "More than 90% of the world's population lives in about _______ of the land surface.",
+        "hi": "विश्व की 90% से अधिक जनसंख्या भू-सतह के लगभग _______ भाग में रहती है।"
+      },
+      "options": {
+        "a": {"en": "10%", "hi": "10%"},
+        "b": {"en": "30%", "hi": "30%"},
+        "c": {"en": "50%", "hi": "50%"},
+        "d": {"en": "70%", "hi": "70%"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "A vast majority of people occupy a relatively small portion of the Earth's total land area.",
+        "hi": "लोगों का एक विशाल बहुमत पृथ्वी के कुल भूमि क्षेत्र के अपेक्षाकृत छोटे हिस्से पर रहता है।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Average density of population in the whole world is _______ persons per square km.",
+        "hi": "संपूर्ण विश्व में जनसंख्या का औसत घनत्व _______ व्यक्ति प्रति वर्ग किमी है।"
+      },
+      "options": {
+        "a": {"en": "15", "hi": "15"},
+        "b": {"en": "51", "hi": "51"},
+        "c": {"en": "100", "hi": "100"},
+        "d": {"en": "382", "hi": "382"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Population density is the number of people living in a unit area of the earth's surface.",
+        "hi": "जनसंख्या घनत्व पृथ्वी की सतह के एक इकाई क्षेत्र में रहने वाले लोगों की संख्या है।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Which of these regions is very sparsely populated?",
+        "hi": "इनमें से कौन सा क्षेत्र बहुत कम जनसंख्या वाला है?"
+      },
+      "options": {
+        "a": {"en": "River valleys of Asia", "hi": "एशिया की नदी घाटियाँ"},
+        "b": {"en": "High altitude mountains and cold deserts", "hi": "उच्च ऊँचाई वाले पर्वत और ठंडे रेगिस्तान"},
+        "c": {"en": "Plains of Europe", "hi": "यूरोप के मैदान"},
+        "d": {"en": "North eastern USA", "hi": "उत्तर पूर्वी अमेरिका"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Extreme climates and rugged terrain make it difficult for large numbers of people to survive.",
+        "hi": "अत्यधिक जलवायु और ऊबड़-खाबड़ भूभाग बड़ी संख्या में लोगों के जीवित रहने के लिए कठिन बना देते हैं।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "The average density of population in India is _______ persons per square km.",
+        "hi": "भारत में जनसंख्या का औसत घनत्व _______ व्यक्ति प्रति वर्ग किमी है।"
+      },
+      "options": {
+        "a": {"en": "51", "hi": "51"},
+        "b": {"en": "382", "hi": "382"},
+        "c": {"en": "500", "hi": "500"},
+        "d": {"en": "250", "hi": "250"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "India is one of the most densely populated countries in the world.",
+        "hi": "भारत विश्व के सबसे घनी आबादी वाले देशों में से एक है।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Which of these is a social factor affecting population distribution?",
+        "hi": "इनमें से कौन सा जनसंख्या वितरण को प्रभावित करने वाला एक सामाजिक कारक है?"
+      },
+      "options": {
+        "a": {"en": "Climate", "hi": "जलवायु"},
+        "b": {"en": "Availability of water", "hi": "जल की उपलब्धता"},
+        "c": {"en": "Areas with better housing, health facilities, and schools", "hi": "बेहतर आवास, स्वास्थ्य सुविधाओं और स्कूलों वाले क्षेत्र"},
+        "d": {"en": "Presence of minerals", "hi": "खनिजों की उपस्थिति"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Social factors include facilities that improve the quality of life, like in Pune or Bangalore.",
+        "hi": "सामाजिक कारकों में वे सुविधाएं शामिल हैं जो जीवन की गुणवत्ता में सुधार करती हैं, जैसे पुणे या बेंगलुरु में।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "The number of live births per 1,000 people is called the _______.",
+        "hi": "प्रति 1,000 व्यक्तियों पर जीवित जन्मों की संख्या को _______ कहा जाता है।"
+      },
+      "options": {
+        "a": {"en": "Death rate", "hi": "मृत्यु दर"},
+        "b": {"en": "Birth rate", "hi": "जन्म दर"},
+        "c": {"en": "Growth rate", "hi": "वृद्धि दर"},
+        "d": {"en": "Life expectancy", "hi": "जीवन प्रत्याशा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Births and deaths are the natural causes of population change.",
+        "hi": "जन्म और मृत्यु जनसंख्या परिवर्तन के प्राकृतिक कारण हैं।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "The difference between the birth rate and the death rate of a country is called the _______.",
+        "hi": "किसी देश की जन्म दर और मृत्यु दर के बीच के अंतर को _______ कहा जाता है।"
+      },
+      "options": {
+        "a": {"en": "Migration rate", "hi": "प्रवास दर"},
+        "b": {"en": "Natural growth rate", "hi": "प्राकृतिक वृद्धि दर"},
+        "c": {"en": "Density of population", "hi": "जनसंख्या का घनत्व"},
+        "d": {"en": "Life expectancy", "hi": "जीवन प्रत्याशा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Population increase in the world is mainly due to rapid increase in natural growth rate.",
+        "hi": "विश्व में जनसंख्या वृद्धि मुख्य रूप से प्राकृतिक वृद्धि दर में तीव्र वृद्धि के कारण है।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "When people leave a country, they are called _______.",
+        "hi": "जब लोग कोई देश छोड़ते हैं, तो उन्हें _______ कहा जाता है।"
+      },
+      "options": {
+        "a": {"en": "Immigrants", "hi": "आप्रवासी (Immigrants)"},
+        "b": {"en": "Emigrants", "hi": "उत्प्रवासी (Emigrants)"},
+        "c": {"en": "Nomads", "hi": "खानाबदोश"},
+        "d": {"en": "Settlers", "hi": "बसावट करने वाले"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Emigration is the act of leaving one's own country to settle permanently in another.",
+        "hi": "उत्प्रवास स्थायी रूप से दूसरे देश में बसने के लिए अपना देश छोड़ने की क्रिया है।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "People who arrive in a new country are called _______.",
+        "hi": "जो लोग किसी नए देश में आते हैं, उन्हें _______ कहा जाता है।"
+      },
+      "options": {
+        "a": {"en": "Emigrants", "hi": "उत्प्रवासी"},
+        "b": {"en": "Immigrants", "hi": "आप्रवासी (Immigrants)"},
+        "c": {"en": "Refugees", "hi": "शरणार्थी"},
+        "d": {"en": "Tourists", "hi": "पर्यटक"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Immigration is the process of coming to live permanently in a foreign country.",
+        "hi": "आप्रवास किसी विदेशी देश में स्थायी रूप से रहने के लिए आने की प्रक्रिया है।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "The population of the world reached one billion in which year?",
+        "hi": "विश्व की जनसंख्या किस वर्ष एक अरब तक पहुँच गई थी?"
+      },
+      "options": {
+        "a": {"en": "1804", "hi": "1804"},
+        "b": {"en": "1959", "hi": "1959"},
+        "c": {"en": "1999", "hi": "1999"},
+        "d": {"en": "1750", "hi": "1750"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "It took hundreds of years for the human population to reach its first billion.",
+        "hi": "मानव जनसंख्या को अपने पहले अरब तक पहुँचने में सैकड़ों वर्ष लगे।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "In which year did the world population reach 6 billion?",
+        "hi": "विश्व की जनसंख्या किस वर्ष 6 अरब पहुँच गई थी?"
+      },
+      "options": {
+        "a": {"en": "1950", "hi": "1950"},
+        "b": {"en": "1970", "hi": "1970"},
+        "c": {"en": "1999", "hi": "1999"},
+        "d": {"en": "2020", "hi": "2020"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "The world population grew from 3 billion in 1959 to 6 billion in just 40 years.",
+        "hi": "विश्व की जनसंख्या 1959 में 3 अरब से बढ़कर मात्र 40 वर्षों में 6 अरब हो गई।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What is the graphical method of showing the age-sex composition of a population?",
+        "hi": "जनसंख्या की आयु-लिंग संरचना को दर्शाने की आलेखी विधि क्या है?"
+      },
+      "options": {
+        "a": {"en": "Bar graph", "hi": "दंड आरेख"},
+        "b": {"en": "Population pyramid", "hi": "जनसंख्या पिरामिड"},
+        "c": {"en": "Pie chart", "hi": "पाई चार्ट"},
+        "d": {"en": "Line graph", "hi": "रेखा आरेख"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "A population pyramid shows the distribution of various age groups and the ratio of males to females.",
+        "hi": "एक जनसंख्या पिरामिड विभिन्न आयु समूहों के वितरण और पुरुषों तथा महिलाओं के अनुपात को दर्शाता है।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "A population pyramid that is broad at the base and rapidly narrows towards the top indicates _______.",
+        "hi": "एक जनसंख्या पिरामिड जो आधार पर चौड़ा है और ऊपर की ओर तेजी से संकरा होता जाता है, वह क्या दर्शाता है?"
+      },
+      "options": {
+        "a": {"en": "Low birth rate", "hi": "कम जन्म दर"},
+        "b": {"en": "High birth rate and high death rate", "hi": "उच्च जन्म दर और उच्च मृत्यु दर"},
+        "c": {"en": "Aging population", "hi": "वृद्ध होती जनसंख्या"},
+        "d": {"en": "Zero growth", "hi": "शून्य वृद्धि"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Many children are born (wide base), but many die in infancy, so few people reach old age.",
+        "hi": "कई बच्चे पैदा होते हैं (चौड़ा आधार), लेकिन कई बचपन में ही मर जाते हैं, इसलिए बहुत कम लोग बुढ़ापे तक पहुँच पाते हैं।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "The country whose population pyramid is broad at the base and narrows at the top is _______.",
+        "hi": "वह देश जिसका जनसंख्या पिरामिड आधार पर चौड़ा और ऊपर संकरा है, वह _______ है।"
+      },
+      "options": {
+        "a": {"en": "Japan", "hi": "जापान"},
+        "b": {"en": "Kenya", "hi": "केन्या"},
+        "c": {"en": "India", "hi": "भारत"},
+        "d": {"en": "USA", "hi": "अमेरिका"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Kenya has high birth and death rates, resulting in a typical pyramid shape.",
+        "hi": "केन्या में जन्म और मृत्यु दर उच्च है, जिसके परिणामस्वरूप एक विशिष्ट पिरामिड आकार बनता है।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "Japan's population pyramid is narrow at the base because of _______.",
+        "hi": "जापान का जनसंख्या पिरामिड आधार पर संकरा है क्योंकि _______।"
+      },
+      "options": {
+        "a": {"en": "High birth rate", "hi": "उच्च जन्म दर"},
+        "b": {"en": "Low birth rate", "hi": "कम जन्म दर"},
+        "c": {"en": "High death rate", "hi": "उच्च मृत्यु दर"},
+        "d": {"en": "Heavy migration", "hi": "भारी प्रवास"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Low birth rates lead to fewer children at the base of the pyramid in Japan.",
+        "hi": "कम जन्म दर के कारण जापान में पिरामिड के आधार पर बच्चों की संख्या कम है।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "The age group of 0-15 years in a population pyramid is referred to as _______.",
+        "hi": "जनसंख्या पिरामिड में 0-15 वर्ष के आयु वर्ग को _______ कहा जाता है।"
+      },
+      "options": {
+        "a": {"en": "Working population", "hi": "कार्यशील जनसंख्या"},
+        "b": {"en": "Young dependents", "hi": "युवा आश्रित"},
+        "c": {"en": "Elderly dependents", "hi": "वृद्ध आश्रित"},
+        "d": {"en": "Emigrants", "hi": "उत्प्रवासी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Children below 15 years are dependents because they do not contribute to the economic workforce.",
+        "hi": "15 वर्ष से कम उम्र के बच्चे आश्रित होते हैं क्योंकि वे आर्थिक कार्यबल में योगदान नहीं देते हैं।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "The economically active group in a population is generally aged between _______.",
+        "hi": "जनसंख्या में आर्थिक रूप से सक्रिय समूह की आयु आम तौर पर _______ के बीच होती है।"
+      },
+      "options": {
+        "a": {"en": "0 - 15 years", "hi": "0 - 15 वर्ष"},
+        "b": {"en": "15 - 65 years", "hi": "15 - 65 वर्ष"},
+        "c": {"en": "Above 65 years", "hi": "65 वर्ष से ऊपर"},
+        "d": {"en": "Above 80 years", "hi": "80 वर्ष से ऊपर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "This group forms the working population of a nation.",
+        "hi": "यह समूह किसी राष्ट्र की कार्यशील जनसंख्या बनाता है।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "Life expectancy refers to the _______.",
+        "hi": "जीवन प्रत्याशा से तात्पर्य _______ से है।"
+      },
+      "options": {
+        "a": {"en": "Number of years a person is expected to live", "hi": "उन वर्षों की संख्या जिनमें एक व्यक्ति के जीवित रहने की आशा की जाती है"},
+        "b": {"en": "Number of children a person has", "hi": "एक व्यक्ति के बच्चों की संख्या"},
+        "c": {"en": "Maximum age reached by any human", "hi": "किसी भी मानव द्वारा प्राप्त अधिकतम आयु"},
+        "d": {"en": "Average age of retirement", "hi": "सेवानिवृत्ति की औसत आयु"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Life expectancy increases with better health and nutrition.",
+        "hi": "बेहतर स्वास्थ्य और पोषण के साथ जीवन प्रत्याशा बढ़ती है।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Which continent is the most populous in the world?",
+        "hi": "विश्व में कौन सा महाद्वीप सर्वाधिक जनसंख्या वाला है?"
+      },
+      "options": {
+        "a": {"en": "Africa", "hi": "अफ्रीका"},
+        "b": {"en": "Asia", "hi": "एशिया"},
+        "c": {"en": "Europe", "hi": "यूरोप"},
+        "d": {"en": "South America", "hi": "दक्षिण अमेरिका"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Asia and Africa together hold about three-quarters of the world's population.",
+        "hi": "एशिया और अफ्रीका मिलकर विश्व की लगभग तीन-चौथाई जनसंख्या रखते हैं।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Varanasi, Jerusalem, and Vatican City are densely populated because of _______.",
+        "hi": "वाराणसी, यरूशलेम और वेटिकन सिटी _______ के कारण घनी आबादी वाले हैं।"
+      },
+      "options": {
+        "a": {"en": "Industrial growth", "hi": "औद्योगिक विकास"},
+        "b": {"en": "Religious or cultural significance", "hi": "धार्मिक या सांस्कृतिक महत्व"},
+        "c": {"en": "Good climate", "hi": "अच्छी जलवायु"},
+        "d": {"en": "Presence of oil", "hi": "तेल की उपस्थिति"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Cultural and religious centers attract people to settle in large numbers.",
+        "hi": "सांस्कृतिक और धार्मिक केंद्र बड़ी संख्या में लोगों को बसने के लिए आकर्षित करते हैं।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Industrial areas provide _______ which attracts people to settle there.",
+        "hi": "औद्योगिक क्षेत्र _______ प्रदान करते हैं जो लोगों को वहाँ बसने के लिए आकर्षित करता है।"
+      },
+      "options": {
+        "a": {"en": "Clean air", "hi": "स्वच्छ हवा"},
+        "b": {"en": "Employment opportunities", "hi": "रोजगार के अवसर"},
+        "c": {"en": "Free land", "hi": "मुफ्त भूमि"},
+        "d": {"en": "Agricultural seeds", "hi": "कृषि बीज"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Osaka in Japan and Mumbai in India are examples of densely populated industrial areas.",
+        "hi": "जापान में ओसाका और भारत में मुंबई घनी आबादी वाले औद्योगिक क्षेत्रों के उदाहरण हैं।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "The United Kingdom's population growth is slowing because of _______.",
+        "hi": "यूनाइटेड किंगडम की जनसंख्या वृद्धि _______ के कारण धीमी हो रही है।"
+      },
+      "options": {
+        "a": {"en": "High birth rate", "hi": "उच्च जन्म दर"},
+        "b": {"en": "Low death rate and low birth rate", "hi": "कम मृत्यु दर और कम जन्म दर"},
+        "c": {"en": "Natural disasters", "hi": "प्राकृतिक आपदाएं"},
+        "d": {"en": "Lack of resources", "hi": "संसाधनों की कमी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Low birth and death rates lead to a slow population growth rate in many developed nations.",
+        "hi": "कम जन्म और मृत्यु दर के कारण कई विकसित देशों में जनसंख्या वृद्धि दर धीमी हो जाती है।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "Migration within a country usually happens from _______.",
+        "hi": "किसी देश के भीतर प्रवास आमतौर पर _______ से होता है।"
+      },
+      "options": {
+        "a": {"en": "Urban to rural areas", "hi": "शहरी से ग्रामीण क्षेत्रों में"},
+        "b": {"en": "Rural to urban areas", "hi": "ग्रामीण से शहरी क्षेत्रों में"},
+        "c": {"en": "Mountain to plain areas only", "hi": "केवल पहाड़ी से मैदानी क्षेत्रों में"},
+        "d": {"en": "One city to another only", "hi": "केवल एक शहर से दूसरे शहर में"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "People move to cities in search of better education, health facilities, and employment.",
+        "hi": "लोग बेहतर शिक्षा, स्वास्थ्य सुविधाओं और रोजगार की तलाश में शहरों की ओर जाते हैं।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "What did the discovery of vaccines and better food supplies lead to?",
+        "hi": "टीकों की खोज और बेहतर खाद्य आपूर्ति का क्या परिणाम हुआ?"
+      },
+      "options": {
+        "a": {"en": "Higher death rate", "hi": "उच्च मृत्यु दर"},
+        "b": {"en": "Rapidly declining death rate and population increase", "hi": "तेजी से घटती मृत्यु दर और जनसंख्या में वृद्धि"},
+        "c": {"en": "Smaller population", "hi": "कम जनसंख्या"},
+        "d": {"en": "Lower birth rate", "hi": "कम जन्म दर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Improved health and nutrition significantly reduced death rates across the globe.",
+        "hi": "बेहतर स्वास्थ्य और पोषण ने दुनिया भर में मृत्यु दर को काफी कम कर दिया।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "The general trend of international migration is from _______.",
+        "hi": "अंतरराष्ट्रीय प्रवास की सामान्य प्रवृत्ति _______ की ओर होती है।"
+      },
+      "options": {
+        "a": {"en": "Developed to less developed nations", "hi": "विकसित से कम विकसित देशों"},
+        "b": {"en": "Less developed to more developed nations", "hi": "कम विकसित से अधिक विकसित देशों"},
+        "c": {"en": "Hot to cold countries only", "hi": "केवल गर्म से ठंडे देशों"},
+        "d": {"en": "Rural to forest areas", "hi": "ग्रामीण से वन क्षेत्रों"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "People move to developed nations in search of better economic opportunities.",
+        "hi": "लोग बेहतर आर्थिक अवसरों की तलाश में विकसित देशों की ओर जाते हैं।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Countries like USA and Australia have gained in-numbers by _______.",
+        "hi": "अमेरिका और ऑस्ट्रेलिया जैसे देशों ने किसके द्वारा अपनी जनसंख्या में वृद्धि की है?"
+      },
+      "options": {
+        "a": {"en": "Emigration", "hi": "उत्प्रवास"},
+        "b": {"en": "Immigration", "hi": "आप्रवास (In-migration)"},
+        "c": {"en": "High birth rate", "hi": "उच्च जन्म दर"},
+        "d": {"en": "Low life expectancy", "hi": "कम जीवन प्रत्याशा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "These countries attract people from across the world, increasing their total population.",
+        "hi": "ये देश दुनिया भर के लोगों को आकर्षित करते हैं, जिससे उनकी कुल जनसंख्या बढ़ जाती है।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "A nation's population pyramid that bulges in the middle suggests _______.",
+        "hi": "किसी राष्ट्र का जनसंख्या पिरामिड जो बीच में फूला हुआ है, वह क्या दर्शाता है?"
+      },
+      "options": {
+        "a": {"en": "Large elderly population", "hi": "बड़ी वृद्ध जनसंख्या"},
+        "b": {"en": "Large working-age population", "hi": "बड़ी कार्यशील आयु वाली जनसंख्या"},
+        "c": {"en": "High infant mortality", "hi": "उच्च शिशु मृत्यु दर"},
+        "d": {"en": "Lack of migration", "hi": "प्रवास का अभाव"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "A bulge in the middle shows a high proportion of people in the 15-65 age group.",
+        "hi": "बीच में उभार 15-65 आयु वर्ग के लोगों का उच्च अनुपात दर्शाता है।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "The ultimate goal of studying human resources is to understand _______.",
+        "hi": "मानव संसाधनों के अध्ययन का अंतिम लक्ष्य _______ को समझना है।"
+      },
+      "options": {
+        "a": {"en": "How many people are there", "hi": "कितने लोग हैं"},
+        "b": {"en": "The role of people as producers and consumers of resources", "hi": "संसाधनों के उत्पादकों और उपभोक्ताओं के रूप में लोगों की भूमिका"},
+        "c": {"en": "How to stop migration", "hi": "प्रवास को कैसे रोकें"},
+        "d": {"en": "The size of mountains", "hi": "पहाड़ों का आकार"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "People are the main creators of resources, and their numbers and quality impact a nation's development.",
+        "hi": "लोग संसाधनों के मुख्य निर्माता हैं, और उनकी संख्या और गुणवत्ता किसी राष्ट्र के विकास को प्रभावित करती है।"
+      }
+    }
+  ]
+}
