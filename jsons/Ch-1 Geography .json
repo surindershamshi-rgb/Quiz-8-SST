@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 1,
+    "chapter_title": "Resources",
+    "chapter_title_hindi": "संसाधन",
+    "subject": "Geography - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_GEO_CH01_Resources_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Anything that can be used to satisfy a need is called a _______.",
+        "hi": "प्रत्येक वस्तु जिसका उपयोग आवश्यकताओं को पूरा करने के लिए किया जा सकता है, वह _______ कहलाती है।"
+      },
+      "options": {
+        "a": {"en": "Stock", "hi": "भंडार"},
+        "b": {"en": "Value", "hi": "मूल्य"},
+        "c": {"en": "Resource", "hi": "संसाधन"},
+        "d": {"en": "Utility", "hi": "उपयोगिता"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "A resource is anything that has utility and can satisfy a human need, whether it is water, electricity, or a textbook.",
+        "hi": "संसाधन वह वस्तु है जिसकी उपयोगिता होती है और जो मानवीय आवश्यकता को पूरा कर सकती है, चाहे वह पानी हो, बिजली हो या पाठ्यपुस्तक।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "What makes an object or substance a resource?",
+        "hi": "किसी वस्तु या पदार्थ को संसाधन क्या बनाता है?"
+      },
+      "options": {
+        "a": {"en": "Its weight", "hi": "उसका वजन"},
+        "b": {"en": "Its utility or usability", "hi": "उसकी उपयोगिता या प्रयोज्यता"},
+        "c": {"en": "Its color", "hi": "उसका रंग"},
+        "d": {"en": "Its chemical formula", "hi": "उसका रासायनिक सूत्र"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Utility or usability is what gives an object its value and turns it into a resource.",
+        "hi": "उपयोगिता या प्रयोज्यता ही किसी वस्तु को उसका मूल्य देती है और उसे संसाधन में बदल देती है।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "The term 'Value' in the context of resources means _______.",
+        "hi": "संसाधनों के संदर्भ में 'मूल्य' शब्द का अर्थ _______ है।"
+      },
+      "options": {
+        "a": {"en": "Size", "hi": "आकार"},
+        "b": {"en": "Weight", "hi": "वजन"},
+        "c": {"en": "Worth", "hi": "महत्व या अर्थ"},
+        "d": {"en": "Availability", "hi": "उपलब्धता"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Some resources have economic value (like metals), while others have aesthetic value (like a beautiful landscape), but both are important.",
+        "hi": "कुछ संसाधनों का आर्थिक मूल्य होता है (जैसे धातु), जबकि अन्य का सौंदर्य मूल्य होता है (जैसे सुंदर परिदृश्य), लेकिन दोनों ही महत्वपूर्ण हैं।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Which of these are the two important factors that can change substances into resources?",
+        "hi": "इनमें से कौन से दो महत्वपूर्ण कारक हैं जो पदार्थों को संसाधनों में बदल सकते हैं?"
+      },
+      "options": {
+        "a": {"en": "Water and Air", "hi": "जल और वायु"},
+        "b": {"en": "Time and Technology", "hi": "समय और प्रौद्योगिकी"},
+        "c": {"en": "Sunlight and Soil", "hi": "सूर्य का प्रकाश और मिट्टी"},
+        "d": {"en": "Human and Animals", "hi": "मानव और पशु"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Time and technology are critical in transforming a substance into a resource as human needs evolve.",
+        "hi": "समय और प्रौद्योगिकी किसी पदार्थ को संसाधन में बदलने के लिए महत्वपूर्ण हैं क्योंकि मानवीय आवश्यकताएं विकसित होती रहती हैं।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Resources drawn from nature and used without much modification are called _______.",
+        "hi": "प्रकृति से प्राप्त होने वाले और अधिक संशोधन के बिना उपयोग में लाए जाने वाले संसाधन _______ कहलाते हैं।"
+      },
+      "options": {
+        "a": {"en": "Human-made resources", "hi": "मानव निर्मित संसाधन"},
+        "b": {"en": "Natural resources", "hi": "प्राकृतिक संसाधन"},
+        "c": {"en": "Abiotic resources", "hi": "अजैव संसाधन"},
+        "d": {"en": "Potential resources", "hi": "संभाव्य संसाधन"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Air, water, soil, and minerals are examples of natural resources used directly from nature.",
+        "hi": "वायु, जल, मिट्टी और खनिज प्राकृतिक संसाधनों के उदाहरण हैं जिनका उपयोग सीधे प्रकृति से किया जाता है।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Resources which can be renewed or replenished quickly are known as _______.",
+        "hi": "वे संसाधन जो शीघ्रता से नवीकृत अथवा पुनः पूरित हो जाते हैं, _______ कहलाते हैं।"
+      },
+      "options": {
+        "a": {"en": "Non-renewable resources", "hi": "अनवीकरणीय संसाधन"},
+        "b": {"en": "Renewable resources", "hi": "नवीकरणीय संसाधन"},
+        "c": {"en": "Localized resources", "hi": "स्थानीय संसाधन"},
+        "d": {"en": "Human resources", "hi": "मानव संसाधन"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Solar and wind energy are examples of renewable resources that are unlimited and not affected by human activities.",
+        "hi": "सौर और पवन ऊर्जा नवीकरणीय संसाधनों के उदाहरण हैं जो असीमित हैं और मानवीय गतिविधियों से प्रभावित नहीं होते हैं।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Which of the following is an example of a non-renewable resource?",
+        "hi": "निम्नलिखित में से कौन सा अनवीकरणीय संसाधन का उदाहरण है?"
+      },
+      "options": {
+        "a": {"en": "Solar energy", "hi": "सौर ऊर्जा"},
+        "b": {"en": "Coal", "hi": "कोयला"},
+        "c": {"en": "Wind energy", "hi": "पवन ऊर्जा"},
+        "d": {"en": "Water", "hi": "जल"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Non-renewable resources have a limited stock. Once exhausted, they take thousands of years to be replenished.",
+        "hi": "अनवीकरणीय संसाधनों का भंडार सीमित होता है। एक बार समाप्त होने के बाद, उन्हें पुनः पूरित होने में हजारों वर्ष लगते हैं।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "On the basis of their origin, resources can be classified as _______.",
+        "hi": "उत्पत्ति के आधार पर संसाधनों को _______ के रूप में वर्गीकृत किया जा सकता है।"
+      },
+      "options": {
+        "a": {"en": "Renewable and Non-renewable", "hi": "नवीकरणीय और अनवीकरणीय"},
+        "b": {"en": "Abiotic and Biotic", "hi": "अजैव और जैव"},
+        "c": {"en": "Ubiquitous and Localized", "hi": "सर्वव्यापक और स्थानीय"},
+        "d": {"en": "Potential and Actual", "hi": "संभाव्य और वास्तविक"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Abiotic resources are non-living (soils, rocks) while biotic resources are living (plants, animals).",
+        "hi": "अजैव संसाधन निर्जीव (मिट्टी, चट्टानें) हैं जबकि जैव संसाधन जीवित (पौधे, जानवर) हैं।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Resources that are found everywhere like the air we breathe are called _______.",
+        "hi": "वे संसाधन जो सभी जगह पाए जाते हैं जैसे वायु जिसमें हम सांस लेते हैं, उन्हें _______ कहा जाता है।"
+      },
+      "options": {
+        "a": {"en": "Localized resources", "hi": "स्थानीय संसाधन"},
+        "b": {"en": "Ubiquitous resources", "hi": "सर्वव्यापक संसाधन"},
+        "c": {"en": "Potential resources", "hi": "संभाव्य संसाधन"},
+        "d": {"en": "Actual resources", "hi": "वास्तविक संसाधन"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Ubiquitous resources are available everywhere on Earth, unlike localized resources found only in certain places.",
+        "hi": "सर्वव्यापक संसाधन पृथ्वी पर हर जगह उपलब्ध हैं, स्थानीय संसाधनों के विपरीत जो केवल कुछ निश्चित स्थानों पर पाए जाते हैं।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Resources found only in certain places like copper and iron ore are called _______.",
+        "hi": "तांबा और लौह अयस्क जैसे संसाधन जो केवल कुछ निश्चित स्थानों पर ही पाए जाते हैं, उन्हें _______ कहा जाता है।"
+      },
+      "options": {
+        "a": {"en": "Ubiquitous", "hi": "सर्वव्यापक"},
+        "b": {"en": "Localized", "hi": "स्थानीय"},
+        "c": {"en": "Renewable", "hi": "नवीकरणीय"},
+        "d": {"en": "Biotic", "hi": "जैव"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Localized resources are distributed unevenly based on physical factors like terrain, climate, and altitude.",
+        "hi": "स्थानीय संसाधन भूभाग, जलवायु और ऊँचाई जैसे भौतिक कारकों के आधार पर असमान रूप से वितरित होते हैं।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Using resources carefully and giving them time to get renewed is called _______.",
+        "hi": "संसाधनों का सतर्कतापूर्वक उपयोग करना और उन्हें नवीकरण के लिए समय देना _______ कहलाता है।"
+      },
+      "options": {
+        "a": {"en": "Resource conservation", "hi": "संसाधन संरक्षण"},
+        "b": {"en": "Sustainable development", "hi": "सतत पोषणीय विकास"},
+        "c": {"en": "Resource stock", "hi": "संसाधन भंडार"},
+        "d": {"en": "Human resource development", "hi": "मानव संसाधन विकास"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Resource conservation involves mindful usage to prevent depletion of natural assets.",
+        "hi": "संसाधन संरक्षण में प्राकृतिक संपत्तियों की कमी को रोकने के लिए सचेत उपयोग शामिल है।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "Balancing the need to use resources and also conserve them for the future is called _______.",
+        "hi": "संसाधनों का उपयोग करने की आवश्यकता और भविष्य के लिए उनके संरक्षण में संतुलन बनाए रखना _______ कहलाता है।"
+      },
+      "options": {
+        "a": {"en": "Resource management", "hi": "संसाधन प्रबंधन"},
+        "b": {"en": "Sustainable development", "hi": "सतत पोषणीय विकास"},
+        "c": {"en": "Technology development", "hi": "प्रौद्योगिकी विकास"},
+        "d": {"en": "Economic growth", "hi": "आर्थिक विकास"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Sustainable development ensures that the needs of the present are met without compromising the future generations.",
+        "hi": "सतत पोषणीय विकास यह सुनिश्चित करता है कि भविष्य की पीढ़ियों से समझौता किए बिना वर्तमान की आवश्यकताओं को पूरा किया जाए।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Which of these is NOT a principle of sustainable development?",
+        "hi": "इनमें से कौन सा सतत पोषणीय विकास का सिद्धांत नहीं है?"
+      },
+      "options": {
+        "a": {"en": "Respect and care for all forms of life", "hi": "जीवन के सभी रूपों का आदर और देखभाल"},
+        "b": {"en": "Conserve the earth's vitality and diversity", "hi": "पृथ्वी की जीवनशक्ति और विविधता का संरक्षण करना"},
+        "c": {"en": "Maximize the depletion of natural resources", "hi": "प्राकृतिक संसाधनों की कमी को अधिकतम करना"},
+        "d": {"en": "Change personal attitude and practices toward the environment", "hi": "पर्यावरण के प्रति व्यक्तिगत दृष्टिकोण और प्रथाओं में परिवर्तन लाना"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Sustainable development aims to minimize the depletion of natural resources, not maximize it.",
+        "hi": "सतत पोषणीय विकास का लक्ष्य प्राकृतिक संसाधनों की कमी को कम करना है, न कि उसे अधिकतम करना।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Improving the quality of people's skills so that they are able to create more resources is known as _______.",
+        "hi": "लोगों के कौशल की गुणवत्ता में सुधार करना ताकि वे अधिक संसाधन बनाने में सक्षम हों, _______ कहलाता है।"
+      },
+      "options": {
+        "a": {"en": "Human resource management", "hi": "मानव संसाधन प्रबंधन"},
+        "b": {"en": "Human resource development", "hi": "मानव संसाधन विकास"},
+        "c": {"en": "Human value addition", "hi": "मानव मूल्य वृद्धि"},
+        "d": {"en": "Skill India", "hi": "कौशल भारत"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Human resource development focuses on education and health to make people a valuable resource.",
+        "hi": "मानव संसाधन विकास लोगों को एक मूल्यवान संसाधन बनाने के लिए शिक्षा और स्वास्थ्य पर केंद्रित है।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "Technology is a _______ resource.",
+        "hi": "प्रौद्योगिकी एक _______ संसाधन है।"
+      },
+      "options": {
+        "a": {"en": "Natural", "hi": "प्राकृतिक"},
+        "b": {"en": "Human-made", "hi": "मानव निर्मित"},
+        "c": {"en": "Abiotic", "hi": "अजैव"},
+        "d": {"en": "Potential", "hi": "संभाव्य"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "People use natural substances to make buildings, bridges, and technology, making them human-made resources.",
+        "hi": "लोग इमारतों, पुलों और प्रौद्योगिकी को बनाने के लिए प्राकृतिक पदार्थों का उपयोग करते हैं, जिससे वे मानव निर्मित संसाधन बन जाते हैं।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "The amount of resources available for use is called _______.",
+        "hi": "उपयोग के लिए उपलब्ध संसाधनों की मात्रा को _______ कहा जाता है।"
+      },
+      "options": {
+        "a": {"en": "Stock of resource", "hi": "संसाधन का भंडार"},
+        "b": {"en": "Resource utility", "hi": "संसाधन उपयोगिता"},
+        "c": {"en": "Natural stock", "hi": "प्राकृतिक भंडार"},
+        "d": {"en": "Renewable quantity", "hi": "नवीकरणीय मात्रा"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Stock of resource refers to the total amount of a particular resource available on Earth.",
+        "hi": "संसाधन के भंडार का तात्पर्य पृथ्वी पर उपलब्ध किसी विशेष संसाधन की कुल मात्रा से है।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What refers to the number and abilities (mental and physical) of the people?",
+        "hi": "लोगों की संख्या और उनकी क्षमताओं (मानसिक और शारीरिक) को क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Human resource", "hi": "मानव संसाधन"},
+        "b": {"en": "Actual resource", "hi": "वास्तविक संसाधन"},
+        "c": {"en": "Natural resource", "hi": "प्राकृतिक संसाधन"},
+        "d": {"en": "Biotic resource", "hi": "जैव संसाधन"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Humans are the most important resource because their knowledge and inventions create all other resources.",
+        "hi": "मानव सबसे महत्वपूर्ण संसाधन है क्योंकि उनका ज्ञान और आविष्कार अन्य सभी संसाधनों का निर्माण करते हैं।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "High-speed winds were a potential resource 200 years ago, but today they are an _______ resource.",
+        "hi": "200 साल पहले तेज हवाएं एक संभाव्य संसाधन थीं, लेकिन आज वे एक _______ संसाधन हैं।"
+      },
+      "options": {
+        "a": {"en": "Ubiquitous", "hi": "सर्वव्यापक"},
+        "b": {"en": "Actual", "hi": "वास्तविक"},
+        "c": {"en": "Abiotic", "hi": "अजैव"},
+        "d": {"en": "Non-renewable", "hi": "अनवीकरणीय"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Actual resources are those whose quantity is known and which are being used in the present.",
+        "hi": "वास्तविक संसाधन वे हैं जिनकी मात्रा ज्ञात है और जिनका वर्तमान में उपयोग किया जा रहा है।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "The exclusive right over any idea or invention is called _______.",
+        "hi": "किसी विचार या आविष्कार पर एकमात्र अधिकार को _______ कहा जाता है।"
+      },
+      "options": {
+        "a": {"en": "Technology", "hi": "प्रौद्योगिकी"},
+        "b": {"en": "Patent", "hi": "पेटेंट"},
+        "c": {"en": "Stock", "hi": "भंडार"},
+        "d": {"en": "Utility", "hi": "उपयोगिता"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Patent protects an inventor's idea from being used by others without permission.",
+        "hi": "पेटेंट किसी आविष्कारक के विचार को बिना अनुमति के दूसरों द्वारा उपयोग किए जाने से बचाता है।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "Which of these is an example of a human-made resource?",
+        "hi": "इनमें से कौन सा मानव निर्मित संसाधन का उदाहरण है?"
+      },
+      "options": {
+        "a": {"en": "Medicines to treat cancer", "hi": "कैंसर के उपचार की औषधियाँ"},
+        "b": {"en": "Spring water", "hi": "झरने का जल"},
+        "c": {"en": "Tropical forests", "hi": "उष्णकटिबंधीय वन"},
+        "d": {"en": "Iron ore", "hi": "लौह अयस्क"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "While the chemicals may be natural, the medicine is a product of human knowledge and technology.",
+        "hi": "हालांकि रसायन प्राकृतिक हो सकते हैं, लेकिन दवा मानवीय ज्ञान और प्रौद्योगिकी का परिणाम है।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Uranium found in Ladakh is an example of which type of resource?",
+        "hi": "लद्दाख में पाया जाने वाला यूरेनियम किस प्रकार के संसाधन का उदाहरण है?"
+      },
+      "options": {
+        "a": {"en": "Actual resource", "hi": "वास्तविक संसाधन"},
+        "b": {"en": "Potential resource", "hi": "संभाव्य संसाधन"},
+        "c": {"en": "Localized resource", "hi": "स्थानीय संसाधन"},
+        "d": {"en": "Biotic resource", "hi": "जैव संसाधन"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Potential resources are those whose entire quantity may not be known and which are not being used at present.",
+        "hi": "संभाव्य संसाधन वे हैं जिनकी पूरी मात्रा ज्ञात नहीं हो सकती है और जिनका वर्तमान में उपयोग नहीं किया जा रहा है।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Resources are distributed unequally over the earth because of _______.",
+        "hi": "संसाधनों का वितरण पृथ्वी पर असमान है क्योंकि _______।"
+      },
+      "options": {
+        "a": {"en": "Different levels of technology", "hi": "प्रौद्योगिकी के विभिन्न स्तर"},
+        "b": {"en": "The differing physical factors like terrain, climate, and altitude", "hi": "भूभाग, जलवायु और ऊँचाई जैसे विभिन्न भौतिक कारक"},
+        "c": {"en": "Government policies", "hi": "सरकारी नीतियां"},
+        "d": {"en": "Population density", "hi": "जनसंख्या घनत्व"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Nature provides resources based on varied geographical conditions across the globe.",
+        "hi": "प्रकृति दुनिया भर में विभिन्न भौगोलिक स्थितियों के आधार पर संसाधन प्रदान करती है।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Which of the following is a biotic resource?",
+        "hi": "निम्नलिखित में से कौन सा जैव संसाधन है?"
+      },
+      "options": {
+        "a": {"en": "Rocks", "hi": "चट्टानें"},
+        "b": {"en": "Animals", "hi": "जानवर"},
+        "c": {"en": "Soils", "hi": "मिट्टी"},
+        "d": {"en": "Minerals", "hi": "खनिज"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Biotic resources originate from living organisms.",
+        "hi": "जैव संसाधनों की उत्पत्ति जीवित जीवों से होती है।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "Renewable resources can become non-renewable if used _______.",
+        "hi": "नवीकरणीय संसाधन अनवीकरणीय बन सकते हैं यदि उनका उपयोग _______ किया जाए।"
+      },
+      "options": {
+        "a": {"en": "Carefully", "hi": "सावधानीपूर्वक"},
+        "b": {"en": "Recklessly", "hi": "लापरवाही से"},
+        "c": {"en": "For electricity", "hi": "बिजली के लिए"},
+        "d": {"en": "In technology", "hi": "प्रौद्योगिकी में"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Water, for example, is renewable, but reckless use can lead to its shortage and pollution.",
+        "hi": "उदाहरण के लिए, पानी नवीकरणीय है, लेकिन लापरवाही से उपयोग करने से इसकी कमी और प्रदूषण हो सकता है।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "Which factor makes people a special resource?",
+        "hi": "कौन सा कारक लोगों को एक विशेष संसाधन बनाता है?"
+      },
+      "options": {
+        "a": {"en": "Wealth", "hi": "धन"},
+        "b": {"en": "Education and health", "hi": "शिक्षा और स्वास्थ्य"},
+        "c": {"en": "Physical strength", "hi": "शारीरिक शक्ति"},
+        "d": {"en": "Large population", "hi": "बड़ी आबादी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Education and health help in making people a valuable human resource.",
+        "hi": "शिक्षा और स्वास्थ्य लोगों को एक मूल्यवान मानव संसाधन बनाने में मदद करते हैं।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "Petroleum is an example of an _______ resource.",
+        "hi": "पेट्रोलियम एक _______ संसाधन का उदाहरण है।"
+      },
+      "options": {
+        "a": {"en": "Actual", "hi": "वास्तविक"},
+        "b": {"en": "Renewable", "hi": "नवीकरणीय"},
+        "c": {"en": "Biotic", "hi": "जैव"},
+        "d": {"en": "Localized", "hi": "स्थानीय"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Petroleum is an actual resource because we know its quantity and are currently using it for energy.",
+        "hi": "पेट्रोलियम एक वास्तविक संसाधन है क्योंकि हम इसकी मात्रा जानते हैं और वर्तमान में ऊर्जा के लिए इसका उपयोग कर रहे हैं।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Sustainable development helps in maintaining _______.",
+        "hi": "सतत पोषणीय विकास _______ बनाए रखने में मदद करता है।"
+      },
+      "options": {
+        "a": {"en": "Ecological balance", "hi": "पारिस्थितिक संतुलन"},
+        "b": {"en": "Economic debt", "hi": "आर्थिक ऋण"},
+        "c": {"en": "Resource depletion", "hi": "संसाधन की कमी"},
+        "d": {"en": "High prices", "hi": "उच्च कीमतें"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "By conserving resources, we maintain the balance of the environment.",
+        "hi": "संसाधनों का संरक्षण करके, हम पर्यावरण का संतुलन बनाए रखते हैं।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Rich deposits of coal in Ruhr region of Germany are _______ resources.",
+        "hi": "जर्मनी के रुहर क्षेत्र में कोयले के समृद्ध निक्षेप _______ संसाधन हैं।"
+      },
+      "options": {
+        "a": {"en": "Potential", "hi": "संभाव्य"},
+        "b": {"en": "Actual", "hi": "वास्तविक"},
+        "c": {"en": "Human-made", "hi": "मानव निर्मित"},
+        "d": {"en": "Renewable", "hi": "नवीकरणीय"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Since they are currently being mined and used, they are classified as actual resources.",
+        "hi": "चूंकि वर्तमान में उनका खनन और उपयोग किया जा रहा है, इसलिए उन्हें वास्तविक संसाधनों के रूप में वर्गीकृत किया गया है।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "The application of latest knowledge and skill in doing or making things is _______.",
+        "hi": "किसी कौशल करने अथवा वस्तु बनाने में नवीनतम ज्ञान का अनुप्रयोग _______ है।"
+      },
+      "options": {
+        "a": {"en": "Patent", "hi": "पेटेंट"},
+        "b": {"en": "Technology", "hi": "प्रौद्योगिकी"},
+        "c": {"en": "Development", "hi": "विकास"},
+        "d": {"en": "Innovation", "hi": "नवाचार"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Technology allows humans to harness natural materials more effectively.",
+        "hi": "प्रौद्योगिकी मनुष्यों को प्राकृतिक सामग्रियों का अधिक प्रभावी ढंग से उपयोग करने की अनुमति देती है।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "Iron was not a resource until people learned to _______ it from ore.",
+        "hi": "लोहा तब तक संसाधन नहीं था जब तक कि लोगों ने इसे अयस्क से _______ करना नहीं सीखा था।"
+      },
+      "options": {
+        "a": {"en": "Destroy", "hi": "नष्ट"},
+        "b": {"en": "Extract", "hi": "निकालना (निष्कर्षित)"},
+        "c": {"en": "Color", "hi": "रंगना"},
+        "d": {"en": "Hide", "hi": "छिपाना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Extraction technology turned raw iron ore into a useful resource.",
+        "hi": "निष्कर्षण तकनीक ने कच्चे लौह अयस्क को एक उपयोगी संसाधन में बदल दिया।"
+      }
+    }
+  ]
+}
