@@ -1,0 +1,450 @@
+{
+  "metadata": {
+    "chapter_number": 2,
+    "chapter_title": "From Trade to Territory: The Company Establishes Power",
+    "chapter_title_hindi": "व्यापार से साम्राज्य तक: कंपनी की सत्ता स्थापित होती है",
+    "subject": "History - Class 8",
+    "total_questions": 50,
+    "question_types": {
+      "mcq": 20,
+      "objective_one_word": 20,
+      "fill_in_the_blanks": 10
+    }
+  },
+  "section_1_mcq": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Who was the last powerful Mughal emperor?",
+        "hi": "अंतिम शक्तिशाली मुगल सम्राट कौन था?"
+      },
+      "options": {
+        "a": {"en": "Bahadur Shah Zafar", "hi": "बहादुर शाह ज़फ़र"},
+        "b": {"en": "Aurangzeb", "hi": "औरंगज़ेब"},
+        "c": {"en": "Shah Jahan", "hi": "शाहजहाँ"},
+        "d": {"en": "Akbar", "hi": "अकबर"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "In which year did the East India Company receive the Charter from Queen Elizabeth I?",
+        "hi": "ईस्ट इंडिया कंपनी को किस वर्ष महारानी एलिजाबेथ प्रथम से चार्टर प्राप्त हुआ?"
+      },
+      "options": {
+        "a": {"en": "1600", "hi": "1600"},
+        "b": {"en": "1651", "hi": "1651"},
+        "c": {"en": "1757", "hi": "1757"},
+        "d": {"en": "1498", "hi": "1498"}
+      },
+      "correct_option": "a"
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "The Battle of Plassey was fought in:",
+        "hi": "प्लासी का युद्ध कब लड़ा गया था?"
+      },
+      "options": {
+        "a": {"en": "1764", "hi": "1764"},
+        "b": {"en": "1757", "hi": "1757"},
+        "c": {"en": "1857", "hi": "1857"},
+        "d": {"en": "1761", "hi": "1761"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Who led the British army in the Battle of Plassey?",
+        "hi": "प्लासी के युद्ध में अंग्रेजी सेना का नेतृत्व किसने किया था?"
+      },
+      "options": {
+        "a": {"en": "Warren Hastings", "hi": "वॉरेन हेस्टिंग्स"},
+        "b": {"en": "Robert Clive", "hi": "रॉबर्ट क्लाइव"},
+        "c": {"en": "Lord Dalhousie", "hi": "लॉर्ड डलहौजी"},
+        "d": {"en": "Lord Wellesley", "hi": "लॉर्ड वेलेज़ली"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "The 'Doctrine of Lapse' was introduced by:",
+        "hi": "'विलय नीति' (Doctrine of Lapse) किसके द्वारा शुरू की गई थी?"
+      },
+      "options": {
+        "a": {"en": "Lord Canning", "hi": "लॉर्ड कैनिंग"},
+        "b": {"en": "Lord Dalhousie", "hi": "लॉर्ड डलहौजी"},
+        "c": {"en": "Lord Hastings", "hi": "लॉर्ड हेस्टिंग्स"},
+        "d": {"en": "Lord Cornwallis", "hi": "लॉर्ड कॉर्नवालिस"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Which Nawab of Bengal was defeated at the Battle of Plassey?",
+        "hi": "प्लासी के युद्ध में बंगाल के किस नवाब की हार हुई थी?"
+      },
+      "options": {
+        "a": {"en": "Mir Jafar", "hi": "मीर जाफर"},
+        "b": {"en": "Sirajuddaulah", "hi": "सिराजुद्दौला"},
+        "c": {"en": "Alivardi Khan", "hi": "अलीवर्दी खान"},
+        "d": {"en": "Mir Qasim", "hi": "मीर कासिम"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Tipu Sultan was the ruler of:",
+        "hi": "टीपू सुल्तान कहाँ के शासक थे?"
+      },
+      "options": {
+        "a": {"en": "Bengal", "hi": "बंगाल"},
+        "b": {"en": "Mysore", "hi": "मैसूर"},
+        "c": {"en": "Hyderabad", "hi": "हैदराबाद"},
+        "d": {"en": "Awadh", "hi": "अवध"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "The first English factory in India was set up on the banks of river:",
+        "hi": "भारत में पहली अंग्रेजी फैक्ट्री किस नदी के किनारे स्थापित की गई थी?"
+      },
+      "options": {
+        "a": {"en": "Yamuna", "hi": "यमुना"},
+        "b": {"en": "Hugli", "hi": "हुगली"},
+        "c": {"en": "Narmada", "hi": "नर्मदा"},
+        "d": {"en": "Godavari", "hi": "गोदावरी"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Under the Subsidiary Alliance, Indian rulers were not allowed to:",
+        "hi": "सहायक संधि के तहत, भारतीय शासकों को क्या करने की अनुमति नहीं थी?"
+      },
+      "options": {
+        "a": {"en": "Have independent armed forces", "hi": "अपनी स्वतंत्र सशस्त्र सेना रखना"},
+        "b": {"en": "Trade with villages", "hi": "गाँवों के साथ व्यापार करना"},
+        "c": {"en": "Build temples", "hi": "मंदिर बनाना"},
+        "d": {"en": "Collect taxes", "hi": "कर वसूलना"}
+      },
+      "correct_option": "a"
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Who discovered the sea route to India in 1498?",
+        "hi": "1498 में भारत के लिए समुद्री मार्ग की खोज किसने की थी?"
+      },
+      "options": {
+        "a": {"en": "Captain Cook", "hi": "कैप्टन कुक"},
+        "b": {"en": "Vasco da Gama", "hi": "वास्को डी गामा"},
+        "c": {"en": "Columbus", "hi": "कोलंबस"},
+        "d": {"en": "Magellan", "hi": "मैगलन"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "The Battle of Buxar took place in:",
+        "hi": "बक्सर का युद्ध कब हुआ था?"
+      },
+      "options": {
+        "a": {"en": "1757", "hi": "1757"},
+        "b": {"en": "1764", "hi": "1764"},
+        "c": {"en": "1761", "hi": "1761"},
+        "d": {"en": "1818", "hi": "1818"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "Which Governor-General initiated the 'Policy of Paramountcy'?",
+        "hi": "किस गवर्नर-जनरल ने 'सर्वोच्चता की नीति' शुरू की थी?"
+      },
+      "options": {
+        "a": {"en": "Lord Clive", "hi": "लॉर्ड क्लाइव"},
+        "b": {"en": "Lord Hastings", "hi": "लॉर्ड हेस्टिंग्स"},
+        "c": {"en": "Lord Dalhousie", "hi": "लॉर्ड डलहौजी"},
+        "d": {"en": "Lord Cornwallis", "hi": "लॉर्ड कॉर्नवालिस"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Rani Channamma led an anti-British resistance movement in:",
+        "hi": "रानी चेन्नम्मा ने कहाँ अंग्रेज विरोधी प्रतिरोध आंदोलन का नेतृत्व किया?"
+      },
+      "options": {
+        "a": {"en": "Jhansi", "hi": "झांसी"},
+        "b": {"en": "Kitoor", "hi": "कित्तूर"},
+        "c": {"en": "Satara", "hi": "सतारा"},
+        "d": {"en": "Awadh", "hi": "अवध"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Who was the first Governor-General of India?",
+        "hi": "भारत के प्रथम गवर्नर-जनरल कौन थे?"
+      },
+      "options": {
+        "a": {"en": "Lord Mountbatten", "hi": "लॉर्ड माउंटबेटन"},
+        "b": {"en": "Warren Hastings", "hi": "वॉरेन हेस्टिंग्स"},
+        "c": {"en": "Lord Canning", "hi": "लॉर्ड कैनिंग"},
+        "d": {"en": "Robert Clive", "hi": "रॉबर्ट क्लाइव"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "The capital of Tipu Sultan's kingdom was:",
+        "hi": "टीपू सुल्तान के राज्य की राजधानी थी:"
+      },
+      "options": {
+        "a": {"en": "Mysore", "hi": "मैसूर"},
+        "b": {"en": "Seringapatam", "hi": "श्रीरंगपट्टनम"},
+        "c": {"en": "Hyderabad", "hi": "हैदराबाद"},
+        "d": {"en": "Bangalore", "hi": "बैंगलोर"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What did the term 'Nabob' mean to the British?",
+        "hi": "अंग्रेजों के लिए 'नबोब' (Nabob) शब्द का क्या अर्थ था?"
+      },
+      "options": {
+        "a": {"en": "A poor soldier", "hi": "एक गरीब सैनिक"},
+        "b": {"en": "Company officials who returned to Britain with riches", "hi": "दौलत लेकर ब्रिटेन लौटने वाले कंपनी अधिकारी"},
+        "c": {"en": "An Indian king", "hi": "एक भारतीय राजा"},
+        "d": {"en": "A religious leader", "hi": "एक धार्मिक नेता"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "In the 1820s, the importance of _______ declined in the Company's army.",
+        "hi": "1820 के दशक में, कंपनी की सेना में किसका महत्व कम हो गया?"
+      },
+      "options": {
+        "a": {"en": "Infantry", "hi": "पैदल सेना"},
+        "b": {"en": "Cavalry", "hi": "घुड़सवार सेना"},
+        "c": {"en": "Archery", "hi": "तीरंदाजी"},
+        "d": {"en": "Artillery", "hi": "तोपखाना"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "The Maratha dream of ruling from Delhi was shattered in the:",
+        "hi": "मराठों का दिल्ली से शासन करने का सपना कब चूर-चूर हो गया?"
+      },
+      "options": {
+        "a": {"en": "Battle of Plassey", "hi": "प्लासी का युद्ध"},
+        "b": {"en": "Third Battle of Panipat", "hi": "पानीपत का तीसरा युद्ध"},
+        "c": {"en": "Battle of Buxar", "hi": "बक्सर का युद्ध"},
+        "d": {"en": "Battle of Mysore", "hi": "मैसूर का युद्ध"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Which of these states was annexed first under the Doctrine of Lapse?",
+        "hi": "विलय नीति के तहत इनमें से किस राज्य को सबसे पहले हड़पा गया था?"
+      },
+      "options": {
+        "a": {"en": "Jhansi", "hi": "झांसी"},
+        "b": {"en": "Satara", "hi": "सतारा"},
+        "c": {"en": "Sambalpur", "hi": "संबलपुर"},
+        "d": {"en": "Nagpur", "hi": "नागपुर"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "The judicial system established by Warren Hastings in 1772 provided for two courts in each district: _______ and _______.",
+        "hi": "1772 में वॉरेन हेस्टिंग्स द्वारा स्थापित न्याय प्रणाली में प्रत्येक जिले में दो अदालतें थीं: _______ और _______।"
+      },
+      "options": {
+        "a": {"en": "Supreme and High", "hi": "सुप्रीम और हाई"},
+        "b": {"en": "Faujdari and Diwani", "hi": "फौजदारी और दीवानी"},
+        "c": {"en": "Civil and Sessions", "hi": "सिविल और सत्र"},
+        "d": {"en": "Local and Central", "hi": "स्थानीय और केंद्रीय"}
+      },
+      "correct_option": "b"
+    }
+  ],
+  "section_2_objective": [
+    {
+      "question_id": 21,
+      "question": {"en": "Who led the company's army against Tipu Sultan in 1799?", "hi": "1799 में टीपू सुल्तान के खिलाफ कंपनी की सेना का नेतृत्व किसने किया?"},
+      "answer": {"en": "Lord Wellesley / General Harris", "hi": "लॉर्ड वेलेज़ली / जनरल हैरिस"}
+    },
+    {
+      "question_id": 22,
+      "question": {"en": "Which European power established the base in Goa first?", "hi": "किस यूरोपीय शक्ति ने सबसे पहले गोवा में अपना आधार स्थापित किया?"},
+      "answer": {"en": "Portuguese", "hi": "पुर्तगाली"}
+    },
+    {
+      "question_id": 23,
+      "question": {"en": "Name the anglicized version of the word 'Nawab'.", "hi": "'नवाब' शब्द का अंग्रेजी संस्करण क्या है?"},
+      "answer": {"en": "Nabob", "hi": "नबोब"}
+    },
+    {
+      "question_id": 24,
+      "question": {"en": "In which year was the first English factory established?", "hi": "पहली अंग्रेजी फैक्ट्री किस वर्ष स्थापित की गई थी?"},
+      "answer": {"en": "1651", "hi": "1651"}
+    },
+    {
+      "question_id": 25,
+      "question": {"en": "Who was the Nawab of Bengal during the Battle of Buxar?", "hi": "बक्सर के युद्ध के दौरान बंगाल का नवाब कौन था?"},
+      "answer": {"en": "Mir Qasim", "hi": "मीर कासिम"}
+    },
+    {
+      "question_id": 26,
+      "question": {"en": "What was the main item of trade the EIC was interested in?", "hi": "ईस्ट इंडिया कंपनी की रुचि व्यापार की किस मुख्य वस्तु में थी?"},
+      "answer": {"en": "Cotton / Silk / Spices", "hi": "कपास / रेशम / मसाले"}
+    },
+    {
+      "question_id": 27,
+      "question": {"en": "Which Nawab appointed the EIC as Diwan of Bengal?", "hi": "किस नवाब (सम्राट) ने कंपनी को बंगाल का दीवान नियुक्त किया?"},
+      "answer": {"en": "Shah Alam II", "hi": "शाह आलम II"}
+    },
+    {
+      "question_id": 28,
+      "question": {"en": "What does 'Diwani' rights mean?", "hi": "'दीवानी' अधिकार का क्या अर्थ है?"},
+      "answer": {"en": "Right to collect land revenue", "hi": "भू-राजस्व वसूलने का अधिकार"}
+    },
+    {
+      "question_id": 29,
+      "question": {"en": "Who was the Governor-General during the annexation of Awadh?", "hi": "अवध के विलय के दौरान गवर्नर-जनरल कौन था?"},
+      "answer": {"en": "Lord Dalhousie", "hi": "लॉर्ड डलहौजी"}
+    },
+    {
+      "question_id": 30,
+      "question": {"en": "Which title was given to Tipu Sultan?", "hi": "टीपू सुल्तान को कौन सी उपाधि दी गई थी?"},
+      "answer": {"en": "Tiger of Mysore", "hi": "मैसूर का शेर"}
+    },
+    {
+      "question_id": 31,
+      "question": {"en": "What was the head of the district called in British administration?", "hi": "ब्रिटिश प्रशासन में जिला प्रमुख को क्या कहा जाता था?"},
+      "answer": {"en": "Collector", "hi": "कलेक्टर"}
+    },
+    {
+      "question_id": 32,
+      "question": {"en": "Which act established the Supreme Court in Calcutta?", "hi": "किस अधिनियम ने कलकत्ता में सुप्रीम कोर्ट की स्थापना की?"},
+      "answer": {"en": "Regulating Act of 1773", "hi": "1773 का रेगुलेटिंग एक्ट"}
+    },
+    {
+      "question_id": 33,
+      "question": {"en": "Who was the ruler of Punjab annexed in 1849?", "hi": "1849 में पंजाब के किस शासक का राज्य हड़प लिया गया था?"},
+      "answer": {"en": "Maharaja Dalip Singh", "hi": "महाराजा दलीप सिंह"}
+    },
+    {
+      "question_id": 34,
+      "question": {"en": "Where was the court of appeal, Sadar Nizamat Adalat, set up?", "hi": "अपील की अदालत, सदर निजामत अदालत कहाँ स्थापित की गई थी?"},
+      "answer": {"en": "Calcutta", "hi": "कलकत्ता"}
+    },
+    {
+      "question_id": 35,
+      "question": {"en": "How many Anglo-Maratha wars were fought?", "hi": "कितने आंग्ल-मराठा युद्ध लड़े गए थे?"},
+      "answer": {"en": "Three", "hi": "तीन"}
+    },
+    {
+      "question_id": 36,
+      "question": {"en": "Name the French trading company's base in India.", "hi": "भारत में फ्रांसीसी व्यापारिक कंपनी के आधार का नाम बताएं।"},
+      "answer": {"en": "Pondicherry", "hi": "पांडिचेरी"}
+    },
+    {
+      "question_id": 37,
+      "question": {"en": "What was the main weapon of the infantry after 1820s?", "hi": "1820 के दशक के बाद पैदल सेना का मुख्य हथियार क्या था?"},
+      "answer": {"en": "Musket / Matchlock", "hi": "मस्केट / मैचलॉक"}
+    },
+    {
+      "question_id": 38,
+      "question": {"en": "Who was the mother of the 'Tiger of Mysore'?", "hi": "मैसूर के शेर की माँ का नाम क्या था?"},
+      "answer": {"en": "Fatima Fakhr-un-Nisa", "hi": "फातिमा फख्र-उन-निसा"}
+    },
+    {
+      "question_id": 39,
+      "question": {"en": "Which policy used 'misgovernment' as an excuse for annexation?", "hi": "किस नीति ने विलय के लिए 'कुशासन' को बहाने के रूप में इस्तेमाल किया?"},
+      "answer": {"en": "Direct Annexation (applied to Awadh)", "hi": "प्रत्यक्ष विलय (अवध पर लागू)"}
+    },
+    {
+      "question_id": 40,
+      "question": {"en": "Who was the ruler of Afghanistan the British fought in 1838-42?", "hi": "1838-42 में अंग्रेजों ने अफगानिस्तान के किस शासक से लड़ाई लड़ी थी?"},
+      "answer": {"en": "Dost Mohammad Khan", "hi": "दोस्त मोहम्मद खान"}
+    }
+  ],
+  "section_3_fill_blanks": [
+    {
+      "question_id": 41,
+      "question": {"en": "The _______ gave EIC the sole right to trade with the East.", "hi": "_______ ने ईस्ट इंडिया कंपनी को पूर्व के साथ व्यापार करने का एकमात्र अधिकार दिया।"},
+      "answer": {"en": "Charter", "hi": "चार्टर / इजाज़तनामा"}
+    },
+    {
+      "question_id": 42,
+      "question": {"en": "Sirajuddaulah was the Nawab of _______.", "hi": "सिराजुद्दौला _______ का नवाब था।"},
+      "answer": {"en": "Bengal", "hi": "बंगाल"}
+    },
+    {
+      "question_id": 43,
+      "question": {"en": "A _______ was a political or commercial agent of the Company.", "hi": "_______ कंपनी का एक राजनीतिक या व्यावसायिक एजेंट होता था।"},
+      "answer": {"en": "Resident", "hi": "रेजिडेंट"}
+    },
+    {
+      "question_id": 44,
+      "question": {"en": "Haider Ali and Tipu Sultan were powerful rulers of _______.", "hi": "हैदर अली और टीपू सुल्तान _______ के शक्तिशाली शासक थे।"},
+      "answer": {"en": "Mysore", "hi": "मैसूर"}
+    },
+    {
+      "question_id": 45,
+      "question": {"en": "Lord Dalhousie devised the policy of _______.", "hi": "लॉर्ड डलहौजी ने _______ की नीति तैयार की थी।"},
+      "answer": {"en": "Doctrine of Lapse", "hi": "विलय नीति"}
+    },
+    {
+      "question_id": 46,
+      "question": {"en": "The first English ships sailed down the _______ coast of Africa.", "hi": "पहले अंग्रेजी जहाज अफ्रीका के _______ तट से नीचे की ओर रवाना हुए।"},
+      "answer": {"en": "Western", "hi": "पश्चिमी"}
+    },
+    {
+      "question_id": 47,
+      "question": {"en": "The Company forced Awadh to cede half of its territory in _______.", "hi": "कंपनी ने अवध को _______ में अपना आधा क्षेत्र सौंपने के लिए मजबूर किया।"},
+      "answer": {"en": "1801", "hi": "1801"}
+    },
+    {
+      "question_id": 48,
+      "question": {"en": "A _______ is a heavy gun used by infantry soldiers.", "hi": "_______ पैदल सेना के सैनिकों द्वारा उपयोग की जाने वाली एक भारी बंदूक है।"},
+      "answer": {"en": "Musket", "hi": "मस्केट"}
+    },
+    {
+      "question_id": 49,
+      "question": {"en": "British territories were broadly divided into administrative units called _______.", "hi": "ब्रिटिश क्षेत्रों को मोटे तौर पर _______ नामक प्रशासनिक इकाइयों में विभाजित किया गया था।"},
+      "answer": {"en": "Presidencies", "hi": "प्रेसीडेंसी"}
+    },
+    {
+      "question_id": 50,
+      "question": {"en": "The _______ was the main administrative figure in an Indian district.", "hi": "एक भारतीय जिले में _______ मुख्य प्रशासनिक व्यक्ति था।"},
+      "answer": {"en": "Collector", "hi": "कलेक्टर"}
+    }
+  ]
+}
