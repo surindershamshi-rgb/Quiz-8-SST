@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 4,
+    "chapter_title": "Tribals, Dikus and the Vision of a Golden Age",
+    "chapter_title_hindi": "आदिवासी, डिकु और एक स्वर्ण युग की कल्पना",
+    "subject": "History - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_HI_CH04_TribalsDikus_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "In which year did Birsa Munda die?",
+        "hi": "बिरसा मुंडा की मृत्यु किस वर्ष हुई थी?"
+      },
+      "options": {
+        "a": {"en": "1895", "hi": "1895"},
+        "b": {"en": "1900", "hi": "1900"},
+        "c": {"en": "1905", "hi": "1905"},
+        "d": {"en": "1920", "hi": "1920"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Birsa Munda died of cholera in 1900 while in jail, and the movement he led faded out.",
+        "hi": "बिरसा मुंडा की 1900 में जेल में रहते हुए हैजे (cholera) से मृत्यु हो गई थी, जिसके बाद उनके द्वारा चलाया गया आंदोलन धीमा पड़ गया।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "What did the term 'Dikus' refer to in the tribal regions?",
+        "hi": "आदिवासी क्षेत्रों में 'डिकु' (Dikus) शब्द का क्या अर्थ था?"
+      },
+      "options": {
+        "a": {"en": "Friends", "hi": "मित्र"},
+        "b": {"en": "Ancestors", "hi": "पूर्वज"},
+        "c": {"en": "Outsiders (Traders, Moneylenders, British)", "hi": "बाहरी लोग (व्यापारी, साहूकार, अंग्रेज)"},
+        "d": {"en": "Tribal chiefs", "hi": "आदिवासी मुखिया"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Tribals referred to outsiders like traders, moneylenders, and British officials as 'Dikus' because they were seen as the cause of their misery.",
+        "hi": "आदिवासी बाहरी लोगों जैसे व्यापारियों, साहूकारों और ब्रिटिश अधिकारियों को 'डिकु' कहते थे क्योंकि उन्हें उनकी दुर्दशा का कारण माना जाता था।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "The practice of 'Jhum cultivation' is also known as:",
+        "hi": "'झूम खेती' (Jhum cultivation) को और किस नाम से जाना जाता है?"
+      },
+      "options": {
+        "a": {"en": "Step farming", "hi": "सीढ़ीदार खेती"},
+        "b": {"en": "Shifting cultivation", "hi": "घुमंतू या स्थानांतरित खेती"},
+        "c": {"en": "Commercial farming", "hi": "वाणिज्यिक खेती"},
+        "d": {"en": "Intensive farming", "hi": "गहन खेती"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Jhum cultivation involved clearing small patches of land in forests, burning the vegetation, and shifting to a new plot after a few years.",
+        "hi": "झूम खेती में जंगलों में जमीन के छोटे टुकड़ों को साफ करना, वहां की वनस्पति को जलाना और कुछ वर्षों के बाद नए भूखंड पर जाना शामिल था।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Which tribal group was mainly found in the forests of Orissa and lived by hunting and gathering?",
+        "hi": "कौन सा आदिवासी समूह मुख्य रूप से उड़ीसा के जंगलों में पाया जाता था और शिकार और संग्रहण पर निर्भर था?"
+      },
+      "options": {
+        "a": {"en": "Khos", "hi": "खोंड (Khonds)"},
+        "b": {"en": "Santhals", "hi": "संथाल"},
+        "c": {"en": "Mundas", "hi": "मुंडा"},
+        "d": {"en": "Gonds", "hi": "गोंड"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The Khonds were a community that lived in the forests of Orissa. They regularly went out on collective hunts and divided the meat amongst themselves.",
+        "hi": "खोंड उड़ीसा के जंगलों में रहने वाला एक समुदाय था। वे सामूहिक शिकार पर जाते थे और मांस को आपस में बांट लेते थे।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Flowers of which tree were used to make color and medicines, as well as brewed into alcohol?",
+        "hi": "किस पेड़ के फूलों का उपयोग रंग और दवाएं बनाने के साथ-साथ शराब बनाने के लिए किया जाता था?"
+      },
+      "options": {
+        "a": {"en": "Sal", "hi": "साल"},
+        "b": {"en": "Mahua", "hi": "महुआ"},
+        "c": {"en": "Teak", "hi": "सागौन"},
+        "d": {"en": "Peepal", "hi": "पीपल"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Mahua tree provided flowers that were eaten and used to make alcohol, while its seeds were used to extract oil for cooking.",
+        "hi": "महुआ के पेड़ से ऐसे फूल मिलते थे जिन्हें खाया जाता था और शराब बनाने के काम में लाया जाता था, जबकि इसके बीजों का उपयोग खाना पकाने के तेल के लिए किया जाता था।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Under British rule, what happened to the powers of the tribal chiefs?",
+        "hi": "ब्रिटिश शासन के तहत, आदिवासी मुखियाओं की शक्तियों का क्या हुआ?"
+      },
+      "options": {
+        "a": {"en": "Their powers increased", "hi": "उनकी शक्तियां बढ़ गईं"},
+        "b": {"en": "They lost their administrative power but kept land titles", "hi": "उन्होंने अपनी प्रशासनिक शक्ति खो दी लेकिन भूमि के अधिकार उनके पास रहे"},
+        "c": {"en": "They were made Governor-Generals", "hi": "उन्हें गवर्नर-जनरल बनाया गया"},
+        "d": {"en": "Their lifestyle did not change at all", "hi": "उनकी जीवनशैली में बिल्कुल बदलाव नहीं आया"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Tribal chiefs lost much of their administrative power and were forced to follow laws made by British officials in India.",
+        "hi": "आदिवासी मुखियाओं ने अपनी प्रशासनिक शक्ति खो दी और उन्हें भारत में ब्रिटिश अधिकारियों द्वारा बनाए गए कानूनों का पालन करने के लिए मजबूर किया गया।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "The British preferred which type of tribal groups over shifting cultivators?",
+        "hi": "अंग्रेज घुमंतू खेती करने वालों की तुलना में किस प्रकार के आदिवासी समूहों को प्राथमिकता देते थे?"
+      },
+      "options": {
+        "a": {"en": "Hunter-gatherers", "hi": "शिकारी-संग्रहकर्ता"},
+        "b": {"en": "Settled cultivators", "hi": "स्थायी रूप से खेती करने वाले"},
+        "c": {"en": "Nomadic herders", "hi": "खानाबदोश चरवाहे"},
+        "d": {"en": "Fugitives", "hi": "भगोड़े"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Settled cultivators were easier to control and administer than people who were always on the move.",
+        "hi": "हमेशा गतिशील रहने वाले लोगों की तुलना में स्थायी रूप से खेती करने वालों को नियंत्रित करना और उन पर शासन करना आसान था।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Forests that produced timber which the British wanted were classified as:",
+        "hi": "अंग्रेजों की जरूरत वाली लकड़ी पैदा करने वाले जंगलों को किस रूप में वर्गीकृत किया गया था?"
+      },
+      "options": {
+        "a": {"en": "Protected Forests", "hi": "संरक्षित वन"},
+        "b": {"en": "Reserved Forests", "hi": "आरक्षित वन"},
+        "c": {"en": "Village Forests", "hi": "ग्राम वन"},
+        "d": {"en": "Open Forests", "hi": "खुले वन"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "In Reserved Forests, people were not allowed to move freely, practice Jhum cultivation, or collect fruits.",
+        "hi": "आरक्षित वनों में लोगों को स्वतंत्र रूप से घूमने, झूम खेती करने या फल इकट्ठा करने की अनुमति नहीं थी।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Why did the British create 'Forest Villages'?",
+        "hi": "अंग्रेजों ने 'वन ग्राम' (Forest Villages) क्यों बनाए?"
+      },
+      "options": {
+        "a": {"en": "To provide education to tribals", "hi": "आदिवासियों को शिक्षा देने के लिए"},
+        "b": {"en": "To ensure a regular supply of cheap labor for cutting trees", "hi": "पेड़ काटने के लिए सस्ते श्रम की नियमित आपूर्ति सुनिश्चित करने के लिए"},
+        "c": {"en": "To protect wildlife", "hi": "वन्यजीवों की रक्षा के लिए"},
+        "d": {"en": "To promote tourism", "hi": "पर्यटन को बढ़ावा देने के लिए"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Forest Department needed labor to cut trees for railway sleepers and transport logs, so they allowed some tribals to live in forests in exchange for labor.",
+        "hi": "वन विभाग को रेलवे स्लीपरों के लिए पेड़ काटने और लट्ठों को ढोने के लिए श्रम की आवश्यकता थी, इसलिए उन्होंने श्रम के बदले कुछ आदिवासियों को जंगलों में रहने की अनुमति दी।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "The revolt of Songram Sangma took place in 1906 in:",
+        "hi": "सोंग्राम संगमा का विद्रोह 1906 में कहाँ हुआ था?"
+      },
+      "options": {
+        "a": {"en": "Assam", "hi": "असम"},
+        "b": {"en": "Bihar", "hi": "बिहार"},
+        "c": {"en": "Orissa", "hi": "उड़ीसा"},
+        "d": {"en": "Punjab", "hi": "पंजाब"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The revolt of Songram Sangma in Assam was a reaction against colonial forest laws.",
+        "hi": "असम में सोंग्राम संगमा का विद्रोह औपनिवेशिक वन कानूनों के खिलाफ एक प्रतिक्रिया थी।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Hazaribagh, in present-day Jharkhand, was an area where which tribe reared cocoons for silk?",
+        "hi": "वर्तमान झारखंड में हज़ारीबाग वह क्षेत्र था जहाँ किस जनजाति ने रेशम के लिए कोकून पाले थे?"
+      },
+      "options": {
+        "a": {"en": "Mundas", "hi": "मुंडा"},
+        "b": {"en": "Santhals", "hi": "संथाल"},
+        "c": {"en": "Gonds", "hi": "गोंड"},
+        "d": {"en": "Baigas", "hi": "बैगा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Santhals of Hazaribagh reared cocoons. The traders gave them small loans and collected the cocoons at very low prices.",
+        "hi": "हज़ारीबाग के संथाल कोकून पालते थे। व्यापारी उन्हें छोटा ऋण देते थे और बहुत कम कीमतों पर कोकून इकट्ठा करते थे।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "Birsa Munda was born in which tribal group?",
+        "hi": "बिरसा मुंडा का जन्म किस आदिवासी समूह में हुआ था?"
+      },
+      "options": {
+        "a": {"en": "Santhal", "hi": "संथाल"},
+        "b": {"en": "Munda", "hi": "मुंडा"},
+        "c": {"en": "Oraon", "hi": "उरांव"},
+        "d": {"en": "Bhil", "hi": "भील"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Birsa Munda belonged to the Mundas, a tribal group that lived in Chhotanagpur.",
+        "hi": "बिरसा मुंडा का संबंध मुंडा जनजाति से था, जो छोटानागपुर में रहने वाला एक आदिवासी समूह था।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "What was Birsa's vision of the 'Golden Age'?",
+        "hi": "बिरसा का 'स्वर्ण युग' का विजन क्या था?"
+      },
+      "options": {
+        "a": {"en": "A time when tribals would live in cities", "hi": "एक ऐसा समय जब आदिवासी शहरों में रहेंगे"},
+        "b": {"en": "A past when Mundas lived a good life, constructed embankments, and lived in harmony with nature", "hi": "एक ऐसा अतीत जब मुंडा अच्छा जीवन जीते थे, तटबंध बनाते थे और प्रकृति के साथ सद्भाव में रहते थे"},
+        "c": {"en": "A time when the British would rule forever", "hi": "एक ऐसा समय जब अंग्रेज हमेशा के लिए शासन करेंगे"},
+        "d": {"en": "A time when all forests would be cut down", "hi": "एक ऐसा समय जब सारे जंगल काट दिए जाएंगे"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Birsa talked about a 'Satyug' (age of truth) where Mundas did not kill their brethren and lived an honest life free from Dikus.",
+        "hi": "बिरसा ने एक 'सतयुग' (सत्य का युग) के बारे में बात की जहाँ मुंडा अपने भाइयों को नहीं मारते थे और डिकुओं से मुक्त एक ईमानदार जीवन जीते थे।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Which color flag was the symbol of the Birsa Raj?",
+        "hi": "कौन से रंग का झंडा बिरसा राज का प्रतीक था?"
+      },
+      "options": {
+        "a": {"en": "Red", "hi": "लाल"},
+        "b": {"en": "Green", "hi": "हरा"},
+        "c": {"en": "White", "hi": "सफेद"},
+        "d": {"en": "Yellow", "hi": "पीला"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "As the movement spread, Birsa’s followers began targeting symbols of Diku and British power. They raised a white flag as a symbol of Birsa Raj.",
+        "hi": "जैसे-जैसे आंदोलन फैला, बिरसा के अनुयायियों ने डिकु और ब्रिटिश सत्ता के प्रतीकों को निशाना बनाना शुरू कर दिया। उन्होंने बिरसा राज के प्रतीक के रूप में एक सफेद झंडा फहराया।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "The Baigas were a tribal group of Central India who saw themselves as:",
+        "hi": "बैगा मध्य भारत का एक आदिवासी समूह था जो खुद को क्या मानता था?"
+      },
+      "options": {
+        "a": {"en": "People of the city", "hi": "शहर के लोग"},
+        "b": {"en": "People of the forest who could only live on the produce of the forest", "hi": "जंगल के लोग जो केवल जंगल की उपज पर जीवित रह सकते थे"},
+        "c": {"en": "Farmers who loved using ploughs", "hi": "किसान जिन्हें हल चलाना पसंद था"},
+        "d": {"en": "Traders of spices", "hi": "मसालों के व्यापारी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Baigas considered it below their dignity to become a laborer; they saw themselves as true people of the forest.",
+        "hi": "बैगाओं ने मजदूर बनना अपनी गरिमा के खिलाफ माना; वे खुद को जंगल का असली निवासी मानते थे।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What did the British do to Birsa Munda in 1895?",
+        "hi": "1895 में अंग्रेजों ने बिरसा मुंडा के साथ क्या किया?"
+      },
+      "options": {
+        "a": {"en": "They gave him a reward", "hi": "उन्होंने उसे इनाम दिया"},
+        "b": {"en": "They arrested him on charges of rioting and jailed him for two years", "hi": "उन्होंने उसे दंगे के आरोप में गिरफ्तार किया और दो साल के लिए जेल भेज दिया"},
+        "c": {"en": "They made him a king", "hi": "उन्होंने उसे राजा बना दिया"},
+        "d": {"en": "They sent him to London", "hi": "उन्होंने उसे लंदन भेज दिया"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "In 1895, Birsa was arrested because his movement was seen as a threat to British political and religious authority.",
+        "hi": "1895 में, बिरसा को गिरफ्तार कर लिया गया क्योंकि उनके आंदोलन को ब्रिटिश राजनीतिक और धार्मिक सत्ता के लिए खतरे के रूप में देखा गया था।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "The 'Bastar Rebellion' in Central India broke out in which year?",
+        "hi": "मध्य भारत में 'बस्तर विद्रोह' किस वर्ष हुआ था?"
+      },
+      "options": {
+        "a": {"en": "1857", "hi": "1857"},
+        "b": {"en": "1910", "hi": "1910"},
+        "c": {"en": "1940", "hi": "1940"},
+        "d": {"en": "1895", "hi": "1895"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Bastar Rebellion (1910) and the Warli Revolt in Maharashtra (1940) were other significant tribal uprisings against forest laws.",
+        "hi": "बस्तर विद्रोह (1910) और महाराष्ट्र में वर्ली विद्रोह (1940) वन कानूनों के खिलाफ अन्य महत्वपूर्ण आदिवासी विद्रोह थे।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What was the significance of the Birsa Munda movement?",
+        "hi": "बिरसा मुंडा आंदोलन का क्या महत्व था?"
+      },
+      "options": {
+        "a": {"en": "It forced the colonial government to introduce laws to protect tribal lands", "hi": "इसने औपनिवेशिक सरकार को आदिवासी भूमि की रक्षा के लिए कानून पेश करने के लिए मजबूर किया"},
+        "b": {"en": "It ended British rule in 1900", "hi": "इसने 1900 में ब्रिटिश शासन को समाप्त कर दिया"},
+        "c": {"en": "It banned all religions in Chhotanagpur", "hi": "इसने छोटानागपुर में सभी धर्मों पर प्रतिबंध लगा दिया"},
+        "d": {"en": "It encouraged tribals to move to cities", "hi": "इसने आदिवासियों को शहरों में जाने के लिए प्रोत्साहित किया"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The movement forced the government to enact the Chhotanagpur Tenancy Act so that Dikus could not easily take over tribal land.",
+        "hi": "आंदोलन ने सरकार को छोटानागपुर काश्तकारी अधिनियम (Tenancy Act) लागू करने के लिए मजबूर किया ताकि डिकु आसानी से आदिवासी भूमि पर कब्जा न कर सकें।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Traders and moneylenders came into the tribal areas to buy which items?",
+        "hi": "व्यापारी और साहूकार किन वस्तुओं को खरीदने के लिए आदिवासी क्षेत्रों में आते थे?"
+      },
+      "options": {
+        "a": {"en": "Cars and Machines", "hi": "कारें और मशीनें"},
+        "b": {"en": "Forest produce like silk cocoons, honey, and medicinal herbs", "hi": "रेशम कोकून, शहद और औषधीय जड़ी-बूटियों जैसी वन उपज"},
+        "c": {"en": "Imported clothes", "hi": "आयातित कपड़े"},
+        "d": {"en": "Wheat and Rice", "hi": "गेहूं और चावल"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Tribals often bartered forest produce for salt or grains, but traders often cheated them by paying very low prices.",
+        "hi": "आदिवासी अक्सर नमक या अनाज के बदले वन उपज का वस्तु-विनिमय (barter) करते थे, लेकिन व्यापारी अक्सर उन्हें बहुत कम कीमत देकर धोखा देते थे।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "In the late 19th century, tribals from Bihar and Assam began moving to work in:",
+        "hi": "19वीं शताब्दी के अंत में, बिहार और असम के आदिवासियों ने कहाँ काम करने के लिए जाना शुरू किया?"
+      },
+      "options": {
+        "a": {"en": "Information technology parks", "hi": "सूचना प्रौद्योगिकी पार्क"},
+        "b": {"en": "Tea plantations and coal mines", "hi": "चाय के बागान और कोयले की खदानें"},
+        "c": {"en": "Government offices", "hi": "सरकारी कार्यालयों"},
+        "d": {"en": "Foreign countries as tourists", "hi": "पर्यटकों के रूप में विदेशों में"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Loss of land forced many tribals to work as laborers in tea gardens in Assam and coal mines in Bihar (present Jharkhand) under harsh conditions.",
+        "hi": "भूमि खोने के कारण कई आदिवासियों को असम के चाय बागानों और बिहार (वर्तमान झारखंड) की कोयला खदानों में कठिन परिस्थितियों में काम करने के लिए मजबूर होना पड़ा।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "The Gonds lived in which part of India?",
+        "hi": "गोंड भारत के किस भाग में रहते थे?"
+      },
+      "options": {
+        "a": {"en": "Assam", "hi": "असम"},
+        "b": {"en": "Central India (Gondwana)", "hi": "मध्य भारत (गोंडवाना)"},
+        "c": {"en": "Kerala", "hi": "केरल"},
+        "d": {"en": "Jammu and Kashmir", "hi": "जम्मू और कश्मीर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Gonds were settled cultivators living in the vast region of Central India.",
+        "hi": "गोंड मध्य भारत के विशाल क्षेत्र में रहने वाले स्थायी कृषक थे।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "What did the Mundas do when they were evicted from their land by the Dikus?",
+        "hi": "जब मुंडाओं को डिकुओं द्वारा उनकी भूमि से बेदखल कर दिया गया तो उन्होंने क्या किया?"
+      },
+      "options": {
+        "a": {"en": "They left India", "hi": "उन्होंने भारत छोड़ दिया"},
+        "b": {"en": "They resisted and organized rebellions", "hi": "उन्होंने प्रतिरोध किया और विद्रोहों का आयोजन किया"},
+        "c": {"en": "They became Dikus themselves", "hi": "वे खुद डिकु बन गए"},
+        "d": {"en": "They stopped farming forever", "hi": "उन्होंने हमेशा के लिए खेती बंद कर दी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The tribal history of Chhotanagpur is marked by a series of uprisings against the loss of their traditional rights.",
+        "hi": "छोटानागपुर का आदिवासी इतिहास अपने पारंपरिक अधिकारों के खोने के खिलाफ विद्रोहों की एक श्रृंखला से चिह्नित है।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "A person who moves from place to place with their animals is a:",
+        "hi": "वह व्यक्ति जो अपने जानवरों के साथ एक स्थान से दूसरे स्थान पर जाता है, कहलाता है:"
+      },
+      "options": {
+        "a": {"en": "Settled cultivator", "hi": "स्थायी कृषक"},
+        "b": {"en": "Nomadic herder", "hi": "खानाबदोश चरवाहा"},
+        "c": {"en": "Industrialist", "hi": "उद्योगपति"},
+        "d": {"en": "Artisan", "hi": "शिल्पकार"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Tribal groups like the Van Gujjars of the Punjab hills and the Gaddis of Kulu were shepherds and herders.",
+        "hi": "पंजाब की पहाड़ियों के वन गुर्जर और कुल्लू के गद्दी जैसे आदिवासी समूह चरवाहे थे।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "In Jhum cultivation, the ash from burnt trees was used for:",
+        "hi": "झूम खेती में जले हुए पेड़ों की राख का उपयोग किस लिए किया जाता था?"
+      },
+      "options": {
+        "a": {"en": "Building houses", "hi": "घर बनाने"},
+        "b": {"en": "Fertilizing the soil with potash", "hi": "मिट्टी को पोटाश से उपजाऊ बनाने"},
+        "c": {"en": "Making medicine", "hi": "दवा बनाने"},
+        "d": {"en": "Fuel for cooking", "hi": "खाना पकाने के ईंधन"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The ash contained potash, which helped fertilize the soil before sowing seeds.",
+        "hi": "राख में पोटाश होता था, जो बीज बोने से पहले मिट्टी को उपजाऊ बनाने में मदद करता था।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "Which of the following was NOT a reason for tribal anger against the British?",
+        "hi": "निम्नलिखित में से कौन सा अंग्रेजों के खिलाफ आदिवासियों के गुस्से का कारण नहीं था?"
+      },
+      "options": {
+        "a": {"en": "Forest laws restricting their movement", "hi": "उनकी आवाजाही को प्रतिबंधित करने वाले वन कानून"},
+        "b": {"en": "The British built schools for everyone", "hi": "अंग्रेजों ने सभी के लिए स्कूल बनाए"},
+        "c": {"en": "Loss of their traditional land to Dikus", "hi": "डिकुओं के हाथों अपनी पारंपरिक भूमि का नुकसान"},
+        "d": {"en": "The heavy land revenue they had to pay", "hi": "उन्हें जो भारी भू-राजस्व देना पड़ता था"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The primary causes were economic and political exploitation, not the building of schools.",
+        "hi": "प्राथमिक कारण आर्थिक और राजनीतिक शोषण थे, न कि स्कूलों का निर्माण।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "What was the weapon used by Birsa's followers during the attacks?",
+        "hi": "हमलों के दौरान बिरसा के अनुयायियों द्वारा इस्तेमाल किया जाने वाला हथियार क्या था?"
+      },
+      "options": {
+        "a": {"en": "Cannons", "hi": "तोपें"},
+        "b": {"en": "Bows and Arrows", "hi": "धनुष और तीर"},
+        "c": {"en": "Machine guns", "hi": "मशीन गन"},
+        "d": {"en": "Tanks", "hi": "टैंक"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Birsa's followers used traditional weapons like bows, arrows, and swords to attack police stations and churches.",
+        "hi": "बिरसा के अनुयायियों ने पुलिस थानों और चर्चों पर हमला करने के लिए धनुष, तीर और तलवार जैसे पारंपरिक हथियारों का इस्तेमाल किया।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Moneylenders were seen as 'evil' because they:",
+        "hi": "साहूकारों को 'बुरा' माना जाता था क्योंकि वे:"
+      },
+      "options": {
+        "a": {"en": "Charged very low interest", "hi": "बहुत कम ब्याज लेते थे"},
+        "b": {"en": "Helped tribals get their land back", "hi": "आदिवासियों को उनकी भूमि वापस पाने में मदद करते थे"},
+        "c": {"en": "Charged high rates of interest and trapped tribals in debt", "hi": "ब्याज की उच्च दरें वसूलते थे और आदिवासियों को कर्ज के जाल में फंसाते थे"},
+        "d": {"en": "Were tribal themselves", "hi": "वे स्वयं आदिवासी थे"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Indebtedness to moneylenders often led to the loss of tribal land, causing immense suffering.",
+        "hi": "साहूकारों के कर्ज के कारण अक्सर आदिवासियों की भूमि छिन जाती थी, जिससे उन्हें अपार कष्ट होता था।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Birsa Munda urged his followers to give up which of the following?",
+        "hi": "बिरसा मुंडा ने अपने अनुयायियों से निम्नलिखित में से क्या छोड़ने का आग्रह किया?"
+      },
+      "options": {
+        "a": {"en": "Liquor and witchcraft", "hi": "शराब और जादू-टोना"},
+        "b": {"en": "Farming", "hi": "खेती"},
+        "c": {"en": "Their tribal identity", "hi": "अपनी आदिवासी पहचान"},
+        "d": {"en": "Living in the forest", "hi": "जंगल में रहना"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Birsa wanted to reform Munda society and urged people to stop believing in witchcraft and stop drinking liquor.",
+        "hi": "बिरसा मुंडा समाज में सुधार करना चाहते थे और उन्होंने लोगों से जादू-टोने में विश्वास करना बंद करने और शराब छोड़ देने का आग्रह किया।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "The Kulu tribe known for being shepherds was the:",
+        "hi": "चरवाहे होने के लिए जानी जाने वाली कुल्लू की जनजाति कौन सी थी?"
+      },
+      "options": {
+        "a": {"en": "Gaddi", "hi": "गद्दी (Gaddi)"},
+        "b": {"en": "Bhil", "hi": "भील"},
+        "c": {"en": "Naga", "hi": "नागा"},
+        "d": {"en": "Mizo", "hi": "मिज़ो"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The Gaddis of Kulu were a community of shepherds who moved their flocks with the seasons.",
+        "hi": "कुल्लू के गद्दी चरवाहों का एक समुदाय था जो मौसम के अनुसार अपने झुंडों को एक जगह से दूसरी जगह ले जाते थे।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "Why was the Munda movement a threat to the British?",
+        "hi": "मुंडा आंदोलन अंग्रेजों के लिए खतरा क्यों था?"
+      },
+      "options": {
+        "a": {"en": "Because it aimed to establish a Munda Raj and drive out all Dikus and the British", "hi": "क्योंकि इसका उद्देश्य मुंडा राज स्थापित करना और सभी डिकुओं और अंग्रेजों को बाहर निकालना था"},
+        "b": {"en": "Because Mundas were moving to England", "hi": "क्योंकि मुंडा इंग्लैंड जा रहे थे"},
+        "c": {"en": "Because Mundas refused to grow food", "hi": "क्योंकि मुंडाओं ने भोजन उगाने से इनकार कर दिया"},
+        "d": {"en": "Because Mundas were supporting the French", "hi": "क्योंकि मुंडा फ्रांसीसी का समर्थन कर रहे थे"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The political aim of the Birsa movement was to drive out missionaries, moneylenders, Hindu landlords, and the government to set up a Munda Raj.",
+        "hi": "बिरसा आंदोलन का राजनीतिक उद्देश्य मिशनरियों, साहूकारों, हिंदू जमींदारों और सरकार को बाहर निकालकर मुंडा राज स्थापित करना था।"
+      }
+    }
+  ]
+}
