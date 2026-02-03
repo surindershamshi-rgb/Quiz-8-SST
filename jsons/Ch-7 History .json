@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 7,
+    "chapter_title": "Women, Caste and Reform",
+    "chapter_title_hindi": "महिलाएं, जाति एवं सुधार",
+    "subject": "History - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_HI_CH07_WomenCasteReform_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Who founded the Brahmo Samaj in Calcutta?",
+        "hi": "कलकत्ता में ब्रह्म समाज की स्थापना किसने की थी?"
+      },
+      "options": {
+        "a": {"en": "Ishwar Chandra Vidyasagar", "hi": "ईश्वर चंद्र विद्यासागर"},
+        "b": {"en": "Rammohun Roy", "hi": "राममोहन राय"},
+        "c": {"en": "Swami Dayanand Saraswati", "hi": "स्वामी दयानंद सरस्वती"},
+        "d": {"en": "Jyotirao Phule", "hi": "ज्योतिराव फुले"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Raja Rammohun Roy founded the Brahmo Sabha (later Brahmo Samaj) to reform Indian society and challenge orthodox practices.",
+        "hi": "राजा राममोहन राय ने भारतीय समाज में सुधार लाने और रूढ़िवादी प्रथाओं को चुनौती देने के लिए ब्रह्म सभा (बाद में ब्रह्म समाज) की स्थापना की।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "In which year was the practice of Sati officially banned?",
+        "hi": "सती प्रथा पर आधिकारिक रूप से किस वर्ष प्रतिबंध लगाया गया था?"
+      },
+      "options": {
+        "a": {"en": "1829", "hi": "1829"},
+        "b": {"en": "1856", "hi": "1856"},
+        "c": {"en": "1875", "hi": "1875"},
+        "d": {"en": "1929", "hi": "1929"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Through the efforts of Rammohun Roy, the British government banned Sati in 1829.",
+        "hi": "राममोहन राय के प्रयासों से ब्रिटिश सरकार ने 1829 में सती प्रथा पर प्रतिबंध लगा दिया।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Which reformer used ancient texts to suggest that widows could remarry?",
+        "hi": "किस सुधारक ने प्राचीन ग्रंथों का उपयोग करके यह सुझाव दिया कि विधवाएँ पुनर्विवाह कर सकती हैं?"
+      },
+      "options": {
+        "a": {"en": "Swami Vivekananda", "hi": "स्वामी विवेकानंद"},
+        "b": {"en": "Ishwar Chandra Vidyasagar", "hi": "ईश्वर चंद्र विद्यासागर"},
+        "c": {"en": "Veerasalingam Pantulu", "hi": "वीरसालिंगम पंतुलु"},
+        "d": {"en": "Mumtaz Ali", "hi": "मुमताज अली"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Vidyasagar's suggestion was adopted by British officials, and a law permitting widow remarriage was passed in 1856.",
+        "hi": "विद्यासागर के सुझाव को ब्रिटिश अधिकारियों ने अपनाया और 1856 में विधवा पुनर्विवाह की अनुमति देने वाला कानून पारित किया गया।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "The Arya Samaj, an organization that attempted to reform Hinduism, was founded by:",
+        "hi": "हिंदू धर्म में सुधार का प्रयास करने वाली संस्था 'आर्य समाज' की स्थापना किसके द्वारा की गई थी?"
+      },
+      "options": {
+        "a": {"en": "Rammohun Roy", "hi": "राममोहन राय"},
+        "b": {"en": "Dayanand Saraswati", "hi": "दयानंद सरस्वती"},
+        "c": {"en": "Periyar", "hi": "पेरियार"},
+        "d": {"en": "Dr. B.R. Ambedkar", "hi": "डॉ. बी.आर. अंबेडकर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Swami Dayanand Saraswati founded the Arya Samaj in 1875 and supported widow remarriage.",
+        "hi": "स्वामी दयानंद सरस्वती ने 1875 में आर्य समाज की स्थापना की और विधवा पुनर्विवाह का समर्थन किया।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Who wrote the famous book 'Stripurushtulna', criticizing the social differences between men and women?",
+        "hi": "पुरुषों और महिलाओं के बीच सामाजिक अंतर की आलोचना करते हुए प्रसिद्ध पुस्तक 'स्त्रीपुरुषतुलना' किसने लिखी थी?"
+      },
+      "options": {
+        "a": {"en": "Pandita Ramabai", "hi": "पंडिता रमाबाई"},
+        "b": {"en": "Tarabai Shinde", "hi": "ताराबाई शिंदे"},
+        "c": {"en": "Begum Rokeya Sakhawat Hossain", "hi": "बेगम रोकेया सखावत हुसैन"},
+        "d": {"en": "Rashsundari Devi", "hi": "राससुंदरी देवी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Tarabai Shinde, educated at home in Poona, published this book to highlight the inequality women faced.",
+        "hi": "पूना में घर पर शिक्षित ताराबाई शिंदे ने महिलाओं द्वारा सामना की जाने वाली असमानता को उजागर करने के लिए यह पुस्तक प्रकाशित की।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Pandita Ramabai founded a widow's home at Poona to provide shelter to widows who were:",
+        "hi": "पंडिता रमाबाई ने पूना में एक विधवा गृह की स्थापना की ताकि उन विधवाओं को आश्रय मिल सके जो:"
+      },
+      "options": {
+        "a": {"en": "Rich", "hi": "अमीर थीं"},
+        "b": {"en": "Treated badly by their husband's relatives", "hi": "अपने पति के रिश्तेदारों द्वारा बुरी तरह प्रताड़ित थीं"},
+        "c": {"en": "Planning to go to London", "hi": "लंदन जाने की योजना बना रही थीं"},
+        "d": {"en": "Government officials", "hi": "सरकारी अधिकारी थीं"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "She was a great scholar of Sanskrit and felt that Hinduism was oppressive towards women.",
+        "hi": "वह संस्कृत की एक महान विद्वान थीं और उन्हें लगा कि हिंदू धर्म महिलाओं के प्रति दमनकारी था।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "The Child Marriage Restraint Act was passed in 1929. According to this act, what was the minimum age for marriage for men?",
+        "hi": "बाल विवाह निषेध अधिनियम 1929 में पारित किया गया था। इस अधिनियम के अनुसार, पुरुषों के लिए विवाह की न्यूनतम आयु क्या थी?"
+      },
+      "options": {
+        "a": {"en": "16", "hi": "16"},
+        "b": {"en": "18", "hi": "18"},
+        "c": {"en": "21", "hi": "21"},
+        "d": {"en": "25", "hi": "25"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Act set the minimum age at 18 for men and 16 for women (later increased to 21 and 18 respectively).",
+        "hi": "अधिनियम ने पुरुषों के लिए न्यूनतम आयु 18 और महिलाओं के लिए 16 वर्ष निर्धारित की थी।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Who founded the Satyashodhak Samaj to propagate caste equality?",
+        "hi": "जाति समानता का प्रचार करने के लिए सत्यशोधक समाज की स्थापना किसने की?"
+      },
+      "options": {
+        "a": {"en": "Sri Narayana Guru", "hi": "श्री नारायण गुरु"},
+        "b": {"en": "Jyotirao Phule", "hi": "ज्योतिराव फुले"},
+        "c": {"en": "Dr. B.R. Ambedkar", "hi": "डॉ. बी.आर. अंबेडकर"},
+        "d": {"en": "E.V. Ramaswamy Naicker", "hi": "ई.वी. रामास्वामी नायकर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Phule attacked the Brahmans' claim that they were superior to others because they were Aryans.",
+        "hi": "फुले ने ब्राह्मणों के इस दावे पर हमला किया कि वे दूसरों से श्रेष्ठ थे क्योंकि वे आर्य थे।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Jyotirao Phule dedicated his book 'Gulamgiri' to the people of which movement?",
+        "hi": "ज्योतिराव फुले ने अपनी पुस्तक 'गुलामगिरी' किस आंदोलन के लोगों को समर्पित की थी?"
+      },
+      "options": {
+        "a": {"en": "The Indian Freedom Struggle", "hi": "भारतीय स्वतंत्रता संग्राम"},
+        "b": {"en": "The American Civil War (to end slavery)", "hi": "अमेरिकी गृहयुद्ध (दासता समाप्त करने के लिए)"},
+        "c": {"en": "The French Revolution", "hi": "फ्रांसीसी क्रांति"},
+        "d": {"en": "The Russian Revolution", "hi": "रूसी क्रांति"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Phule linked the conditions of the 'lower' castes in India with the black slaves in America.",
+        "hi": "फुले ने भारत में 'निचली' जातियों की स्थिति को अमेरिका के अश्वेत दासों के साथ जोड़ा।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Which movement was started by E.V. Ramaswamy Naicker (Periyar) in South India?",
+        "hi": "दक्षिण भारत में ई.वी. रामास्वामी नायकर (पेरियार) द्वारा कौन सा आंदोलन शुरू किया गया था?"
+      },
+      "options": {
+        "a": {"en": "Self-Respect Movement", "hi": "आत्म-सम्मान आंदोलन"},
+        "b": {"en": "Temple Entry Movement", "hi": "मंदिर प्रवेश आंदोलन"},
+        "c": {"en": "Bhakti Movement", "hi": "भक्ति आंदोलन"},
+        "d": {"en": "Non-Cooperation Movement", "hi": "असहयोग आंदोलन"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Periyar believed that untouchables were the true upholders of an original Tamil and Dravidian culture.",
+        "hi": "पेरियार का मानना था कि अछूत ही मूल तमिल और द्रविड़ संस्कृति के सच्चे रक्षक थे।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Dr. B.R. Ambedkar started the Temple Entry Movement in which year?",
+        "hi": "डॉ. बी.आर. अंबेडकर ने मंदिर प्रवेश आंदोलन किस वर्ष शुरू किया था?"
+      },
+      "options": {
+        "a": {"en": "1910", "hi": "1910"},
+        "b": {"en": "1927", "hi": "1927"},
+        "c": {"en": "1947", "hi": "1947"},
+        "d": {"en": "1895", "hi": "1895"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Between 1927 and 1935, Ambedkar led three such movements to highlight the power of caste prejudice in society.",
+        "hi": "1927 और 1935 के बीच, अंबेडकर ने समाज में जातिगत पूर्वाग्रह की शक्ति को उजागर करने के लिए ऐसे तीन आंदोलनों का नेतृत्व किया।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "The Satnami movement in Central India was founded by Ghasidas, who belonged to a _______ community.",
+        "hi": "मध्य भारत में सतनामी आंदोलन की स्थापना घासीदास ने की थी, जो एक _______ समुदाय से थे।"
+      },
+      "options": {
+        "a": {"en": "Brahman", "hi": "ब्राह्मण"},
+        "b": {"en": "Leatherworker", "hi": "चमड़ा श्रमिक (चमार)"},
+        "c": {"en": "Kshatriya", "hi": "क्षत्रिय"},
+        "d": {"en": "Tribal", "hi": "आदिवासी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Ghasidas worked among leatherworkers and organized a movement to improve their social status.",
+        "hi": "घासीदास ने चमड़ा श्रमिकों के बीच काम किया और उनकी सामाजिक स्थिति में सुधार के लिए एक आंदोलन संगठित किया।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Who gave the famous slogan 'Oru Jati, Oru Matam, Oru Daivam Manushyanu' (One caste, one religion, one god for humankind)?",
+        "hi": "'ओरु जाति, ओरु मतम, ओरु दैवम मनुष्यानु' (मानवता के लिए एक जाति, एक धर्म, एक ईश्वर) का प्रसिद्ध नारा किसने दिया था?"
+      },
+      "options": {
+        "a": {"en": "Jyotirao Phule", "hi": "ज्योतिराव फुले"},
+        "b": {"en": "Sri Narayana Guru", "hi": "श्री नारायण गुरु"},
+        "c": {"en": "Mahatma Gandhi", "hi": "महात्मा गांधी"},
+        "d": {"en": "Ambedkar", "hi": "अंबेडकर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Sri Narayana Guru, from the Ezhava caste in Kerala, argued against treating people unequally on the basis of caste.",
+        "hi": "केरल के एझावा जाति के श्री नारायण गुरु ने जाति के आधार पर लोगों के साथ असमान व्यवहार करने के खिलाफ तर्क दिया।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "The Prarthana Samaj, established in 1867 in Bombay, focused on:",
+        "hi": "1867 में बॉम्बे में स्थापित प्रार्थना समाज ने किस पर ध्यान केंद्रित किया?"
+      },
+      "options": {
+        "a": {"en": "Promoting caste distinctions", "hi": "जातिगत भेदभाव को बढ़ावा देने पर"},
+        "b": {"en": "Removing caste restrictions and encouraging women's education", "hi": "जातिगत प्रतिबंधों को हटाने और महिला शिक्षा को प्रोत्साहित करने पर"},
+        "c": {"en": "Supporting Sati", "hi": "सती प्रथा का समर्थन करने पर"},
+        "d": {"en": "Rejecting all religions", "hi": "सभी धर्मों को नकारने पर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Prarthana Samaj sought to reform Hindu social customs while remaining within the tradition of Bhakti.",
+        "hi": "प्रार्थना समाज ने भक्ति की परंपरा के भीतर रहते हुए हिंदू सामाजिक रीति-रिवाजों में सुधार करने की मांग की।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "In the 19th century, Christian missionaries began setting up schools for _______ children.",
+        "hi": "19वीं शताब्दी में, ईसाई मिशनरियों ने _______ बच्चों के लिए स्कूल स्थापित करना शुरू किया।"
+      },
+      "options": {
+        "a": {"en": "British", "hi": "ब्रिटिश"},
+        "b": {"en": "Tribal and 'lower'-caste", "hi": "आदिवासी और 'निचली' जाति के"},
+        "c": {"en": "Royal", "hi": "राजसी"},
+        "d": {"en": "Foreign", "hi": "विदेशी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "These schools provided some tools for these children to navigate a changing world, though it angered many traditionalists.",
+        "hi": "इन स्कूलों ने इन बच्चों को बदलती दुनिया में आगे बढ़ने के लिए कुछ साधन प्रदान किए।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "Which organization was founded by Henry Louis Vivian Derozio?",
+        "hi": "हेनरी लुई विवियन डेरोजियो ने किस संस्था की स्थापना की थी?"
+      },
+      "options": {
+        "a": {"en": "Brahmo Samaj", "hi": "ब्रह्म समाज"},
+        "b": {"en": "Young Bengal Movement", "hi": "यंग बंगाल मूवमेंट"},
+        "c": {"en": "Ramakrishna Mission", "hi": "रामकृष्ण मिशन"},
+        "d": {"en": "Veda Samaj", "hi": "वेद समाज"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Derozio was a teacher at Hindu College, Calcutta, and encouraged his students to question all authority.",
+        "hi": "डेरोजियो कलकत्ता के हिंदू कॉलेज में एक शिक्षक थे, और उन्होंने अपने छात्रों को सभी सत्ता पर सवाल उठाने के लिए प्रोत्साहित किया।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "The Mohammedan Anglo-Oriental College, founded by Sayyid Ahmed Khan, later became which University?",
+        "hi": "सैयद अहमद खान द्वारा स्थापित मोहम्मद एंग्लो-ओरिएंटल कॉलेज बाद में कौन सा विश्वविद्यालय बना?"
+      },
+      "options": {
+        "a": {"en": "Delhi University", "hi": "दिल्ली विश्वविद्यालय"},
+        "b": {"en": "Aligarh Muslim University", "hi": "अलीगढ़ मुस्लिम विश्वविद्यालय"},
+        "c": {"en": "Jamia Millia Islamia", "hi": "जामिया मिलिया इस्लामिया"},
+        "d": {"en": "Osmania University", "hi": "उस्मानिया विश्वविद्यालय"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Established in 1875, it provided modern education, including Western science, to Muslims.",
+        "hi": "1875 में स्थापित, इसने मुसलमानों को पश्चिमी विज्ञान सहित आधुनिक शिक्षा प्रदान की।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "Who were the Madigas?",
+        "hi": "मादिगा (Madigas) कौन थे?"
+      },
+      "options": {
+        "a": {"en": "A priestly caste of Kerala", "hi": "केरल की एक पुजारी जाति"},
+        "b": {"en": "An untouchable caste of leatherworkers in present-day Andhra Pradesh", "hi": "वर्तमान आंध्र प्रदेश में चमड़ा श्रमिकों की एक अछूत जाति"},
+        "c": {"en": "Traders of Bengal", "hi": "बंगाल के व्यापारी"},
+        "d": {"en": "British officials", "hi": "ब्रिटिश अधिकारी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Madigas were expert at cleaning hides and tanning them for use.",
+        "hi": "मादिगा खालों को साफ करने और उपयोग के लिए उन्हें रंगने में विशेषज्ञ थे।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Rammohun Roy was particularly moved by the problems _______ faced in their lives.",
+        "hi": "राममोहन राय विशेष रूप से अपने जीवन में _______ द्वारा सामना की जाने वाली समस्याओं से दुखी थे।"
+      },
+      "options": {
+        "a": {"en": "Kings", "hi": "राजाओं"},
+        "b": {"en": "Women", "hi": "महिलाओं"},
+        "c": {"en": "British officers", "hi": "ब्रिटिश अधिकारियों"},
+        "d": {"en": "Landlords", "hi": "ज़मींदारों"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He campaigned against the practice of Sati and the restricted lives of widows.",
+        "hi": "उन्होंने सती प्रथा और विधवाओं के प्रतिबंधित जीवन के खिलाफ अभियान चलाया।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "Which reformer established schools for girls in Calcutta?",
+        "hi": "किस सुधारक ने कलकत्ता में लड़कियों के लिए स्कूल स्थापित किए?"
+      },
+      "options": {
+        "a": {"en": "Jyotirao Phule", "hi": "ज्योतिराव फुले"},
+        "b": {"en": "Ishwar Chandra Vidyasagar", "hi": "ईश्वर चंद्र विद्यासागर"},
+        "c": {"en": "Dayanand Saraswati", "hi": "दयानंद सरस्वती"},
+        "d": {"en": "Mumtaz Ali", "hi": "मुमताज अली"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Vidyasagar in Calcutta and many other reformers in Bombay set up schools for girls in the mid-19th century.",
+        "hi": "19वीं शताब्दी के मध्य में कलकत्ता में विद्यासागर और बॉम्बे में कई अन्य सुधारकों ने लड़कियों के लिए स्कूल स्थापित किए।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Why did many families fear sending their girls to the first schools set up in the 19th century?",
+        "hi": "19वीं शताब्दी में स्थापित पहले स्कूलों में कई परिवार अपनी लड़कियों को भेजने से क्यों डरते थे?"
+      },
+      "options": {
+        "a": {"en": "Schools were too far", "hi": "स्कूल बहुत दूर थे"},
+        "b": {"en": "Fear that schooling would take girls away from home and prevent them from doing domestic duties", "hi": "डर था कि स्कूली शिक्षा लड़कियों को घर से दूर ले जाएगी और उन्हें घरेलू कर्तव्यों को निभाने से रोकेगी"},
+        "c": {"en": "Fees were too high", "hi": "फीस बहुत अधिक थी"},
+        "d": {"en": "They wanted girls to work in factories", "hi": "वे चाहते थे कि लड़कियां कारखानों में काम करें"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Public spaces were seen as corrupting, so girls were often taught at home by liberal fathers or husbands.",
+        "hi": "सार्वजनिक स्थानों को भ्रष्ट माना जाता था, इसलिए लड़कियों को अक्सर उदार पिताओं या पतियों द्वारा घर पर ही पढ़ाया जाता था।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "In aristocratic Muslim families in North India, women learned to read the Koran in which language?",
+        "hi": "उत्तर भारत के कुलीन मुस्लिम परिवारों में, महिलाओं ने किस भाषा में कुरान पढ़ना सीखा?"
+      },
+      "options": {
+        "a": {"en": "English", "hi": "अंग्रेजी"},
+        "b": {"en": "Arabic", "hi": "अरबी"},
+        "c": {"en": "Bengali", "hi": "बंगाली"},
+        "d": {"en": "French", "hi": "फ्रांसीसी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Reformers like Mumtaz Ali reinterpreted verses from the Koran to argue for women's education.",
+        "hi": "मुमताज अली जैसे सुधारकों ने महिलाओं की शिक्षा के पक्ष में तर्क देने के लिए कुरान की आयतों की पुनर्व्याख्या की।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Begums of Bhopal founded a primary school for girls at which place?",
+        "hi": "भोपाल की बेगमों ने लड़कियों के लिए प्राथमिक विद्यालय की स्थापना किस स्थान पर की थी?"
+      },
+      "options": {
+        "a": {"en": "Aligarh", "hi": "अलीगढ़"},
+        "b": {"en": "Lucknow", "hi": "लखनऊ"},
+        "c": {"en": "Calcutta", "hi": "कलकत्ता"},
+        "d": {"en": "Delhi", "hi": "दिल्ली"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Begum Rokeya Sakhawat Hossain also started schools for Muslim girls in Patna and Calcutta.",
+        "hi": "बेगम रोकेया सखावत हुसैन ने भी पटना और कलकत्ता में मुस्लिम लड़कियों के लिए स्कूल शुरू किए।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "The Veda Samaj was established in Madras in 1864. It was inspired by the:",
+        "hi": "वेद समाज की स्थापना 1864 में मद्रास में हुई थी। यह किससे प्रेरित था?"
+      },
+      "options": {
+        "a": {"en": "Satyashodhak Samaj", "hi": "सत्यशोधक समाज"},
+        "b": {"en": "Brahmo Samaj", "hi": "ब्रह्म समाज"},
+        "c": {"en": "Arya Samaj", "hi": "आर्य समाज"},
+        "d": {"en": "Ramakrishna Mission", "hi": "रामकृष्ण मिशन"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Veda Samaj worked to abolish caste distinctions and promote widow remarriage and women's education.",
+        "hi": "वेद समाज ने जातिगत भेदभाव को समाप्त करने और विधवा पुनर्विवाह तथा महिला शिक्षा को बढ़ावा देने के लिए काम किया।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "Who founded the Singh Sabha movement to modernize Sikh education and remove superstitions?",
+        "hi": "सिख शिक्षा को आधुनिक बनाने और अंधविश्वासों को दूर करने के लिए सिंह सभा आंदोलन की स्थापना किसने की?"
+      },
+      "options": {
+        "a": {"en": "Mahatma Gandhi", "hi": "महात्मा गांधी"},
+        "b": {"en": "The Sikh leaders in Amritsar and Lahore", "hi": "अमृतसर और लाहौर के सिख नेता"},
+        "c": {"en": "British officials", "hi": "ब्रिटिश अधिकारी"},
+        "d": {"en": "Guru Nanak Dev", "hi": "गुरु नानक देव"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "First formed in Amritsar in 1873, it sought to promote Sikhism by bringing modern education to the community.",
+        "hi": "सबसे पहले 1873 में अमृतसर में गठित, इसने समुदाय में आधुनिक शिक्षा लाकर सिख धर्म को बढ़ावा देने की मांग की।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "In 1873, Jyotirao Phule wrote a book named 'Gulamgiri'. What does 'Gulamgiri' mean?",
+        "hi": "1873 में ज्योतिराव फुले ने 'गुलामगिरी' नाम की एक किताब लिखी थी। 'गुलामगिरी' का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Slavery", "hi": "गुलामी (Slavery)"},
+        "b": {"en": "Freedom", "hi": "स्वतंत्रता"},
+        "c": {"en": "Equality", "hi": "समानता"},
+        "d": {"en": "Knowledge", "hi": "ज्ञान"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The book was an attack on the caste system and its justifying ideologies.",
+        "hi": "यह पुस्तक जाति व्यवस्था और उसकी न्यायोचित विचारधाराओं पर एक प्रहार थी।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "The Ramakrishna Mission was named after Ramakrishna Paramhansa, who was the guru of:",
+        "hi": "रामकृष्ण मिशन का नाम रामकृष्ण परमहंस के नाम पर रखा गया था, जो किसके गुरु थे?"
+      },
+      "options": {
+        "a": {"en": "Rammohun Roy", "hi": "राममोहन राय"},
+        "b": {"en": "Swami Vivekananda", "hi": "स्वामी विवेकानंद"},
+        "c": {"en": "Dayanand Saraswati", "hi": "दयानंद सरस्वती"},
+        "d": {"en": "Annie Besant", "hi": "एनी बेसेंट"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Vivekananda established the mission to spread the message of selfless service and social action.",
+        "hi": "विवेकानंद ने निस्वार्थ सेवा और सामाजिक कार्यों के संदेश को फैलाने के लिए मिशन की स्थापना की।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Who were the untouchable caste that was often employed to clean army cantonments?",
+        "hi": "कौन सी अछूत जाति थी जिसे अक्सर सेना की छावनियों को साफ करने के लिए नियोजित किया जाता था?"
+      },
+      "options": {
+        "a": {"en": "Brahmans", "hi": "ब्राह्मण"},
+        "b": {"en": "Mahars", "hi": "महार"},
+        "c": {"en": "Gonds", "hi": "गोंड"},
+        "d": {"en": "Rajputs", "hi": "राजपूत"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "B.R. Ambedkar’s father taught at an army school and belonged to the Mahar caste.",
+        "hi": "बी.आर. अंबेडकर के पिता एक आर्मी स्कूल में पढ़ाते थे और महार जाति के थे।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "Which movement was against the Brahmanical claim of Aryan superiority?",
+        "hi": "कौन सा आंदोलन ब्राह्मणों के आर्य श्रेष्ठता के दावे के खिलाफ था?"
+      },
+      "options": {
+        "a": {"en": "Arya Samaj", "hi": "आर्य समाज"},
+        "b": {"en": "Satyashodhak Samaj", "hi": "सत्यशोधक समाज"},
+        "c": {"en": "Sanatan Dharma Sabha", "hi": "सनातन धर्म सभा"},
+        "d": {"en": "Theosophical Society", "hi": "थियोसोफिकल सोसाइटी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Phule argued that Aryans were outsiders who defeated the true children of the soil.",
+        "hi": "फुले ने तर्क दिया कि आर्य बाहरी थे जिन्होंने मिट्टी की सच्ची संतानों को हराया था।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "The Singh Sabha movement was primarily centered in:",
+        "hi": "सिंह सभा आंदोलन मुख्य रूप से कहाँ केंद्रित था?"
+      },
+      "options": {
+        "a": {"en": "Punjab", "hi": "पंजाब"},
+        "b": {"en": "Kerala", "hi": "केरल"},
+        "c": {"en": "Bengal", "hi": "बंगाल"},
+        "d": {"en": "Gujarat", "hi": "गुजरात"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "It worked for the reform of Sikhism and the spread of education in the Punjab region.",
+        "hi": "इसने सिख धर्म के सुधार और पंजाब क्षेत्र में शिक्षा के प्रसार के लिए काम किया।"
+      }
+    }
+  ]
+}
