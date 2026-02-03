@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 2,
+    "chapter_title": "From Trade to Territory: The Company Establishes Power",
+    "chapter_title_hindi": "व्यापार से साम्राज्य तक: कंपनी की सत्ता स्थापित होती है",
+    "subject": "History - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.1",
+    "naming_convention": "08_HI_CH02_TradeToTerritory_FullSet.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Which battle is considered the first major victory of the English East India Company in India?",
+        "hi": "भारत में इंग्लिश ईस्ट इंडिया कंपनी की पहली बड़ी जीत किस युद्ध को माना जाता है?"
+      },
+      "options": {
+        "a": {"en": "Battle of Buxar", "hi": "बक्सर का युद्ध"},
+        "b": {"en": "Battle of Plassey", "hi": "प्लासी का युद्ध"},
+        "c": {"en": "Battle of Seringapatam", "hi": "श्रीरंगपट्टनम का युद्ध"},
+        "d": {"en": "Third Battle of Panipat", "hi": "पानीपत का तीसरा युद्ध"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Battle of Plassey (1757) was the first major victory because it gave the Company its first foothold in Bengal through political manipulation.",
+        "hi": "1757 में प्लासी का युद्ध पहली बड़ी जीत थी क्योंकि इसने राजनीतिक हेरफेर के माध्यम से कंपनी को बंगाल में अपनी पहली पकड़ बनाने का मौका दिया।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Why were the English attracted to India in the 17th century?",
+        "hi": "17वीं शताब्दी में अंग्रेज भारत की ओर क्यों आकर्षित हुए?"
+      },
+      "options": {
+        "a": {"en": "For gold and silver mines", "hi": "सोने और चांदी की खदानों के लिए"},
+        "b": {"en": "To spread their religion", "hi": "अपने धर्म के प्रचार के लिए"},
+        "c": {"en": "For fine qualities of cotton, silk, and spices", "hi": "सूती, रेशम और मसालों की उत्तम गुणवत्ता के लिए"},
+        "d": {"en": "To seek refuge from European wars", "hi": "यूरोपीय युद्धों से शरण लेने के लिए"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Indian textiles (cotton and silk) and spices like pepper, cloves, cardamom, and cinnamon were in great demand in Europe.",
+        "hi": "भारतीय वस्त्रों (कपास और रेशम) और काली मिर्च, लौंग, इलायची और दालचीनी जैसे मसालों की यूरोप में भारी मांग थी।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Who led the Company's forces at the Battle of Buxar in 1764?",
+        "hi": "1764 में बक्सर के युद्ध में कंपनी की सेना का नेतृत्व किसने किया था?"
+      },
+      "options": {
+        "a": {"en": "Robert Clive", "hi": "रॉबर्ट क्लाइव"},
+        "b": {"en": "Hector Munro", "hi": "हेक्टर मुनरो"},
+        "c": {"en": "Warren Hastings", "hi": "वॉरेन हेस्टिंग्स"},
+        "d": {"en": "Lord Wellesley", "hi": "लॉर्ड वेलेजली"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "While Clive led Plassey, Hector Munro led the forces at Buxar against the combined forces of Mir Qasim, Shujauddaulah, and Shah Alam II.",
+        "hi": "जबकि क्लाइव ने प्लासी का नेतृत्व किया, हेक्टर मुनरो ने मीर कासिम, शुजाउद्दौला और शाह आलम द्वितीय की संयुक्त सेना के खिलाफ बक्सर में सेना का नेतृत्व किया।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What was the 'Farman' issued by Aurangzeb to the Company?",
+        "hi": "औरंगज़ेब द्वारा कंपनी को जारी किया गया 'फरमान' क्या था?"
+      },
+      "options": {
+        "a": {"en": "A right to build forts", "hi": "किले बनाने का अधिकार"},
+        "b": {"en": "A right to trade duty-free", "hi": "शुल्क मुक्त व्यापार करने का अधिकार"},
+        "c": {"en": "A right to collect land revenue", "hi": "भू-राजस्व वसूलने का अधिकार"},
+        "d": {"en": "A right to appoint kings", "hi": "राजाओं को नियुक्त करने का अधिकार"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Aurangzeb's farman granted the Company the right to trade without paying duties, but officials misused it for private trade.",
+        "hi": "औरंगज़ेब के फरमान ने कंपनी को शुल्क दिए बिना व्यापार करने का अधिकार दिया, लेकिन अधिकारियों ने निजी व्यापार के लिए इसका दुरुपयोग किया।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "The Battle of Seringapatam (1799) was the final battle against which ruler?",
+        "hi": "1799 में श्रीरंगपट्टनम का युद्ध किस शासक के विरुद्ध अंतिम युद्ध था?"
+      },
+      "options": {
+        "a": {"en": "Haider Ali", "hi": "हैदर अली"},
+        "b": {"en": "Tipu Sultan", "hi": "टीपू सुल्तान"},
+        "c": {"en": "Murshid Quli Khan", "hi": "मुर्शिद कुली खान"},
+        "d": {"en": "Mahadji Sindhia", "hi": "महादजी सिंधिया"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Tipu Sultan was killed defending his capital Seringapatam in 1799, ending the resistance of Mysore.",
+        "hi": "टीपू सुल्तान 1799 में अपनी राजधानी श्रीरंगपट्टनम की रक्षा करते हुए मारे गए थे, जिससे मैसूर का प्रतिरोध समाप्त हो गया।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Which state was NOT annexed using the Doctrine of Lapse?",
+        "hi": "विलय नीति (Doctrine of Lapse) का उपयोग करके किस राज्य का विलय नहीं किया गया था?"
+      },
+      "options": {
+        "a": {"en": "Satara", "hi": "सतारा"},
+        "b": {"en": "Jhansi", "hi": "झांसी"},
+        "c": {"en": "Mysore", "hi": "मैसूर"},
+        "d": {"en": "Nagpur", "hi": "नागपुर"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Mysore was brought under control through wars and the Subsidiary Alliance, not the Doctrine of Lapse.",
+        "hi": "मैसूर को युद्धों और सहायक संधि के माध्यम से नियंत्रित किया गया था, न कि विलय नीति के माध्यम से।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Who were the 'Resident' appointed by the Company in Indian states?",
+        "hi": "भारतीय राज्यों में कंपनी द्वारा नियुक्त 'रेजिडेंट' कौन थे?"
+      },
+      "options": {
+        "a": {"en": "Military commanders", "hi": "सैन्य कमांडर"},
+        "b": {"en": "Political or commercial agents", "hi": "राजनीतिक या व्यावसायिक एजेंट"},
+        "c": {"en": "Religious advisors", "hi": "धार्मिक सलाहकार"},
+        "d": {"en": "Tax collectors", "hi": "कर संग्रहकर्ता"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Residents were agents whose job was to serve and further the interests of the Company in Indian courts.",
+        "hi": "रेजिडेंट वे एजेंट थे जिनका काम भारतीय दरबारों में कंपनी के हितों की रक्षा करना और उन्हें आगे बढ़ाना था।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "In the Subsidiary Alliance, what happened if an Indian ruler failed to make payments for the British forces?",
+        "hi": "सहायक संधि में, यदि कोई भारतीय शासक ब्रिटिश सेना के लिए भुगतान करने में विफल रहता था तो क्या होता था?"
+      },
+      "options": {
+        "a": {"en": "The ruler was jailed", "hi": "शासक को जेल भेज दिया जाता था"},
+        "b": {"en": "The Company withdrew its forces", "hi": "कंपनी अपनी सेना हटा लेती थी"},
+        "c": {"en": "Part of their territory was taken away as a penalty", "hi": "जुर्माने के रूप में उनके क्षेत्र का एक हिस्सा छीन लिया जाता था"},
+        "d": {"en": "The ruler had to pay double next time", "hi": "शासक को अगली बार दोगुना भुगतान करना पड़ता था"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "For example, Awadh and Hyderabad were forced to cede territories when they failed to pay for the 'subsidiary forces'.",
+        "hi": "उदाहरण के लिए, अवध और हैदराबाद को अपने क्षेत्र छोड़ने के लिए मजबूर किया गया जब वे 'सहायक सेना' के लिए भुगतान करने में विफल रहे।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "The first English factory in Bengal was set up in which year?",
+        "hi": "बंगाल में पहली अंग्रेजी फैक्ट्री किस वर्ष स्थापित की गई थी?"
+      },
+      "options": {
+        "a": {"en": "1600", "hi": "1600"},
+        "b": {"en": "1651", "hi": "1651"},
+        "c": {"en": "1757", "hi": "1757"},
+        "d": {"en": "1696", "hi": "1696"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The first factory was established on the banks of the River Hugli in 1651.",
+        "hi": "पहली फैक्ट्री 1651 में हुगली नदी के किनारे स्थापित की गई थी।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Who were the competitors of the English East India Company in the Indian market?",
+        "hi": "भारतीय बाजार में इंग्लिश ईस्ट इंडिया कंपनी के प्रतिस्पर्धी कौन थे?"
+      },
+      "options": {
+        "a": {"en": "Portuguese and Dutch", "hi": "पुर्तगाली और डच"},
+        "b": {"en": "French", "hi": "फ्रांसीसी"},
+        "c": {"en": "Both a and b", "hi": "ए और बी दोनों"},
+        "d": {"en": "Mughals", "hi": "मुगल"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "All European companies were interested in buying the same things (silk, cotton, spices), leading to fierce competition.",
+        "hi": "सभी यूरोपीय कंपनियां एक ही चीजें (रेशम, कपास, मसाले) खरीदने में रुचि रखती थीं, जिससे भयंकर प्रतिस्पर्धा पैदा हुई।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "What was the result of the Third Anglo-Maratha War?",
+        "hi": "तीसरे आंग्ल-मराठा युद्ध का क्या परिणाम हुआ?"
+      },
+      "options": {
+        "a": {"en": "Maratha victory", "hi": "मराठों की जीत"},
+        "b": {"en": "Establishment of Maratha rule in Delhi", "hi": "दिल्ली में मराठा शासन की स्थापना"},
+        "c": {"en": "The crushing of Maratha power and removal of the Peshwa", "hi": "मराठा शक्ति का कुचलना और पेशवा को हटाया जाना"},
+        "d": {"en": "A peace treaty with no changes", "hi": "बिना किसी बदलाव के शांति संधि"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "The Peshwa was removed and sent to Bithur near Kanpur with a pension, and the Company took control of Maratha territories.",
+        "hi": "पेशवा को हटा दिया गया और पेंशन के साथ कानपुर के पास बिठूर भेज दिया गया, और कंपनी ने मराठा क्षेत्रों पर नियंत्रण कर लिया।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "Under the 'Claim to Paramountcy', the Company argued that:",
+        "hi": "'सर्वोच्चता के दावे' (Claim to Paramountcy) के तहत, कंपनी ने तर्क दिया कि:"
+      },
+      "options": {
+        "a": {"en": "It followed Mughal laws", "hi": "यह मुगल कानूनों का पालन करती थी"},
+        "b": {"en": "Its power was supreme and above Indian states", "hi": "इसकी शक्ति सर्वोच्च थी और भारतीय राज्यों से ऊपर थी"},
+        "c": {"en": "It was only a trading body", "hi": "यह केवल एक व्यापारिक संस्था थी"},
+        "d": {"en": "The British Queen was the ruler of Delhi", "hi": "ब्रिटिश रानी दिल्ली की शासक थी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The policy claimed that the Company's authority was paramount, justifying the annexation of any Indian kingdom.",
+        "hi": "नीति ने दावा किया कि कंपनी का अधिकार सर्वोपरि था, जिससे किसी भी भारतीय राज्य के विलय को उचित ठहराया गया।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Who defended Kitoor against British annexation under the policy of Paramountcy?",
+        "hi": "सर्वोच्चता की नीति के तहत ब्रिटिश विलय के खिलाफ कित्तूर की रक्षा किसने की?"
+      },
+      "options": {
+        "a": {"en": "Rani Lakshmibai", "hi": "रानी लक्ष्मीबाई"},
+        "b": {"en": "Begum Hazrat Mahal", "hi": "बेगम हजरत महल"},
+        "c": {"en": "Rani Channamma", "hi": "रानी चेन्नम्मा"},
+        "d": {"en": "Nana Sahib", "hi": "नाना साहिब"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Rani Channamma led an armed resistance movement against the British when they tried to annex Kitoor (in modern Karnataka).",
+        "hi": "जब अंग्रेजों ने कित्तूर (आधुनिक कर्नाटक में) को हड़पने की कोशिश की, तो रानी चेन्नम्मा ने उनके खिलाफ सशस्त्र प्रतिरोध आंदोलन का नेतृत्व किया।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What did the term 'Mercantile' signify for companies like the East India Company?",
+        "hi": "ईस्ट इंडिया कंपनी जैसी कंपनियों के लिए 'मर्केंटाइल' (Mercantile) शब्द का क्या अर्थ था?"
+      },
+      "options": {
+        "a": {"en": "A charity organization", "hi": "एक धर्मार्थ संगठन"},
+        "b": {"en": "A business enterprise focused on profit through trade", "hi": "एक व्यावसायिक उद्यम जो व्यापार के माध्यम से लाभ पर केंद्रित था"},
+        "c": {"en": "A religious group", "hi": "एक धार्मिक समूह"},
+        "d": {"en": "A government department", "hi": "एक सरकारी विभाग"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Mercantile companies made profit primarily by excluding competition and buying cheap to sell dear.",
+        "hi": "मर्केंटाइल कंपनियों ने मुख्य रूप से प्रतिस्पर्धा को बाहर करके और सस्ता खरीदकर महंगा बेचकर लाभ कमाया।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "How did the Company's army differ from the traditional Mughal army?",
+        "hi": "कंपनी की सेना पारंपरिक मुगल सेना से किस प्रकार भिन्न थी?"
+      },
+      "options": {
+        "a": {"en": "It relied only on cavalry (sawars)", "hi": "यह केवल घुड़सवारों (सवारों) पर निर्भर थी"},
+        "b": {"en": "It was a disciplined professional force of infantry (sepoy)", "hi": "यह पैदल सेना (सिपाही) की एक अनुशासित पेशेवर टुकड़ी थी"},
+        "c": {"en": "It did not use modern weapons", "hi": "इसने आधुनिक हथियारों का उपयोग नहीं किया"},
+        "d": {"en": "It was made of volunteers only", "hi": "यह केवल स्वयंसेवकों से बनी थी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Company recruited peasants and trained them as professional soldiers (sepoy army) using muskets and matchlocks.",
+        "hi": "कंपनी ने किसानों की भर्ती की और उन्हें मस्केट और मैचलॉक का उपयोग करने वाले पेशेवर सैनिकों (सिपाही सेना) के रूप में प्रशिक्षित किया।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "Which year did Robert Clive commit suicide?",
+        "hi": "रॉबर्ट क्लाइव ने किस वर्ष आत्महत्या की?"
+      },
+      "options": {
+        "a": {"en": "1757", "hi": "1757"},
+        "b": {"en": "1764", "hi": "1764"},
+        "c": {"en": "1774", "hi": "1774"},
+        "d": {"en": "1785", "hi": "1785"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Although acquitted of corruption charges, Robert Clive committed suicide in 1774.",
+        "hi": "भ्रष्टाचार के आरोपों से बरी होने के बावजूद, रॉबर्ट क्लाइव ने 1774 में आत्महत्या कर ली थी।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "The European companies fought sea battles and sank each other's ships mainly to:",
+        "hi": "यूरोपीय कंपनियों ने समुद्री लड़ाई लड़ी और एक-दूसरे के जहाजों को मुख्य रूप से इसलिए डुबोया ताकि:"
+      },
+      "options": {
+        "a": {"en": "Show off military power", "hi": "सैन्य शक्ति का प्रदर्शन करने के लिए"},
+        "b": {"en": "Secure their trade routes and eliminate competitors", "hi": "अपने व्यापारिक मार्गों को सुरक्षित करने और प्रतिस्पर्धियों को खत्म करने के लिए"},
+        "c": {"en": "Collect taxes from the sea", "hi": "समुद्र से कर वसूलने के लिए"},
+        "d": {"en": "Practice for European wars", "hi": "यूरोपीय युद्धों के लिए अभ्यास करने के लिए"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Trade was carried on with arms and trading posts were protected through fortification, leading to conflict between companies.",
+        "hi": "व्यापार हथियारों के साथ किया जाता था और व्यापारिक चौकियों को किलेबंदी के माध्यम से सुरक्षित किया जाता था, जिससे कंपनियों के बीच संघर्ष हुआ।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "Who was the 'Mufti' in the colonial judicial system?",
+        "hi": "औपनिवेशिक न्याय प्रणाली में 'मुफ्ती' कौन था?"
+      },
+      "options": {
+        "a": {"en": "A judge", "hi": "एक न्यायाधीश"},
+        "b": {"en": "A police officer", "hi": "एक पुलिस अधिकारी"},
+        "c": {"en": "A jurist of the Muslim community responsible for expounding the law", "hi": "मुस्लिम समुदाय का एक न्यायविद् जो कानून की व्याख्या करने के लिए जिम्मेदार था"},
+        "d": {"en": "A tax collector", "hi": "एक कर संग्रहकर्ता"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "In the criminal courts, the Qazi and Mufti expounded the law, which the Qazi then administered under the supervision of the Collector.",
+        "hi": "फौजदारी अदालतों में, काजी और मुफ्ती कानून की व्याख्या करते थे, जिसे काजी फिर कलेक्टर की देखरेख में लागू करता था।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "The Battle of Wandiwash (1760) was fought between:",
+        "hi": "वांडीवाश का युद्ध (1760) किनके बीच लड़ा गया था?"
+      },
+      "options": {
+        "a": {"en": "English and Portuguese", "hi": "अंग्रेज और पुर्तगाली"},
+        "b": {"en": "English and French", "hi": "अंग्रेज और फ्रांसीसी"},
+        "c": {"en": "English and Marathas", "hi": "अंग्रेज और मराठा"},
+        "d": {"en": "English and Tipu Sultan", "hi": "अंग्रेज और टीपू सुल्तान"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Battle of Wandiwash was a decisive battle in the Carnatic Wars where the British defeated the French in India.",
+        "hi": "वांडीवाश का युद्ध कर्नाटक युद्धों में एक निर्णायक युद्ध था जहाँ अंग्रेजों ने भारत में फ्रांसीसियों को हराया था।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "After the death of Alivardi Khan, the Company wanted a 'Puppet' ruler in Bengal because:",
+        "hi": "अलीवर्दी खान की मृत्यु के बाद, कंपनी बंगाल में एक 'कठपुतली' (Puppet) शासक चाहती थी क्योंकि:"
+      },
+      "options": {
+        "a": {"en": "They liked puppets", "hi": "उन्हें कठपुतलियां पसंद थीं"},
+        "b": {"en": "A puppet ruler would willingly give trade concessions and privileges", "hi": "एक कठपुतली शासक स्वेच्छा से व्यापारिक रियायतें और विशेषाधिकार देगा"},
+        "c": {"en": "They did not want to rule directly", "hi": "वे सीधे शासन नहीं करना चाहते थे"},
+        "d": {"en": "Both b and c", "hi": "बी और सी दोनों"}
+      },
+      "correct_option": "d",
+      "explanation": {
+        "en": "At first, the Company was not interested in taking over administration; they only wanted trade benefits through a submissive ruler.",
+        "hi": "शुरुआत में, कंपनी प्रशासन संभालने में दिलचस्पी नहीं रखती थी; वे केवल एक आज्ञाकारी शासक के माध्यम से व्यापारिक लाभ चाहते थे।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Which Maratha chief fought in the Third Battle of Panipat?",
+        "hi": "पानीपत के तीसरे युद्ध में किस मराठा प्रमुख ने लड़ाई लड़ी?"
+      },
+      "options": {
+        "a": {"en": "Sadashivrao Bhau", "hi": "सदाशिवराव भाऊ"},
+        "b": {"en": "Nana Phadnis", "hi": "नाना फड़नवीस"},
+        "c": {"en": "Mahadji Sindhia", "hi": "महादजी सिंधिया"},
+        "d": {"en": "Baji Rao II", "hi": "बाजीराव द्वितीय"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "While the chapter focuses on the Anglo-Maratha wars, the Maratha defeat in the Third Battle of Panipat (1761) shattered their dream of ruling from Delhi.",
+        "hi": "जबकि अध्याय आंग्ल-मराठा युद्धों पर केंद्रित है, पानीपत के तीसरे युद्ध (1761) में मराठा हार ने दिल्ली से शासन करने के उनके सपने को चकनाचूर कर दिया।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Matchlocks were:",
+        "hi": "मैचलोक (Matchlocks) क्या थे?"
+      },
+      "options": {
+        "a": {"en": "Type of locks for forts", "hi": "किलों के लिए ताले का प्रकार"},
+        "b": {"en": "Early type of gun ignited by a match", "hi": "एक माचिस से सुलगने वाली पुरानी प्रकार की बंदूक"},
+        "c": {"en": "Cavalry equipment", "hi": "घुड़सवार सेना के उपकरण"},
+        "d": {"en": "Musical instruments", "hi": "वाद्य यंत्र"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Infantry soldiers in the 18th century were equipped with muskets and matchlocks.",
+        "hi": "18वीं शताब्दी में पैदल सैनिकों को मस्केट और मैचलोक से लैस किया गया था।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "The term 'Impeachment' in British history refers to:",
+        "hi": "ब्रिटिश इतिहास में 'महाभियोग' (Impeachment) शब्द का अर्थ है:"
+      },
+      "options": {
+        "a": {"en": "Crowning a new king", "hi": "नये राजा का राज्याभिषेक"},
+        "b": {"en": "A trial by the House of Lords for a person accused of misconduct in the House of Commons", "hi": "हाउस ऑफ कॉमन्स में कदाचार के आरोपी व्यक्ति के लिए हाउस ऑफ लॉर्ड्स द्वारा मुकदमा"},
+        "c": {"en": "Dismissing a soldier", "hi": "एक सैनिक को बर्खास्त करना"},
+        "d": {"en": "Signing a trade treaty", "hi": "व्यापार संधि पर हस्ताक्षर करना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Warren Hastings faced an impeachment trial in England for his actions in India.",
+        "hi": "वॉरेन हेस्टिंग्स को भारत में उनके कार्यों के लिए इंग्लैंड में महाभियोग के मुकदमे का सामना करना पड़ा।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "In 1782, the Treaty of Salbai was signed between the British and:",
+        "hi": "1782 में, अंग्रेजों और किसके बीच सालबाई की संधि पर हस्ताक्षर किए गए थे?"
+      },
+      "options": {
+        "a": {"en": "Marathas", "hi": "मराठा"},
+        "b": {"en": "Mysore", "hi": "मैसूर"},
+        "c": {"en": "Nizam of Hyderabad", "hi": "हैदराबाद के निजाम"},
+        "d": {"en": "Sikhs", "hi": "सिख"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The Treaty of Salbai ended the First Anglo-Maratha War with no clear victor.",
+        "hi": "सालबाई की संधि ने बिना किसी स्पष्ट विजेता के प्रथम आंग्ल-मराठा युद्ध को समाप्त कर दिया।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "Who were the 'Collector' expected to be in the British administrative setup?",
+        "hi": "ब्रिटिश प्रशासनिक व्यवस्था में 'कलेक्टर' से क्या बनने की अपेक्षा की जाती थी?"
+      },
+      "options": {
+        "a": {"en": "A new center of power and patronage", "hi": "सत्ता और संरक्षण का एक नया केंद्र"},
+        "b": {"en": "A simple record keeper", "hi": "एक साधारण रिकॉर्ड रखने वाला"},
+        "c": {"en": "A military general", "hi": "एक सैन्य जनरल"},
+        "d": {"en": "A translator", "hi": "एक अनुवादक"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The Collectorate became the new powerhouse, gradually replacing previous holders of authority.",
+        "hi": "कलेक्ट्रेट नया पावरहाउस बन गया, जिसने धीरे-धीरे पिछले सत्ताधारियों की जगह ले ली।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "The British interest in Afghanistan in the 1830s was driven by a fear of:",
+        "hi": "1830 के दशक में अफगानिस्तान में ब्रिटिश रुचि किसके डर से प्रेरित थी?"
+      },
+      "options": {
+        "a": {"en": "France", "hi": "फ्रांस"},
+        "b": {"en": "Russia", "hi": "रूस"},
+        "c": {"en": "China", "hi": "चीन"},
+        "d": {"en": "The USA", "hi": "अमेरिका"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The British feared that Russia might expand across Asia and enter India from the North-West.",
+        "hi": "अंग्रेजों को डर था कि रूस पूरे एशिया में विस्तार कर सकता है और उत्तर-पश्चिम से भारत में प्रवेश कर सकता है।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "The 'Tiger of Mysore' used which symbol on his flags?",
+        "hi": "'मैसूर के टाइगर' ने अपने झंडों पर किस प्रतीक का उपयोग किया?"
+      },
+      "options": {
+        "a": {"en": "Eagle", "hi": "ईगल"},
+        "b": {"en": "Lion", "hi": "शेर"},
+        "c": {"en": "Tiger", "hi": "बाघ (Tiger)"},
+        "d": {"en": "Sun", "hi": "सूरज"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Tipu Sultan's image was closely linked to the tiger, and he had a mechanical tiger toy that roared and 'mauled' a European soldier.",
+        "hi": "टीपू सुल्तान की छवि बाघ से गहराई से जुड़ी हुई थी, और उनके पास एक यांत्रिक बाघ का खिलौना था जो दहाड़ता था और एक यूरोपीय सैनिक को 'घायल' करता था।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "After Buxar, the Company decided that it should no longer be a 'trader' but should become 'Nawab' itself. Who said, 'We must indeed become Nabobs ourselves'?",
+        "hi": "बक्सर के बाद, कंपनी ने फैसला किया कि उसे अब 'व्यापारी' नहीं रहना चाहिए बल्कि खुद 'नवाब' बनना चाहिए। किसने कहा था, 'हमें वास्तव में खुद नवाब बनना चाहिए'?"
+      },
+      "options": {
+        "a": {"en": "Robert Clive", "hi": "रॉबर्ट क्लाइव"},
+        "b": {"en": "Warren Hastings", "hi": "वॉरेन हेस्टिंग्स"},
+        "c": {"en": "Lord Wellesley", "hi": "लॉर्ड वेलेजली"},
+        "d": {"en": "Queen Elizabeth", "hi": "महारानी एलिजाबेथ"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Robert Clive wrote this to the Company's directors after realizing the limitations of puppet Nawabs.",
+        "hi": "कठपुतली नवाबों की सीमाओं को महसूस करने के बाद रॉबर्ट क्लाइव ने कंपनी के निदेशकों को यह लिखा था।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "What was the main reason for the conflict between the Nawabs of Bengal and the Company?",
+        "hi": "बंगाल के नवाबों और कंपनी के बीच संघर्ष का मुख्य कारण क्या था?"
+      },
+      "options": {
+        "a": {"en": "The Company refused to pay taxes", "hi": "कंपनी ने कर देने से इनकार कर दिया"},
+        "b": {"en": "The Company was extending its fortifications without permission", "hi": "कंपनी बिना अनुमति के अपनी किलेबंदी बढ़ा रही थी"},
+        "c": {"en": "The Company was disrespectful to the Nawab's authority", "hi": "कंपनी नवाब के अधिकार के प्रति अपमानजनक थी"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "explanation": {
+        "en": "Murshid Quli Khan and his successors found the Company's activities increasingly threatening to their sovereignty and revenue.",
+        "hi": "मुर्शिद कुली खान और उनके उत्तराधिकारियों ने कंपनी की गतिविधियों को अपनी संप्रभुता और राजस्व के लिए तेजी से खतरनाक पाया।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "The Regulating Act of 1773 established which judicial body in Calcutta?",
+        "hi": "1773 के रेगुलेटिंग एक्ट ने कलकत्ता में किस न्यायिक निकाय की स्थापना की?"
+      },
+      "options": {
+        "a": {"en": "High Court", "hi": "उच्च न्यायालय"},
+        "b": {"en": "Supreme Court", "hi": "सर्वोच्च न्यायालय"},
+        "c": {"en": "District Court", "hi": "जिला न्यायालय"},
+        "d": {"en": "Privy Council", "hi": "प्रिवी काउंसिल"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Under the Regulating Act of 1773, a new Supreme Court was established, along with a court of appeal—the Sadar Nizamat Adalat.",
+        "hi": "1773 के रेगुलेटिंग एक्ट के तहत, एक नया सर्वोच्च न्यायालय स्थापित किया गया था, साथ ही एक अपील की अदालत—सदर निजामत अदालत भी स्थापित की गई थी।"
+      }
+    }
+  ]
+}
