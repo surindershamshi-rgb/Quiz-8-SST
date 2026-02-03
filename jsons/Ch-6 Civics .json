@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 6,
+    "chapter_title": "Understanding Our Criminal Justice System",
+    "chapter_title_hindi": "हमारी आपराधिक न्याय प्रणाली",
+    "subject": "Civics - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_CIV_CH06_CriminalJustice_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Who are the four key players in the criminal justice system?",
+        "hi": "आपराधिक न्याय प्रणाली में चार प्रमुख पात्र कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "Police, Lawyer, Victim, Witness", "hi": "पुलिस, वकील, पीड़ित, गवाह"},
+        "b": {"en": "Police, Public Prosecutor, Defense Lawyer, Judge", "hi": "पुलिस, सरकारी वकील, बचाव पक्ष का वकील, न्यायाधीश"},
+        "c": {"en": "Judge, Jury, Police, Army", "hi": "न्यायाधीश, जूरी, पुलिस, सेना"},
+        "d": {"en": "Prime Minister, Police, Judge, Jailer", "hi": "प्रधानमंत्री, पुलिस, न्यायाधीश, जेलर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "These four roles are essential for the functioning of a trial in a democratic legal system.",
+        "hi": "लोकतांत्रिक कानूनी प्रणाली में सुनवाई के संचालन के लिए ये चार भूमिकाएँ अनिवार्य हैं।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "The role of the police is to _______.",
+        "hi": "पुलिस की भूमिका _______ है।"
+      },
+      "options": {
+        "a": {"en": "Investigate a crime and record statements", "hi": "अपराध की जाँच करना और बयान दर्ज करना"},
+        "b": {"en": "Decide if a person is guilty", "hi": "तय करना कि क्या कोई व्यक्ति दोषी है"},
+        "c": {"en": "Punish the criminal", "hi": "अपराधी को सजा देना"},
+        "d": {"en": "Set the accused free", "hi": "आरोपी को आजाद करना"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Police investigation includes recording statements of witnesses and collecting different kinds of evidence.",
+        "hi": "पुलिस जाँच में गवाहों के बयान दर्ज करना और विभिन्न प्रकार के साक्ष्य एकत्र करना शामिल है।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "What is the full form of FIR?",
+        "hi": "FIR का पूर्ण रूप क्या है?"
+      },
+      "options": {
+        "a": {"en": "First Information Report", "hi": "प्रथम सूचना रिपोर्ट (First Information Report)"},
+        "b": {"en": "Formal Investigation Report", "hi": "फॉर्मल इन्वेस्टिगेशन रिपोर्ट"},
+        "c": {"en": "Fast Investigation Record", "hi": "फास्ट इन्वेस्टिगेशन रिकॉर्ड"},
+        "d": {"en": "First Internal Report", "hi": "फर्स्ट इंटरनल रिपोर्ट"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The FIR is the first document that sets the process of criminal justice in motion.",
+        "hi": "FIR वह पहला दस्तावेज है जो आपराधिक न्याय की प्रक्रिया को गति प्रदान करता है।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Is it the job of the police to decide whether a person is guilty or innocent?",
+        "hi": "क्या यह तय करना पुलिस का काम है कि कोई व्यक्ति दोषी है या निर्दोष?"
+      },
+      "options": {
+        "a": {"en": "Yes, they have the power", "hi": "हाँ, उनके पास शक्ति है"},
+        "b": {"en": "No, that is decided by the Judge", "hi": "नहीं, यह न्यायाधीश द्वारा तय किया जाता है"},
+        "c": {"en": "Only in small crimes", "hi": "केवल छोटे अपराधों में"},
+        "d": {"en": "Only if the person confesses", "hi": "केवल तभी जब व्यक्ति अपना जुर्म कबूल कर ले"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The police only present their findings to the court; the final decision rests with the Judge.",
+        "hi": "पुलिस केवल अपने निष्कर्ष अदालत में पेश करती है; अंतिम निर्णय न्यायाधीश के पास होता है।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "According to Article 22 of the Constitution, every arrested person has the right to be presented before a magistrate within _______ hours.",
+        "hi": "संविधान के अनुच्छेद 22 के अनुसार, प्रत्येक गिरफ्तार व्यक्ति को कितने घंटों के भीतर मजिस्ट्रेट के सामने पेश करने का अधिकार है?"
+      },
+      "options": {
+        "a": {"en": "12 hours", "hi": "12 घंटे"},
+        "b": {"en": "24 hours", "hi": "24 घंटे"},
+        "c": {"en": "48 hours", "hi": "48 घंटे"},
+        "d": {"en": "One week", "hi": "एक हफ्ता"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "This is a fundamental right to prevent illegal detention by the police.",
+        "hi": "पुलिस द्वारा अवैध हिरासत को रोकने के लिए यह एक मौलिक अधिकार है।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "The D.K. Basu guidelines laid down by the Supreme Court are related to _______.",
+        "hi": "सुप्रीम कोर्ट द्वारा निर्धारित डी.के. बसु दिशानिर्देश किससे संबंधित हैं?"
+      },
+      "options": {
+        "a": {"en": "Admission in schools", "hi": "स्कूलों में प्रवेश"},
+        "b": {"en": "Arrest, detention, and interrogation", "hi": "गिरफ्तारी, हिरासत और पूछताछ"},
+        "c": {"en": "Road safety", "hi": "सड़क सुरक्षा"},
+        "d": {"en": "Environmental protection", "hi": "पर्यावरण संरक्षण"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "These guidelines must be followed by the police and other agencies for the arrest and interrogation of any person.",
+        "hi": "इन दिशानिर्देशों का पालन पुलिस और अन्य एजेंसियों द्वारा किसी भी व्यक्ति की गिरफ्तारी और पूछताछ के लिए किया जाना चाहिए।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Confessions made in police custody _______.",
+        "hi": "पुलिस हिरासत में दिए गए इकबालिया बयान (confessions) _______।"
+      },
+      "options": {
+        "a": {"en": "Can be used as evidence against the accused", "hi": "आरोपी के खिलाफ सबूत के रूप में इस्तेमाल किए जा सकते हैं"},
+        "b": {"en": "Cannot be used as evidence in court", "hi": "अदालत में सबूत के रूप में इस्तेमाल नहीं किए जा सकते"},
+        "c": {"en": "Are enough to send someone to jail", "hi": "किसी को जेल भेजने के लिए काफी हैं"},
+        "d": {"en": "Must be written in English", "hi": "अंग्रेजी में लिखे होने चाहिए"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "To prevent torture for forced confessions, the law does not accept custody statements as evidence.",
+        "hi": "जबरन कबूलनामे के लिए प्रताड़ना को रोकने के लिए, कानून हिरासत में दिए गए बयानों को सबूत के रूप में स्वीकार नहीं करता है।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "A boy under _______ years of age cannot be called to the police station only for questioning.",
+        "hi": "_______ वर्ष से कम आयु के लड़के को केवल पूछताछ के लिए पुलिस स्टेशन नहीं बुलाया जा सकता।"
+      },
+      "options": {
+        "a": {"en": "10", "hi": "10"},
+        "b": {"en": "15", "hi": "15"},
+        "c": {"en": "18", "hi": "18"},
+        "d": {"en": "21", "hi": "21"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The law protects children and women from being summoned to police stations unnecessarily.",
+        "hi": "कानून बच्चों और महिलाओं को अनावश्यक रूप से पुलिस स्टेशन बुलाए जाने से बचाता है।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "The Public Prosecutor represents the interests of _______.",
+        "hi": "सरकारी वकील (Public Prosecutor) किसके हितों का प्रतिनिधित्व करता है?"
+      },
+      "options": {
+        "a": {"en": "The Accused", "hi": "आरोपी के"},
+        "b": {"en": "The State/People", "hi": "राज्य/जनता के"},
+        "c": {"en": "The Judge", "hi": "न्यायाधीश के"},
+        "d": {"en": "The Police", "hi": "पुलिस के"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "A criminal offense is regarded as a public wrong against the society as a whole.",
+        "hi": "आपराधिक अपराध को समग्र रूप से समाज के विरुद्ध एक सार्वजनिक गलती माना जाता है।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "What is the role of a Defense Lawyer?",
+        "hi": "बचाव पक्ष के वकील की क्या भूमिका है?"
+      },
+      "options": {
+        "a": {"en": "To prove the accused is guilty", "hi": "आरोपी को दोषी साबित करना"},
+        "b": {"en": "To present the case on behalf of the accused", "hi": "आरोपी की ओर से मामला पेश करना"},
+        "c": {"en": "To arrest people", "hi": "लोगों को गिरफ्तार करना"},
+        "d": {"en": "To give the judgment", "hi": "फैसला सुनाना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The defense lawyer cross-examines witnesses and presents evidence to support the accused's side.",
+        "hi": "बचाव पक्ष का वकील गवाहों से जिरह करता है और आरोपी के पक्ष के समर्थन में सबूत पेश करता है।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "According to Article 39A, the State must provide a lawyer to any citizen who is unable to engage one due to _______.",
+        "hi": "अनुच्छेद 39A के अनुसार, राज्य को किसी भी ऐसे नागरिक को वकील उपलब्ध कराना चाहिए जो _______ के कारण वकील रखने में असमर्थ है।"
+      },
+      "options": {
+        "a": {"en": "Poverty or other disability", "hi": "गरीबी या अन्य अक्षमता"},
+        "b": {"en": "Lack of time", "hi": "समय की कमी"},
+        "c": {"en": "Angry mood", "hi": "गुस्से वाला स्वभाव"},
+        "d": {"en": "Being famous", "hi": "प्रसिद्ध होने"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The Constitution ensures that every person has the right to be defended in a trial.",
+        "hi": "संविधान यह सुनिश्चित करता है कि प्रत्येक व्यक्ति को सुनवाई में बचाव का अधिकार है।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "Who acts like an umpire in a game and conducts the trial impartially?",
+        "hi": "खेल के अंपायर की तरह कौन व्यवहार करता है और निष्पक्ष रूप से सुनवाई संचालित करता है?"
+      },
+      "options": {
+        "a": {"en": "Police Inspector", "hi": "पुलिस इंस्पेक्टर"},
+        "b": {"en": "Public Prosecutor", "hi": "सरकारी वकील"},
+        "c": {"en": "The Judge", "hi": "न्यायाधीश"},
+        "d": {"en": "The Witness", "hi": "गवाह"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "The judge hears all witnesses and considers the evidence presented to reach a verdict.",
+        "hi": "न्यायाधीश सभी गवाहों को सुनते हैं और फैसला सुनाने के लिए पेश किए गए सबूतों पर विचार करते हैं।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "What does a 'Fair Trial' mean?",
+        "hi": "'निष्पक्ष सुनवाई' (Fair Trial) का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "The judge decides before the case starts", "hi": "न्यायाधीश केस शुरू होने से पहले ही फैसला कर लेते हैं"},
+        "b": {"en": "The trial is held in open court and the accused is given a defense lawyer", "hi": "सुनवाई खुली अदालत में होती है और आरोपी को बचाव पक्ष का वकील दिया जाता है"},
+        "c": {"en": "Only the police decide everything", "hi": "केवल पुलिस ही सब कुछ तय करती है"},
+        "d": {"en": "The trial is kept secret from the public", "hi": "सुनवाई को जनता से गुप्त रखा जाता है"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "A fair trial ensures that the rule of law is followed and everyone is treated equally.",
+        "hi": "एक निष्पक्ष सुनवाई यह सुनिश्चित करती है कि कानून के शासन का पालन किया जाए और सभी के साथ समान व्यवहार हो।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Which of the following must an FIR contain?",
+        "hi": "FIR में निम्नलिखित में से क्या होना चाहिए?"
+      },
+      "options": {
+        "a": {"en": "Date, time, and place of the offense", "hi": "अपराध की तारीख, समय और स्थान"},
+        "b": {"en": "Description of the event", "hi": "घटना का विवरण"},
+        "c": {"en": "Identity of the accused and witnesses (if known)", "hi": "आरोपी और गवाहों की पहचान (यदि ज्ञात हो)"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "explanation": {
+        "en": "An FIR provides the basic details required to start an investigation.",
+        "hi": "एक FIR जाँच शुरू करने के लिए आवश्यक बुनियादी विवरण प्रदान करती है।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "The role of the Public Prosecutor begins only _______.",
+        "hi": "सरकारी वकील की भूमिका तभी शुरू होती है जब _______।"
+      },
+      "options": {
+        "a": {"en": "Before the crime happens", "hi": "अपराध होने से पहले"},
+        "b": {"en": "After the police have filed the charge sheet in court", "hi": "जब पुलिस अदालत में आरोप पत्र (charge sheet) दाखिल कर देती है"},
+        "c": {"en": "When the person is arrested", "hi": "जब व्यक्ति को गिरफ्तार किया जाता है"},
+        "d": {"en": "After the judge gives the verdict", "hi": "न्यायाधीश द्वारा फैसला सुनाए जाने के बाद"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Public Prosecutor has no role in the investigation conducted by the police.",
+        "hi": "पुलिस द्वारा की गई जाँच में सरकारी वकील की कोई भूमिका नहीं होती है।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "Who is the accused in the Shanti Hembram case described in the chapter?",
+        "hi": "अध्याय में वर्णित शांति हेम्ब्रम मामले में आरोपी कौन है?"
+      },
+      "options": {
+        "a": {"en": "Mr. Shinde", "hi": "श्री शिंदे"},
+        "b": {"en": "Mrs. Shinde", "hi": "श्रीमती शिंदे"},
+        "c": {"en": "Shanti Hembram", "hi": "शांति हेम्ब्रम"},
+        "d": {"en": "Sushil", "hi": "सुशील"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Shanti was a domestic help accused of stealing a gold chain.",
+        "hi": "शांति एक घरेलू सहायिका थी जिस पर सोने की चेन चुराने का आरोप लगाया गया था।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What did the police find in Shanti’s trunk that they thought was 'stolen money'?",
+        "hi": "पुलिस को शांति के बक्से में क्या मिला जिसे उन्होंने 'चोरी का पैसा' समझा?"
+      },
+      "options": {
+        "a": {"en": "Rs 5,000", "hi": "5,000 रुपये"},
+        "b": {"en": "Rs 10,000", "hi": "10,000 रुपये"},
+        "c": {"en": "A gold chain", "hi": "एक सोने की चेन"},
+        "d": {"en": "Diamond ring", "hi": "हीरे की अंगूठी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "They found Rs 10,000 which Shanti and her brother had saved over a year.",
+        "hi": "उन्हें 10,000 रुपये मिले जो शांति और उसके भाई ने एक साल में बचाए थे।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What is 'Cross-examination'?",
+        "hi": "'जिरह' (Cross-examination) क्या है?"
+      },
+      "options": {
+        "a": {"en": "The police asking questions", "hi": "पुलिस द्वारा सवाल पूछना"},
+        "b": {"en": "Questioning a witness who has already given a statement to test their truthfulness", "hi": "गवाह की सच्चाई की जाँच के लिए उससे पूछताछ करना जिसने पहले ही बयान दे दिया हो"},
+        "c": {"en": "Writing an FIR", "hi": "FIR लिखना"},
+        "d": {"en": "A medical test", "hi": "एक मेडिकल टेस्ट"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Cross-examination is done by the opposite party's lawyer in court.",
+        "hi": "जिरह अदालत में विपक्षी दल के वकील द्वारा की जाती है।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "The Constitution says that it is a fundamental right of every person to be _______.",
+        "hi": "संविधान कहता है कि प्रत्येक व्यक्ति का यह मौलिक अधिकार है कि वह _______।"
+      },
+      "options": {
+        "a": {"en": "Sent to jail immediately", "hi": "तुरंत जेल भेजा जाए"},
+        "b": {"en": "Defended by a lawyer", "hi": "एक वकील द्वारा उसका बचाव किया जाए"},
+        "c": {"en": "Rich", "hi": "अमीर हो"},
+        "d": {"en": "Famous", "hi": "मशहूर हो"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Even if someone is poor, the state must ensure they have legal representation.",
+        "hi": "भले ही कोई गरीब हो, राज्य को यह सुनिश्चित करना चाहिए कि उनके पास कानूनी प्रतिनिधित्व हो।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What happens at the end of a trial if the judge finds the accused guilty?",
+        "hi": "यदि न्यायाधीश आरोपी को दोषी पाते हैं तो सुनवाई के अंत में क्या होता है?"
+      },
+      "options": {
+        "a": {"en": "The judge pronounces the sentence", "hi": "न्यायाधीश सजा सुनाते हैं"},
+        "b": {"en": "The police take the person to jail immediately without a word", "hi": "पुलिस बिना कुछ कहे व्यक्ति को तुरंत जेल ले जाती है"},
+        "c": {"en": "The victim decides the punishment", "hi": "पीड़ित सजा तय करता है"},
+        "d": {"en": "A new trial begins", "hi": "एक नई सुनवाई शुरू होती है"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The sentence can be a fine, imprisonment, or both, as prescribed by the law.",
+        "hi": "कानून द्वारा निर्धारित सजा जुर्माना, कारावास या दोनों हो सकती है।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "To 'Acquit' someone means _______.",
+        "hi": "किसी को 'बहाली/बरी' (Acquit) करने का अर्थ है _______।"
+      },
+      "options": {
+        "a": {"en": "To arrest them", "hi": "उन्हें गिरफ्तार करना"},
+        "b": {"en": "To find them not guilty and set them free", "hi": "उन्हें निर्दोष पाना और आजाद करना"},
+        "c": {"en": "To send them to a higher court", "hi": "उन्हें उच्च न्यायालय में भेजना"},
+        "d": {"en": "To punish them", "hi": "उन्हें दंडित करना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "An acquittal happens when the court finds that the evidence does not prove the person's guilt.",
+        "hi": "बरी तब किया जाता है जब अदालत को लगता है कि सबूत व्यक्ति के अपराध को साबित नहीं करते हैं।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "The 'Charge Sheet' is filed by the _______ in court.",
+        "hi": "'आरोप पत्र' (Charge Sheet) अदालत में किसके द्वारा दाखिल किया जाता है?"
+      },
+      "options": {
+        "a": {"en": "Accused", "hi": "आरोपी"},
+        "b": {"en": "Police", "hi": "पुलिस"},
+        "c": {"en": "Public Prosecutor", "hi": "सरकारी वकील"},
+        "d": {"en": "Victim", "hi": "पीड़ित"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Once the investigation is complete, the police file the charge sheet summarizing the case and evidence.",
+        "hi": "जाँच पूरी होने के बाद, पुलिस केस और सबूतों का सार बताते हुए आरोप पत्र दाखिल करती है।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "What should the police do if someone comes to report a crime?",
+        "hi": "यदि कोई अपराध की रिपोर्ट करने आता है तो पुलिस को क्या करना चाहिए?"
+      },
+      "options": {
+        "a": {"en": "Register an FIR", "hi": "FIR दर्ज करनी चाहिए"},
+        "b": {"en": "Tell them to go home", "hi": "उन्हें घर जाने के लिए कहना चाहिए"},
+        "c": {"en": "Arrest the person reporting the crime", "hi": "अपराध की रिपोर्ट करने वाले व्यक्ति को गिरफ्तार करना चाहिए"},
+        "d": {"en": "Ask for money", "hi": "पैसे मांगने चाहिए"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "It is compulsory for an officer in charge of a police station to register an FIR whenever someone gives information about a cognizable offense.",
+        "hi": "पुलिस स्टेशन के प्रभारी अधिकारी के लिए यह अनिवार्य है कि जब भी कोई संज्ञेय अपराध के बारे में जानकारी दे, तो वह FIR दर्ज करे।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "In a fair trial, the judge must assume that the accused is _______ until proven guilty.",
+        "hi": "एक निष्पक्ष सुनवाई में, न्यायाधीश को यह मानना चाहिए कि आरोपी तब तक _______ है जब तक कि वह दोषी साबित न हो जाए।"
+      },
+      "options": {
+        "a": {"en": "Guilty", "hi": "दोषी"},
+        "b": {"en": "Innocent", "hi": "निर्दोष (Innocent)"},
+        "c": {"en": "Dangerous", "hi": "खतरनाक"},
+        "d": {"en": "Lying", "hi": "झूठा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "This is known as the 'Presumption of Innocence', a core principle of justice.",
+        "hi": "इसे 'निर्दोषता की पूर्वधारणा' के रूप में जाना जाता है, जो न्याय का एक मूल सिद्धांत है।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "Who has the power to summon witnesses to the court?",
+        "hi": "अदालत में गवाहों को बुलाने की शक्ति किसके पास है?"
+      },
+      "options": {
+        "a": {"en": "Police", "hi": "पुलिस"},
+        "b": {"en": "The Judge", "hi": "न्यायाधीश"},
+        "c": {"en": "The Victim", "hi": "पीड़ित"},
+        "d": {"en": "The Media", "hi": "मीडिया"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The judge conducts the trial and calls upon necessary witnesses to testify.",
+        "hi": "न्यायाधीश सुनवाई का संचालन करते हैं और गवाही देने के लिए आवश्यक गवाहों को बुलाते हैं।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "A 'Cognizable' offense is one for which _______.",
+        "hi": "एक 'संज्ञेय' (Cognizable) अपराध वह है जिसके लिए _______।"
+      },
+      "options": {
+        "a": {"en": "The police can arrest without a warrant", "hi": "पुलिस बिना वारंट के गिरफ्तार कर सकती है"},
+        "b": {"en": "There is no punishment", "hi": "कोई सजा नहीं है"},
+        "c": {"en": "A judge is not needed", "hi": "न्यायाधीश की आवश्यकता नहीं है"},
+        "d": {"en": "Only a fine is paid", "hi": "केवल जुर्माना दिया जाता है"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Serious crimes like murder or theft are cognizable offenses.",
+        "hi": "हत्या या चोरी जैसे गंभीर अपराध संज्ञेय अपराध हैं।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Why should a trial be held in an 'Open Court'?",
+        "hi": "सुनवाई 'खुली अदालत' (Open Court) में क्यों होनी चाहिए?"
+      },
+      "options": {
+        "a": {"en": "To let fresh air in", "hi": "ताजी हवा आने देने के लिए"},
+        "b": {"en": "So that the public can see the trial and ensure justice is being done", "hi": "ताकि जनता सुनवाई देख सके और यह सुनिश्चित हो सके कि न्याय हो रहा है"},
+        "c": {"en": "Because buildings are too small", "hi": "क्योंकि इमारतें बहुत छोटी हैं"},
+        "d": {"en": "To save electricity", "hi": "बिजली बचाने के लिए"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Transparency is essential for a fair trial.",
+        "hi": "निष्पक्ष सुनवाई के लिए पारदर्शिता अनिवार्य है।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "What did the Supreme Court state regarding Article 21 and the role of the Public Prosecutor?",
+        "hi": "सुप्रीम कोर्ट ने अनुच्छेद 21 और सरकारी वकील की भूमिका के बारे में क्या कहा?"
+      },
+      "options": {
+        "a": {"en": "Public Prosecutor must help the police only", "hi": "सरकारी वकील को केवल पुलिस की मदद करनी चाहिए"},
+        "b": {"en": "Public Prosecutor must act impartially and present all facts and evidence", "hi": "सरकारी वकील को निष्पक्ष रूप से कार्य करना चाहिए और सभी तथ्य और सबूत पेश करने चाहिए"},
+        "c": {"en": "They must ensure the accused is always punished", "hi": "उन्हें यह सुनिश्चित करना चाहिए कि आरोपी को हमेशा सजा मिले"},
+        "d": {"en": "They should ignore the victim", "hi": "उन्हें पीड़ित की उपेक्षा करनी चाहिए"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The goal of the Public Prosecutor is to help the court reach a just decision, not just to win the case.",
+        "hi": "सरकारी वकील का लक्ष्य अदालत को न्यायपूर्ण निर्णय तक पहुँचाने में मदद करना है, न कि केवल केस जीतना।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "If a police officer refuses to register an FIR, what can a person do?",
+        "hi": "यदि कोई पुलिस अधिकारी FIR दर्ज करने से इनकार करता है, तो व्यक्ति क्या कर सकता है?"
+      },
+      "options": {
+        "a": {"en": "They cannot do anything", "hi": "वे कुछ नहीं कर सकते"},
+        "b": {"en": "Meet the Superintendent of Police (SP) or send the FIR by post", "hi": "पुलिस अधीक्षक (SP) से मिलें या डाक द्वारा FIR भेजें"},
+        "c": {"en": "Give up on justice", "hi": "न्याय की उम्मीद छोड़ दें"},
+        "d": {"en": "Arrest the police officer", "hi": "पुलिस अधिकारी को गिरफ्तार करें"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Citizens have higher authorities and legal remedies to ensure their complaint is heard.",
+        "hi": "नागरिकों के पास यह सुनिश्चित करने के लिए उच्च अधिकारी और कानूनी उपाय हैं कि उनकी शिकायत सुनी जाए।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "Every citizen, irrespective of their class, caste, gender, or religion, is guaranteed a _______ by the Constitution.",
+        "hi": "प्रत्येक नागरिक को, चाहे उसका वर्ग, जाति, लिंग या धर्म कुछ भी हो, संविधान द्वारा _______ की गारंटी दी गई है।"
+      },
+      "options": {
+        "a": {"en": "Private lawyer", "hi": "निजी वकील"},
+        "b": {"en": "Fair Trial", "hi": "निष्पक्ष सुनवाई (Fair Trial)"},
+        "c": {"en": "Government job", "hi": "सरकारी नौकरी"},
+        "d": {"en": "Free house", "hi": "मुफ्त घर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "A fair trial is the bedrock of the criminal justice system in a democracy.",
+        "hi": "लोकतंत्र में आपराधिक न्याय प्रणाली का आधार निष्पक्ष सुनवाई है।"
+      }
+    }
+  ]
+}
