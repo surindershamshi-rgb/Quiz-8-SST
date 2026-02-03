@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 4,
+    "chapter_title": "Understanding Laws",
+    "chapter_title_hindi": "कानूनों की समझ",
+    "subject": "Civics - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_CIV_CH04_Laws_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "What does the 'Rule of Law' mean?",
+        "hi": "'कानून के शासन' (Rule of Law) का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Kings are above the law", "hi": "राजा कानून से ऊपर हैं"},
+        "b": {"en": "All laws apply equally to all citizens and no one is above the law", "hi": "सभी कानून सभी नागरिकों पर समान रूप से लागू होते हैं और कोई भी कानून से ऊपर नहीं है"},
+        "c": {"en": "Only poor people must follow laws", "hi": "केवल गरीब लोगों को ही कानून का पालन करना चाहिए"},
+        "d": {"en": "Laws change according to a person's religion", "hi": "व्यक्ति के धर्म के अनुसार कानून बदल जाते हैं"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Rule of Law is a foundation of democracy, ensuring that even government officials and wealthy individuals are subject to the same laws.",
+        "hi": "कानून का शासन लोकतंत्र की नींव है, जो यह सुनिश्चित करता है कि सरकारी अधिकारी और धनी व्यक्ति भी उन्हीं कानूनों के अधीन हैं।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "In ancient India, were laws applied equally to everyone?",
+        "hi": "प्राचीन भारत में, क्या कानून सभी पर समान रूप से लागू होते थे?"
+      },
+      "options": {
+        "a": {"en": "Yes, always", "hi": "हाँ, हमेशा"},
+        "b": {"en": "No, they often varied based on caste", "hi": "नहीं, वे अक्सर जाति के आधार पर भिन्न होते थे"},
+        "c": {"en": "There were no laws in ancient India", "hi": "प्राचीन भारत में कोई कानून नहीं थे"},
+        "d": {"en": "Laws were only for women", "hi": "कानून केवल महिलाओं के लिए थे"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "In ancient India, punishment for the same crime often differed depending on the person's caste background.",
+        "hi": "प्राचीन भारत में, एक ही अपराध के लिए सजा अक्सर व्यक्ति की जाति पृष्ठभूमि के आधार पर अलग-अलग होती थी।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Who is often wrongly credited with introducing the Rule of Law in India?",
+        "hi": "भारत में कानून के शासन की शुरुआत करने का गलत श्रेय अक्सर किसे दिया जाता है?"
+      },
+      "options": {
+        "a": {"en": "The Mughals", "hi": "मुगलों को"},
+        "b": {"en": "The British colonialists", "hi": "ब्रिटिश उपनिवेशवादियों को"},
+        "c": {"en": "Indian revolutionaries", "hi": "भारतीय क्रांतिकारियों को"},
+        "d": {"en": "The Gupta Empire", "hi": "गुप्त साम्राज्य को"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Historians argue that colonial law was arbitrary, and Indian legal specialists played a major role in developing the legal sphere in India.",
+        "hi": "इतिहासकारों का तर्क है कि औपनिवेशिक कानून मनमाना था, और भारतीय कानूनी विशेषज्ञों ने भारत में कानूनी क्षेत्र को विकसित करने में प्रमुख भूमिका निभाई।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "The Sedition Act of 1870 was an example of _______.",
+        "hi": "1870 का राजद्रोह अधिनियम (Sedition Act) किसका उदाहरण था?"
+      },
+      "options": {
+        "a": {"en": "Equality", "hi": "समानता"},
+        "b": {"en": "Arbitrariness", "hi": "निरंकुशता/मनमानापन"},
+        "c": {"en": "Justice", "hi": "न्याय"},
+        "d": {"en": "Democracy", "hi": "लोकतंत्र"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Under this Act, any person protesting or criticizing the British government could be arrested without a trial.",
+        "hi": "इस अधिनियम के तहत, ब्रिटिश सरकार का विरोध या आलोचना करने वाले किसी भी व्यक्ति को बिना मुकदमे के गिरफ्तार किया जा सकता था।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Which of the following played a crucial role in evolving the Rule of Law during the colonial period?",
+        "hi": "औपनिवेशिक काल के दौरान कानून के शासन को विकसित करने में निम्नलिखित में से किसने महत्वपूर्ण भूमिका निभाई?"
+      },
+      "options": {
+        "a": {"en": "British Police", "hi": "ब्रिटिश पुलिस"},
+        "b": {"en": "Indian Nationalists", "hi": "भारतीय राष्ट्रवादी"},
+        "c": {"en": "Foreign Traders", "hi": "विदेशी व्यापारी"},
+        "d": {"en": "The Queen of England", "hi": "इंग्लैंड की रानी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Nationalists protested against arbitrary laws and fought for greater equality and justice in the legal system.",
+        "hi": "राष्ट्रवादियों ने मनमाने कानूनों का विरोध किया और कानूनी प्रणाली में अधिक समानता और न्याय के लिए लड़ाई लड़ी।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "The Parliament of India has the main responsibility of _______.",
+        "hi": "भारतीय संसद की मुख्य जिम्मेदारी _______ की है।"
+      },
+      "options": {
+        "a": {"en": "Collecting waste", "hi": "कचरा इकट्ठा करने"},
+        "b": {"en": "Making laws", "hi": "कानून बनाने"},
+        "c": {"en": "Operating schools", "hi": "स्कूल चलाने"},
+        "d": {"en": "Controlling weather", "hi": "मौसम नियंत्रित करने"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "As the supreme legislative body, the Parliament introduces, debates, and passes new laws.",
+        "hi": "सर्वोच्च विधायी निकाय के रूप में, संसद नए कानून पेश करती है, उन पर बहस करती है और उन्हें पारित करती है।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Which group played a significant role in bringing the issue of domestic violence to the attention of Parliament?",
+        "hi": "किस समूह ने घरेलू हिंसा के मुद्दे को संसद के ध्यान में लाने में महत्वपूर्ण भूमिका निभाई?"
+      },
+      "options": {
+        "a": {"en": "Army personnel", "hi": "सेना के जवानों ने"},
+        "b": {"en": "Women's groups and activists", "hi": "महिला समूहों और कार्यकर्ताओं ने"},
+        "c": {"en": "Business tycoons", "hi": "बड़े व्यवसायियों ने"},
+        "d": {"en": "International tourists", "hi": "अंतरराष्ट्रीय पर्यटकों ने"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Civil society and women's organizations gathered evidence and campaigned for years to get the protection law passed.",
+        "hi": "नागरिक समाज और महिला संगठनों ने सुरक्षा कानून पारित कराने के लिए वर्षों तक साक्ष्य एकत्र किए और अभियान चलाया।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "In which year did the Protection of Women from Domestic Violence Act come into effect?",
+        "hi": "महिला घरेलू हिंसा संरक्षण अधिनियम किस वर्ष प्रभावी हुआ?"
+      },
+      "options": {
+        "a": {"en": "1990", "hi": "1990"},
+        "b": {"en": "2002", "hi": "2002"},
+        "c": {"en": "2005", "hi": "2005"},
+        "d": {"en": "2006", "hi": "2006"}
+      },
+      "correct_option": "d",
+      "explanation": {
+        "en": "The Bill was passed in 2005, and the Act officially came into effect in 2006.",
+        "hi": "विधेयक 2005 में पारित किया गया था, और अधिनियम आधिकारिक तौर पर 2006 में प्रभावी हुआ।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "What does 'Domestic' refer to in the Domestic Violence Act?",
+        "hi": "घरेलू हिंसा अधिनियम में 'घरेलू' (Domestic) शब्द का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Only a wife and husband", "hi": "केवल पत्नी और पति"},
+        "b": {"en": "Women who live or have lived together in a shared household", "hi": "वे महिलाएँ जो एक साझा घर में रहती हैं या रह चुकी हैं"},
+        "c": {"en": "Only children", "hi": "केवल बच्चे"},
+        "d": {"en": "Pet animals", "hi": "पालतू जानवर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The term was expanded to include mothers, daughters, and sisters living within a shared household.",
+        "hi": "इस शब्द का विस्तार साझा घर में रहने वाली माताओं, बेटियों और बहनों को शामिल करने के लिए किया गया था।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "How can citizens voice their opinion about a new law?",
+        "hi": "नागरिक नए कानून के बारे में अपनी राय कैसे व्यक्त कर सकते हैं?"
+      },
+      "options": {
+        "a": {"en": "Through public meetings and protests", "hi": "सार्वजनिक बैठकों और विरोध प्रदर्शनों के माध्यम से"},
+        "b": {"en": "Writing in newspapers and social media", "hi": "समाचार पत्रों और सोशल मीडिया में लिखकर"},
+        "c": {"en": "Through TV reports", "hi": "टीवी रिपोर्टों के माध्यम से"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "explanation": {
+        "en": "In a democracy, the voice of the citizens is crucial for the Parliament to understand the problems people face.",
+        "hi": "लोकतंत्र में, संसद के लिए लोगों द्वारा सामना की जाने वाली समस्याओं को समझने के लिए नागरिकों की आवाज महत्वपूर्ण है।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "If a law is constitutionally valid but unpopular and unfair, what can people do?",
+        "hi": "यदि कोई कानून संवैधानिक रूप से मान्य है लेकिन अलोकप्रिय और अन्यायपूर्ण है, तो लोग क्या कर सकते हैं?"
+      },
+      "options": {
+        "a": {"en": "They must accept it without question", "hi": "उन्हें बिना किसी सवाल के इसे स्वीकार करना चाहिए"},
+        "b": {"en": "They can criticize, hold meetings, and pressure Parliament to change it", "hi": "वे आलोचना कर सकते हैं, बैठकें कर सकते हैं और संसद पर इसे बदलने का दबाव बना सकते हैं"},
+        "c": {"en": "They should leave the country", "hi": "उन्हें देश छोड़ देना चाहिए"},
+        "d": {"en": "They can ignore the law", "hi": "वे कानून की अनदेखी कर सकते हैं"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Citizens have the right to express their disagreement with laws they find repressive.",
+        "hi": "नागरिकों को उन कानूनों के प्रति अपनी असहमति व्यक्त करने का अधिकार है जिन्हें वे दमनकारी मानते हैं।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "The court has the power to _______ a law if it finds that it violates the Constitution.",
+        "hi": "अदालत के पास कानून को _______ करने की शक्ति है यदि उसे लगता है कि यह संविधान का उल्लंघन करता है।"
+      },
+      "options": {
+        "a": {"en": "Support", "hi": "समर्थन"},
+        "b": {"en": "Cancel or modify", "hi": "रद्द या संशोधित"},
+        "c": {"en": "Translate", "hi": "अनुवाद"},
+        "d": {"en": "Hide", "hi": "छिपाने"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "This is known as Judicial Review, where the Judiciary checks the legality of laws passed by the Parliament.",
+        "hi": "इसे न्यायिक समीक्षा के रूप में जाना जाता है, जहाँ न्यायपालिका संसद द्वारा पारित कानूनों की वैधता की जाँच करती है।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "The Rowlatt Act was passed by the British in which year?",
+        "hi": "रौलट एक्ट अंग्रेजों द्वारा किस वर्ष पारित किया गया था?"
+      },
+      "options": {
+        "a": {"en": "1870", "hi": "1870"},
+        "b": {"en": "1905", "hi": "1905"},
+        "c": {"en": "1919", "hi": "1919"},
+        "d": {"en": "1947", "hi": "1947"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "The Rowlatt Act allowed the British to imprison people without trial, which led to widespread protests like the one in Jallianwala Bagh.",
+        "hi": "रौलट एक्ट ने अंग्रेजों को बिना मुकदमे के लोगों को जेल में डालने की अनुमति दी, जिससे जलियांवाला बाग जैसे व्यापक विरोध प्रदर्शन हुए।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "A controversial law is one that _______.",
+        "hi": "एक विवादास्पद कानून वह है जो _______।"
+      },
+      "options": {
+        "a": {"en": "Is liked by everyone", "hi": "सभी को पसंद आता है"},
+        "b": {"en": "Is never used", "hi": "कभी इस्तेमाल नहीं किया जाता"},
+        "c": {"en": "Favors one group and disregards another, leading to conflict", "hi": "एक समूह का पक्ष लेता है और दूसरे की उपेक्षा करता है, जिससे संघर्ष होता है"},
+        "d": {"en": "Is written in English", "hi": "अंग्रेजी में लिखा है"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Laws like the municipal laws on street hawking are often controversial as they balance public space with people's livelihoods.",
+        "hi": "स्ट्रीट हॉकिंग पर नगरपालिका कानूनों जैसे कानून अक्सर विवादास्पद होते हैं क्योंकि वे सार्वजनिक स्थान को लोगों की आजीविका के साथ संतुलित करते हैं।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "The 'Hindu Succession Amendment Act, 2005' gave _______ equal share in family property.",
+        "hi": "'हिंदू उत्तराधिकार संशोधन अधिनियम, 2005' ने परिवार की संपत्ति में _______ को समान हिस्सा दिया।"
+      },
+      "options": {
+        "a": {"en": "Only sons", "hi": "केवल बेटों"},
+        "b": {"en": "Only fathers", "hi": "केवल पिताओं"},
+        "c": {"en": "Sons, daughters, and their mothers", "hi": "बेटों, बेटियों और उनकी माताओं"},
+        "d": {"en": "Only outsiders", "hi": "केवल बाहरी लोगों"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "This law was a significant step towards gender equality in India.",
+        "hi": "यह कानून भारत में लैंगिक समानता की ओर एक महत्वपूर्ण कदम था।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "Who leads the process of making new laws in India?",
+        "hi": "भारत में नए कानून बनाने की प्रक्रिया का नेतृत्व कौन करता है?"
+      },
+      "options": {
+        "a": {"en": "The Police", "hi": "पुलिस"},
+        "b": {"en": "The Parliament", "hi": "संसद"},
+        "c": {"en": "The Army", "hi": "सेना"},
+        "d": {"en": "Foreign diplomats", "hi": "विदेशी राजनयिक"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Parliament is the law-making body of the country.",
+        "hi": "संसद देश की कानून बनाने वाली संस्था है।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What does 'Violence' in the context of domestic abuse include?",
+        "hi": "घरेलू शोषण के संदर्भ में 'हिंसा' (Violence) में क्या शामिल है?"
+      },
+      "options": {
+        "a": {"en": "Physical beating", "hi": "शारीरिक पिटाई"},
+        "b": {"en": "Sexual abuse", "hi": "यौन शोषण"},
+        "c": {"en": "Verbal, emotional and economic abuse", "hi": "मौखिक, भावनात्मक और आर्थिक शोषण"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "explanation": {
+        "en": "The 2005 Act provided a comprehensive definition of violence to protect women from all forms of harm.",
+        "hi": "2005 के अधिनियम ने महिलाओं को सभी प्रकार के नुकसान से बचाने के लिए हिंसा की एक व्यापक परिभाषा प्रदान की।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "When a large number of people feel that a wrong law has been passed, they can exert _______ on Parliament.",
+        "hi": "जब बड़ी संख्या में लोगों को लगता है कि गलत कानून पारित हो गया है, तो वे संसद पर _______ डाल सकते हैं।"
+      },
+      "options": {
+        "a": {"en": "Pressure", "hi": "दबाव"},
+        "b": {"en": "Money", "hi": "पैसा"},
+        "c": {"en": "Gifts", "hi": "उपहार"},
+        "d": {"en": "No effect", "hi": "कोई प्रभाव नहीं"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Public pressure through protests and media helps ensure that laws reflect the will of the people.",
+        "hi": "विरोध प्रदर्शनों और मीडिया के माध्यम से जनता का दबाव यह सुनिश्चित करने में मदद करता है कि कानून लोगों की इच्छा को प्रतिबिंबित करें।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Which revolutionary was famously arrested under colonial laws for his writings in 'Kesari'?",
+        "hi": "'केसरी' में अपने लेखन के लिए औपनिवेशिक कानूनों के तहत किस क्रांतिकारी को प्रसिद्ध रूप से गिरफ्तार किया गया था?"
+      },
+      "options": {
+        "a": {"en": "Mahatma Gandhi", "hi": "महात्मा गांधी"},
+        "b": {"en": "Bal Gangadhar Tilak", "hi": "बाल गंगाधर तिलक"},
+        "c": {"en": "Jawaharlal Nehru", "hi": "जवाहरलाल नेहरू"},
+        "d": {"en": "Subhas Chandra Bose", "hi": "सुभाष चंद्र बोस"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Tilak used his newspaper to criticize the British government and was arrested for sedition.",
+        "hi": "तिलक ने ब्रिटिश सरकार की आलोचना करने के लिए अपने समाचार पत्र का उपयोग किया और उन्हें राजद्रोह के आरोप में गिरफ्तार किया गया।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What is the primary purpose of municipal laws regarding hawking and street vending?",
+        "hi": "फेरी लगाने और सड़क पर सामान बेचने के संबंध में नगरपालिका कानूनों का प्राथमिक उद्देश्य क्या है?"
+      },
+      "options": {
+        "a": {"en": "To give free money to vendors", "hi": "विक्रेताओं को मुफ्त पैसा देना"},
+        "b": {"en": "To keep public spaces open for walking", "hi": "सार्वजनिक स्थानों को चलने के लिए खुला रखना"},
+        "c": {"en": "To ban all food", "hi": "सभी भोजन पर प्रतिबंध लगाना"},
+        "d": {"en": "To decorate the streets", "hi": "सड़कों को सजाना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "However, since vending provides a livelihood to millions, these laws often cause controversy and conflict.",
+        "hi": "हालाँकि, क्योंकि वेंडिंग लाखों लोगों को आजीविका प्रदान करती है, इसलिए ये कानून अक्सर विवाद और संघर्ष का कारण बनते हैं।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "A bill is a _______.",
+        "hi": "विधेयक (Bill) एक _______ है।"
+      },
+      "options": {
+        "a": {"en": "Final law", "hi": "अंतिम कानून"},
+        "b": {"en": "Draft of a proposed law", "hi": "प्रस्तावित कानून का मसौदा"},
+        "c": {"en": "Court order", "hi": "अदालत का आदेश"},
+        "d": {"en": "Police report", "hi": "पुलिस रिपोर्ट"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "A bill becomes a law only after it is passed by both Houses of Parliament and signed by the President.",
+        "hi": "एक विधेयक तभी कानून बनता है जब वह संसद के दोनों सदनों द्वारा पारित हो जाता है और राष्ट्रपति द्वारा हस्ताक्षरित हो जाता है।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "The role of citizens in the law-making process _______ after electing representatives.",
+        "hi": "प्रतिनिधियों को चुनने के बाद कानून बनाने की प्रक्रिया में नागरिकों की भूमिका _______।"
+      },
+      "options": {
+        "a": {"en": "Ends", "hi": "समाप्त हो जाती है"},
+        "b": {"en": "Does not end; they must monitor the work of MPs", "hi": "समाप्त नहीं होती; उन्हें सांसदों के काम की निगरानी करनी चाहिए"},
+        "c": {"en": "Is only to pay taxes", "hi": "केवल कर देना है"},
+        "d": {"en": "Is not important", "hi": "महत्वपूर्ण नहीं है"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Citizens must use media and public platforms to keep their representatives accountable.",
+        "hi": "नागरिकों को अपने प्रतिनिधियों को जवाबदेह बनाए रखने के लिए मीडिया और सार्वजनिक मंचों का उपयोग करना चाहिए।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Which Indian leader protested against the Rowlatt Act and was later killed in 1919 events?",
+        "hi": "किस भारतीय नेता ने रौलट एक्ट का विरोध किया था और बाद में 1919 की घटनाओं में मारे गए?"
+      },
+      "options": {
+        "a": {"en": "Dr. Satyapal and Dr. Saifuddin Kitchlew were arrested", "hi": "डॉ. सत्यपाल और डॉ. सैफुद्दीन किचलू को गिरफ्तार किया गया था"},
+        "b": {"en": "Mahatma Gandhi", "hi": "महात्मा गांधी"},
+        "c": {"en": "Sardar Patel", "hi": "सरदार पटेल"},
+        "d": {"en": "Lala Lajpat Rai", "hi": "लाला लाजपत राय"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The arrest of these leaders led to the peaceful protest meeting at Jallianwala Bagh.",
+        "hi": "इन नेताओं की गिरफ्तारी के कारण जलियांवाला बाग में शांतिपूर्ण विरोध सभा हुई थी।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "Who has the final authority to interpret the Constitution and strike down laws?",
+        "hi": "संविधान की व्याख्या करने और कानूनों को रद्द करने का अंतिम अधिकार किसके पास है?"
+      },
+      "options": {
+        "a": {"en": "The Police", "hi": "पुलिस"},
+        "b": {"en": "The Judiciary (Courts)", "hi": "न्यायपालिका (अदालतें)"},
+        "c": {"en": "The Media", "hi": "मीडिया"},
+        "d": {"en": "Foreign governments", "hi": "विदेशी सरकारें"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Courts ensure that no law passed by Parliament violates the fundamental rights given by the Constitution.",
+        "hi": "अदालतें यह सुनिश्चित करती हैं कि संसद द्वारा पारित कोई भी कानून संविधान द्वारा दिए गए मौलिक अधिकारों का उल्लंघन न करे।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "What makes a law 'Repressive'?",
+        "hi": "किसी कानून को 'दमनकारी' (Repressive) क्या बनाता है?"
+      },
+      "options": {
+        "a": {"en": "If it helps people", "hi": "यदि यह लोगों की मदद करता है"},
+        "b": {"en": "If it strictly controls or limits freedom in an unfair way", "hi": "यदि यह अनुचित तरीके से स्वतंत्रता को सख्ती से नियंत्रित या सीमित करता है"},
+        "c": {"en": "If it is written in a book", "hi": "यदि यह एक किताब में लिखा है"},
+        "d": {"en": "If it is very old", "hi": "यदि यह बहुत पुराना है"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Repressive laws are often challenged by citizens in a democratic setup.",
+        "hi": "लोकतांत्रिक व्यवस्था में दमनकारी कानूनों को अक्सर नागरिकों द्वारा चुनौती दी जाती है।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "The campaign for the Domestic Violence Act began in which decade?",
+        "hi": "घरेलू हिंसा अधिनियम के लिए अभियान किस दशक में शुरू हुआ?"
+      },
+      "options": {
+        "a": {"en": "1940s", "hi": "1940 के दशक में"},
+        "b": {"en": "1990s", "hi": "1990 के दशक में"},
+        "c": {"en": "1920s", "hi": "1920 के दशक में"},
+        "d": {"en": "2010s", "hi": "2010 के दशक में"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Throughout the 1990s, the need for a new civil law to protect women was raised in many forums.",
+        "hi": "पूरे 1990 के दशक के दौरान, महिलाओं की सुरक्षा के लिए एक नए नागरिक कानून की आवश्यकता कई मंचों पर उठाई गई थी।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "According to the chapter, laws are not enough; we also need to ensure _______.",
+        "hi": "अध्याय के अनुसार, कानून पर्याप्त नहीं हैं; हमें यह भी सुनिश्चित करना चाहिए कि _______।"
+      },
+      "options": {
+        "a": {"en": "They are followed by everyone", "hi": "उनका पालन सभी के द्वारा किया जाए"},
+        "b": {"en": "They are translated to all languages", "hi": "उनका सभी भाषाओं में अनुवाद किया जाए"},
+        "c": {"en": "The King is happy", "hi": "राजा खुश रहे"},
+        "d": {"en": "Only rich follow them", "hi": "केवल अमीर उनका पालन करें"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Equality before the law means that even a president or a rich person must be punished if they break a law.",
+        "hi": "कानून के समक्ष समानता का अर्थ है कि यदि कोई राष्ट्रपति या कोई धनी व्यक्ति कानून तोड़ता है तो उसे भी दंडित किया जाना चाहिए।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "The Jallianwala Bagh massacre occurred on which date?",
+        "hi": "जलियांवाला बाग हत्याकांड किस तारीख को हुआ था?"
+      },
+      "options": {
+        "a": {"en": "13 April 1919", "hi": "13 अप्रैल 1919"},
+        "b": {"en": "15 August 1947", "hi": "15 अगस्त 1947"},
+        "c": {"en": "26 January 1950", "hi": "26 जनवरी 1950"},
+        "d": {"en": "2 October 1869", "hi": "2 अक्टूबर 1869"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "A peaceful protest against the Rowlatt Act ended in a massacre when General Dyer ordered his troops to open fire.",
+        "hi": "रौलट एक्ट के खिलाफ एक शांतिपूर्ण विरोध का अंत हत्याकांड के रूप में हुआ जब जनरल डायर ने अपने सैनिकों को गोली चलाने का आदेश दिया।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "The Parliament has a role to be _______ to the concerns of the people.",
+        "hi": "संसद की भूमिका लोगों की चिंताओं के प्रति _______ रहने की है।"
+      },
+      "options": {
+        "a": {"en": "Sensitive", "hi": "संवेदनशील"},
+        "b": {"en": "Blind", "hi": "अंधा"},
+        "c": {"en": "Deaf", "hi": "बहरा"},
+        "d": {"en": "Opposed", "hi": "विरोधी"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Sensitivity to public concerns ensures that laws are relevant and helpful to the society.",
+        "hi": "सार्वजनिक चिंताओं के प्रति संवेदनशीलता यह सुनिश्चित करती है कि कानून समाज के लिए प्रासंगिक और सहायक हों।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "Rosa Parks' refusal to give up her seat sparked a movement to change laws in which country?",
+        "hi": "रोजा पार्क्स द्वारा अपनी सीट छोड़ने से इनकार करने ने किस देश में कानूनों को बदलने के लिए एक आंदोलन छेड़ दिया?"
+      },
+      "options": {
+        "a": {"en": "India", "hi": "भारत"},
+        "b": {"en": "USA", "hi": "अमेरिका"},
+        "c": {"en": "South Africa", "hi": "दक्षिण अफ्रीका"},
+        "d": {"en": "France", "hi": "फ्रांस"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Her action led to the Civil Rights Act of 1964, which prohibited discrimination based on race, religion, or national origin in the USA.",
+        "hi": "उनके कार्य के कारण 1964 का नागरिक अधिकार अधिनियम बना, जिसने अमेरिका में जाति, धर्म या राष्ट्रीय मूल के आधार पर भेदभाव को प्रतिबंधित कर दिया।"
+      }
+    }
+  ]
+}
