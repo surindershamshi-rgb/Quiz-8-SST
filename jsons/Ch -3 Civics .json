@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 3,
+    "chapter_title": "Why do we need a Parliament?",
+    "chapter_title_hindi": "हमें संसद क्यों चाहिए?",
+    "subject": "Civics - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_CIV_CH03_Parliament_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "The Parliament of India is the _______ law-making institution.",
+        "hi": "भारतीय संसद _______ कानून बनाने वाली संस्था है।"
+      },
+      "options": {
+        "a": {"en": "Lowest", "hi": "सबसे निचली"},
+        "b": {"en": "Supreme", "hi": "सर्वोच्च"},
+        "c": {"en": "Secondary", "hi": "द्वितीयक"},
+        "d": {"en": "Temporary", "hi": "अस्थायी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Parliament is the highest forum for discussion and law-making in India.",
+        "hi": "संसद भारत में चर्चा और कानून बनाने का सर्वोच्च मंच है।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Under which principle does every adult citizen of the country have the right to vote?",
+        "hi": "किस सिद्धांत के तहत देश के प्रत्येक वयस्क नागरिक को वोट देने का अधिकार है?"
+      },
+      "options": {
+        "a": {"en": "Universal Adult Franchise", "hi": "सार्वभौमिक वयस्क मताधिकार"},
+        "b": {"en": "Limited Franchise", "hi": "सीमित मताधिकार"},
+        "c": {"en": "Electoral College", "hi": "निर्वाचक मंडल"},
+        "d": {"en": "Property Rights", "hi": "संपत्ति का अधिकार"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Universal Adult Franchise ensures that all adults, regardless of gender or wealth, can participate in elections.",
+        "hi": "सार्वभौमिक वयस्क मताधिकार यह सुनिश्चित करता है कि सभी वयस्क, लिंग या धन की परवाह किए बिना, चुनावों में भाग ले सकें।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "The Parliament of India consists of the President and _______.",
+        "hi": "भारतीय संसद में राष्ट्रपति और _______ शामिल हैं।"
+      },
+      "options": {
+        "a": {"en": "Only Lok Sabha", "hi": "केवल लोकसभा"},
+        "b": {"en": "Only Rajya Sabha", "hi": "केवल राज्यसभा"},
+        "c": {"en": "Both Lok Sabha and Rajya Sabha", "hi": "लोकसभा और राज्यसभा दोनों"},
+        "d": {"en": "The Prime Minister", "hi": "प्रधानमंत्री"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "The Parliament has two houses: the Rajya Sabha (Council of States) and the Lok Sabha (House of the People).",
+        "hi": "संसद के दो सदन हैं: राज्यसभा (राज्यों की परिषद) और लोकसभा (लोगों का सदन)।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Which house of Parliament is known as the 'Council of States'?",
+        "hi": "संसद के किस सदन को 'राज्यों की परिषद' के रूप में जाना जाता है?"
+      },
+      "options": {
+        "a": {"en": "Lok Sabha", "hi": "लोकसभा"},
+        "b": {"en": "Vidhan Sabha", "hi": "विधानसभा"},
+        "c": {"en": "Rajya Sabha", "hi": "राज्यसभा"},
+        "d": {"en": "Zila Parishad", "hi": "जिला परिषद"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "The Rajya Sabha represents the states of India in the Parliament.",
+        "hi": "राज्यसभा संसद में भारत के राज्यों का प्रतिनिधित्व करती है।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "What is the maximum strength of the Rajya Sabha?",
+        "hi": "राज्यसभा की अधिकतम सदस्य संख्या कितनी है?"
+      },
+      "options": {
+        "a": {"en": "245", "hi": "245"},
+        "b": {"en": "543", "hi": "543"},
+        "c": {"en": "250", "hi": "250"},
+        "d": {"en": "552", "hi": "552"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "The Rajya Sabha has 245 members at present, but the maximum sanctioned strength is 250.",
+        "hi": "वर्तमान में राज्यसभा में 245 सदस्य हैं, लेकिन अधिकतम स्वीकृत संख्या 250 है।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "How many members are nominated by the President to the Rajya Sabha?",
+        "hi": "राष्ट्रपति द्वारा राज्यसभा में कितने सदस्य मनोनीत किए जाते हैं?"
+      },
+      "options": {
+        "a": {"en": "2", "hi": "2"},
+        "b": {"en": "10", "hi": "10"},
+        "c": {"en": "12", "hi": "12"},
+        "d": {"en": "15", "hi": "15"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "The President nominates 12 members who have excelled in fields like art, literature, science, and social service.",
+        "hi": "राष्ट्रपति कला, साहित्य, विज्ञान और समाज सेवा जैसे क्षेत्रों में उत्कृष्ट प्रदर्शन करने वाले 12 सदस्यों को मनोनीत करते हैं।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "The Lok Sabha is usually elected once every _______ years.",
+        "hi": "लोकसभा का चुनाव आमतौर पर हर _______ साल में एक बार होता है।"
+      },
+      "options": {
+        "a": {"en": "4", "hi": "4"},
+        "b": {"en": "5", "hi": "5"},
+        "c": {"en": "6", "hi": "6"},
+        "d": {"en": "10", "hi": "10"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The normal term of the Lok Sabha is five years, unless dissolved earlier.",
+        "hi": "लोकसभा का सामान्य कार्यकाल पांच वर्ष का होता है, जब तक कि इसे पहले भंग न कर दिया जाए।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "How many elected members are there in the Lok Sabha?",
+        "hi": "लोकसभा में कितने निर्वाचित सदस्य होते हैं?"
+      },
+      "options": {
+        "a": {"en": "245", "hi": "245"},
+        "b": {"en": "543", "hi": "543"},
+        "c": {"en": "550", "hi": "550"},
+        "d": {"en": "233", "hi": "233"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "There are 543 elected members in the Lok Sabha, representing different constituencies.",
+        "hi": "लोकसभा में 543 निर्वाचित सदस्य हैं, जो विभिन्न निर्वाचन क्षेत्रों का प्रतिनिधित्व करते हैं।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Who is the leader of the ruling party in the Lok Sabha?",
+        "hi": "लोकसभा में सत्ताधारी दल का नेता कौन होता है?"
+      },
+      "options": {
+        "a": {"en": "President", "hi": "राष्ट्रपति"},
+        "b": {"en": "Vice-President", "hi": "उपराष्ट्रपति"},
+        "c": {"en": "Prime Minister", "hi": "प्रधानमंत्री"},
+        "d": {"en": "Speaker", "hi": "अध्यक्ष (स्पीकर)"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "The Prime Minister selects ministers from the MPs of their party to run the government.",
+        "hi": "प्रधानमंत्री सरकार चलाने के लिए अपनी पार्टी के सांसदों में से मंत्रियों का चयन करते हैं।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "A coalition government is formed when _______.",
+        "hi": "गठबंधन सरकार तब बनती है जब _______।"
+      },
+      "options": {
+        "a": {"en": "One party gets a clear majority", "hi": "एक पार्टी को स्पष्ट बहुमत मिलता है"},
+        "b": {"en": "No single party gets a majority and different parties join together", "hi": "किसी एक पार्टी को बहुमत नहीं मिलता और विभिन्न पार्टियां एक साथ मिल जाती हैं"},
+        "c": {"en": "The President decides to rule", "hi": "राष्ट्रपति शासन करने का निर्णय लेते हैं"},
+        "d": {"en": "The Supreme Court picks the leader", "hi": "सुप्रीम कोर्ट नेता चुनता है"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "When no single party achieves the majority mark of 272, parties collaborate to form a coalition government.",
+        "hi": "जब कोई भी पार्टी 272 के बहुमत के आंकड़े तक नहीं पहुंचती है, तो पार्टियां गठबंधन सरकार बनाने के लिए सहयोग करती हैं।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Who is the presiding officer of the Lok Sabha?",
+        "hi": "लोकसभा का पीठासीन अधिकारी कौन होता है?"
+      },
+      "options": {
+        "a": {"en": "Chairman", "hi": "सभापति"},
+        "b": {"en": "Speaker", "hi": "अध्यक्ष (स्पीकर)"},
+        "c": {"en": "Prime Minister", "hi": "प्रधानमंत्री"},
+        "d": {"en": "Chief Justice", "hi": "मुख्य न्यायाधीश"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Speaker conducts the proceedings of the Lok Sabha.",
+        "hi": "अध्यक्ष (स्पीकर) लोकसभा की कार्यवाही का संचालन करते हैं।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "The Rajya Sabha functions primarily as the _______ of the states.",
+        "hi": "राज्यसभा मुख्य रूप से राज्यों के _______ के रूप में कार्य करती है।"
+      },
+      "options": {
+        "a": {"en": "Opponent", "hi": "विरोधी"},
+        "b": {"en": "Representative", "hi": "प्रतिनिधि"},
+        "c": {"en": "Ruler", "hi": "शासक"},
+        "d": {"en": "Collector", "hi": "संग्रहकर्ता"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Rajya Sabha initiates bills and reviews laws passed by the Lok Sabha to protect state interests.",
+        "hi": "राज्यसभा विधेयकों की पहल करती है और राज्यों के हितों की रक्षा के लिए लोकसभा द्वारा पारित कानूनों की समीक्षा करती है।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Who is the ex-officio Chairman of the Rajya Sabha?",
+        "hi": "राज्यसभा का पदेन सभापति कौन होता है?"
+      },
+      "options": {
+        "a": {"en": "The President of India", "hi": "भारत के राष्ट्रपति"},
+        "b": {"en": "The Vice-President of India", "hi": "भारत के उपराष्ट्रपति"},
+        "c": {"en": "The Prime Minister", "hi": "प्रधानमंत्री"},
+        "d": {"en": "The Senior-most MP", "hi": "सबसे वरिष्ठ सांसद"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Vice-President of India presides over the sessions of the Rajya Sabha.",
+        "hi": "भारत के उपराष्ट्रपति राज्यसभा के सत्रों की अध्यक्षता करते हैं।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What is the most important function of the Lok Sabha?",
+        "hi": "लोकसभा का सबसे महत्वपूर्ण कार्य क्या है?"
+      },
+      "options": {
+        "a": {"en": "To select the Executive", "hi": "कार्यपालिका का चयन करना"},
+        "b": {"en": "To build roads", "hi": "सड़कें बनाना"},
+        "c": {"en": "To collect taxes", "hi": "कर वसूलना"},
+        "d": {"en": "To punish criminals", "hi": "अपराधियों को दंडित करना"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The Executive is a group of persons who work together to implement the laws made by the Parliament.",
+        "hi": "कार्यपालिका उन व्यक्तियों का समूह है जो संसद द्वारा बनाए गए कानूनों को लागू करने के लिए मिलकर काम करते हैं।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "During the _______, MPs can elicit information about the working of the government.",
+        "hi": "_______ के दौरान, सांसद सरकार के कामकाज के बारे में जानकारी प्राप्त कर सकते हैं।"
+      },
+      "options": {
+        "a": {"en": "Zero Hour", "hi": "शून्य काल"},
+        "b": {"en": "Question Hour", "hi": "प्रश्न काल"},
+        "c": {"en": "Recess", "hi": "अवकाश"},
+        "d": {"en": "Voting", "hi": "मतदान"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Question Hour is a critical mechanism through which Parliament controls the Executive.",
+        "hi": "प्रश्नकाल एक महत्वपूर्ण तंत्र है जिसके माध्यम से संसद कार्यपालिका पर नियंत्रण रखती है।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "The opposition parties play a critical role in a democracy by _______.",
+        "hi": "विपक्षी दल लोकतंत्र में _______ द्वारा महत्वपूर्ण भूमिका निभाते हैं।"
+      },
+      "options": {
+        "a": {"en": "Supporting everything the government does", "hi": "सरकार के हर काम का समर्थन करके"},
+        "b": {"en": "Highlighting drawbacks in various policies and programs of the government", "hi": "सरकार की विभिन्न नीतियों और कार्यक्रमों की कमियों को उजागर करके"},
+        "c": {"en": "Stopping all laws from being made", "hi": "सभी कानूनों को बनने से रोककर"},
+        "d": {"en": "Ruling the country alongside the PM", "hi": "प्रधानमंत्री के साथ देश पर शासन करके"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Opposition parties keep the government in check and provide an alternative point of view.",
+        "hi": "विपक्षी दल सरकार पर अंकुश रखते हैं और वैकल्पिक दृष्टिकोण प्रदान करते हैं।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "To have a majority in the Lok Sabha, a party must have at least _______ members.",
+        "hi": "लोकसभा में बहुमत हासिल करने के लिए, किसी पार्टी के पास कम से कम _______ सदस्य होने चाहिए।"
+      },
+      "options": {
+        "a": {"en": "245", "hi": "245"},
+        "b": {"en": "272", "hi": "272"},
+        "c": {"en": "543", "hi": "543"},
+        "d": {"en": "300", "hi": "300"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Since there are 543 elected members, a party needs more than half (272) to form the government.",
+        "hi": "चूंकि 543 निर्वाचित सदस्य हैं, इसलिए सरकार बनाने के लिए एक पार्टी को आधे से अधिक (272) की आवश्यकता होती है।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "The Parliament enables citizens of India to _______ in decision making.",
+        "hi": "संसद भारत के नागरिकों को निर्णय लेने में _______ करने में सक्षम बनाती है।"
+      },
+      "options": {
+        "a": {"en": "Compete", "hi": "प्रतिस्पर्धा"},
+        "b": {"en": "Participate", "hi": "भागीदारी"},
+        "c": {"en": "Ignore", "hi": "अनदेखा"},
+        "d": {"en": "Object", "hi": "आपत्ति"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Through their elected representatives, people participate in the governing process.",
+        "hi": "अपने निर्वाचित प्रतिनिधियों के माध्यम से, लोग शासन प्रक्रिया में भाग लेते हैं।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "How are the members of Rajya Sabha elected?",
+        "hi": "राज्यसभा के सदस्यों का चुनाव कैसे होता है?"
+      },
+      "options": {
+        "a": {"en": "Directly by the people", "hi": "सीधे जनता द्वारा"},
+        "b": {"en": "By the elected members of the Legislative Assemblies of various states", "hi": "विभिन्न राज्यों की विधानसभाओं के निर्वाचित सदस्यों द्वारा"},
+        "c": {"en": "By the Prime Minister", "hi": "प्रधानमंत्री द्वारा"},
+        "d": {"en": "By the Chief Justice", "hi": "मुख्य न्यायाधीश द्वारा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Rajya Sabha members are elected indirectly through the state assemblies.",
+        "hi": "राज्यसभा के सदस्यों का चुनाव राज्य विधानसभाओं के माध्यम से अप्रत्यक्ष रूप से किया जाता है।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What is the total number of members in the Rajya Sabha who are elected?",
+        "hi": "राज्यसभा में निर्वाचित होने वाले सदस्यों की कुल संख्या कितनी है?"
+      },
+      "options": {
+        "a": {"en": "245", "hi": "245"},
+        "b": {"en": "233", "hi": "233"},
+        "c": {"en": "12", "hi": "12"},
+        "d": {"en": "250", "hi": "250"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Out of 245 members, 233 are elected and 12 are nominated by the President.",
+        "hi": "245 सदस्यों में से, 233 निर्वाचित होते हैं और 12 राष्ट्रपति द्वारा मनोनीत किए जाते हैं।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "The Parliament is the expression of the _______ that people of India have in principles of democracy.",
+        "hi": "संसद उस _______ की अभिव्यक्ति है जो भारत के लोगों की लोकतंत्र के सिद्धांतों में है।"
+      },
+      "options": {
+        "a": {"en": "Doubt", "hi": "संदेह"},
+        "b": {"en": "Faith", "hi": "आस्था/विश्वास"},
+        "c": {"en": "Anger", "hi": "क्रोध"},
+        "d": {"en": "Fear", "hi": "डर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Democratic principles include participation by people in the decision-making process and government by consent.",
+        "hi": "लोकतांत्रिक सिद्धांतों में निर्णय लेने की प्रक्रिया में लोगों की भागीदारी और सहमति द्वारा शासन शामिल है।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Which year saw the first use of Electronic Voting Machines (EVMs) throughout the country?",
+        "hi": "पूरे देश में पहली बार इलेक्ट्रॉनिक वोटिंग मशीनों (EVM) का उपयोग किस वर्ष किया गया था?"
+      },
+      "options": {
+        "a": {"en": "1947", "hi": "1947"},
+        "b": {"en": "1999", "hi": "1999"},
+        "c": {"en": "2004", "hi": "2004"},
+        "d": {"en": "2014", "hi": "2014"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "EVMs were used for the first time in all constituencies during the 2004 General Elections.",
+        "hi": "2004 के आम चुनावों के दौरान सभी निर्वाचन क्षेत्रों में पहली बार ईवीएम का उपयोग किया गया था।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "How many seats are reserved for SC and ST in the Lok Sabha?",
+        "hi": "लोकसभा में एससी (SC) और एसटी (ST) के लिए कितनी सीटें आरक्षित हैं?"
+      },
+      "options": {
+        "a": {"en": "84 for SC, 47 for ST", "hi": "84 एससी के लिए, 47 एसटी के लिए"},
+        "b": {"en": "100 for each", "hi": "प्रत्येक के लिए 100"},
+        "c": {"en": "No reservation", "hi": "कोई आरक्षण नहीं"},
+        "d": {"en": "50 for each", "hi": "प्रत्येक के लिए 50"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Reservation ensures that marginalized groups have adequate representation in the Parliament.",
+        "hi": "आरक्षण यह सुनिश्चित करता है कि हाशिए पर रहने वाले समूहों का संसद में पर्याप्त प्रतिनिधित्व हो।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "The Parliament also has the power to _______ the government.",
+        "hi": "संसद के पास सरकार को _______ करने की शक्ति भी है।"
+      },
+      "options": {
+        "a": {"en": "Support only", "hi": "केवल समर्थन"},
+        "b": {"en": "Control, guide and inform", "hi": "नियंत्रित करने, मार्गदर्शन देने और सूचित करने"},
+        "c": {"en": "Destroy", "hi": "नष्ट"},
+        "d": {"en": "Ignore", "hi": "अनदेखा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Question Hour is one of the ways the Parliament guides and informs the government.",
+        "hi": "प्रश्नकाल उन तरीकों में से एक है जिससे संसद सरकार का मार्गदर्शन करती है और उसे सूचित करती है।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "In the Rajya Sabha, can a bill be passed without its approval?",
+        "hi": "क्या राज्यसभा की मंजूरी के बिना कोई विधेयक पारित किया जा सकता है?"
+      },
+      "options": {
+        "a": {"en": "Yes, always", "hi": "हाँ, हमेशा"},
+        "b": {"en": "No, it must pass through the Rajya Sabha to become a law", "hi": "नहीं, कानून बनने के लिए इसे राज्यसभा से गुजरना ही चाहिए"},
+        "c": {"en": "Only if the PM says so", "hi": "केवल तभी जब प्रधानमंत्री ऐसा कहें"},
+        "d": {"en": "Only for money bills", "hi": "केवल धन विधेयकों के लिए"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "A bill must pass through both houses to become an Act, though the Lok Sabha has more power over money bills.",
+        "hi": "एक विधेयक को अधिनियम बनने के लिए दोनों सदनों से गुजरना होगा, हालांकि धन विधेयकों पर लोकसभा के पास अधिक शक्ति होती है।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "Approval of the Parliament is necessary for the government for _______.",
+        "hi": "सरकार के लिए संसद की मंजूरी किसके लिए आवश्यक है?"
+      },
+      "options": {
+        "a": {"en": "Spending any money", "hi": "कोई भी पैसा खर्च करने"},
+        "b": {"en": "Holidays", "hi": "छुट्टियों"},
+        "c": {"en": "Selecting a tie", "hi": "टाई चुनने"},
+        "d": {"en": "Private business", "hi": "निजी व्यवसाय"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The Parliament's control over finances ensures the government is accountable for public money.",
+        "hi": "वित्त पर संसद का नियंत्रण यह सुनिश्चित करता है कि सरकार सार्वजनिक धन के लिए जवाबदेह है।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "The representative of the people in the Parliament is called _______.",
+        "hi": "संसद में जनता के प्रतिनिधि को _______ कहा जाता है।"
+      },
+      "options": {
+        "a": {"en": "MLA", "hi": "विधायक (MLA)"},
+        "b": {"en": "MP", "hi": "सांसद (MP)"},
+        "c": {"en": "Governor", "hi": "राज्यपाल"},
+        "d": {"en": "Mayor", "hi": "महापौर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "MP stands for Member of Parliament.",
+        "hi": "सांसद (MP) का अर्थ है संसद सदस्य (Member of Parliament)।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Constituencies are _______.",
+        "hi": "निर्वाचन क्षेत्र (Constituencies) _______ हैं।"
+      },
+      "options": {
+        "a": {"en": "Large states", "hi": "बड़े राज्य"},
+        "b": {"en": "Areas into which the country is divided for election purposes", "hi": "वे क्षेत्र जिनमें देश को चुनाव के उद्देश्य से विभाजित किया गया है"},
+        "c": {"en": "Government buildings", "hi": "सरकारी इमारतें"},
+        "d": {"en": "Political parties", "hi": "राजनीतिक दल"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "One representative is elected from each constituency to the Lok Sabha.",
+        "hi": "प्रत्येक निर्वाचन क्षेत्र से एक प्रतिनिधि लोकसभा के लिए चुना जाता है।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "The people give their consent to the government through _______.",
+        "hi": "जनता सरकार को अपनी सहमति किसके माध्यम से देती है?"
+      },
+      "options": {
+        "a": {"en": "Strikes", "hi": "हड़ताल"},
+        "b": {"en": "Elections", "hi": "चुनाव"},
+        "c": {"en": "Social media", "hi": "सोशल मीडिया"},
+        "d": {"en": "Writing letters", "hi": "पत्र लिखकर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Elections are the democratic way for people to choose who governs them.",
+        "hi": "चुनाव लोगों के लिए यह चुनने का लोकतांत्रिक तरीका है कि उन पर कौन शासन करेगा।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "Which group of people has historically been under-represented in the Parliament?",
+        "hi": "ऐतिहासिक रूप से संसद में किस समूह के लोगों का प्रतिनिधित्व कम रहा है?"
+      },
+      "options": {
+        "a": {"en": "Men", "hi": "पुरुष"},
+        "b": {"en": "Women and marginalized communities", "hi": "महिलाएं और हाशिए पर रहने वाले समुदाय"},
+        "c": {"en": "Rich people", "hi": "अमीर लोग"},
+        "d": {"en": "Lawyers", "hi": "वकील"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Efforts are being made to increase the participation of women and Dalits to make democracy more inclusive.",
+        "hi": "लोकतंत्र को अधिक समावेशी बनाने के लिए महिलाओं और दलितों की भागीदारी बढ़ाने के प्रयास किए जा रहे हैं।"
+      }
+    }
+  ]
+}
