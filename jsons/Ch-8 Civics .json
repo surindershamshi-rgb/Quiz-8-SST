@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 8,
+    "chapter_title": "Confronting Marginalisation",
+    "chapter_title_hindi": "हाशियाकरण से निपटना",
+    "subject": "Civics - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_CIV_CH08_ConfrontingMarginalisation_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "How do marginalised groups challenge their exclusion?",
+        "hi": "हाशिए पर रहने वाले समूह अपने बहिष्कार को कैसे चुनौती देते हैं?"
+      },
+      "options": {
+        "a": {"en": "By staying silent", "hi": "चुप रहकर"},
+        "b": {"en": "Through struggles, religious reform, and by invoking Fundamental Rights", "hi": "संघर्षों, धार्मिक सुधारों और मौलिक अधिकारों का सहारा लेकर"},
+        "c": {"en": "By leaving the country", "hi": "देश छोड़कर"},
+        "d": {"en": "By ignoring the laws", "hi": "कानूनों की अनदेखी करके"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Marginalised communities use the democratic framework of India to demand equality and justice.",
+        "hi": "हाशिए पर रहने वाले समुदाय समानता और न्याय की मांग करने के लिए भारत के लोकतांत्रिक ढांचे का उपयोग करते हैं।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Which Article of the Indian Constitution states that 'Untouchability has been abolished'?",
+        "hi": "भारतीय संविधान के किस अनुच्छेद में कहा गया है कि 'अस्पृश्यता का उन्मूलन कर दिया गया है'?"
+      },
+      "options": {
+        "a": {"en": "Article 14", "hi": "अनुच्छेद 14"},
+        "b": {"en": "Article 15", "hi": "अनुच्छेद 15"},
+        "c": {"en": "Article 17", "hi": "अनुच्छेद 17"},
+        "d": {"en": "Article 21", "hi": "अनुच्छेद 21"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Article 17 legally bans the practice of untouchability, making it a punishable crime.",
+        "hi": "अनुच्छेद 17 कानूनी रूप से अस्पृश्यता की प्रथा पर प्रतिबंध लगाता है, जिससे यह एक दंडनीय अपराध बन जाता है।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Article 15 of the Constitution provides that no citizen of India shall be discriminated against on the basis of _______.",
+        "hi": "संविधान का अनुच्छेद 15 प्रदान करता है कि भारत के किसी भी नागरिक के साथ किसके आधार पर भेदभाव नहीं किया जाएगा?"
+      },
+      "options": {
+        "a": {"en": "Religion, race, caste, sex, or place of birth", "hi": "धर्म, मूलवंश, जाति, लिंग या जन्म स्थान"},
+        "b": {"en": "Only height and weight", "hi": "केवल लंबाई और वजन"},
+        "c": {"en": "Only wealth", "hi": "केवल धन"},
+        "d": {"en": "Only education", "hi": "केवल शिक्षा"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Dalits use Article 15 to demand equal access to public places like temples, wells, and parks.",
+        "hi": "दलित मंदिरों, कुओं और पार्कों जैसे सार्वजनिक स्थानों तक समान पहुँच की मांग करने के लिए अनुच्छेद 15 का उपयोग करते हैं।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Who can invoke the Fundamental Rights when they are treated badly by individuals or the State?",
+        "hi": "जब व्यक्तियों या राज्य द्वारा बुरा व्यवहार किया जाता है, तो मौलिक अधिकारों का सहारा कौन ले सकता है?"
+      },
+      "options": {
+        "a": {"en": "Only rich people", "hi": "केवल अमीर लोग"},
+        "b": {"en": "Only government officials", "hi": "केवल सरकारी अधिकारी"},
+        "c": {"en": "Every citizen of India, especially the marginalised", "hi": "भारत का प्रत्येक नागरिक, विशेष रूप से हाशिए पर रहने वाले"},
+        "d": {"en": "Only foreign visitors", "hi": "केवल विदेशी आगंतुक"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": " marginalised groups can insist the government to enforce laws that protect these rights.",
+        "hi": "हाशिए पर रहने वाले समूह सरकार से इन अधिकारों की रक्षा करने वाले कानूनों को लागू करने का आग्रह कर सकते हैं।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Governments pass specific laws to ensure that _______ is promoted.",
+        "hi": "सरकारें यह सुनिश्चित करने के लिए विशिष्ट कानून पारित करती हैं कि _______ को बढ़ावा मिले।"
+      },
+      "options": {
+        "a": {"en": "Inequality", "hi": "असमानता"},
+        "b": {"en": "Social Justice", "hi": "सामाजिक न्याय"},
+        "c": {"en": "Religious conflict", "hi": "धार्मिक संघर्ष"},
+        "d": {"en": "Poverty", "hi": "गरीबी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Laws like reservation policies are meant to give opportunities to those who have been historically denied them.",
+        "hi": "आरक्षण नीतियों जैसे कानूनों का उद्देश्य उन लोगों को अवसर देना है जिन्हें ऐतिहासिक रूप से उनसे वंचित रखा गया है।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Reservation policy in education and government employment is based on the idea of _______.",
+        "hi": "शिक्षा और सरकारी रोजगार में आरक्षण की नीति किस विचार पर आधारित है?"
+      },
+      "options": {
+        "a": {"en": "Providing extra luxury to some", "hi": "कुछ लोगों को अतिरिक्त विलासिता प्रदान करना"},
+        "b": {"en": "Correcting historical injustice and ensuring fair opportunities", "hi": "ऐतिहासिक अन्याय को सुधारना और निष्पक्ष अवसर सुनिश्चित करना"},
+        "c": {"en": "Making the rich richer", "hi": "अमीरों को और अमीर बनाना"},
+        "d": {"en": "Stopping all education", "hi": "सभी शिक्षा को रोकना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Reservation is an affirmative action to support sections of society that were kept out of mainstream education and work.",
+        "hi": "आरक्षण समाज के उन वर्गों का समर्थन करने के लिए एक सकारात्मक कार्रवाई है जिन्हें मुख्यधारा की शिक्षा और काम से बाहर रखा गया था।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Who are Dalit and Adivasi students required to provide proof of to get the benefit of reservation?",
+        "hi": "आरक्षण का लाभ पाने के लिए दलित और आदिवासी छात्रों को किसका प्रमाण देना आवश्यक है?"
+      },
+      "options": {
+        "a": {"en": "Wealth certificate", "hi": "धन का प्रमाण पत्र"},
+        "b": {"en": "Caste or tribal status certificate", "hi": "जाति या जनजाति प्रमाण पत्र"},
+        "c": {"en": "Medical report", "hi": "मेडिकल रिपोर्ट"},
+        "d": {"en": "Birth certificate from London", "hi": "लंदन का जन्म प्रमाण पत्र"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "To access schemes, candidates must present a government-certified document showing they belong to a listed SC/ST category.",
+        "hi": "योजनाओं का लाभ उठाने के लिए, उम्मीदवारों को सरकार द्वारा प्रमाणित दस्तावेज प्रस्तुत करना होगा जो दर्शाता है कि वे सूचीबद्ध एससी/एसटी श्रेणी से संबंधित हैं।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act was passed in which year?",
+        "hi": "अनुसूचित जाति और अनुसूचित जनजाति (अत्याचार निवारण) अधिनियम किस वर्ष पारित किया गया था?"
+      },
+      "options": {
+        "a": {"en": "1947", "hi": "1947"},
+        "b": {"en": "1950", "hi": "1950"},
+        "c": {"en": "1989", "hi": "1989"},
+        "d": {"en": "2005", "hi": "2005"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "This law was framed in 1989 in response to demands by Dalits and Adivasis for protection against violence and humiliation.",
+        "hi": "यह कानून 1989 में दलितों और आदिवासियों द्वारा हिंसा और अपमान के खिलाफ सुरक्षा की मांग के जवाब में बनाया गया था।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "The 1989 Act distinguishes several levels of crimes. Which of these is a punishable offense under the Act?",
+        "hi": "1989 का अधिनियम अपराधों के कई स्तरों में अंतर करता है। इनमें से कौन सा अधिनियम के तहत एक दंडनीय अपराध है?"
+      },
+      "options": {
+        "a": {"en": "Forcing an SC/ST person to eat inedible substances", "hi": "किसी एससी/एसटी व्यक्ति को अखाद्य पदार्थ खाने के लिए मजबूर करना"},
+        "b": {"en": "Parading them naked or with painted faces", "hi": "उन्हें नग्न घुमाना या चेहरे पर रंग पोतना"},
+        "c": {"en": "Dispossessing them of their land", "hi": "उन्हें उनकी भूमि से बेदखल करना"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "explanation": {
+        "en": "The law lists various humiliating and violent acts that were common and sought to punish them severely.",
+        "hi": "कानून उन विभिन्न अपमानजनक और हिंसक कृत्यों को सूचीबद्ध करता है जो आम थे और उन्हें कड़ी सजा देने की मांग करता है।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "What did the story of Rathnam in the chapter illustrate?",
+        "hi": "अध्याय में रत्नम की कहानी क्या दर्शाती है?"
+      },
+      "options": {
+        "a": {"en": "The success of a businessman", "hi": "एक व्यवसायी की सफलता"},
+        "b": {"en": "The courage to challenge a humiliating ritual and the backlash faced", "hi": "एक अपमानजनक अनुष्ठान को चुनौती देने का साहस और उसके बदले में झेला गया विरोध"},
+        "c": {"en": "The history of a temple", "hi": "एक मंदिर का इतिहास"},
+        "d": {"en": "How to move to a big city", "hi": "एक बड़े शहर में कैसे जाएँ"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Rathnam refused to wash the feet of priests, leading to the social boycott of his family by the dominant castes.",
+        "hi": "रत्नम ने पुजारियों के पैर धोने से इनकार कर दिया, जिसके कारण दबंग जातियों द्वारा उनके परिवार का सामाजिक बहिष्कार किया गया।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Which term is used for the practice of removing human and animal excreta using brooms and baskets?",
+        "hi": "झाड़ू और टोकरियों का उपयोग करके मानव और पशु मल को हटाने की प्रथा के लिए किस शब्द का उपयोग किया जाता है?"
+      },
+      "options": {
+        "a": {"en": "Cleaning", "hi": "सफाई"},
+        "b": {"en": "Manual scavenging", "hi": "हाथ से मैला ढोना (Manual scavenging)"},
+        "c": {"en": "Agriculture", "hi": "कृषि"},
+        "d": {"en": "Lumbering", "hi": "लकड़ी काटना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Manual scavenging is a caste-based occupation that is illegal and humiliating.",
+        "hi": "हाथ से मैला ढोना एक जाति-आधारित पेशा है जो अवैध और अपमानजनक है।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "In 1993, the government passed the _______ to ban the employment of manual scavengers.",
+        "hi": "1993 में, सरकार ने हाथ से मैला ढोने वालों के नियोजन पर प्रतिबंध लगाने के लिए कौन सा कानून पारित किया?"
+      },
+      "options": {
+        "a": {"en": "Employment of Manual Scavengers and Construction of Dry Latrines (Prohibition) Act", "hi": "हाथ से मैला ढोने वाले कर्मियों का नियोजन और शुष्क शौचालय निर्माण (निषेध) अधिनियम"},
+        "b": {"en": "Forest Act", "hi": "वन अधिनियम"},
+        "c": {"en": "Child Labor Act", "hi": "बाल श्रम अधिनियम"},
+        "d": {"en": "Education Act", "hi": "शिक्षा अधिनियम"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "This law made it illegal to employ someone to manually clean excreta.",
+        "hi": "इस कानून ने मल को हाथों से साफ करने के लिए किसी को काम पर रखना अवैध बना दिया।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Adivasi activists like C.K. Janu argue that Adivasis can use the 1989 Act to _______.",
+        "hi": "सी.के. जानू जैसे आदिवासी कार्यकर्ताओं का तर्क है कि आदिवासी 1989 के अधिनियम का उपयोग किस लिए कर सकते हैं?"
+      },
+      "options": {
+        "a": {"en": "Get free cars", "hi": "मुफ्त कारें पाने के लिए"},
+        "b": {"en": "Fight against dispossession of their tribal lands", "hi": "अपनी जनजातीय भूमि से बेदखली के खिलाफ लड़ने के लिए"},
+        "c": {"en": "Build factories in forests", "hi": "जंगलों में कारखाने बनाने के लिए"},
+        "d": {"en": "Travel around the world", "hi": "दुनिया भर में घूमने के लिए"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Act includes provisions that punish those who occupy or cultivate any land owned by Adivasis.",
+        "hi": "अधिनियम में ऐसे प्रावधान शामिल हैं जो आदिवासियों के स्वामित्व वाली किसी भी भूमि पर कब्जा करने या खेती करने वालों को दंडित करते हैं।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act was passed in _______.",
+        "hi": "अनुसूचित जनजाति और अन्य पारंपरिक वन निवासी (वन अधिकारों की मान्यता) अधिनियम कब पारित किया गया था?"
+      },
+      "options": {
+        "a": {"en": "1989", "hi": "1989"},
+        "b": {"en": "2006", "hi": "2006"},
+        "c": {"en": "1947", "hi": "1947"},
+        "d": {"en": "2014", "hi": "2014"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "This law recognizes the rights of forest-dwelling communities to land and resources.",
+        "hi": "यह कानून वनवासी समुदायों के भूमि और संसाधनों के अधिकारों को मान्यता देता है।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "Why do marginalised groups use the term 'Dalit' instead of other names?",
+        "hi": "हाशिए पर रहने वाले समूह अन्य नामों के बजाय 'दलित' शब्द का उपयोग क्यों करते हैं?"
+      },
+      "options": {
+        "a": {"en": "It means 'broken' and highlights the historical oppression they faced", "hi": "इसका अर्थ है 'दबा कुचला' और यह उनके द्वारा झेले गए ऐतिहासिक उत्पीड़न को उजागर करता है"},
+        "b": {"en": "It means 'king'", "hi": "इसका अर्थ है 'राजा'"},
+        "c": {"en": "It means 'rich'", "hi": "इसका अर्थ है 'अमीर'"},
+        "d": {"en": "It is a word from English", "hi": "यह अंग्रेजी का एक शब्द है"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The term shows how people were 'broken' by caste discrimination and their determination to overcome it.",
+        "hi": "यह शब्द दर्शाता है कि कैसे जातिगत भेदभाव के कारण लोगों को 'तोड़ा' गया और इसे दूर करने का उनका संकल्प भी।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "The 2006 Forest Rights Act allows Adivasis to _______.",
+        "hi": "2006 का वन अधिकार अधिनियम आदिवासियों को किसकी अनुमति देता है?"
+      },
+      "options": {
+        "a": {"en": "Burn the entire forest", "hi": "पूरे जंगल को जलाने की"},
+        "b": {"en": "Hunt endangered animals", "hi": "लुप्तप्राय जानवरों के शिकार की"},
+        "c": {"en": "Graze cattle and collect non-timber forest produce", "hi": "मवेशी चराने और गैर-इमारती वनोपज एकत्र करने की"},
+        "d": {"en": "Sell the forest to private companies", "hi": "जंगल को निजी कंपनियों को बेचने की"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "The Act balances forest conservation with the traditional rights of the dwellers.",
+        "hi": "यह अधिनियम वन संरक्षण को निवासियों के पारंपरिक अधिकारों के साथ संतुलित करता है।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "In the context of government policies, what is a 'List' or 'Schedule'?",
+        "hi": "सरकारी नीतियों के संदर्भ में 'सूची' (List) या 'अनुसूची' (Schedule) क्या है?"
+      },
+      "options": {
+        "a": {"en": "A list of students in a class", "hi": "कक्षा में छात्रों की सूची"},
+        "b": {"en": "A government list identifying castes or tribes for specific benefits", "hi": "विशिष्ट लाभों के लिए जातियों या जनजातियों की पहचान करने वाली सरकारी सूची"},
+        "c": {"en": "A grocery list", "hi": "किराने की सूची"},
+        "d": {"en": "A list of holidays", "hi": "छुट्टियों की सूची"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "This is why communities are called 'Scheduled' Castes or 'Scheduled' Tribes.",
+        "hi": "यही कारण है कि समुदायों को 'अनुसूचित' जाति या 'अनुसूचित' जनजाति कहा जाता है।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What did the Safai Karamchari Andolan file in the Supreme Court in 2003?",
+        "hi": "सफाई कर्मचारी आंदोलन ने 2003 में सुप्रीम कोर्ट में क्या दायर किया था?"
+      },
+      "options": {
+        "a": {"en": "A petition against the continued practice of manual scavenging", "hi": "हाथ से मैला ढोने की प्रथा जारी रहने के खिलाफ एक याचिका"},
+        "b": {"en": "A request for a new office", "hi": "एक नए कार्यालय के लिए अनुरोध"},
+        "c": {"en": "A complaint about weather", "hi": "मौसम के बारे में एक शिकायत"},
+        "d": {"en": "A letter to the President", "hi": "राष्ट्रपति को एक पत्र"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "They pointed out that manual scavenging still existed despite the 1993 ban.",
+        "hi": "उन्होंने बताया कि 1993 के प्रतिबंध के बावजूद हाथ से मैला ढोने की प्रथा अभी भी मौजूद है।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Confronting marginalisation requires a combination of _______.",
+        "hi": "हाशियाकरण का सामना करने के लिए किसका संयोजन आवश्यक है?"
+      },
+      "options": {
+        "a": {"en": "Money and weapons", "hi": "पैसा और हथियार"},
+        "b": {"en": "Legal laws and social awareness/struggle", "hi": "कानूनी नियम और सामाजिक जागरूकता/संघर्ष"},
+        "c": {"en": "Only prayers", "hi": "केवल प्रार्थना"},
+        "d": {"en": "Moving to another planet", "hi": "दूसरे ग्रह पर जाना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Laws provide a tool, but social movements give people the strength to use those tools.",
+        "hi": "कानून एक उपकरण प्रदान करते हैं, लेकिन सामाजिक आंदोलन लोगों को उन उपकरणों का उपयोग करने की शक्ति देते हैं।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "Which of the following is an 'Atrocity' listed in the 1989 Act?",
+        "hi": "निम्नलिखित में से कौन सा 1989 के अधिनियम में सूचीबद्ध 'अत्याचार' है?"
+      },
+      "options": {
+        "a": {"en": "Assaulting a woman belonging to SC/ST with intent to dishonour", "hi": "अपमानित करने के इरादे से एससी/एसटी की महिला पर हमला करना"},
+        "b": {"en": "Giving them gifts", "hi": "उन्हें उपहार देना"},
+        "c": {"en": "Teaching them science", "hi": "उन्हें विज्ञान पढ़ाना"},
+        "d": {"en": "Inviting them to dinner", "hi": "उन्हें रात के खाने पर आमंत्रित करना"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The Act recognizes crimes against women as severe atrocities that need special punishment.",
+        "hi": "अधिनियम महिलाओं के खिलाफ अपराधों को गंभीर अत्याचारों के रूप में मान्यता देता है जिन्हें विशेष सजा की आवश्यकता होती है।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "The existence of Fundamental Rights is meaningful only when _______.",
+        "hi": "मौलिक अधिकारों का अस्तित्व तभी सार्थक है जब _______।"
+      },
+      "options": {
+        "a": {"en": "They are written in a book", "hi": "वे एक किताब में लिखे हों"},
+        "b": {"en": "Citizens use them to demand justice and equality", "hi": "नागरिक न्याय और समानता की मांग करने के लिए उनका उपयोग करें"},
+        "c": {"en": "Only the police follow them", "hi": "केवल पुलिस उनका पालन करे"},
+        "d": {"en": "They are kept secret", "hi": "उन्हें गुप्त रखा जाए"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Rights on paper must be translated into reality through public action.",
+        "hi": "कागज पर अधिकारों को सार्वजनिक कार्रवाई के माध्यम से वास्तविकता में बदला जाना चाहिए।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "affirmative action like reservation aims to help groups that _______.",
+        "hi": "आरक्षण जैसी सकारात्मक कार्रवाई का उद्देश्य उन समूहों की मदद करना है जो _______।"
+      },
+      "options": {
+        "a": {"en": "Are already very rich", "hi": "पहले से ही बहुत अमीर हैं"},
+        "b": {"en": "Have been historically marginalized and deprived of opportunities", "hi": "ऐतिहासिक रूप से हाशिए पर रहे हैं और अवसरों से वंचित रहे हैं"},
+        "c": {"en": "Rule the country", "hi": "देश पर शासन करते हैं"},
+        "d": {"en": "Live in foreign countries", "hi": "विदेशों में रहते हैं"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "It seeks to level the playing field in society.",
+        "hi": "यह समाज में सभी के लिए समान अवसर सुनिश्चित करने का प्रयास करता है।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Who has the constitutional duty to enforce Fundamental Rights?",
+        "hi": "मौलिक अधिकारों को लागू करना किसका संवैधानिक कर्तव्य है?"
+      },
+      "options": {
+        "a": {"en": "Foreign NGOs", "hi": "विदेशी एनजीओ"},
+        "b": {"en": "The State/Government", "hi": "राज्य/सरकार"},
+        "c": {"en": "The Media only", "hi": "केवल मीडिया"},
+        "d": {"en": "Individual companies", "hi": "व्यक्तिगत कंपनियां"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The government is obligated to protect citizens' rights and follow the Constitution.",
+        "hi": "सरकार नागरिकों के अधिकारों की रक्षा करने और संविधान का पालन करने के लिए बाध्य है।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "Dalits and Adivasis can demand justice by pointing to the _______.",
+        "hi": "दलित और आदिवासी किसकी ओर इशारा करके न्याय की मांग कर सकते हैं?"
+      },
+      "options": {
+        "a": {"en": "Stars", "hi": "सितारों"},
+        "b": {"en": "Constitution of India", "hi": "भारत का संविधान"},
+        "c": {"en": "Old myths", "hi": "पुरानी कहानियों"},
+        "d": {"en": "Newspapers", "hi": "समाचार पत्रों"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Constitution provides the legal and moral ground for their struggle.",
+        "hi": "संविधान उनके संघर्ष के लिए कानूनी और नैतिक आधार प्रदान करता है।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "What does 'Affirmative Action' mean?",
+        "hi": "'सकारात्मक कार्रवाई' (Affirmative Action) का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Punishing everyone", "hi": "सभी को दंडित करना"},
+        "b": {"en": "Active government steps to help disadvantaged groups", "hi": "वंचित समूहों की मदद के लिए सरकार के सक्रिय कदम"},
+        "c": {"en": "Ignoring the problem", "hi": "समस्या की अनदेखी करना"},
+        "d": {"en": "Building roads", "hi": "सड़कें बनाना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Reservation is the most prominent form of affirmative action in India.",
+        "hi": "आरक्षण भारत में सकारात्मक कार्रवाई का सबसे प्रमुख रूप है।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "Why do Adivasis use the 1989 Act against non-tribal people?",
+        "hi": "आदिवासी गैर-आदिवासी लोगों के खिलाफ 1989 के अधिनियम का उपयोग क्यों करते हैं?"
+      },
+      "options": {
+        "a": {"en": "To take their money", "hi": "उनके पैसे लेने के लिए"},
+        "b": {"en": "To stop them from encroaching on tribal land", "hi": "उन्हें जनजातीय भूमि पर अतिक्रमण करने से रोकने के लिए"},
+        "c": {"en": "To ban city clothes", "hi": "शहरी कपड़ों पर प्रतिबंध लगाने के लिए"},
+        "d": {"en": "To build airports", "hi": "हवाई अड्डे बनाने के लिए"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Act protects tribal land from being illegally taken over by outsiders.",
+        "hi": "अधिनियम बाहरी लोगों द्वारा अवैध रूप से जनजातीय भूमि पर कब्जा करने से बचाता है।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Article 17 is a significant victory for the struggle against _______.",
+        "hi": "अनुच्छेद 17 किसके खिलाफ संघर्ष के लिए एक महत्वपूर्ण जीत है?"
+      },
+      "options": {
+        "a": {"en": "Caste-based discrimination", "hi": "जाति-आधारित भेदभाव"},
+        "b": {"en": "Corruption", "hi": "भ्रष्टाचार"},
+        "c": {"en": "Foreign rule", "hi": "विदेशी शासन"},
+        "d": {"en": "Pollution", "hi": "प्रदूषण"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "It ended the legal validity of one of the most cruel social practices in India.",
+        "hi": "इसने भारत में सबसे क्रूर सामाजिक प्रथाओं में से एक की कानूनी वैधता को समाप्त कर दिया।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "A state that does not promote any one religion is called _______.",
+        "hi": "एक राज्य जो किसी एक धर्म को बढ़ावा नहीं देता है वह _______ कहलाता है।"
+      },
+      "options": {
+        "a": {"en": "Monarch", "hi": "राजतंत्र"},
+        "b": {"en": "Secular", "hi": "धर्मनिरपेक्ष (Secular)"},
+        "c": {"en": "Theocratic", "hi": "धर्मतंत्रवादी"},
+        "d": {"en": "Military", "hi": "सैन्य"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Secularism is a key strategy to ensure all religious groups are treated equally.",
+        "hi": "धर्मनिरपेक्षता यह सुनिश्चित करने की एक प्रमुख रणनीति है कि सभी धार्मिक समूहों के साथ समान व्यवहार किया जाए।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "Which poet used his verses to challenge the idea of 'low' and 'high' castes?",
+        "hi": "किस कवि ने अपनी कविताओं का उपयोग 'नीच' और 'ऊँच' जातियों के विचार को चुनौती देने के लिए किया था?"
+      },
+      "options": {
+        "a": {"en": "Kabir", "hi": "कबीर"},
+        "b": {"en": "Shakespeare", "hi": "शेक्सपियर"},
+        "c": {"en": "Wordsworth", "hi": "वर्ड्सवर्थ"},
+        "d": {"en": "Keats", "hi": "कीट्स"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Kabir’s poetry emphasized the equality of all human beings and rejected ritualistic practices.",
+        "hi": "कबीर की कविता ने सभी मनुष्यों की समानता पर जोर दिया और कर्मकांडों को खारिज कर दिया।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "Confronting marginalisation is essential to fulfill the promise of _______.",
+        "hi": "किस वादे को पूरा करने के लिए हाशियाकरण का सामना करना आवश्यक है?"
+      },
+      "options": {
+        "a": {"en": "Democracy", "hi": "लोकतंत्र"},
+        "b": {"en": "Absolute Monarchy", "hi": "पूर्ण राजतंत्र"},
+        "c": {"en": "Dictatorship", "hi": "तानाशाही"},
+        "d": {"en": "Caste supremacy", "hi": "जाति वर्चस्व"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Democracy is about equality, and confronting marginalisation is the path to achieving it.",
+        "hi": "लोकतंत्र समानता के बारे में है, और हाशियाकरण का सामना करना इसे प्राप्त करने का मार्ग है।"
+      }
+    }
+  ]
+}
