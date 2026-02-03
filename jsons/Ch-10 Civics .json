@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 10,
+    "chapter_title": "Law and Social Justice",
+    "chapter_title_hindi": "कानून और सामाजिक न्याय",
+    "subject": "Civics - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_CIV_CH10_SocialJustice_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Why are laws necessary in a market?",
+        "hi": "बाजार में कानूनों की आवश्यकता क्यों है?"
+      },
+      "options": {
+        "a": {"en": "To protect people from exploitation", "hi": "लोगों को शोषण से बचाने के लिए"},
+        "b": {"en": "To ensure workers get fair wages", "hi": "यह सुनिश्चित करने के लिए कि श्रमिकों को उचित मजदूरी मिले"},
+        "c": {"en": "To protect consumers from sub-standard goods", "hi": "उपभोक्ताओं को घटिया सामान से बचाने के लिए"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "explanation": {
+        "en": "Laws ensure that the relations between workers, consumers, and producers are governed in a manner that is not exploitative.",
+        "hi": "कानून यह सुनिश्चित करते हैं कि श्रमिकों, उपभोक्ताओं और उत्पादकों के बीच संबंध इस तरह से संचालित हों जो शोषणकारी न हों।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "The 'Minimum Wages Act' specifies that _______.",
+        "hi": "'न्यूनतम मजदूरी अधिनियम' (Minimum Wages Act) क्या निर्दिष्ट करता है?"
+      },
+      "options": {
+        "a": {"en": "Wages should be decided by workers only", "hi": "मजदूरी केवल श्रमिकों द्वारा तय की जानी चाहिए"},
+        "b": {"en": "Wages should not be below a specified minimum amount", "hi": "मजदूरी एक निर्दिष्ट न्यूनतम राशि से कम नहीं होनी चाहिए"},
+        "c": {"en": "Only rich people should get high wages", "hi": "केवल अमीर लोगों को ही उच्च मजदूरी मिलनी चाहिए"},
+        "d": {"en": "Every worker must be paid in gold", "hi": "प्रत्येक श्रमिक को सोने में भुगतान किया जाना चाहिए"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "This law prevents employers from underpaying workers and ensures a basic standard of living.",
+        "hi": "यह कानून नियोक्ताओं को श्रमिकों को कम भुगतान करने से रोकता है और जीवन के एक बुनियादी स्तर को सुनिश्चित करता है।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Who has the responsibility to ensure that the laws are implemented and enforced?",
+        "hi": "कानूनों को लागू करने और पालन सुनिश्चित करने की जिम्मेदारी किसकी है?"
+      },
+      "options": {
+        "a": {"en": "Individual workers", "hi": "व्यक्तिगत श्रमिकों की"},
+        "b": {"en": "The Government", "hi": "सरकार की"},
+        "c": {"en": "Foreign investors", "hi": "विदेशी निवेशकों की"},
+        "d": {"en": "The Media", "hi": "मीडिया की"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Making a law is not enough; the government must regularly inspect sites and punish those who break the law.",
+        "hi": "केवल कानून बनाना ही काफी नहीं है; सरकार को नियमित रूप से स्थलों का निरीक्षण करना चाहिए और कानून तोड़ने वालों को दंडित करना चाहिए।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "The Bhopal Gas Tragedy took place in which year?",
+        "hi": "भोपाल गैस त्रासदी किस वर्ष हुई थी?"
+      },
+      "options": {
+        "a": {"en": "1947", "hi": "1947"},
+        "b": {"en": "1984", "hi": "1984"},
+        "c": {"en": "2001", "hi": "2001"},
+        "d": {"en": "1991", "hi": "1991"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "On 2 December 1984, poisonous gas leaked from the Union Carbide plant, killing thousands of people.",
+        "hi": "2 दिसंबर 1984 को यूनियन कार्बाइड संयंत्र से जहरीली गैस लीक हुई थी, जिसमें हजारों लोग मारे गए थे।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Which poisonous gas leaked during the Bhopal Gas Tragedy?",
+        "hi": "भोपाल गैस त्रासदी के दौरान कौन सी जहरीली गैस लीक हुई थी?"
+      },
+      "options": {
+        "a": {"en": "Carbon Dioxide", "hi": "कार्बन डाइऑक्साइड"},
+        "b": {"en": "Methyl Isocyanate (MIC)", "hi": "मिथाइल आइसोसाइनेट (MIC)"},
+        "c": {"en": "Oxygen", "hi": "ऑक्सीजन"},
+        "d": {"en": "Nitrogen", "hi": "नाइट्रोजन"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "MIC is a highly toxic gas used in the production of pesticides.",
+        "hi": "MIC एक अत्यधिक जहरीली गैस है जिसका उपयोग कीटनाशकों के उत्पादन में किया जाता है।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Union Carbide (UC) was a _______ company.",
+        "hi": "यूनियन कार्बाइड (UC) एक _______ कंपनी थी।"
+      },
+      "options": {
+        "a": {"en": "Indian", "hi": "भारतीय"},
+        "b": {"en": "American", "hi": "अमेरिकी"},
+        "c": {"en": "British", "hi": "ब्रिटिश"},
+        "d": {"en": "French", "hi": "फ्रांसीसी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "UC was an American multinational company that set up its plant in Bhopal to save costs on labor and safety.",
+        "hi": "UC एक अमेरिकी बहुराष्ट्रीय कंपनी थी जिसने श्रम और सुरक्षा पर लागत बचाने के लिए भोपाल में अपना संयंत्र स्थापित किया था।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Why do foreign companies come to India to set up production?",
+        "hi": "विदेशी कंपनियाँ उत्पादन शुरू करने के लिए भारत क्यों आती हैं?"
+      },
+      "options": {
+        "a": {"en": "India is very small", "hi": "भारत बहुत छोटा है"},
+        "b": {"en": "Availability of cheap labor and lower safety standards", "hi": "सस्ते श्रम की उपलब्धता और निम्न सुरक्षा मानक"},
+        "c": {"en": "To give free gifts to everyone", "hi": "सभी को मुफ्त उपहार देने के लिए"},
+        "d": {"en": "India has no laws", "hi": "भारत में कोई कानून नहीं है"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Lower wages and fewer expenses on safety allow these companies to earn higher profits compared to their home countries.",
+        "hi": "कम मजदूरी और सुरक्षा पर कम खर्च इन कंपनियों को उनके गृह देशों की तुलना में अधिक लाभ कमाने की अनुमति देते हैं।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "The right to a healthy environment is a part of the _______.",
+        "hi": "स्वस्थ पर्यावरण का अधिकार किसका हिस्सा है?"
+      },
+      "options": {
+        "a": {"en": "Right to Property", "hi": "संपत्ति का अधिकार"},
+        "b": {"en": "Right to Life (Article 21)", "hi": "जीवन का अधिकार (अनुच्छेद 21)"},
+        "c": {"en": "Right to vote", "hi": "वोट देने का अधिकार"},
+        "d": {"en": "Right to luxury", "hi": "विलासिता का अधिकार"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Supreme Court has held that the right to life includes the right to the enjoyment of pollution-free water and air.",
+        "hi": "सुप्रीम कोर्ट ने कहा है कि जीवन के अधिकार में प्रदूषण मुक्त जल और वायु के आनंद का अधिकार शामिल है।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "What was the main reason for the high number of casualties in Bhopal?",
+        "hi": "भोपाल में हताहतों की इतनी अधिक संख्या का मुख्य कारण क्या था?"
+      },
+      "options": {
+        "a": {"en": "The gas was colorful", "hi": "गैस रंगीन थी"},
+        "b": {"en": "Severe lack of safety measures and warning systems in the plant", "hi": "संयंत्र में सुरक्षा उपायों और चेतावनी प्रणालियों की भारी कमी"},
+        "c": {"en": "People were sleeping outside", "hi": "लोग बाहर सो रहे थे"},
+        "d": {"en": "The weather was very hot", "hi": "मौसम बहुत गर्म था"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Investigations showed that UC had deliberately ignored safety procedures to cut costs.",
+        "hi": "जाँच से पता चला कि लागत कम करने के लिए यूसी ने जानबूझकर सुरक्षा प्रक्रियाओं की अनदेखी की थी।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Who is a 'Consumer'?",
+        "hi": "'उपभोक्ता' (Consumer) कौन है?"
+      },
+      "options": {
+        "a": {"en": "One who sells goods", "hi": "वह जो सामान बेचता है"},
+        "b": {"en": "One who purchases goods for personal use", "hi": "वह जो व्यक्तिगत उपयोग के लिए सामान खरीदता है"},
+        "c": {"en": "One who makes laws", "hi": "वह जो कानून बनाता है"},
+        "d": {"en": "One who works in a factory", "hi": "वह जो कारखाने में काम करता है"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Consumer laws protect buyers from being cheated by sellers or producers.",
+        "hi": "उपभोक्ता कानून खरीदारों को विक्रेताओं या उत्पादकों द्वारा ठगे जाने से बचाते हैं।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Child labor is illegal in India for children below the age of _______.",
+        "hi": "भारत में किस आयु से कम के बच्चों के लिए बाल श्रम अवैध है?"
+      },
+      "options": {
+        "a": {"en": "10", "hi": "10"},
+        "b": {"en": "14", "hi": "14"},
+        "c": {"en": "18", "hi": "18"},
+        "d": {"en": "21", "hi": "21"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Constitution prohibits the employment of children below 14 years in any factory, mine, or hazardous occupation.",
+        "hi": "संविधान किसी भी कारखाने, खदान या खतरनाक व्यवसाय में 14 वर्ष से कम उम्र के बच्चों के नियोजन पर रोक लगाता है।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "A _______ is a worker who is not a permanent employee and can be removed at any time.",
+        "hi": "_______ वह श्रमिक है जो स्थायी कर्मचारी नहीं है और जिसे किसी भी समय हटाया जा सकता है।"
+      },
+      "options": {
+        "a": {"en": "Manager", "hi": "प्रबंधक"},
+        "b": {"en": "Casual worker", "hi": "कैजुअल (आकस्मिक) श्रमिक"},
+        "c": {"en": "CEO", "hi": "सीईओ"},
+        "d": {"en": "Permanent staff", "hi": "स्थायी कर्मचारी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Casual workers are often poorly paid and have very few rights or job security.",
+        "hi": "कैजुअल श्रमिकों को अक्सर कम वेतन दिया जाता है और उनके पास बहुत कम अधिकार या नौकरी की सुरक्षा होती है।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "What refers to the action of the government to control and check activities of private companies?",
+        "hi": "निजी कंपनियों की गतिविधियों को नियंत्रित करने और जाँचने की सरकारी कार्रवाई को क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Intervention", "hi": "हस्तक्षेप"},
+        "b": {"en": "Regulation", "hi": "विनियमन (Regulation)"},
+        "c": {"en": "Domination", "hi": "वर्चस्व"},
+        "d": {"en": "Isolation", "hi": "अलगाव"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Regulation ensures that private players follow the rules of the land regarding safety and fair trade.",
+        "hi": "विनियमन यह सुनिश्चित करता है कि निजी खिलाड़ी सुरक्षा और निष्पक्ष व्यापार के संबंध में देश के नियमों का पालन करें।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Before the 1980s, India had very few laws protecting the _______.",
+        "hi": "1980 के दशक से पहले, भारत में किसे बचाने वाले बहुत कम कानून थे?"
+      },
+      "options": {
+        "a": {"en": "Rich", "hi": "अमीरों को"},
+        "b": {"en": "Environment", "hi": "पर्यावरण को"},
+        "c": {"en": "Political leaders", "hi": "राजनीतिक नेताओं को"},
+        "d": {"en": "Cars", "hi": "कारों को"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Bhopal tragedy highlighted the absence of environmental safety laws and the weak enforcement of existing ones.",
+        "hi": "भोपाल त्रासदी ने पर्यावरणीय सुरक्षा कानूनों की अनुपस्थिति और मौजूदा कानूनों के कमजोर प्रवर्तन को उजागर किया।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "The polluter pays principle means that _______.",
+        "hi": "'प्रदूषण फैलाने वाला भुगतान करे' (polluter pays) सिद्धांत का अर्थ है _______।"
+      },
+      "options": {
+        "a": {"en": "The victim should pay the polluter", "hi": "पीड़ित को प्रदूषक को भुगतान करना चाहिए"},
+        "b": {"en": "The person or company causing pollution must pay for the damage", "hi": "प्रदूषण फैलाने वाले व्यक्ति या कंपनी को नुकसान के लिए भुगतान करना होगा"},
+        "c": {"en": "Pollution is free", "hi": "प्रदूषण मुफ्त है"},
+        "d": {"en": "Only children pay for pollution", "hi": "केवल बच्चे प्रदूषण के लिए भुगतान करते हैं"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "This legal principle holds industries accountable for the environmental damage they cause.",
+        "hi": "यह कानूनी सिद्धांत उद्योगों को उनके द्वारा किए गए पर्यावरणीय नुकसान के लिए जवाबदेह ठहराता है।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "Why did the Supreme Court order the closure of polluting factories in Delhi?",
+        "hi": "सुप्रीम कोर्ट ने दिल्ली में प्रदूषण फैलाने वाली फैक्ट्रियों को बंद करने का आदेश क्यों दिया?"
+      },
+      "options": {
+        "a": {"en": "To clear space for shopping malls", "hi": "शॉपिंग मॉल के लिए जगह खाली करने के लिए"},
+        "b": {"en": "To protect the health of citizens and reduce pollution", "hi": "नागरिकों के स्वास्थ्य की रक्षा और प्रदूषण को कम करने के लिए"},
+        "c": {"en": "Because the factories were old", "hi": "क्योंकि फैक्ट्रियां पुरानी थीं"},
+        "d": {"en": "The factory owners were leaving", "hi": "फैक्ट्री मालिक छोड़ कर जा रहे थे"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Court recognized that industrial pollution was a threat to the residents' Right to Life.",
+        "hi": "अदालत ने स्वीकार किया कि औद्योगिक प्रदूषण निवासियों के जीवन के अधिकार के लिए खतरा था।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What was the negative impact of closing polluting factories for the workers?",
+        "hi": "प्रदूषण फैलाने वाली फैक्ट्रियों को बंद करने का श्रमिकों पर क्या नकारात्मक प्रभाव पड़ा?"
+      },
+      "options": {
+        "a": {"en": "They became rich", "hi": "वे अमीर हो गए"},
+        "b": {"en": "Many lost their livelihoods and jobs", "hi": "कई लोगों ने अपनी आजीविका और नौकरी खो दी"},
+        "c": {"en": "They got more holidays", "hi": "उन्हें अधिक छुट्टियां मिलीं"},
+        "d": {"en": "They moved to the USA", "hi": "वे अमेरिका चले गए"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "This highlights the challenge of balancing environmental protection with social justice for workers.",
+        "hi": "यह श्रमिकों के लिए सामाजिक न्याय के साथ पर्यावरण संरक्षण को संतुलित करने की चुनौती को उजागर करता है।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "Who is a 'Producer'?",
+        "hi": "'उत्पादक' (Producer) कौन है?"
+      },
+      "options": {
+        "a": {"en": "One who only eats food", "hi": "वह जो केवल भोजन खाता है"},
+        "b": {"en": "An individual or company that manufactures goods or provides services", "hi": "एक व्यक्ति या कंपनी जो सामान बनाती है या सेवाएँ प्रदान करती है"},
+        "c": {"en": "A policeman", "hi": "एक पुलिसकर्मी"},
+        "d": {"en": "A student", "hi": "एक छात्र"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Producers have a duty to ensure that their products and working conditions are safe.",
+        "hi": "उत्पादकों का यह कर्तव्य है कि वे सुनिश्चित करें कि उनके उत्पाद और काम करने की स्थितियां सुरक्षित हैं।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What is 'Investment'?",
+        "hi": "'निवेश' (Investment) क्या है?"
+      },
+      "options": {
+        "a": {"en": "Money spent to buy new machinery or set up a business to earn profit", "hi": "लाभ कमाने के लिए नई मशीनरी खरीदने या व्यवसाय स्थापित करने के लिए खर्च किया गया धन"},
+        "b": {"en": "Giving money as a gift", "hi": "उपहार के रूप में पैसा देना"},
+        "c": {"en": "Spending all money on a party", "hi": "पार्टी पर सारा पैसा खर्च करना"},
+        "d": {"en": "Stealing money", "hi": "पैसा चुराना"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Capital investment is necessary for industrial growth but must follow legal regulations.",
+        "hi": "औद्योगिक विकास के लिए पूंजीगत निवेश आवश्यक है लेकिन उसे कानूनी नियमों का पालन करना चाहिए।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "Workers often accept low wages and unsafe conditions because _______.",
+        "hi": "श्रमिक अक्सर कम मजदूरी और असुरक्षित परिस्थितियों को स्वीकार कर लेते हैं क्योंकि _______।"
+      },
+      "options": {
+        "a": {"en": "They like it", "hi": "वे इसे पसंद करते हैं"},
+        "b": {"en": "There is high unemployment and competition for jobs", "hi": "बेरोजगारी अधिक है और नौकरियों के लिए प्रतिस्पर्धा है"},
+        "c": {"en": "They don't want money", "hi": "वे पैसा नहीं चाहते"},
+        "d": {"en": "The government orders them", "hi": "सरकार उन्हें आदेश देती है"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "High poverty levels make workers vulnerable to exploitation by employers.",
+        "hi": "गरीबी का उच्च स्तर श्रमिकों को नियोक्ताओं द्वारा शोषण के प्रति संवेदनशील बनाता है।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "In the Union Carbide plant, how much money was paid to victims as final settlement in 1989?",
+        "hi": "यूनियन कार्बाइड संयंत्र मामले में, 1989 में पीड़ितों को अंतिम समझौते के रूप में कितनी राशि दी गई थी?"
+      },
+      "options": {
+        "a": {"en": "$100 million", "hi": "$100 मिलियन"},
+        "b": {"en": "$470 million", "hi": "$470 मिलियन"},
+        "c": {"en": "$1 billion", "hi": "$1 बिलियन"},
+        "d": {"en": "$10 million", "hi": "$10 मिलियन"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Survivors fought for years as they found this amount to be too low considering the scale of damage.",
+        "hi": "जीवित बचे लोगों ने वर्षों तक संघर्ष किया क्योंकि उन्हें नुकसान के पैमाने को देखते हुए यह राशि बहुत कम लगी।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Public Interest Litigation (PIL) has helped in _______.",
+        "hi": "जनहित याचिका (PIL) ने किसमें मदद की है?"
+      },
+      "options": {
+        "a": {"en": "Increasing pollution", "hi": "प्रदूषण बढ़ाने में"},
+        "b": {"en": "Expanding the meaning of Right to Life to include environment", "hi": "पर्यावरण को शामिल करने के लिए जीवन के अधिकार के अर्थ का विस्तार करने में"},
+        "c": {"en": "Banning all factories", "hi": "सभी फैक्ट्रियों पर प्रतिबंध लगाने में"},
+        "d": {"en": "Stopping all traffic", "hi": "सभी यातायात को रोकने में"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "PIL allows citizens to fight for communal issues like clean air and water through the courts.",
+        "hi": "पीआईएल नागरिकों को अदालतों के माध्यम से स्वच्छ हवा और पानी जैसे सामुदायिक मुद्दों के लिए लड़ने की अनुमति देती है।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Social justice means that _______.",
+        "hi": "सामाजिक न्याय का अर्थ है कि _______।"
+      },
+      "options": {
+        "a": {"en": "The weak should be protected against the powerful", "hi": "शक्तिशाली के विरुद्ध कमजोरों की रक्षा की जानी चाहिए"},
+        "b": {"en": "Only rich people are always right", "hi": "केवल अमीर लोग ही हमेशा सही होते हैं"},
+        "c": {"en": "No one needs laws", "hi": "किसी को कानून की जरूरत नहीं है"},
+        "d": {"en": "The government should own everything", "hi": "सरकार का सब कुछ पर अधिकार होना चाहिए"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The role of the government is to ensure that the vulnerable sections of society are not exploited.",
+        "hi": "सरकार की भूमिका यह सुनिश्चित करना है कि समाज के कमजोर वर्गों का शोषण न हो।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "Which of these is a 'Hazardous' industry?",
+        "hi": "इनमें से कौन सा एक 'खतरनाक' (Hazardous) उद्योग है?"
+      },
+      "options": {
+        "a": {"en": "Software development", "hi": "सॉफ्टवेयर विकास"},
+        "b": {"en": "Pesticide and chemical manufacturing", "hi": "कीटनाशक और रसायन विनिर्माण"},
+        "c": {"en": "Teaching", "hi": "शिक्षण"},
+        "d": {"en": "Singing", "hi": "गायन"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Hazardous industries deal with substances that can be harmful to health or life if leaked.",
+        "hi": "खतरनाक उद्योग उन पदार्थों से निपटते हैं जो लीक होने पर स्वास्थ्य या जीवन के लिए हानिकारक हो सकते हैं।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "The government's role is not just to make laws but to ensure _______.",
+        "hi": "सरकार की भूमिका केवल कानून बनाना ही नहीं है बल्कि यह सुनिश्चित करना भी है _______।"
+      },
+      "options": {
+        "a": {"en": "Every child has a toy", "hi": "कि हर बच्चे के पास एक खिलौना हो"},
+        "b": {"en": "Regular inspection and enforcement of these laws", "hi": "इन कानूनों का नियमित निरीक्षण और प्रवर्तन"},
+        "c": {"en": "Every person goes to America", "hi": "कि हर व्यक्ति अमेरिका जाए"},
+        "d": {"en": "Only businessmen are happy", "hi": "कि केवल व्यवसायी ही खुश रहें"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Without enforcement, laws remain only on paper and fail to protect the people.",
+        "hi": "प्रवर्तन के बिना, कानून केवल कागजों पर रह जाते हैं और लोगों की रक्षा करने में विफल रहते हैं।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "What does 'Exploitation' in a workplace mean?",
+        "hi": "कार्यस्थल पर 'शोषण' (Exploitation) का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Providing free lunch", "hi": "मुफ्त दोपहर का भोजन प्रदान करना"},
+        "b": {"en": "Underpaying workers or making them work in unsafe conditions", "hi": "श्रमिकों को कम भुगतान करना या उन्हें असुरक्षित परिस्थितियों में काम करने के लिए मजबूर करना"},
+        "c": {"en": "Giving a promotion", "hi": "पदोन्नति देना"},
+        "d": {"en": "Celebrating birthdays", "hi": "जन्मदिन मनाना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Social justice laws are designed specifically to end such practices.",
+        "hi": "सामाजिक न्याय कानून विशेष रूप से ऐसी प्रथाओं को समाप्त करने के लिए डिज़ाइन किए गए हैं।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Why was the environment considered a 'free entity' before 1980s in India?",
+        "hi": "1980 के दशक से पहले भारत में पर्यावरण को 'मुफ्त वस्तु' (free entity) क्यों माना जाता था?"
+      },
+      "options": {
+        "a": {"en": "Because there were no environmental laws and companies could pollute without any penalty", "hi": "क्योंकि कोई पर्यावरणीय कानून नहीं थे और कंपनियाँ बिना किसी दंड के प्रदूषण फैला सकती थीं"},
+        "b": {"en": "Because nature is free", "hi": "क्योंकि प्रकृति स्वतंत्र है"},
+        "c": {"en": "Because people didn't breathe air", "hi": "क्योंकि लोग हवा में सांस नहीं लेते थे"},
+        "d": {"en": "Because water was not needed", "hi": "क्योंकि पानी की जरूरत नहीं थी"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Industrialists cared more about profit than the environment, leading to massive pollution of rivers and air.",
+        "hi": "उद्योगपतियों ने पर्यावरण की तुलना में लाभ की अधिक परवाह की, जिससे नदियों और वायु का भारी प्रदूषण हुआ।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Sustainable development means that production should not _______.",
+        "hi": "सतत पोषणीय विकास का अर्थ है कि उत्पादन को _______ नहीं करना चाहिए।"
+      },
+      "options": {
+        "a": {"en": "Be done in factories", "hi": "कारखानों में नहीं किया जाना चाहिए"},
+        "b": {"en": "Hurt the environment or the future of people", "hi": "पर्यावरण या लोगों के भविष्य को नुकसान नहीं पहुँचाना चाहिए"},
+        "c": {"en": "Earn any profit", "hi": "कोई लाभ नहीं कमाना चाहिए"},
+        "d": {"en": "Use electricity", "hi": "बिजली का उपयोग नहीं करना चाहिए"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Growth must be balanced with the health of the planet and safety of the workers.",
+        "hi": "विकास को ग्रह के स्वास्थ्य और श्रमिकों की सुरक्षा के साथ संतुलित किया जाना चाहिए।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "Who is the owner of the Union Carbide plant today?",
+        "hi": "आज यूनियन कार्बाइड संयंत्र का मालिक कौन है?"
+      },
+      "options": {
+        "a": {"en": "Warren Anderson", "hi": "वॉरेन एंडरसन"},
+        "b": {"en": "Dow Chemical", "hi": "डाउ केमिकल (Dow Chemical)"},
+        "c": {"en": "The Indian Government", "hi": "भारतीय सरकार"},
+        "d": {"en": "None, it is closed", "hi": "कोई नहीं, यह बंद है"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "UC was taken over by Dow Chemical, which has refused to take responsibility for the cleanup of the site.",
+        "hi": "यूनियन कार्बाइड का अधिग्रहण डाउ केमिकल द्वारा कर लिया गया था, जिसने स्थल की सफाई की जिम्मेदारी लेने से इनकार कर दिया है।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "Social justice can only be achieved when the government is _______ to the needs of the poor.",
+        "hi": "सामाजिक न्याय तभी प्राप्त किया जा सकता है जब सरकार गरीबों की जरूरतों के प्रति _______ हो।"
+      },
+      "options": {
+        "a": {"en": "Blind", "hi": "अंधी"},
+        "b": {"en": "Responsive and active", "hi": "उत्तरदायी और सक्रिय"},
+        "c": {"en": "Opposed", "hi": "विरोधी"},
+        "d": {"en": "Angry", "hi": "क्रोधित"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Proactive governance is necessary to balance the power of private industries with human rights.",
+        "hi": "निजी उद्योगों की शक्ति को मानवाधिकारों के साथ संतुलित करने के लिए सक्रिय शासन आवश्यक है।"
+      }
+    }
+  ]
+}
