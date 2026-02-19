@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 8,
+    "chapter_title": "A Short Monsoon Diary",
+    "chapter_title_hindi": "मानसून की एक संक्षिप्त डायरी",
+    "subject": "English - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_ENG_CH08_Monsoon_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Who is the author of 'A Short Monsoon Diary'?",
+        "hi": "'ए शॉर्ट मानसून डायरी' के लेखक कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "Satyajit Ray", "hi": "सत्यजीत राय"},
+        "b": {"en": "Ruskin Bond", "hi": "रस्किन बॉन्ड"},
+        "c": {"en": "Rabindranath Tagore", "hi": "रवींद्रनाथ टैगोर"},
+        "d": {"en": "H.P.S. Ahluwalia", "hi": "एच.पी.एस. आहलूवालिया"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Ruskin Bond is a famous Indian author known for his stories set in the Himalayas.",
+        "hi": "रस्किन बॉन्ड एक प्रसिद्ध भारतीय लेखक हैं जो हिमालय में सेट अपनी कहानियों के लिए जाने जाते हैं।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "On which date does the diary entry begin?",
+        "hi": "डायरी की प्रविष्टि किस तारीख से शुरू होती है?"
+      },
+      "options": {
+        "a": {"en": "June 24", "hi": "24 जून"},
+        "b": {"en": "August 2", "hi": "2 अगस्त"},
+        "c": {"en": "January 26", "hi": "26 जनवरी"},
+        "d": {"en": "March 23", "hi": "23 मार्च"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The first entry in the diary is dated June 24, marking the first day of the monsoon mist.",
+        "hi": "डायरी में पहली प्रविष्टि 24 जून की है, जो मानसून के धुंध के पहले दिन को दर्शाती है।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "What is the first sign of the monsoon in the hills?",
+        "hi": "पहाड़ियों में मानसून का पहला संकेत क्या है?"
+      },
+      "options": {
+        "a": {"en": "Heavy snowfall", "hi": "भारी बर्फबारी"},
+        "b": {"en": "The mist climbing the hills", "hi": "पहाड़ियों पर चढ़ती धुंध"},
+        "c": {"en": "A dry wind", "hi": "सूखी हवा"},
+        "d": {"en": "Earthquakes", "hi": "भूकंप"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The author describes the mist as concealing the hills and creating silence.",
+        "hi": "लेखक धुंध का वर्णन पहाड़ियों को छिपाने और सन्नाटा पैदा करने वाली चीज़ के रूप में करते हैं।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Why does the mist make everything 'melancholy'?",
+        "hi": "धुंध सब कुछ 'उदास' (melancholy) क्यों बना देती है?"
+      },
+      "options": {
+        "a": {"en": "Because it's very cold", "hi": "क्योंकि बहुत ठंड है"},
+        "b": {"en": "Because it conceals the hills and silences the birds", "hi": "क्योंकि यह पहाड़ियों को छिपा देती है और पक्षियों को खामोश कर देती है"},
+        "c": {"en": "Because it causes floods", "hi": "क्योंकि इससे बाढ़ आती है"},
+        "d": {"en": "Because it makes the author sick", "hi": "क्योंकि यह लेखक को बीमार कर देती है"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The mist blankets the landscape in silence, making it feel lonely and sad.",
+        "hi": "धुंध सन्नाटे में परिदृश्य को ढक देती है, जिससे अकेलापन और उदासी महसूस होती है।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Who does the author hear but cannot see through the mist on June 24?",
+        "hi": "24 जून को धुंध के कारण लेखक किसे सुन तो सकते हैं लेकिन देख नहीं सकते?"
+      },
+      "options": {
+        "a": {"en": "His mother", "hi": "अपनी माँ को"},
+        "b": {"en": "Biju", "hi": "बिजू को"},
+        "c": {"en": "A leopard", "hi": "एक तेंदुए को"},
+        "d": {"en": "A postman", "hi": "एक डाकिया को"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The author can hear Biju calling to his sister but cannot see him due to the thick mist.",
+        "hi": "लेखक बिजू को अपनी बहन को बुलाते हुए सुन सकते हैं लेकिन घनी धुंध के कारण उसे देख नहीं सकते।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "What flower rears its head from the ferns on June 25?",
+        "hi": "25 जून को फर्न (ferns) के बीच से कौन सा फूल अपना सिर उठाता है?"
+      },
+      "options": {
+        "a": {"en": "Rose", "hi": "गुलाब"},
+        "b": {"en": "Cobra Lily", "hi": "कोबरा लिली"},
+        "c": {"en": "Sunflower", "hi": "सूरजमुखी"},
+        "d": {"en": "Lotus", "hi": "कमल"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Cobra Lily is described as appearing as the monsoon rain begins.",
+        "hi": "कोबरा लिली का वर्णन मानसून की बारिश शुरू होते ही दिखाई देने वाले फूल के रूप में किया गया है।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "The school boy asked the author to describe the hill station in _______.",
+        "hi": "स्कूली लड़के ने लेखक से पहाड़ी इलाके (hill station) का वर्णन _______ में करने को कहा।"
+      },
+      "options": {
+        "a": {"en": "One sentence", "hi": "एक वाक्य"},
+        "b": {"en": "A long essay", "hi": "एक लंबा निबंध"},
+        "c": {"en": "A poem", "hi": "एक कविता"},
+        "d": {"en": "A song", "hi": "एक गाना"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The author described it as 'A paradise that might have been'.",
+        "hi": "लेखक ने इसका वर्णन 'एक स्वर्ग जो हो सकता था' के रूप में किया।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Which bird is mentioned as 'unnecessarily' noisy during the rain?",
+        "hi": "बारिश के दौरान किस पक्षी को 'अनावश्यक' रूप से शोर करने वाला बताया गया है?"
+      },
+      "options": {
+        "a": {"en": "Peacock", "hi": "मोर"},
+        "b": {"en": "Crow", "hi": "कौआ"},
+        "c": {"en": "Drumming of rain on tin roof", "hi": "टीन की छत पर बारिश की थाप"},
+        "d": {"en": "Drongo", "hi": "ड्रोंगो"}
+      },
+      "correct_option": "d",
+      "explanation": {
+        "en": "The drongo is described as aggressively chasing away other birds.",
+        "hi": "ड्रोंगो का वर्णन अन्य पक्षियों को आक्रामक रूप से भगाने वाले पक्षी के रूप में किया गया है।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "The leopard lifted a _______ from near the servants' quarter.",
+        "hi": "तेंदुए ने नौकरों के क्वार्टर के पास से एक _______ उठा लिया।"
+      },
+      "options": {
+        "a": {"en": "Cow", "hi": "गाय"},
+        "b": {"en": "Dog", "hi": "कुत्ता"},
+        "c": {"en": "Cat", "hi": "बिल्ली"},
+        "d": {"en": "Child", "hi": "बच्चा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The leopard attacked a dog on the afternoon of June 27.",
+        "hi": "27 जून की दोपहर को तेंदुए ने एक कुत्ते पर हमला किया था।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "What did the leopard attempt to do to Biju's cow?",
+        "hi": "तेंदुए ने बिजू की गाय के साथ क्या करने की कोशिश की?"
+      },
+      "options": {
+        "a": {"en": "Eat it", "hi": "उसे खाने की"},
+        "b": {"en": "Play with it", "hi": "उसके साथ खेलने की"},
+        "c": {"en": "Attack it, but fled when Biju's mother came", "hi": "उस पर हमला करने की, लेकिन बिजू की माँ के आने पर भाग गया"},
+        "d": {"en": "Chase it into the forest", "hi": "उसे जंगल में खदेड़ने की"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "The leopard fled when Biju's mother approached, screaming imprecations.",
+        "hi": "जब बिजू की माँ चिल्लाते हुए आई, तो तेंदुआ भाग गया।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Which creatures are described as 'seasonal visitors'?",
+        "hi": "किन जीवों को 'मौसमी आगंतुक' (seasonal visitors) कहा गया है?"
+      },
+      "options": {
+        "a": {"en": "Leopard and Leeches", "hi": "तेंदुआ और जोंक"},
+        "b": {"en": "Elephants and Lions", "hi": "हाथी और शेर"},
+        "c": {"en": "Snakes and Scorpions", "hi": "सांप और बिच्छू"},
+        "d": {"en": "Butterflies", "hi": "तितलियाँ"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The rains bring out the leopard and thousands of leeches.",
+        "hi": "बारिश तेंदुए और हजारों जोंकों को बाहर ले आती है।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What happens to the author's blood when a leech attaches to him?",
+        "hi": "जब जोंक लेखक से चिपक जाती है, तो उनके खून का क्या होता है?"
+      },
+      "options": {
+        "a": {"en": "He loses a lot of blood", "hi": "उनका बहुत सारा खून बह जाता है"},
+        "b": {"en": "A little blood-letting occurs", "hi": "थोड़ा सा रक्तस्राव होता है"},
+        "c": {"en": "He becomes sick", "hi": "वे बीमार हो जाते हैं"},
+        "d": {"en": "Nothing happens", "hi": "कुछ नहीं होता"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The author humorously refers to the leech's bite as 'a little blood-letting'.",
+        "hi": "लेखक मजाक में जोंक के काटने को 'थोड़ा रक्तस्राव' कहते हैं।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "The Scarlet Minivets are birds that look like _______.",
+        "hi": "स्कार्लेट मिनीवेट्स (Scarlet Minivets) वे पक्षी हैं जो _______ की तरह दिखते हैं।"
+      },
+      "options": {
+        "a": {"en": "Crows", "hi": "कौवे"},
+        "b": {"en": "Bright jewels", "hi": "चमकदार रत्न"},
+        "c": {"en": "Leaves", "hi": "पत्ते"},
+        "d": {"en": "Clouds", "hi": "बादल"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "They flit silently among the leaves like brilliant jewels.",
+        "hi": "वे पत्तों के बीच शानदार रत्नों की तरह चुपचाप उड़ते रहते हैं।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Why do the birds remain silent during the rain?",
+        "hi": "बारिश के दौरान पक्षी चुप क्यों रहते हैं?"
+      },
+      "options": {
+        "a": {"en": "They are sleeping", "hi": "वे सो रहे हैं"},
+        "b": {"en": "They are hiding from the wet leaves", "hi": "वे गीले पत्तों से छिप रहे हैं"},
+        "c": {"en": "Because of the steady swish of tropical rain", "hi": "उष्णकटिबंधीय वर्षा की निरंतर सरसराहट के कारण"},
+        "d": {"en": "They have lost their voice", "hi": "उनकी आवाज चली गई है"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "The sound of the rain dominates all other sounds of nature.",
+        "hi": "बारिश की आवाज प्रकृति की अन्य सभी आवाजों पर हावी हो जाती है।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "What is the date when the 'lush monsoon growth' reaches its peak?",
+        "hi": "वह कौन सी तारीख है जब 'मानसून की हरियाली' अपने चरम पर पहुँच जाती है?"
+      },
+      "options": {
+        "a": {"en": "August 2", "hi": "2 अगस्त"},
+        "b": {"en": "August 31", "hi": "31 अगस्त"},
+        "c": {"en": "October 3", "hi": "3 अक्टूबर"},
+        "d": {"en": "July 10", "hi": "10 जुलाई"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "By August 31, the monsoon growth is at its peak and seeds of the cobra lily are turning red.",
+        "hi": "31 अगस्त तक, मानसून की हरियाली अपने चरम पर होती है और कोबरा लिली के बीज लाल होने लगते हैं।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "When the cobra lily seeds turn red, it signifies that _______.",
+        "hi": "जब कोबरा लिली के बीज लाल हो जाते हैं, तो इसका मतलब है कि _______।"
+      },
+      "options": {
+        "a": {"en": "The monsoon is starting", "hi": "मानसून शुरू हो रहा है"},
+        "b": {"en": "The rains are coming to an end", "hi": "बारिश खत्म होने वाली है"},
+        "c": {"en": "It is going to snow", "hi": "बर्फ गिरने वाली है"},
+        "d": {"en": "The flowers are blooming", "hi": "फूल खिल रहे हैं"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Red seeds are a sign that the monsoon season is concluding.",
+        "hi": "लाल बीज इस बात का संकेत हैं कि मानसून का मौसम समाप्त हो रहा है।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What covers the hills in October?",
+        "hi": "अक्टूबर में पहाड़ियों को क्या ढक देता है?"
+      },
+      "options": {
+        "a": {"en": "Snow", "hi": "बर्फ"},
+        "b": {"en": "Wild dahlias", "hi": "जंगली डहेलिया"},
+        "c": {"en": "Mist", "hi": "धुंध"},
+        "d": {"en": "Dust", "hi": "धूल"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The hills are covered with wild dahlias, marigolds, and ground orchids in October.",
+        "hi": "अक्टूबर में पहाड़ियाँ जंगली डहेलिया, गेंदा और ग्राउंड ऑर्किड से ढकी रहती हैं।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "Why do snakes and rodents take shelter in roofs and attics?",
+        "hi": "सांप और चूहे छतों और अटारियों में शरण क्यों लेते हैं?"
+      },
+      "options": {
+        "a": {"en": "They like humans", "hi": "उन्हें इंसान पसंद हैं"},
+        "b": {"en": "Their holes are flooded with water", "hi": "उनके बिलों में पानी भर गया है"},
+        "c": {"en": "They are looking for food", "hi": "वे भोजन की तलाश में हैं"},
+        "d": {"en": "It is too hot outside", "hi": "बाहर बहुत गर्मी है"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Flooded holes force these animals to seek high, dry ground.",
+        "hi": "बिलों में पानी भर जाने से ये जानवर ऊँची, सूखी जगह की तलाश करने को मजबूर हो जाते हैं।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What did the grandmother tell the children about the 'Chuchundar'?",
+        "hi": "दादी ने बच्चों को 'छछूंदर' के बारे में क्या बताया?"
+      },
+      "options": {
+        "a": {"en": "Don't kill it, it brings money", "hi": "इसे मारना मत, यह पैसा लाता है"},
+        "b": {"en": "It is poisonous", "hi": "यह जहरीला होता है"},
+        "c": {"en": "It is a ghost", "hi": "यह एक भूत है"},
+        "d": {"en": "It eats clothes", "hi": "यह कपड़े खाता है"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Superstition suggests that a chuchundar (shrew) brings good luck and money.",
+        "hi": "अंधविश्वास बताता है कि छछूंदर सौभाग्य और पैसा लाता है।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "The author received a _______ on October 3, which proved the grandmother right.",
+        "hi": "लेखक को 3 अक्टूबर को एक _______ प्राप्त हुआ, जिससे दादी की बात सही साबित हुई।"
+      },
+      "options": {
+        "a": {"en": "Gift", "hi": "उपहार"},
+        "b": {"en": "Cheque", "hi": "चेक (Cheque)"},
+        "c": {"en": "Parcel", "hi": "पार्सल"},
+        "d": {"en": "Telegram", "hi": "टेलीग्राम"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The cheque represented the 'money' the chuchundar was supposed to bring.",
+        "hi": "चेक उस 'पैसे' का प्रतिनिधित्व करता था जो छछूंदर को लाना था।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "What is the weather like on January 26?",
+        "hi": "26 जनवरी को मौसम कैसा होता है?"
+      },
+      "options": {
+        "a": {"en": "Hot and humid", "hi": "गर्म और उमस भरा"},
+        "b": {"en": "Winter rain in the hills", "hi": "पहाड़ियों में सर्दियों की बारिश"},
+        "c": {"en": "First day of spring", "hi": "वसंत का पहला दिन"},
+        "d": {"en": "Dusty storm", "hi": "धूल भरी आंधी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "January 26 marks winter rain, which is quieter and lonelier than the monsoon rain.",
+        "hi": "26 जनवरी सर्दियों की बारिश का प्रतीक है, जो मानसून की बारिश की तुलना में शांत और अधिक अकेली होती है।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "The author feels 'quite alone' during the winter rain because _______.",
+        "hi": "सर्दियों की बारिश के दौरान लेखक 'बिल्कुल अकेला' महसूस करते हैं क्योंकि _______।"
+      },
+      "options": {
+        "a": {"en": "His friends left him", "hi": "उनके दोस्त उन्हें छोड़कर चले गए"},
+        "b": {"en": "The rain is silent and he is in a house with no one else", "hi": "बारिश खामोश है और वे घर में अकेले हैं"},
+        "c": {"en": "He is lost in the forest", "hi": "वे जंगल में खो गए हैं"},
+        "d": {"en": "The electricity is gone", "hi": "बिजली चली गई है"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The silence of the winter rain creates a sense of deep solitude.",
+        "hi": "सर्दियों की बारिश का सन्नाटा गहरे अकेलेपन का अहसास कराता है।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "On March 23, what marks the end of winter?",
+        "hi": "23 मार्च को सर्दियों के अंत का प्रतीक क्या है?"
+      },
+      "options": {
+        "a": {"en": "A hailstorm", "hi": "ओलावृष्टि"},
+        "b": {"en": "Heat wave", "hi": "लू"},
+        "c": {"en": "Heavy flooding", "hi": "भारी बाढ़"},
+        "d": {"en": "Falling leaves", "hi": "गिरते पत्ते"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The diary ends with a hailstorm that clears the sky.",
+        "hi": "डायरी ओलावृष्टि के साथ समाप्त होती है जो आसमान को साफ कर देती है।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "The phrase 'A paradise that might have been' refers to _______.",
+        "hi": "वाक्यांश 'एक स्वर्ग जो हो सकता था' _______ को संदर्भित करता है।"
+      },
+      "options": {
+        "a": {"en": "Heaven", "hi": "स्वर्ग"},
+        "b": {"en": "Mussoorie", "hi": "मसूरी"},
+        "c": {"en": "Delhi", "hi": "दिल्ली"},
+        "d": {"en": "The forest", "hi": "जंगल"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "It is the author's poetic description of the beautiful hill station.",
+        "hi": "यह सुंदर हिल स्टेशन का लेखक का काव्यात्मक वर्णन है।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "What is the 'Cobra Lily' often associated with in the text?",
+        "hi": "पाठ में 'कोबरा लिली' अक्सर किससे जुड़ी होती है?"
+      },
+      "options": {
+        "a": {"en": "The onset and end of the monsoon", "hi": "मानसून की शुरुआत और अंत"},
+        "b": {"en": "Summer heat", "hi": "गर्मी की लहर"},
+        "c": {"en": "Snowfall", "hi": "बर्फबारी"},
+        "d": {"en": "Dry winter", "hi": "शुष्क सर्दी"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "It appears at the start and its seeds turn red at the end of the monsoon.",
+        "hi": "यह शुरुआत में दिखाई देती है और मानसून के अंत में इसके बीज लाल हो जाते हैं।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "How does the rain on the tin roof affect the author?",
+        "hi": "टीन की छत पर होने वाली बारिश लेखक को कैसे प्रभावित करती है?"
+      },
+      "options": {
+        "a": {"en": "It makes him angry", "hi": "यह उन्हें गुस्सा दिलाती है"},
+        "b": {"en": "It helps him stay awake and yet feel in touch with the rain", "hi": "यह उन्हें जागते रहने में मदद करती है और फिर भी बारिश के संपर्क में महसूस कराती है"},
+        "c": {"en": "It gives him a headache", "hi": "यह उनके सिर में दर्द कर देती है"},
+        "d": {"en": "He doesn't hear it", "hi": "वे इसे सुन नहीं पाते"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He finds the sound of rain on the tin roof comforting and meditative.",
+        "hi": "टीन की छत पर बारिश की आवाज उन्हें सुकून देने वाली और ध्यानपूर्ण लगती है।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Which of these flowers is NOT mentioned in the October entry?",
+        "hi": "इनमें से किस फूल का उल्लेख अक्टूबर की प्रविष्टि में नहीं है?"
+      },
+      "options": {
+        "a": {"en": "Wild Dahlias", "hi": "जंगली डहेलिया"},
+        "b": {"en": "Marigolds", "hi": "गेंदा"},
+        "c": {"en": "Orchids", "hi": "ऑर्किड"},
+        "d": {"en": "Tulips", "hi": "ट्यूलिप"}
+      },
+      "correct_option": "d",
+      "explanation": {
+        "en": "Tulips are not native to the monsoon landscape described by Ruskin Bond.",
+        "hi": "ट्यूलिप उस मानसूनी परिदृश्य के मूल निवासी नहीं हैं जिसका वर्णन रस्किन बॉन्ड ने किया है।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "The author says that during the rain, the hills are _______.",
+        "hi": "लेखक कहते हैं कि बारिश के दौरान पहाड़ियाँ _______ होती हैं।"
+      },
+      "options": {
+        "a": {"en": "Silent", "hi": "खामोश"},
+        "b": {"en": "Loud", "hi": "शोर वाली"},
+        "c": {"en": "Invisible", "hi": "अदृश्य"},
+        "d": {"en": "Crowded", "hi": "भीड़भाड़ वाली"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The mist and rain create a blanket of silence over the hills.",
+        "hi": "धुंध और बारिश पहाड़ियों पर सन्नाटे की चादर बिछा देते हैं।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "What clears the sky at the end of the diary?",
+        "hi": "डायरी के अंत में आसमान को क्या साफ कर देता है?"
+      },
+      "options": {
+        "a": {"en": "Sunlight", "hi": "धूप"},
+        "b": {"en": "A rainbow", "hi": "एक इंद्रधनुष"},
+        "c": {"en": "A hailstorm", "hi": "ओलावृष्टि"},
+        "d": {"en": "Strong wind", "hi": "तेज हवा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "As the author writes the last entry, a rainbow forms across the sky.",
+        "hi": "जैसे ही लेखक आखिरी प्रविष्टि लिखते हैं, आकाश में एक इंद्रधनुष बन जाता है।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "What is the main theme of the diary?",
+        "hi": "डायरी का मुख्य विषय क्या है?"
+      },
+      "options": {
+        "a": {"en": "The struggle of hill life", "hi": "पहाड़ी जीवन का संघर्ष"},
+        "b": {"en": "A peaceful observation of nature's beauty and changes", "hi": "प्रकृति की सुंदरता और परिवर्तनों का शांतिपूर्ण अवलोकन"},
+        "c": {"en": "A guide on how to survive rain", "hi": "बारिश में कैसे बचे रहें, इस पर एक गाइड"},
+        "d": {"en": "A story about ghosts in the mist", "hi": "धुंध में भूतों के बारे में एक कहानी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Bond focuses on the delicate and beautiful details of the natural world during the seasons.",
+        "hi": "बॉन्ड ऋतुओं के दौरान प्राकृतिक दुनिया के नाजुक और सुंदर विवरणों पर ध्यान केंद्रित करते हैं।"
+      }
+    }
+  ]
+}
