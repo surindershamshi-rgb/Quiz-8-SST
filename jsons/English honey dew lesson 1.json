@@ -1,0 +1,194 @@
+{
+  "metadata": {
+    "chapter_number": 1,
+    "chapter_title": "Components of Food",
+    "chapter_title_hindi": "भोजन के घटक",
+    "subject": "Science - Class 6",
+    "board": "CBSE (NCERT)",
+    "total_questions": 10,
+    "version": "1.0",
+    "naming_convention": "06_SCI_CH01_Food_MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Which of the following are known as energy-giving foods?",
+        "hi": "निम्नलिखित में से किसे ऊर्जा देने वाला भोजन कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Carbohydrates and Fats", "hi": "कार्बोहाइड्रेट और वसा"},
+        "b": {"en": "Proteins and Minerals", "hi": "प्रोटीन और खनिज"},
+        "c": {"en": "Vitamins and Dietary fibers", "hi": "विटामिन और आहारीय रेशे"},
+        "d": {"en": "Water and Proteins", "hi": "जल और प्रोटीन"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Carbohydrates and fats mainly provide energy to our body. Fats give much more energy as compared to the same amount of carbohydrates.",
+        "hi": "कार्बोहाइड्रेट और वसा मुख्य रूप से हमारे शरीर को ऊर्जा प्रदान करते हैं। कार्बोहाइड्रेट की समान मात्रा की तुलना में वसा से बहुत अधिक ऊर्जा मिलती है।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Which nutrient is required for the growth and repair of our body?",
+        "hi": "हमारे शरीर की वृद्धि और मरम्मत के लिए किस पोषक तत्व की आवश्यकता होती है?"
+      },
+      "options": {
+        "a": {"en": "Carbohydrates", "hi": "कार्बोहाइड्रेट"},
+        "b": {"en": "Proteins", "hi": "प्रोटीन"},
+        "c": {"en": "Vitamins", "hi": "विटामिन"},
+        "d": {"en": "Fats", "hi": "वसा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Proteins are often called 'body-building foods' because they are needed for growth and repair.",
+        "hi": "प्रोटीन को अक्सर 'शरीर वर्धक भोजन' कहा जाता है क्योंकि वे वृद्धि और मरम्मत के लिए आवश्यक होते हैं।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "A solution of which chemical is used to test the presence of starch in food?",
+        "hi": "भोजन में स्टार्च (मंड) की उपस्थिति का परीक्षण करने के लिए किस रसायन के घोल का उपयोग किया जाता है?"
+      },
+      "options": {
+        "a": {"en": "Copper Sulphate", "hi": "कॉपर सल्फेट"},
+        "b": {"en": "Caustic Soda", "hi": "कास्टिक सोडा"},
+        "c": {"en": "Iodine", "hi": "आयोडीन"},
+        "d": {"en": "Alcohol", "hi": "अल्कोहल"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "A dilute solution of iodine turns blue-black when it comes in contact with starch.",
+        "hi": "आयोडीन का तनु विलयन स्टार्च के संपर्क में आने पर नीला-काला हो जाता है।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Night blindness is caused due to the deficiency of which vitamin?",
+        "hi": "रतौंधी (दृष्टिहीनता) किस विटामिन की कमी के कारण होती है?"
+      },
+      "options": {
+        "a": {"en": "Vitamin B1", "hi": "विटामिन B1"},
+        "b": {"en": "Vitamin C", "hi": "विटामिन C"},
+        "c": {"en": "Vitamin D", "hi": "विटामिन D"},
+        "d": {"en": "Vitamin A", "hi": "विटामिन A"}
+      },
+      "correct_option": "d",
+      "explanation": {
+        "en": "Deficiency of Vitamin A causes loss of vision or night blindness.",
+        "hi": "विटामिन A की कमी से दृष्टि की हानि या रतौंधी होती है।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Which of these is a rich source of Vitamin C?",
+        "hi": "इनमें से कौन विटामिन C का समृद्ध स्रोत है?"
+      },
+      "options": {
+        "a": {"en": "Milk", "hi": "दूध"},
+        "b": {"en": "Amla (Gooseberry)", "hi": "आंवला"},
+        "c": {"en": "Egg", "hi": "अंडा"},
+        "d": {"en": "Wheat", "hi": "गेहूँ"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Citrus fruits like amla, lemon, and orange are excellent sources of Vitamin C.",
+        "hi": "आंवला, नींबू और संतरे जैसे खट्टे फल विटामिन C के बेहतरीन स्रोत हैं।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Roughage helps our body to _______.",
+        "hi": "रूक्षांश (आहारीय रेशे) हमारे शरीर की सहायता करते हैं _______।"
+      },
+      "options": {
+        "a": {"en": "Gain weight", "hi": "वजन बढ़ाने में"},
+        "b": {"en": "Get rid of undigested food", "hi": "बिना पचे भोजन को बाहर निकालने में"},
+        "c": {"en": "Provide energy", "hi": "ऊर्जा प्रदान करने में"},
+        "d": {"en": "Fight against diseases", "hi": "रोगों से लड़ने में"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Roughage does not provide any nutrient but helps in the removal of undigested food from our body.",
+        "hi": "रूक्षांश कोई पोषक तत्व प्रदान नहीं करते हैं लेकिन हमारे शरीर से बिना पचे भोजन को बाहर निकालने में मदद करते हैं।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Which mineral is essential for keeping our bones and teeth healthy?",
+        "hi": "हमारी हड्डियों और दांतों को स्वस्थ रखने के लिए कौन सा खनिज आवश्यक है?"
+      },
+      "options": {
+        "a": {"en": "Iron", "hi": "लोहा"},
+        "b": {"en": "Iodine", "hi": "आयोडीन"},
+        "c": {"en": "Calcium", "hi": "कैल्शियम"},
+        "d": {"en": "Sodium", "hi": "सोडियम"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Calcium is vital for the formation and strength of bones and teeth.",
+        "hi": "कैल्शियम हड्डियों और दांतों के निर्माण और मजबूती के लिए महत्वपूर्ण है।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Scurvy is a disease caused by the deficiency of _______.",
+        "hi": "स्कर्वी एक बीमारी है जो _______ की कमी के कारण होती है।"
+      },
+      "options": {
+        "a": {"en": "Vitamin C", "hi": "विटामिन C"},
+        "b": {"en": "Vitamin D", "hi": "विटामिन D"},
+        "c": {"en": "Iron", "hi": "लोहा"},
+        "d": {"en": "Vitamin A", "hi": "विटामिन A"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Deficiency of Vitamin C leads to scurvy, characterized by bleeding gums.",
+        "hi": "विटामिन C की कमी से स्कर्वी होता है, जिसके लक्षण मसूड़ों से खून आना है।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "What happens if we leave a food item on paper and it leaves an oily patch?",
+        "hi": "क्या होता है यदि हम कागज पर कोई खाद्य पदार्थ छोड़ते हैं और वह तेल का धब्बा छोड़ देता है?"
+      },
+      "options": {
+        "a": {"en": "It contains protein", "hi": "इसमें प्रोटीन है"},
+        "b": {"en": "It contains starch", "hi": "इसमें स्टार्च है"},
+        "c": {"en": "It contains fat", "hi": "इसमें वसा है"},
+        "d": {"en": "It contains vitamins", "hi": "इसमें विटामिन हैं"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "An oily patch on paper shows that the food item contains fat.",
+        "hi": "कागज पर तेल का धब्बा यह दर्शाता है कि खाद्य पदार्थ में वसा है।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Diseases that occur due to lack of nutrients over a long period are called _______.",
+        "hi": "लंबे समय तक पोषक तत्वों की कमी के कारण होने वाले रोगों को _______ कहा जाता है।"
+      },
+      "options": {
+        "a": {"en": "Infectious diseases", "hi": "संक्रामक रोग"},
+        "b": {"en": "Deficiency diseases", "hi": "अभावजन्य रोग"},
+        "c": {"en": "Chronic diseases", "hi": "दीर्घकालिक रोग"},
+        "d": {"en": "Allergic diseases", "hi": "एलर्जी वाले रोग"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Deficiency diseases are caused by the lack of one or more nutrients in the diet over a long time.",
+        "hi": "अभावजन्य रोग लंबे समय तक आहार में एक या अधिक पोषक तत्वों की कमी के कारण होते हैं।"
+      }
+    }
+  ]
+}
