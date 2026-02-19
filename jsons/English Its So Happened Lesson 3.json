@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 3,
+    "chapter_title": "The Selfish Giant",
+    "chapter_title_hindi": "स्वार्थी दानव",
+    "subject": "English Supplementary - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_ENG_SUPP_CH03_Giant_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Where did the children use to play every afternoon?",
+        "hi": "बच्चे हर दोपहर कहाँ खेला करते थे?"
+      },
+      "options": {
+        "a": {"en": "In the school playground", "hi": "स्कूल के खेल के मैदान में"},
+        "b": {"en": "In the Giant's garden", "hi": "दानव के बगीचे में"},
+        "c": {"en": "In the forest", "hi": "जंगल में"},
+        "d": {"en": "On the road", "hi": "सड़क पर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The children played in the Giant's garden while he was away visiting his friend.",
+        "hi": "बच्चे दानव के बगीचे में तब खेलते थे जब वह अपने दोस्त से मिलने गया हुआ था।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Whom was the Giant visiting for seven years?",
+        "hi": "दानव सात वर्षों तक किससे मिलने गया था?"
+      },
+      "options": {
+        "a": {"en": "His brother", "hi": "अपने भाई से"},
+        "b": {"en": "The Cornish Ogre", "hi": "कॉर्निश ओग्रे (एक अन्य दानव) से"},
+        "c": {"en": "A wizard", "hi": "एक जादूगर से"},
+        "d": {"en": "The King", "hi": "राजा से"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Giant had gone to stay with his friend, the Cornish Ogre, for seven years.",
+        "hi": "दानव अपने दोस्त, कॉर्निश ओग्रे के साथ सात साल रहने गया था।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "What did the Giant do to keep the children out of his garden?",
+        "hi": "बच्चों को अपने बगीचे से बाहर रखने के लिए दानव ने क्या किया?"
+      },
+      "options": {
+        "a": {"en": "He locked the gate", "hi": "उसने फाटक बंद कर दिया"},
+        "b": {"en": "He built a high wall and put up a notice-board", "hi": "उसने एक ऊँची दीवार बनाई और एक सूचना-पट्ट लगा दिया"},
+        "c": {"en": "He bought a dog", "hi": "उसने एक कुत्ता खरीद लिया"},
+        "d": {"en": "He chased them with a stick", "hi": "उसने उन्हें छड़ी से खदेड़ा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "To stop the children, he built a wall and put a notice saying 'Trespassers will be prosecuted'.",
+        "hi": "बच्चों को रोकने के लिए, उसने एक दीवार बनाई और एक सूचना लगा दी जिस पर लिखा था 'बिना आज्ञा प्रवेश करने वालों को दंडित किया जाएगा'।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What happened to the garden after the children were driven out?",
+        "hi": "बच्चों को बाहर निकालने के बाद बगीचे का क्या हुआ?"
+      },
+      "options": {
+        "a": {"en": "It became more beautiful", "hi": "यह और अधिक सुंदर हो गया"},
+        "b": {"en": "Spring never came to it", "hi": "वहाँ कभी वसंत नहीं आया"},
+        "c": {"en": "The flowers grew taller", "hi": "फूल और ऊँचे हो गए"},
+        "d": {"en": "The Giant sold the garden", "hi": "दानव ने बगीचा बेच दिया"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "As there were no children, Spring forgot the garden, and it remained in Winter forever.",
+        "hi": "चूंकि वहाँ कोई बच्चे नहीं थे, वसंत उस बगीचे को भूल गया, और वहाँ हमेशा के लिए सर्दी बनी रही।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Which of these characters stayed in the garden even when Spring arrived elsewhere?",
+        "hi": "इनमें से कौन से पात्र बगीचे में तब भी रुके रहे जब दूसरी जगहों पर वसंत आ गया था?"
+      },
+      "options": {
+        "a": {"en": "The Birds and the Bees", "hi": "पक्षी और मधुमक्खियां"},
+        "b": {"en": "The Snow, Frost, North Wind, and Hail", "hi": "बर्फ, पाला, उत्तरी हवा और ओले"},
+        "c": {"en": "The Sun and the Rain", "hi": "सूरज और बारिश"},
+        "d": {"en": "The Flowers and Fruits", "hi": "फूल और फल"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Winter's elements loved the Giant's garden because it was always cold there.",
+        "hi": "सर्दी के तत्वों को दानव का बगीचा पसंद आया क्योंकि वहाँ हमेशा ठंड रहती थी।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "What did the Hail do in the garden?",
+        "hi": "ओलों (Hail) ने बगीचे में क्या किया?"
+      },
+      "options": {
+        "a": {"en": "He watered the plants", "hi": "उसने पौधों को पानी दिया"},
+        "b": {"en": "He rattled on the roof until he broke most of the slates", "hi": "वह छत पर तब तक खड़खड़ाता रहा जब तक कि उसने अधिकांश स्लेटें नहीं तोड़ दीं"},
+        "c": {"en": "He made the trees grow", "hi": "उसने पेड़ों को बड़ा किया"},
+        "d": {"en": "He danced with the children", "hi": "उसने बच्चों के साथ नृत्य किया"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Hail was very destructive and broke the slates of the Giant's castle.",
+        "hi": "ओले बहुत विनाशकारी थे और उन्होंने दानव के महल की स्लेटें तोड़ दी थीं।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "What was the first sound of Spring the Giant heard after a long time?",
+        "hi": "लंबे समय के बाद दानव ने वसंत की पहली कौन सी आवाज सुनी?"
+      },
+      "options": {
+        "a": {"en": "The children laughing", "hi": "बच्चों का हँसना"},
+        "b": {"en": "A linnet bird singing", "hi": "एक लिनेट पक्षी का गाना"},
+        "c": {"en": "The wind whistling", "hi": "हवा की सीटी"},
+        "d": {"en": "The thunder", "hi": "बादलों की गड़गड़ाहट"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "A little linnet was singing outside his window, which sounded like the most beautiful music.",
+        "hi": "उसकी खिड़की के बाहर एक छोटा लिनेट पक्षी गा रहा था, जो सबसे सुंदर संगीत की तरह लग रहा था।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "How did the children get back into the garden?",
+        "hi": "बच्चे वापस बगीचे में कैसे घुसे?"
+      },
+      "options": {
+        "a": {"en": "They climbed over the wall", "hi": "वे दीवार के ऊपर से चढ़कर आए"},
+        "b": {"en": "They crept through a little hole in the wall", "hi": "वे दीवार में एक छोटे से छेद के माध्यम से रेंगकर आए"},
+        "c": {"en": "The Giant opened the gate", "hi": "दानव ने फाटक खोल दिया"},
+        "d": {"en": "They flew in", "hi": "वे उड़कर अंदर आए"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The children found a small opening in the wall to enter the garden.",
+        "hi": "बच्चों को बगीचे में प्रवेश करने के लिए दीवार में एक छोटा सा छेद मिल गया था।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "What change did the Giant see in the trees when the children returned?",
+        "hi": "बच्चों के लौटने पर दानव ने पेड़ों में क्या बदलाव देखा?"
+      },
+      "options": {
+        "a": {"en": "The trees were covered with blossoms", "hi": "पेड़ फूलों से लद गए थे"},
+        "b": {"en": "The trees died", "hi": "पेड़ मर गए थे"},
+        "c": {"en": "The trees grew thorns", "hi": "पेड़ों पर कांटे उग आए थे"},
+        "d": {"en": "Nothing changed", "hi": "कुछ नहीं बदला"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The trees were so glad to have the children back that they bloomed immediately.",
+        "hi": "बच्चों को वापस पाकर पेड़ इतने खुश हुए कि वे तुरंत खिल उठे।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "In which corner of the garden was it still Winter?",
+        "hi": "बगीचे के किस कोने में अभी भी सर्दी थी?"
+      },
+      "options": {
+        "a": {"en": "The North corner", "hi": "उत्तरी कोने में"},
+        "b": {"en": "The farthest corner of the garden", "hi": "बगीचे के सबसे दूर के कोने में"},
+        "c": {"en": "Near the gate", "hi": "फाटक के पास"},
+        "d": {"en": "Inside the Giant's house", "hi": "दानव के घर के अंदर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Winter remained in one corner because a tiny boy couldn't reach up to the branches of a tree.",
+        "hi": "एक कोने में सर्दी इसलिए बनी रही क्योंकि एक नन्हा लड़का पेड़ की टहनियों तक नहीं पहुँच पा रहा था।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Why was the little boy crying in the corner of the garden?",
+        "hi": "बगीचे के कोने में नन्हा लड़का क्यों रो रहा था?"
+      },
+      "options": {
+        "a": {"en": "He was hungry", "hi": "वह भूखा था"},
+        "b": {"en": "He was too small to climb the tree", "hi": "वह पेड़ पर चढ़ने के लिए बहुत छोटा था"},
+        "c": {"en": "He was lost", "hi": "वह खो गया था"},
+        "d": {"en": "He was scared of the Giant", "hi": "वह दानव से डरा हुआ था"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The boy was so small that he couldn't reach the branches, and the tree was still covered with snow.",
+        "hi": "लड़का इतना छोटा था कि वह टहनियों तक नहीं पहुँच सकता था, और वह पेड़ अभी भी बर्फ से ढका हुआ था।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What did the Giant realize when he saw the little boy?",
+        "hi": "नन्हे लड़के को देखकर दानव को क्या अहसास हुआ?"
+      },
+      "options": {
+        "a": {"en": "That he was very selfish", "hi": "कि वह बहुत स्वार्थी था"},
+        "b": {"en": "That children are annoying", "hi": "कि बच्चे परेशान करने वाले होते हैं"},
+        "c": {"en": "That he needed a bigger wall", "hi": "कि उसे एक और बड़ी दीवार चाहिए"},
+        "d": {"en": "That the boy was a thief", "hi": "कि वह लड़का चोर था"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "His heart melted and he realized that Spring hadn't come because of his selfishness.",
+        "hi": "उसका दिल पिघल गया और उसे अहसास हुआ कि उसके स्वार्थ के कारण ही वसंत नहीं आया था।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "What did the Giant do to help the little boy?",
+        "hi": "दानव ने नन्हे लड़के की मदद करने के लिए क्या किया?"
+      },
+      "options": {
+        "a": {"en": "He gave him food", "hi": "उसने उसे खाना दिया"},
+        "b": {"en": "He gently put the boy up into the tree", "hi": "उसने धीरे से लड़के को पेड़ पर बैठा दिया"},
+        "c": {"en": "He called his friends", "hi": "उसने अपने दोस्तों को बुलाया"},
+        "d": {"en": "He ignored him", "hi": "उसने उसे नजरअंदाज कर दिया"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Giant picked up the boy and placed him on a branch, and the tree immediately bloomed.",
+        "hi": "दानव ने लड़के को उठाया और एक टहनी पर रख दिया, और पेड़ तुरंत खिल उठा।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "How did the little boy react when the Giant put him on the tree?",
+        "hi": "जब दानव ने लड़के को पेड़ पर बिठाया तो उसने क्या प्रतिक्रिया दी?"
+      },
+      "options": {
+        "a": {"en": "He ran away", "hi": "वह भाग गया"},
+        "b": {"en": "He kissed the Giant", "hi": "उसने दानव को चूमा"},
+        "c": {"en": "He started crying louder", "hi": "वह और जोर से रोने लगा"},
+        "d": {"en": "He hit the Giant", "hi": "उसने दानव को मारा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The boy stretched out his arms, flung them round the Giant's neck, and kissed him.",
+        "hi": "लड़के ने अपनी बाहें फैलाईं, उन्हें दानव की गर्दन के चारों ओर डाल दिया, और उसे चूम लिया।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "What did the Giant do with the wall after his change of heart?",
+        "hi": "हृदय परिवर्तन के बाद दानव ने दीवार का क्या किया?"
+      },
+      "options": {
+        "a": {"en": "He made it higher", "hi": "उसने उसे और ऊँचा बना दिया"},
+        "b": {"en": "He knocked it down with an axe", "hi": "उसने कुल्हाड़ी से उसे गिरा दिया"},
+        "c": {"en": "He painted it", "hi": "उसने उस पर पेंट किया"},
+        "d": {"en": "He let the frost stay on it", "hi": "उसने पाले को उस पर रहने दिया"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He took a great axe and knocked down the wall to let the children in forever.",
+        "hi": "उसने एक बड़ी कुल्हाड़ी ली और बच्चों को हमेशा के लिए अंदर आने देने के लिए दीवार गिरा दी।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "Who was the Giant's favorite child?",
+        "hi": "दानव का पसंदीदा बच्चा कौन था?"
+      },
+      "options": {
+        "a": {"en": "The tallest boy", "hi": "सबसे लंबा लड़का"},
+        "b": {"en": "The little boy he had helped", "hi": "वह नन्हा लड़का जिसकी उसने मदद की थी"},
+        "c": {"en": "The girl with the yellow hair", "hi": "पीले बालों वाली लड़की"},
+        "d": {"en": "The Cornish Ogre", "hi": "कॉर्निश ओग्रे"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He loved the little boy best because he had kissed him.",
+        "hi": "वह उस नन्हे लड़के को सबसे ज्यादा प्यार करता था क्योंकि उसने उसे चूमा था।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "Why did the other children run away when they saw the Giant?",
+        "hi": "दानव को देखकर दूसरे बच्चे क्यों भाग गए?"
+      },
+      "options": {
+        "a": {"en": "They were playing tag", "hi": "वे पकड़म-पकड़ाई खेल रहे थे"},
+        "b": {"en": "They were frightened of him", "hi": "वे उससे डरे हुए थे"},
+        "c": {"en": "It was time for dinner", "hi": "रात के खाने का समय हो गया था"},
+        "d": {"en": "The school bell rang", "hi": "स्कूल की घंटी बज गई थी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The children were scared because the Giant had been mean to them before.",
+        "hi": "बच्चे डरे हुए थे क्योंकि दानव पहले उनके साथ बुरा व्यवहार कर चुका था।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "Where did the little boy go after the first day?",
+        "hi": "पहले दिन के बाद नन्हा लड़का कहाँ चला गया?"
+      },
+      "options": {
+        "a": {"en": "To his house", "hi": "अपने घर"},
+        "b": {"en": "Nobody knew where he went", "hi": "कोई नहीं जानता था कि वह कहाँ गया"},
+        "c": {"en": "To the forest", "hi": "जंगल में"},
+        "d": {"en": "To the North corner", "hi": "उत्तरी कोने में"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The other children said they didn't know where he lived and he never came back for many years.",
+        "hi": "दूसरे बच्चों ने कहा कि वे नहीं जानते कि वह कहाँ रहता है और वह कई सालों तक वापस नहीं आया।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "The Giant grew old and _______.",
+        "hi": "दानव बूढ़ा और _______ हो गया।"
+      },
+      "options": {
+        "a": {"en": "Angry", "hi": "क्रोधित"},
+        "b": {"en": "Feeble", "hi": "कमजोर (Feeble)"},
+        "c": {"en": "Selfish again", "hi": "फिर से स्वार्थी"},
+        "d": {"en": "Strong", "hi": "मजबूत"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "As the years passed, the Giant became old and weak and could no longer play with the children.",
+        "hi": "जैसे-जैसे साल बीतते गए, दानव बूढ़ा और कमजोर हो गया और अब वह बच्चों के साथ नहीं खेल सकता था।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What did the Giant call the children in his old age?",
+        "hi": "बुढ़ापे में दानव बच्चों को क्या कहता था?"
+      },
+      "options": {
+        "a": {"en": "Trespassers", "hi": "बिना आज्ञा प्रवेश करने वाले"},
+        "b": {"en": "The most beautiful flowers of all", "hi": "सबसे सुंदर फूल"},
+        "c": {"en": "Nuisance", "hi": "परेशानी"},
+        "d": {"en": "Small monsters", "hi": "छोटे राक्षस"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He said that although he had many beautiful flowers in his garden, the children were the most beautiful.",
+        "hi": "उसने कहा कि हालांकि उसके बगीचे में कई सुंदर फूल थे, लेकिन बच्चे सबसे सुंदर फूल थे।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "One winter morning, what did the Giant see in the corner of the garden?",
+        "hi": "एक सर्दियों की सुबह, दानव ने बगीचे के कोने में क्या देखा?"
+      },
+      "options": {
+        "a": {"en": "More snow", "hi": "और अधिक बर्फ"},
+        "b": {"en": "A tree covered with white blossoms and the little boy standing under it", "hi": "सफेद फूलों से लदा एक पेड़ और उसके नीचे खड़ा वह नन्हा लड़का"},
+        "c": {"en": "A wolf", "hi": "एक भेड़िया"},
+        "d": {"en": "The Cornish Ogre", "hi": "कॉर्निश ओग्रे"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He saw a miraculous sight: a tree in full bloom in winter with the boy he loved.",
+        "hi": "उसने एक चमत्कारिक दृश्य देखा: सर्दियों में फूलों से लदा एक पेड़ और उसके साथ वह लड़का जिसे वह प्यार करता था।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "What did the Giant see on the little boy's hands and feet?",
+        "hi": "दानव ने नन्हे लड़के के हाथों और पैरों पर क्या देखा?"
+      },
+      "options": {
+        "a": {"en": "Gloves and socks", "hi": "दस्ताने और जुराबें"},
+        "b": {"en": "Prints of two nails", "hi": "दो कीलों के निशान"},
+        "c": {"en": "Dirt", "hi": "धूल"},
+        "d": {"en": "Gold rings", "hi": "सोने की अंगूठियां"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "These were the wounds of Christ, symbolizing that the boy was a divine being.",
+        "hi": "ये ईसा मसीह के घाव थे, जो इस बात का प्रतीक थे कि वह लड़का एक दिव्य प्राणी था।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "When the Giant asked who had wounded the boy, what did the boy reply?",
+        "hi": "जब दानव ने पूछा कि लड़के को किसने घायल किया, तो लड़के ने क्या उत्तर दिया?"
+      },
+      "options": {
+        "a": {"en": "A soldier", "hi": "एक सिपाही ने"},
+        "b": {"en": "These are the wounds of Love", "hi": "ये प्रेम के घाव हैं"},
+        "c": {"en": "I fell down", "hi": "मैं गिर गया था"},
+        "d": {"en": "The Ogre did it", "hi": "ओग्रे ने ऐसा किया"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The boy explained that the wounds were not from hate but from love.",
+        "hi": "लड़के ने समझाया कि घाव नफरत से नहीं बल्कि प्यार से मिले थे।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "Where did the boy invite the Giant to go?",
+        "hi": "लड़के ने दानव को कहाँ जाने के लिए आमंत्रित किया?"
+      },
+      "options": {
+        "a": {"en": "To his house", "hi": "अपने घर"},
+        "b": {"en": "To his garden, which is Paradise", "hi": "अपने बगीचे में, जो स्वर्ग (Paradise) है"},
+        "c": {"en": "To the school", "hi": "स्कूल में"},
+        "d": {"en": "To the mountains", "hi": "पहाड़ों पर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "As the Giant had once let the boy play in his garden, the boy now came to take the Giant to heaven.",
+        "hi": "चूंकि दानव ने एक बार लड़के को अपने बगीचे में खेलने दिया था, इसलिए अब लड़का दानव को स्वर्ग ले जाने आया था।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "What did the children find when they ran into the garden that afternoon?",
+        "hi": "उस दोपहर जब बच्चे बगीचे में दौड़कर आए तो उन्हें क्या मिला?"
+      },
+      "options": {
+        "a": {"en": "The Giant was sleeping", "hi": "दानव सो रहा था"},
+        "b": {"en": "The Giant was dead, covered with white blossoms", "hi": "दानव मर चुका था और सफेद फूलों से ढका हुआ था"},
+        "c": {"en": "The garden was gone", "hi": "बगीचा गायब हो गया था"},
+        "d": {"en": "The boy was playing alone", "hi": "लड़का अकेला खेल रहा था"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Giant had passed away peacefully after being forgiven and invited to Paradise.",
+        "hi": "क्षमा मिलने और स्वर्ग में आमंत्रित किए जाने के बाद दानव का शांतिपूर्वक निधन हो गया था।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "What is the main theme of 'The Selfish Giant'?",
+        "hi": "'स्वार्थी दानव' का मुख्य विषय क्या है?"
+      },
+      "options": {
+        "a": {"en": "Gardening tips", "hi": "बागवानी के टिप्स"},
+        "b": {"en": "Love, sharing, and kindness", "hi": "प्यार, साझा करना और दया"},
+        "c": {"en": "The importance of building walls", "hi": "दीवारें बनाने का महत्व"},
+        "d": {"en": "How to survive winter", "hi": "सर्दियों में कैसे जीवित रहें"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The story teaches that happiness comes from sharing and being kind to others.",
+        "hi": "कहानी सिखाती है कि खुशी दूसरों के साथ साझा करने और दयालु होने से मिलती है।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "The peach trees in the garden broke out into how many blossoms?",
+        "hi": "बगीचे में आड़ू के पेड़ों पर कितने फूल खिले थे?"
+      },
+      "options": {
+        "a": {"en": "Ten", "hi": "दस"},
+        "b": {"en": "Twelve", "hi": "बारह"},
+        "c": {"en": "One hundred", "hi": "एक सौ"},
+        "d": {"en": "Thousands", "hi": "हजारों"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The story mentions twelve peach-trees that broke out into delicate blossoms of pink and pearl.",
+        "hi": "कहानी में बारह आड़ू के पेड़ों का उल्लेख है जिन पर गुलाबी और मोती जैसे नाजुक फूल खिले थे।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "What did the North Wind wear?",
+        "hi": "उत्तरी हवा ने क्या पहना हुआ था?"
+      },
+      "options": {
+        "a": {"en": "A coat", "hi": "एक कोट"},
+        "b": {"en": "Furs", "hi": "फर (Furs)"},
+        "c": {"en": "A hat", "hi": "एक टोपी"},
+        "d": {"en": "Nothing", "hi": "कुछ नहीं"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The North Wind was wrapped in furs and roared all day about the garden.",
+        "hi": "उत्तरी हवा फर में लिपटी हुई थी और पूरे दिन बगीचे में दहाड़ती रहती थी।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "The flower put its head out from the grass, but what did it do when it saw the notice-board?",
+        "hi": "फूल ने घास से अपना सिर बाहर निकाला, लेकिन सूचना-पट्ट देखकर उसने क्या किया?"
+      },
+      "options": {
+        "a": {"en": "It bloomed", "hi": "वह खिल गया"},
+        "b": {"en": "It slipped back into the ground and went to sleep", "hi": "वह वापस जमीन में खिसक गया और सो गया"},
+        "c": {"en": "It started crying", "hi": "वह रोने लगा"},
+        "d": {"en": "It turned yellow", "hi": "वह पीला पड़ गया"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The flowers felt sorry for the children and refused to bloom in the Giant's selfish garden.",
+        "hi": "फूलों को बच्चों के लिए दुख हुआ और उन्होंने दानव के स्वार्थी बगीचे में खिलने से मना कर दिया।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "Who is the author of 'The Selfish Giant'?",
+        "hi": "'स्वार्थी दानव' के लेखक कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "Ruskin Bond", "hi": "रस्किन बॉन्ड"},
+        "b": {"en": "Oscar Wilde", "hi": "ऑस्कर वाइल्ड"},
+        "c": {"en": "Rudyard Kipling", "hi": "रुडयार्ड किपलिंग"},
+        "d": {"en": "Hans Christian Andersen", "hi": "हंस क्रिश्चियन एंडरसन"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Oscar Wilde was a famous Irish writer and playwright.",
+        "hi": "ऑस्कर वाइल्ड एक प्रसिद्ध आयरिश लेखक और नाटककार थे।"
+      }
+    }
+  ]
+}
