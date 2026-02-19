@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 5,
+    "chapter_title": "Princess September",
+    "chapter_title_hindi": "राजकुमारी सितंबर",
+    "subject": "English Supplementary - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_ENG_SUPP_CH05_September_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "How many daughters did the King and Queen of Siam have?",
+        "hi": "सियाम के राजा और रानी की कितनी बेटियाँ थीं?"
+      },
+      "options": {
+        "a": {"en": "Five", "hi": "पाँच"},
+        "b": {"en": "Seven", "hi": "सात"},
+        "c": {"en": "Nine", "hi": "नौ"},
+        "d": {"en": "Twelve", "hi": "बारह"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "The King of Siam had nine daughters, named after the months of the year.",
+        "hi": "सियाम के राजा की नौ बेटियाँ थीं, जिनका नाम साल के महीनों के नाम पर रखा गया था।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Why did the King name his daughters after the months?",
+        "hi": "राजा ने अपनी बेटियों के नाम महीनों के नाम पर क्यों रखे?"
+      },
+      "options": {
+        "a": {"en": "He liked the calendar", "hi": "उसे कैलेंडर पसंद था"},
+        "b": {"en": "It was difficult for him to remember so many names", "hi": "उसके लिए इतने सारे नाम याद रखना मुश्किल था"},
+        "c": {"en": "The Queen requested it", "hi": "रानी ने इसका अनुरोध किया था"},
+        "d": {"en": "It was a royal tradition", "hi": "यह एक शाही परंपरा थी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Because he had many daughters, naming them after months made it easier for the King to remember them.",
+        "hi": "क्योंकि उनकी कई बेटियाँ थीं, महीनों के नाम पर उनका नाम रखने से राजा के लिए उन्हें याद रखना आसान हो गया।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "What did the King give to each of his daughters on his birthday?",
+        "hi": "राजा ने अपने जन्मदिन पर अपनी प्रत्येक बेटी को क्या दिया?"
+      },
+      "options": {
+        "a": {"en": "A golden ring", "hi": "सोने की अंगूठी"},
+        "b": {"en": "A green parrot in a golden cage", "hi": "सुनहरे पिंजरे में एक हरा तोता"},
+        "c": {"en": "A silk dress", "hi": "एक रेशमी पोशाक"},
+        "d": {"en": "A diamond necklace", "hi": "हीरे का हार"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Instead of receiving gifts, the King had the habit of giving them; he gave each daughter a parrot.",
+        "hi": "उपहार लेने के बजाय, राजा को उपहार देने की आदत थी; उन्होंने प्रत्येक बेटी को एक तोता दिया।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What happened to Princess September's parrot?",
+        "hi": "राजकुमारी सितंबर के तोते का क्या हुआ?"
+      },
+      "options": {
+        "a": {"en": "It flew away", "hi": "वह उड़ गया"},
+        "b": {"en": "It died", "hi": "वह मर गया"},
+        "c": {"en": "She gave it to a friend", "hi": "उसने इसे एक दोस्त को दे दिया"},
+        "d": {"en": "It started singing", "hi": "वह गाने लगा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "One morning, Princess September found her parrot lying dead at the bottom of its golden cage.",
+        "hi": "एक सुबह, राजकुमारी सितंबर ने अपने तोते को अपने सुनहरे पिंजरे के नीचे मृत पाया।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Who came into the Princess's room while she was crying for her parrot?",
+        "hi": "जब राजकुमारी अपने तोते के लिए रो रही थी, तब उसके कमरे में कौन आया?"
+      },
+      "options": {
+        "a": {"en": "The King", "hi": "राजा"},
+        "b": {"en": "A little bird", "hi": "एक छोटा पक्षी"},
+        "c": {"en": "Her sisters", "hi": "उसकी बहनें"},
+        "d": {"en": "A fairy", "hi": "एक परी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "A small bird hopped into her room and began to sing a beautiful song.",
+        "hi": "एक छोटा पक्षी उसके कमरे में फुदकते हुए आया और एक सुंदर गाना गाने लगा।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "What was special about the little bird compared to the parrots?",
+        "hi": "तोतों की तुलना में छोटे पक्षी में क्या खास था?"
+      },
+      "options": {
+        "a": {"en": "It could talk in seven languages", "hi": "यह सात भाषाओं में बात कर सकता था"},
+        "b": {"en": "It sang beautiful songs about lakes and willow trees", "hi": "इसने झीलों और विलो पेड़ों के बारे में सुंदर गीत गाए"},
+        "c": {"en": "It was golden in color", "hi": "यह सुनहरे रंग का था"},
+        "d": {"en": "It could dance", "hi": "यह नाच सकता था"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Unlike the parrots who could only say 'God save the King', the bird sang original, beautiful songs.",
+        "hi": "उन तोतों के विपरीत जो केवल 'गॉड सेव द किंग' कह सकते थे, पक्षी ने मौलिक और सुंदर गीत गाए।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "How did the eight sisters feel about September's new bird?",
+        "hi": "आठ बहनों को सितंबर के नए पक्षी के बारे में कैसा लगा?"
+      },
+      "options": {
+        "a": {"en": "Happy", "hi": "खुश"},
+        "b": {"en": "Jealous", "hi": "ईर्ष्यालु"},
+        "c": {"en": "Indifferent", "hi": "उदासीन"},
+        "d": {"en": "Scared", "hi": "डरी हुई"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The sisters were jealous because the bird sang much better than their parrots could talk.",
+        "hi": "बहनें ईर्ष्यालु थीं क्योंकि पक्षी उनके तोतों की तुलना में बहुत बेहतर गाता था।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "What advice did the sisters give to Princess September?",
+        "hi": "बहनों ने राजकुमारी सितंबर को क्या सलाह दी?"
+      },
+      "options": {
+        "a": {"en": "To let the bird fly away", "hi": "पक्षी को उड़ जाने देने की"},
+        "b": {"en": "To put the bird in a cage", "hi": "पक्षी को पिंजरे में डालने की"},
+        "c": {"en": "To feed the bird more", "hi": "पक्षी को अधिक खिलाने की"},
+        "d": {"en": "To buy a new parrot", "hi": "एक नया तोता खरीदने की"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "They told her to cage the bird so that it wouldn't fly away and leave her.",
+        "hi": "उन्होंने उससे कहा कि पक्षी को पिंजरे में डाल दो ताकि वह उड़कर उसे छोड़कर न चला जाए।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Why did Princess September become worried when the bird was late returning?",
+        "hi": "जब पक्षी लौटने में देर कर रहा था तो राजकुमारी सितंबर क्यों चिंतित हो गई?"
+      },
+      "options": {
+        "a": {"en": "She thought it was sick", "hi": "उसने सोचा कि वह बीमार है"},
+        "b": {"en": "She feared hawks or snares might have caught it", "hi": "उसे डर था कि बाज या जाल ने उसे पकड़ लिया होगा"},
+        "c": {"en": "She thought the King took it", "hi": "उसने सोचा कि राजा ने उसे ले लिया है"},
+        "d": {"en": "She was hungry", "hi": "वह भूखी थी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "She worried that something bad had happened to the bird while it was out.",
+        "hi": "वह चिंतित थी कि जब पक्षी बाहर था तो उसके साथ कुछ बुरा हुआ होगा।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "What did the bird say when September put it in the cage?",
+        "hi": "जब सितंबर ने पक्षी को पिंजरे में डाला तो उसने क्या कहा?"
+      },
+      "options": {
+        "a": {"en": "Thank you", "hi": "धन्यवाद"},
+        "b": {"en": "What is the joke?", "hi": "यह क्या मजाक है?"},
+        "c": {"en": "I love this cage", "hi": "मुझे यह पिंजरा पसंद है"},
+        "d": {"en": "Goodbye", "hi": "अलविदा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The bird was confused and asked if it was a joke because it valued its freedom.",
+        "hi": "पक्षी भ्रमित था और उसने पूछा कि क्या यह एक मजाक है क्योंकि वह अपनी स्वतंत्रता को महत्व देता था।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Why did the bird refuse to sing in the cage?",
+        "hi": "पक्षी ने पिंजरे में गाने से मना क्यों कर दिया?"
+      },
+      "options": {
+        "a": {"en": "It had a sore throat", "hi": "उसके गले में खराश थी"},
+        "b": {"en": "It wanted to see the trees, lake, and green rice fields", "hi": "वह पेड़ों, झील और हरे धान के खेतों को देखना चाहता था"},
+        "c": {"en": "It forgot the songs", "hi": "वह गाने भूल गया था"},
+        "d": {"en": "It was angry with the Princess", "hi": "वह राजकुमारी से नाराज था"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The bird's inspiration for singing came from nature and freedom.",
+        "hi": "पक्षी के गाने की प्रेरणा प्रकृति और स्वतंत्रता से आती थी।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What did the bird say would happen if it could not sing?",
+        "hi": "पक्षी ने क्या कहा कि अगर वह गा नहीं पाएगा तो क्या होगा?"
+      },
+      "options": {
+        "a": {"en": "It would fly away", "hi": "वह उड़ जाएगा"},
+        "b": {"en": "It would die", "hi": "वह मर जाएगा"},
+        "c": {"en": "It would sleep", "hi": "वह सो जाएगा"},
+        "d": {"en": "It would become a parrot", "hi": "वह तोता बन जाएगा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The bird told September that if it cannot sing, it dies.",
+        "hi": "पक्षी ने सितंबर से कहा कि यदि वह गा नहीं सकता, तो वह मर जाता है।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "What did September find the next morning in the cage?",
+        "hi": "अगली सुबह सितंबर को पिंजरे में क्या मिला?"
+      },
+      "options": {
+        "a": {"en": "The bird singing loudly", "hi": "पक्षी जोर-जोर से गा रहा है"},
+        "b": {"en": "The bird lying on its side with eyes closed", "hi": "पक्षी अपनी आँखों को बंद किए एक तरफ लेटा हुआ था"},
+        "c": {"en": "The cage was empty", "hi": "पिंजरा खाली था"},
+        "d": {"en": "A golden egg", "hi": "एक सोने का अंडा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The bird looked like it was dead because of the sadness of being caged.",
+        "hi": "पिंजरे में बंद होने के दुख के कारण पक्षी ऐसा लग रहा था जैसे वह मर गया हो।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What did Princess September finally decide to do with the bird?",
+        "hi": "अंत में राजकुमारी सितंबर ने पक्षी के साथ क्या करने का फैसला किया?"
+      },
+      "options": {
+        "a": {"en": "Keep it in the cage forever", "hi": "इसे हमेशा के लिए पिंजरे में रखने का"},
+        "b": {"en": "Give it to her sisters", "hi": "इसे अपनी बहनों को देने का"},
+        "c": {"en": "Set it free", "hi": "इसे आजाद करने का"},
+        "d": {"en": "Sell it", "hi": "इसे बेचने का"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "She realized that her love should not take away the bird's happiness and freedom.",
+        "hi": "उसे अहसास हुआ कि उसके प्यार को पक्षी की खुशी और आजादी नहीं छीननी चाहिए।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "What was the bird's promise to the Princess after being freed?",
+        "hi": "आजाद होने के बाद पक्षी का राजकुमारी से क्या वादा था?"
+      },
+      "options": {
+        "a": {"en": "To bring her gold", "hi": "उसके लिए सोना लाने का"},
+        "b": {"en": "To come back and sing for her always", "hi": "वापस आने और उसके लिए हमेशा गाने का"},
+        "c": {"en": "To never leave the garden", "hi": "बगीचे को कभी न छोड़ने का"},
+        "d": {"en": "To bring another bird", "hi": "दूसरे पक्षी को लाने का"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The bird promised to return because it loved the Princess.",
+        "hi": "पक्षी ने लौटने का वादा किया क्योंकि वह राजकुमारी से प्यार करता था।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "Why did Princess September keep her window open all day and night?",
+        "hi": "राजकुमारी सितंबर अपना दरवाजा और खिड़की दिन-रात खुली क्यों रखती थी?"
+      },
+      "options": {
+        "a": {"en": "She liked the fresh air", "hi": "उसे ताजी हवा पसंद थी"},
+        "b": {"en": "So the bird could fly in and out whenever it wanted", "hi": "ताकि पक्षी जब चाहे अंदर और बाहर उड़ सके"},
+        "c": {"en": "Because it was hot", "hi": "क्योंकि गर्मी थी"},
+        "d": {"en": "She was afraid of the dark", "hi": "वह अंधेरे से डरती थी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "This allowed the bird to maintain its freedom while still visiting her.",
+        "hi": "इससे पक्षी को अपनी स्वतंत्रता बनाए रखने में मदद मिली और वह उसके पास आता रहा।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "How did keeping the window open affect Princess September's looks?",
+        "hi": "खिड़की खुली रखने से राजकुमारी सितंबर के रूप पर क्या प्रभाव पड़ा?"
+      },
+      "options": {
+        "a": {"en": "She became extremely beautiful", "hi": "वह बेहद खूबसूरत हो गई"},
+        "b": {"en": "She became ugly", "hi": "वह बदसूरत हो गई"},
+        "c": {"en": "She looked tired", "hi": "वह थकी हुई लग रही थी"},
+        "d": {"en": "It had no effect", "hi": "इसका कोई प्रभाव नहीं पड़ा"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The fresh air and connection with nature made her so beautiful that she married the King of Cambodia.",
+        "hi": "ताजी हवा और प्रकृति के साथ जुड़ाव ने उसे इतना सुंदर बना दिया कि उसकी शादी कंबोडिया के राजा से हुई।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What happened to the eight sisters who kept their windows shut?",
+        "hi": "उन आठ बहनों का क्या हुआ जिन्होंने अपनी खिड़कियाँ बंद रखी थीं?"
+      },
+      "options": {
+        "a": {"en": "They became more beautiful than September", "hi": "वे सितंबर से भी ज्यादा सुंदर हो गईं"},
+        "b": {"en": "They grew extremely ugly and disagreeable", "hi": "वे बेहद बदसूरत और अप्रिय हो गईं"},
+        "c": {"en": "They became famous singers", "hi": "वे प्रसिद्ध गायिका बन गईं"},
+        "d": {"en": "They moved to another country", "hi": "वे दूसरे देश चली गईं"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Because they didn't have the benefit of fresh air and a kind heart, they lost their beauty.",
+        "hi": "क्योंकि उन्हें ताजी हवा और दयालु हृदय का लाभ नहीं मिला, इसलिए उन्होंने अपनी सुंदरता खो दी।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Whom did the eight sisters eventually marry?",
+        "hi": "अंततः आठ बहनों की शादी किससे हुई?"
+      },
+      "options": {
+        "a": {"en": "Kings", "hi": "राजाओं से"},
+        "b": {"en": "The King's Councillors with a pound of tea", "hi": "राजा के पार्षदों से एक पाउंड चाय के साथ"},
+        "c": {"en": "Princes", "hi": "राजकुमारों से"},
+        "d": {"en": "They never married", "hi": "उनकी कभी शादी नहीं हुई"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The story ends by saying they were married off to the King's councillors with small gifts.",
+        "hi": "कहानी यह कहते हुए समाप्त होती है कि उनकी शादी राजा के पार्षदों से छोटे उपहारों के साथ कर दी गई थी।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What did the parrots say to the King?",
+        "hi": "तोते राजा से क्या कहते थे?"
+      },
+      "options": {
+        "a": {"en": "Happy Birthday", "hi": "जन्मदिन मुबारक हो"},
+        "b": {"en": "God save the King", "hi": "ईश्वर राजा की रक्षा करे"},
+        "c": {"en": "Pretty Polly", "hi": "प्रिटी पॉली (Pretty Polly)"},
+        "d": {"en": "Both b and c", "hi": "b और c दोनों"}
+      },
+      "correct_option": "d",
+      "explanation": {
+        "en": "The parrots were trained to say these two phrases in seven different languages.",
+        "hi": "तोतों को इन दो वाक्यांशों को सात अलग-अलग भाषाओं में बोलने के लिए प्रशिक्षित किया गया था।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "The King of Siam had a peculiar habit of _______.",
+        "hi": "सियाम के राजा की एक अजीब आदत _______ थी।"
+      },
+      "options": {
+        "a": {"en": "Receiving gifts on birthdays", "hi": "जन्मदिन पर उपहार लेने की"},
+        "b": {"en": "Giving gifts on his birthday", "hi": "अपने जन्मदिन पर उपहार देने की"},
+        "c": {"en": "Sleeping all day", "hi": "पूरे दिन सोने की"},
+        "d": {"en": "Singing songs", "hi": "गाने गाने की"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He preferred giving gifts rather than receiving them on his birthday.",
+        "hi": "वह अपने जन्मदिन पर उपहार लेने के बजाय देना पसंद करते थे।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "The little bird had a nest in _______.",
+        "hi": "छोटे पक्षी का घोंसला _______ में था।"
+      },
+      "options": {
+        "a": {"en": "The King's crown", "hi": "राजा के मुकुट में"},
+        "b": {"en": "A willow tree", "hi": "एक विलो पेड़ में"},
+        "c": {"en": "A golden cage", "hi": "एक सुनहरे पिंजरे में"},
+        "d": {"en": "The rice fields", "hi": "धान के खेतों में"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The bird's songs often featured the willow tree reflected in the lake.",
+        "hi": "पक्षी के गीतों में अक्सर झील में प्रतिबिंबित विलो पेड़ का चित्रण होता था।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "What did the bird eat from the Princess's hand?",
+        "hi": "पक्षी ने राजकुमारी के हाथ से क्या खाया?"
+      },
+      "options": {
+        "a": {"en": "Fruit", "hi": "फल"},
+        "b": {"en": "Rice", "hi": "चावल"},
+        "c": {"en": "Bread", "hi": "रोटी"},
+        "d": {"en": "Insects", "hi": "कीड़े"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The bird ate rice out of September's hand and bathed in her saucer.",
+        "hi": "पक्षी ने सितंबर के हाथ से चावल खाया और उसकी तश्तरी (saucer) में स्नान किया।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "What did the King think of his daughters' parrots after hearing the bird?",
+        "hi": "पक्षी को सुनने के बाद राजा ने अपनी बेटियों के तोतों के बारे में क्या सोचा?"
+      },
+      "options": {
+        "a": {"en": "He liked them more", "hi": "उसे वे और अधिक पसंद आए"},
+        "b": {"en": "He was tired of them saying 'Pretty Polly'", "hi": "वह उनके 'प्रिटी पॉली' कहने से थक गया था"},
+        "c": {"en": "He wanted to sell them", "hi": "वह उन्हें बेचना चाहता था"},
+        "d": {"en": "He thought they sang better", "hi": "उसने सोचा कि वे बेहतर गाते हैं"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The King found the parrots repetitive and preferred the bird's unique singing.",
+        "hi": "राजा को तोतों की बातें दोहराव भरी लगीं और उन्होंने पक्षी के अनोखे गायन को प्राथमिकता दी।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "The Princess's sisters said the bird was _______.",
+        "hi": "राजकुमारी की बहनों ने कहा कि पक्षी _______ था।"
+      },
+      "options": {
+        "a": {"en": "Uncertain", "hi": "अनिश्चित (Uncertain)"},
+        "b": {"en": "Very loyal", "hi": "बहुत वफादार"},
+        "c": {"en": "A genius", "hi": "एक प्रतिभाशाली"},
+        "d": {"en": "Ugly", "hi": "बदसूरत"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "They called the bird 'uncertain' to make September feel insecure about it coming back.",
+        "hi": "उन्होंने पक्षी को 'अनिश्चित' कहा ताकि सितंबर को उसके वापस आने के बारे में असुरक्षित महसूस कराया जा सके।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "When the bird was in the cage, why did it not eat the rice?",
+        "hi": "जब पक्षी पिंजरे में था, तो उसने चावल क्यों नहीं खाया?"
+      },
+      "options": {
+        "a": {"en": "It wasn't hungry", "hi": "उसे भूख नहीं थी"},
+        "b": {"en": "It was too sad because of the loss of freedom", "hi": "आजादी छिन जाने के कारण वह बहुत दुखी था"},
+        "c": {"en": "The rice was cold", "hi": "चावल ठंडे थे"},
+        "d": {"en": "It wanted fruit", "hi": "उसे फल चाहिए थे"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Loss of freedom caused the bird to lose its appetite and desire to sing.",
+        "hi": "स्वतंत्रता खोने के कारण पक्षी की भूख और गाने की इच्छा खत्म हो गई।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "What is the moral of the story?",
+        "hi": "कहानी की शिक्षा क्या है?"
+      },
+      "options": {
+        "a": {"en": "Cages are good for protection", "hi": "पिंजरे सुरक्षा के लिए अच्छे होते हैं"},
+        "b": {"en": "True love means giving freedom", "hi": "सच्चे प्यार का मतलब आजादी देना है"},
+        "c": {"en": "Sisters are always right", "hi": "बहनें हमेशा सही होती हैं"},
+        "d": {"en": "Birds should not talk", "hi": "पक्षियों को बात नहीं करनी चाहिए"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The story teaches that beauty and happiness (represented by the bird's song) thrive in freedom.",
+        "hi": "कहानी सिखाती है कि सुंदरता और खुशी (पक्षी के गीत द्वारा प्रतिनिधित्व) स्वतंत्रता में पनपती हैं।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Where was Princess September taken for her wedding?",
+        "hi": "राजकुमारी सितंबर को उसकी शादी के लिए कहाँ ले जाया गया था?"
+      },
+      "options": {
+        "a": {"en": "On an elephant to Cambodia", "hi": "एक हाथी पर कंबोडिया"},
+        "b": {"en": "In a carriage to India", "hi": "एक गाड़ी में भारत"},
+        "c": {"en": "On a ship to England", "hi": "एक जहाज पर इंग्लैंड"},
+        "d": {"en": "She stayed in Siam", "hi": "वह सियाम में ही रही"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "She was carried on a white elephant all the way to the city where the King of Cambodia lived.",
+        "hi": "उसे एक सफेद हाथी पर उस शहर तक ले जाया गया जहाँ कंबोडिया के राजा रहते थे।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "The sisters' advice was based on _______.",
+        "hi": "बहनों की सलाह _______ पर आधारित थी।"
+      },
+      "options": {
+        "a": {"en": "Kindness", "hi": "दयालुता"},
+        "b": {"en": "Wisdom", "hi": "बुद्धिमानी"},
+        "c": {"en": "Selfishness and jealousy", "hi": "स्वार्थ और ईर्ष्या"},
+        "d": {"en": "The King's orders", "hi": "राजा के आदेश"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "They wanted September to be as unhappy as they were with their repetitive parrots.",
+        "hi": "वे चाहते थे कि सितंबर भी उतनी ही नाखुश रहे जितनी वे अपने दोहराव वाले तोतों के साथ थीं।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "Who is the author of 'Princess September'?",
+        "hi": "'राजकुमारी सितंबर' के लेखक कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "Oscar Wilde", "hi": "ऑस्कर वाइल्ड"},
+        "b": {"en": "W. Somerset Maugham", "hi": "डब्ल्यू. समरसेट मॉम"},
+        "c": {"en": "Rudyard Kipling", "hi": "रुडयार्ड किपलिंग"},
+        "d": {"en": "Rabindranath Tagore", "hi": "रवींद्रनाथ टैगोर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "W. Somerset Maugham was a distinguished British playwright and novelist.",
+        "hi": "डब्ल्यू. समरसेट मॉम एक प्रतिष्ठित ब्रिटिश नाटककार और उपन्यासकार थे।"
+      }
+    }
+  ]
+}
