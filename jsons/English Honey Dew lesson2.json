@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 2,
+    "chapter_title": "The Tsunami",
+    "chapter_title_hindi": "सुनामी",
+    "subject": "English - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_ENG_CH02_Tsunami_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "What is a Tsunami?",
+        "hi": "सुनामी क्या है?"
+      },
+      "options": {
+        "a": {"en": "A small wave in the pond", "hi": "तलाब की एक छोटी लहर"},
+        "b": {"en": "A very large and powerful wave caused by earthquakes under the sea", "hi": "समुद्र के नीचे भूकंप के कारण होने वाली एक बहुत बड़ी और शक्तिशाली लहर"},
+        "c": {"en": "A heavy rainstorm", "hi": "एक भारी बारिश का तूफान"},
+        "d": {"en": "A forest fire", "hi": "जंगल की आग"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Tsunamis are triggered by underwater disturbances like earthquakes or volcanic eruptions.",
+        "hi": "सुनामी समुद्र के नीचे भूकंप या ज्वालामुखी विस्फोट जैसी हलचलों से उत्पन्न होती है।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "In which island group did Ignesius live?",
+        "hi": "इग्नेशियस किस द्वीप समूह में रहता था?"
+      },
+      "options": {
+        "a": {"en": "Lakshadweep", "hi": "लक्षद्वीप"},
+        "b": {"en": "Katchall island in the Nicobar group", "hi": "निकोबार समूह का कचल्ल द्वीप"},
+        "c": {"en": "Sri Lanka", "hi": "श्रीलंका"},
+        "d": {"en": "Thailand", "hi": "थाईलैंड"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Ignesius was the manager of a cooperative society in Katchall.",
+        "hi": "इग्नेशियस कचल्ल में एक सहकारी समिति का प्रबंधक था।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Why did Ignesius's wife wake him up at 6 a.m.?",
+        "hi": "इग्नेशियस की पत्नी ने उसे सुबह 6 बजे क्यों जगाया?"
+      },
+      "options": {
+        "a": {"en": "To go for a walk", "hi": "टहलने जाने के लिए"},
+        "b": {"en": "Because she felt an earthquake", "hi": "क्योंकि उसने भूकंप महसूस किया"},
+        "c": {"en": "To prepare breakfast", "hi": "नाश्ता बनाने के लिए"},
+        "d": {"en": "Because it was raining", "hi": "क्योंकि बारिश हो रही थी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "She felt the tremors of the earthquake early in the morning.",
+        "hi": "उसने सुबह-सुबह भूकंप के झटके महसूस किए थे।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Who was Sanjeev?",
+        "hi": "संजीव कौन था?"
+      },
+      "options": {
+        "a": {"en": "A doctor", "hi": "एक डॉक्टर"},
+        "b": {"en": "A policeman", "hi": "एक पुलिसकर्मी"},
+        "c": {"en": "A fisherman", "hi": "एक मछुआरा"},
+        "d": {"en": "A tourist", "hi": "एक पर्यटक"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Sanjeev was a policeman serving in the Katchall island.",
+        "hi": "संजीव कचल्ल द्वीप में कार्यरत एक पुलिसकर्मी था।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Why did Sanjeev jump back into the water?",
+        "hi": "संजीव वापस पानी में क्यों कूदा?"
+      },
+      "options": {
+        "a": {"en": "To catch fish", "hi": "मछली पकड़ने के लिए"},
+        "b": {"en": "To save his own life", "hi": "अपनी जान बचाने के लिए"},
+        "c": {"en": "To rescue the wife of the guest house cook", "hi": "गेस्ट हाउस के रसोइए की पत्नी को बचाने के लिए"},
+        "d": {"en": "To find his uniform", "hi": "अपनी वर्दी खोजने के लिए"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "He jumped to save John's wife but unfortunately, both were swept away.",
+        "hi": "वह जॉन की पत्नी को बचाने के लिए कूदा लेकिन दुर्भाग्य से दोनों बह गए।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "How old was Meghna when she was swept away?",
+        "hi": "मेघना कितने साल की थी जब वह बह गई थी?"
+      },
+      "options": {
+        "a": {"en": "10 years", "hi": "10 साल"},
+        "b": {"en": "13 years", "hi": "13 साल"},
+        "c": {"en": "15 years", "hi": "15 साल"},
+        "d": {"en": "12 years", "hi": "12 साल"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Meghna was 13 years old and spent two days floating in the sea on a wooden door.",
+        "hi": "मेघना 13 साल की थी और उसने समुद्र में लकड़ी के दरवाजे पर तैरते हुए दो दिन बिताए।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "How many times did Meghna see relief helicopters overhead?",
+        "hi": "मेघना ने अपने ऊपर से कितनी बार राहत हेलीकॉप्टरों को जाते देखा?"
+      },
+      "options": {
+        "a": {"en": "5 times", "hi": "5 बार"},
+        "b": {"en": "11 times", "hi": "11 बार"},
+        "c": {"en": "2 times", "hi": "2 बार"},
+        "d": {"en": "Never", "hi": "कभी नहीं"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "She saw them eleven times, but they did not see her.",
+        "hi": "उसने उन्हें ग्यारह बार देखा, लेकिन उन्होंने उसे नहीं देखा।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Almas Javed was a student of which school?",
+        "hi": "अल्मास जावेद किस स्कूल की छात्रा थी?"
+      },
+      "options": {
+        "a": {"en": "Carmel Convent, Port Blair", "hi": "कार्मेल कॉन्वेंट, पोर्ट ब्लेयर"},
+        "b": {"en": "Delhi Public School", "hi": "दिल्ली पब्लिक स्कूल"},
+        "c": {"en": "Army School", "hi": "आर्मी स्कूल"},
+        "d": {"en": "Katchall Primary School", "hi": "कचल्ल प्राथमिक विद्यालय"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "She was a student at Carmel Convent in Port Blair.",
+        "hi": "वह पोर्ट ब्लेयर के कार्मेल कॉन्वेंट की छात्रा थी।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "What did Almas see floating in the water that she climbed onto?",
+        "hi": "अल्मास ने पानी में तैरते हुए क्या देखा जिस पर वह चढ़ गई?"
+      },
+      "options": {
+        "a": {"en": "A wooden door", "hi": "एक लकड़ी का दरवाजा"},
+        "b": {"en": "A log of wood", "hi": "लकड़ी का एक लट्ठा"},
+        "c": {"en": "A boat", "hi": "एक नाव"},
+        "d": {"en": "A table", "hi": "एक मेज"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "She fainted after climbing onto a floating log of wood.",
+        "hi": "वह तैरते हुए लकड़ी के लट्ठे पर चढ़ने के बाद बेहोश हो गई थी।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Tilly Smith was a schoolgirl from which country?",
+        "hi": "तिली स्मिथ किस देश की स्कूली छात्रा थी?"
+      },
+      "options": {
+        "a": {"en": "India", "hi": "भारत"},
+        "b": {"en": "Thailand", "hi": "थाईलैंड"},
+        "c": {"en": "England", "hi": "इंग्लैंड"},
+        "d": {"en": "Australia", "hi": "ऑस्ट्रेलिया"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Tilly Smith was from South-East England, visiting Thailand for Christmas.",
+        "hi": "तिली स्मिथ दक्षिण-पूर्वी इंग्लैंड से थी, जो क्रिसमस के लिए थाईलैंड आई थी।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Where was Tilly Smith's family celebrating Christmas?",
+        "hi": "तिली स्मिथ का परिवार क्रिसमस कहाँ मना रहा था?"
+      },
+      "options": {
+        "a": {"en": "Phuket beach, Thailand", "hi": "फुकेत बीच, थाईलैंड"},
+        "b": {"en": "London", "hi": "लंदन"},
+        "c": {"en": "Port Blair", "hi": "पोर्ट ब्लेयर"},
+        "d": {"en": "Bali", "hi": "बाली"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "They were at a beach resort in southern Thailand.",
+        "hi": "वे दक्षिणी थाईलैंड के एक बीच रिसॉर्ट में थे।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What warning signs did Tilly see on the beach?",
+        "hi": "तिली ने समुद्र तट पर क्या चेतावनी संकेत देखे?"
+      },
+      "options": {
+        "a": {"en": "The sea rising and starting to foam", "hi": "समुद्र का ऊपर उठना और झाग बनना शुरू होना"},
+        "b": {"en": "Whirlpools forming", "hi": "भंवर बनना"},
+        "c": {"en": "The sea receding", "hi": "समुद्र का पीछे हटना"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "explanation": {
+        "en": "She noticed the sea rising, foaming, and forming whirlpools, which she remembered from a video.",
+        "hi": "उसने समुद्र को ऊपर उठते, झाग बनते और भंवर बनते देखा, जो उसे एक वीडियो से याद आया।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Where had Tilly seen the video of a Tsunami before?",
+        "hi": "तिली ने पहले सुनामी का वीडियो कहाँ देखा था?"
+      },
+      "options": {
+        "a": {"en": "On the news", "hi": "समाचार पर"},
+        "b": {"en": "In her geography class", "hi": "अपनी भूगोल की कक्षा में"},
+        "c": {"en": "On YouTube", "hi": "यूट्यूब पर"},
+        "d": {"en": "In a movie", "hi": "एक फिल्म में"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Her geography teacher had shown the class a video of the 1946 Hawaiian tsunami.",
+        "hi": "उसके भूगोल शिक्षक ने कक्षा को 1946 के हवाई सुनामी का वीडियो दिखाया था।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "How many tourists died at Yala National Park?",
+        "hi": "याला नेशनल पार्क में कितने पर्यटक मारे गए?"
+      },
+      "options": {
+        "a": {"en": "60", "hi": "60"},
+        "b": {"en": "2", "hi": "2"},
+        "c": {"en": "None", "hi": "कोई नहीं"},
+        "d": {"en": "150", "hi": "150"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Sixty visitors were swept away from the Patanangala beach inside the park.",
+        "hi": "पार्क के अंदर पटानांगला समुद्र तट से साठ पर्यटक बह गए थे।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "How many animals died at Yala National Park?",
+        "hi": "याला नेशनल पार्क में कितने जानवर मरे?"
+      },
+      "options": {
+        "a": {"en": "Hundreds", "hi": "सैकड़ों"},
+        "b": {"en": "Two water buffaloes", "hi": "दो जल भैंसें"},
+        "c": {"en": "Sixty", "hi": "साठ"},
+        "d": {"en": "All of them", "hi": "वे सभी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Except for two water buffaloes, no animal carcasses were found.",
+        "hi": "दो जल भैंसों के अलावा, किसी भी जानवर का शव नहीं मिला।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What did the dogs in Galle do on the day of the Tsunami?",
+        "hi": "सुनामी के दिन गाले के कुत्तों ने क्या किया?"
+      },
+      "options": {
+        "a": {"en": "They slept all day", "hi": "वे पूरे दिन सोए रहे"},
+        "b": {"en": "They refused to go for their daily run on the beach", "hi": "उन्होंने समुद्र तट पर अपनी दैनिक दौड़ के लिए जाने से मना कर दिया"},
+        "c": {"en": "They barked at the waves", "hi": "वे लहरों पर भौंके"},
+        "d": {"en": "They swam in the sea", "hi": "वे समुद्र में तैरे"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The dogs sensed the danger and refused to leave the house.",
+        "hi": "कुत्तों ने खतरे को भांप लिया और घर से बाहर निकलने से मना कर दिया।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "Many people believe that animals possess a _______ sense.",
+        "hi": "बहुत से लोग मानते हैं कि जानवरों में एक _______ इंद्रिय होती है।"
+      },
+      "options": {
+        "a": {"en": "Sixth", "hi": "छठी (Sixth)"},
+        "b": {"en": "Magic", "hi": "जादुई"},
+        "c": {"en": "Visual", "hi": "दृश्य"},
+        "d": {"en": "Hearing", "hi": "श्रवण"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "It is believed that the 'sixth sense' helps animals feel the earth's vibration.",
+        "hi": "यह माना जाता है कि 'छठी इंद्रिय' जानवरों को पृथ्वी के कंपन को महसूस करने में मदद करती है।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What is the 'giant wave' mentioned in the story?",
+        "hi": "कहानी में उल्लिखित 'विशाल लहर' क्या है?"
+      },
+      "options": {
+        "a": {"en": "A tide", "hi": "एक ज्वार"},
+        "b": {"en": "A Tsunami", "hi": "एक सुनामी"},
+        "c": {"en": "A hurricane", "hi": "एक तूफान"},
+        "d": {"en": "A whirlpool", "hi": "एक भंवर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The giant waves are the tsunamis that struck the Indian Ocean.",
+        "hi": "विशाल लहरें वे सुनामी हैं जो हिंद महासागर में आई थीं।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What happened to Ignesius's two children?",
+        "hi": "इग्नेशियस के दो बच्चों का क्या हुआ?"
+      },
+      "options": {
+        "a": {"en": "They were saved by Sanjeev", "hi": "उन्हें संजीव ने बचा लिया"},
+        "b": {"en": "They were swept away with their mother's father and brother", "hi": "वे अपनी माँ के पिता और भाई के साथ बह गए"},
+        "c": {"en": "They climbed a tree", "hi": "वे एक पेड़ पर चढ़ गए"},
+        "d": {"en": "They hid in the cupboard", "hi": "वे अलमारी में छिप गए"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Only three other children who came with him were saved.",
+        "hi": "उसके साथ आए केवल तीन अन्य बच्चे ही बच पाए थे।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "Tilly’s mother, Penny, was _______ when she first saw the sea behavior.",
+        "hi": "तिली की माँ, पेनी, _______ थीं जब उन्होंने पहली बार समुद्र का व्यवहार देखा।"
+      },
+      "options": {
+        "a": {"en": "Terrified", "hi": "भयभीत"},
+        "b": {"en": "Excited", "hi": "उत्साहित"},
+        "c": {"en": "Not alarmed initially", "hi": "शुरुआत में चिंतित नहीं"},
+        "d": {"en": "Angry", "hi": "क्रोधित"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "She didn't know what was happening until Tilly started screaming.",
+        "hi": "जब तक तिली चिल्लाने नहीं लगी, तब तक उन्हें पता नहीं था कि क्या हो रहा है।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "The word 'Recede' means to _______.",
+        "hi": "'Recede' शब्द का अर्थ है _______।"
+      },
+      "options": {
+        "a": {"en": "To move forward", "hi": "आगे बढ़ना"},
+        "b": {"en": "To move back from where it was", "hi": "जहाँ था वहां से पीछे हटना"},
+        "c": {"en": "To overflow", "hi": "उफन जाना"},
+        "d": {"en": "To stay still", "hi": "स्थिर रहना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Before a Tsunami, water often recedes from the shore.",
+        "hi": "सुनामी से पहले, पानी अक्सर किनारे से पीछे हट जाता है।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "How many people died in the 2004 Tsunami overall mentioned in the text?",
+        "hi": "पाठ में उल्लिखित 2004 की सुनामी में कुल कितने लोग मारे गए?"
+      },
+      "options": {
+        "a": {"en": "10,000", "hi": "10,000"},
+        "b": {"en": "More than 1,50,000", "hi": "1,50,000 से अधिक"},
+        "c": {"en": "5,000", "hi": "5,000"},
+        "d": {"en": "1,00,000", "hi": "1,00,000"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The tsunami killed more than 1.5 lakh people in a dozen countries.",
+        "hi": "सुनामी ने एक दर्जन देशों में 1.5 लाख से अधिक लोगों की जान ली।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Where is Yala National Park located?",
+        "hi": "याला नेशनल पार्क कहाँ स्थित है?"
+      },
+      "options": {
+        "a": {"en": "India", "hi": "भारत"},
+        "b": {"en": "Thailand", "hi": "थाईलैंड"},
+        "c": {"en": "Sri Lanka", "hi": "श्रीलंका"},
+        "d": {"en": "Indonesia", "hi": "इंडोनेशिया"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Yala National Park is in Sri Lanka and is home to elephants, leopards, and birds.",
+        "hi": "याला नेशनल पार्क श्रीलंका में है और यह हाथियों, तेंदुओं और पक्षियों का घर है।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "The Smith family took shelter in _______ of the hotel.",
+        "hi": "स्मिथ परिवार ने होटल के _______ में शरण ली।"
+      },
+      "options": {
+        "a": {"en": "The basement", "hi": "तहखाने"},
+        "b": {"en": "The third floor", "hi": "तीसरी मंजिल"},
+        "c": {"en": "The roof", "hi": "छत"},
+        "d": {"en": "The lobby", "hi": "लॉबी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The building withstood the surge of three tsunami waves because they were on the third floor.",
+        "hi": "इमारत सुनामी की तीन लहरों के झटके को सह गई क्योंकि वे तीसरी मंजिल पर थे।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "What does 'Traumatised' mean?",
+        "hi": "'Traumatised' का अर्थ क्या है?"
+      },
+      "options": {
+        "a": {"en": "Very happy", "hi": "बहुत खुश"},
+        "b": {"en": "Shocked and distressed", "hi": "स्तब्ध और व्यथित"},
+        "c": {"en": "Physically strong", "hi": "शारीरिक रूप से मजबूत"},
+        "d": {"en": "Brave", "hi": "बहादुर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Almas was so traumatised that she did not want to talk about the incident.",
+        "hi": "अल्मास इतनी स्तब्ध थी कि वह इस घटना के बारे में बात नहीं करना चाहती थी।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "Which of these is a synonym for 'Tremor'?",
+        "hi": "इनमें से कौन सा 'Tremor' का पर्यायवाची है?"
+      },
+      "options": {
+        "a": {"en": "A slight shake", "hi": "हल्का झटका/कंपन"},
+        "b": {"en": "A loud noise", "hi": "तेज आवाज"},
+        "c": {"en": "A flash of light", "hi": "प्रकाश की एक किरण"},
+        "d": {"en": "A heavy rain", "hi": "भारी बारिश"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Tremors refer to the earth shaking during an earthquake.",
+        "hi": "कंपन (Tremors) भूकंप के दौरान पृथ्वी के हिलने को संदर्भित करता है।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "What did the two water buffaloes do before the Tsunami hit Yala?",
+        "hi": "याला में सुनामी आने से पहले दो जल भैंसों ने क्या किया?"
+      },
+      "options": {
+        "a": {"en": "They were running away from the beach", "hi": "वे समुद्र तट से दूर भाग रही थीं"},
+        "b": {"en": "They were sleeping", "hi": "वे सो रही थीं"},
+        "c": {"en": "They were eating grass", "hi": "वे घास खा रही थीं"},
+        "d": {"en": "They were swimming", "hi": "वे तैर रही थीं"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "People observed them running away from the Patanangala beach an hour before the tsunami.",
+        "hi": "लोगों ने उन्हें सुनामी से एक घंटे पहले पटानांगला समुद्र तट से दूर भागते देखा था।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Tilly Smith won many _______ for her bravery.",
+        "hi": "तिली स्मिथ ने अपनी बहादुरी के लिए कई _______ जीते।"
+      },
+      "options": {
+        "a": {"en": "Cash prizes", "hi": "नकद पुरस्कार"},
+        "b": {"en": "Awards", "hi": "पुरस्कार (Awards)"},
+        "c": {"en": "Free trips", "hi": "मुफ्त यात्राएं"},
+        "d": {"en": "Toys", "hi": "खिलौने"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "She received several awards, though her parents didn't let her be interviewed on TV.",
+        "hi": "उसे कई पुरस्कार मिले, हालांकि उसके माता-पिता ने उसे टीवी पर इंटरव्यू नहीं देने दिया।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "How did Meghna survive in the sea?",
+        "hi": "मेघना समुद्र में कैसे बची?"
+      },
+      "options": {
+        "a": {"en": "She was on a boat", "hi": "वह एक नाव पर थी"},
+        "b": {"en": "She held onto a wooden door", "hi": "उसने एक लकड़ी का दरवाजा पकड़े रखा"},
+        "c": {"en": "She was a great swimmer", "hi": "वह एक महान तैराक थी"},
+        "d": {"en": "The rescue helicopter picked her up", "hi": "बचाव हेलीकॉप्टर ने उसे उठा लिया"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "She held onto a wooden door for two days before a wave brought her to the shore.",
+        "hi": "एक लहर द्वारा किनारे पर लाए जाने से पहले उसने दो दिनों तक लकड़ी का दरवाजा पकड़े रखा।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "The lesson 'The Tsunami' teaches us about _______.",
+        "hi": "'सुनामी' पाठ हमें _______ के बारे में सिखाता है।"
+      },
+      "options": {
+        "a": {"en": "The power of nature", "hi": "प्रकृति की शक्ति"},
+        "b": {"en": "Bravery and presence of mind", "hi": "बहादुरी और मानसिक सतर्कता"},
+        "c": {"en": "Animal instincts", "hi": "जानवरों की प्रवृत्ति"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "explanation": {
+        "en": "The stories highlight natural disasters, human courage, and the mysterious senses of animals.",
+        "hi": "कहानियां प्राकृतिक आपदाओं, मानवीय साहस और जानवरों की रहस्यमयी इंद्रियों को उजागर करती हैं।"
+      }
+    }
+  ]
+}
