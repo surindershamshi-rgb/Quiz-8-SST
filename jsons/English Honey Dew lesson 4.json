@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 4,
+    "chapter_title": "Bepin Choudhury’s Lapse of Memory",
+    "chapter_title_hindi": "बिपिन चौधरी की स्मृति का लोप",
+    "subject": "English - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_ENG_CH04_Memory_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Where did Bepin Babu go every Monday after work?",
+        "hi": "काम के बाद हर सोमवार बिपिन बाबू कहाँ जाते थे?"
+      },
+      "options": {
+        "a": {"en": "To the cinema", "hi": "सिनेमा देखने"},
+        "b": {"en": "To Kalicharan’s New Market to buy books", "hi": "किताबें खरीदने कालीचरण के न्यू मार्केट"},
+        "c": {"en": "To a park", "hi": "एक पार्क में"},
+        "d": {"en": "To his friend's house", "hi": "अपने दोस्त के घर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Bepin Babu had a habit of buying at least five books every Monday to last him through the week.",
+        "hi": "बिपिन बाबू को हर सोमवार कम से कम पाँच किताबें खरीदने की आदत थी ताकि वे पूरे हफ्ते चल सकें।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "What kind of books did Bepin Babu NOT like to read?",
+        "hi": "बिपिन बाबू को किस तरह की किताबें पढ़ना पसंद नहीं था?"
+      },
+      "options": {
+        "a": {"en": "Crime stories", "hi": "अपराध की कहानियाँ"},
+        "b": {"en": "Ghost stories", "hi": "भूतों की कहानियाँ"},
+        "c": {"en": "Love stories", "hi": "प्रेम कहानियाँ"},
+        "d": {"en": "Thrillers", "hi": "थ्रिलर (रोमांचक)"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "He preferred crime, ghost stories, and thrillers over sentimental or romantic books.",
+        "hi": "उन्होंने भावुक या रोमांटिक किताबों के बजाय अपराध, भूतों की कहानियों और थ्रिलर को प्राथमिकता दी।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Who was the man staring at Bepin Babu at the bookshop?",
+        "hi": "किताबों की दुकान पर बिपिन बाबू को घूरने वाला व्यक्ति कौन था?"
+      },
+      "options": {
+        "a": {"en": "Chunilal", "hi": "चुन्नीलाल"},
+        "b": {"en": "Parimal Ghose", "hi": "परिमल घोष"},
+        "c": {"en": "Dinesh Mukerji", "hi": "दिनेश मुखर्जी"},
+        "d": {"en": "Paresh Chanda", "hi": "परेश चंदा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The stranger introduced himself as Parimal Ghose and claimed to have met Bepin in Ranchi.",
+        "hi": "अजनबी ने अपना परिचय परिमल घोष के रूप में दिया और दावा किया कि वह रांची में बिपिन से मिला था।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "According to Parimal Ghose, in which year did Bepin Babu visit Ranchi?",
+        "hi": "परिमल घोष के अनुसार, बिपिन बाबू ने किस वर्ष रांची का दौरा किया था?"
+      },
+      "options": {
+        "a": {"en": "1950", "hi": "1950"},
+        "b": {"en": "1962", "hi": "1962"},
+        "c": {"en": "1958", "hi": "1958"},
+        "d": {"en": "1947", "hi": "1947"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Parimal Ghose insisted that Bepin Babu was in Ranchi for a whole week in October '58.",
+        "hi": "परिमल घोष ने जोर देकर कहा कि बिपिन बाबू अक्टूबर '58 में पूरे एक हफ्ते के लिए रांची में थे।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "What physical mark did Parimal Ghose mention to prove he knew Bepin?",
+        "hi": "परिमल घोष ने यह साबित करने के लिए कि वह बिपिन को जानते थे, किस शारीरिक निशान का उल्लेख किया?"
+      },
+      "options": {
+        "a": {"en": "A scar on the left cheek", "hi": "बाएं गाल पर एक निशान"},
+        "b": {"en": "A cut on the right knee", "hi": "दाएं घुटने पर एक घाव"},
+        "c": {"en": "A mole on the neck", "hi": "गर्दन पर एक तिल"},
+        "d": {"en": "A missing finger", "hi": "एक कटी हुई उंगली"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Parimal mentioned that Bepin had a fall at Hudroo Falls and cut his right knee.",
+        "hi": "परिमल ने उल्लेख किया कि बिपिन हुडरू फॉल्स में गिर गए थे और उनके दाएं घुटने में चोट लग गई थी।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Where did Bepin Babu believe he spent the October of '58?",
+        "hi": "बिपिन बाबू का क्या मानना था कि उन्होंने '58 का अक्टूबर कहाँ बिताया था?"
+      },
+      "options": {
+        "a": {"en": "In Kanpur at a friend's place", "hi": "कानपुर में एक दोस्त के यहाँ"},
+        "b": {"en": "In Calcutta", "hi": "कलकत्ता में"},
+        "c": {"en": "In London", "hi": "लंदन में"},
+        "d": {"en": "In Delhi", "hi": "दिल्ली में"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Bepin Babu was sure he had spent that time in Kanpur at his friend Haridas Bagchi’s place.",
+        "hi": "बिपिन बाबू को यकीन था कि उन्होंने वह समय कानपुर में अपने दोस्त हरिदास बागची के यहाँ बिताया था।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Who did Bepin Babu call to confirm his Ranchi trip?",
+        "hi": "बिपिन बाबू ने अपनी रांची यात्रा की पुष्टि करने के लिए किसे फोन किया?"
+      },
+      "options": {
+        "a": {"en": "Chunilal", "hi": "चुन्नीलाल"},
+        "b": {"en": "Dinesh Mukerji", "hi": "दिनेश मुखर्जी"},
+        "c": {"en": "Paresh Chanda", "hi": "परेश चंदा"},
+        "d": {"en": "Haridas Bagchi", "hi": "हरिदास बागची"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He called Dinesh Mukerji because Parimal Ghose had mentioned Dinesh was also in Ranchi at that time.",
+        "hi": "उन्होंने दिनेश मुखर्जी को फोन किया क्योंकि परिमल घोष ने उल्लेख किया था कि दिनेश भी उस समय रांची में थे।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "What was Dinesh Mukerji's reply to Bepin's question?",
+        "hi": "बिपिन के सवाल पर दिनेश मुखर्जी का क्या जवाब था?"
+      },
+      "options": {
+        "a": {"en": "He said Bepin never went to Ranchi", "hi": "उन्होंने कहा कि बिपिन कभी रांची नहीं गए"},
+        "b": {"en": "He confirmed that they both went to Ranchi", "hi": "उन्होंने पुष्टि की कि वे दोनों रांची गए थे"},
+        "c": {"en": "He said he didn't remember", "hi": "उन्होंने कहा कि उन्हें याद नहीं है"},
+        "d": {"en": "He got angry and hung up", "hi": "वे नाराज हो गए और फोन काट दिया"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Dinesh checked his diary and confirmed that Bepin was indeed in Ranchi in October '58.",
+        "hi": "दिनेश ने अपनी डायरी जाँची और पुष्टि की कि बिपिन वास्तव में अक्टूबर '58 में रांची में थे।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Who was Chunilal and why did he visit Bepin Babu?",
+        "hi": "चुन्नीलाल कौन था और वह बिपिन बाबू के पास क्यों आया था?"
+      },
+      "options": {
+        "a": {"en": "A doctor looking for a patient", "hi": "एक डॉक्टर जो मरीज की तलाश में था"},
+        "b": {"en": "An old school friend looking for a job", "hi": "स्कूल का एक पुराना दोस्त जो नौकरी की तलाश में था"},
+        "c": {"en": "A relative visiting from Ranchi", "hi": "रांची से आया एक रिश्तेदार"},
+        "d": {"en": "A book seller", "hi": "एक पुस्तक विक्रेता"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Chunilal was an old friend going through a rough patch and wanted Bepin's help with a job.",
+        "hi": "चुन्नीलाल एक पुराना दोस्त था जो बुरे दौर से गुजर रहा था और नौकरी के लिए बिपिन की मदद चाहता था।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "What did Chunilal say about the Ranchi trip?",
+        "hi": "चुन्नीलाल ने रांची यात्रा के बारे में क्या कहा?"
+      },
+      "options": {
+        "a": {"en": "He said he knew nothing about it", "hi": "उसने कहा कि वह इसके बारे में कुछ नहीं जानता"},
+        "b": {"en": "He claimed he was the one who booked Bepin's railway ticket", "hi": "उसने दावा किया कि उसी ने बिपिन का रेलवे टिकट बुक किया था"},
+        "c": {"en": "He said Bepin had gone to Delhi instead", "hi": "उसने कहा कि बिपिन इसके बजाय दिल्ली गए थे"},
+        "d": {"en": "He laughed at the question", "hi": "वह सवाल पर हँसा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Chunilal further confused Bepin by saying he personally saw him off at the station for Ranchi.",
+        "hi": "चुन्नीलाल ने यह कहकर बिपिन को और भ्रमित कर दिया कि उसने खुद उन्हें रांची के लिए स्टेशन पर विदा किया था।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Who was Dr. Paresh Chanda?",
+        "hi": "डॉ. परेश चंदा कौन थे?"
+      },
+      "options": {
+        "a": {"en": "A heart specialist", "hi": "एक हृदय रोग विशेषज्ञ"},
+        "b": {"en": "A young physician", "hi": "एक युवा चिकित्सक"},
+        "c": {"en": "A dentist", "hi": "एक दंत चिकित्सक"},
+        "d": {"en": "Bepin's brother", "hi": "बिपिन के भाई"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Dr. Paresh Chanda was the doctor Bepin consulted regarding his memory loss.",
+        "hi": "डॉ. परेश चंदा वह डॉक्टर थे जिनसे बिपिन ने अपनी याददाश्त खोने के बारे में सलाह ली थी।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What unusual advice did Dr. Chanda give to Bepin Babu?",
+        "hi": "डॉ. चंदा ने बिपिन बाबू को क्या असामान्य सलाह दी?"
+      },
+      "options": {
+        "a": {"en": "To take a long sleep", "hi": "लंबी नींद लेने की"},
+        "b": {"en": "To visit Ranchi again to jog his memory", "hi": "याददाश्त को ताज़ा करने के लिए फिर से रांची जाने की"},
+        "c": {"en": "To stop reading books", "hi": "किताबें पढ़ना बंद करने की"},
+        "d": {"en": "To undergo a surgery", "hi": "सर्जरी कराने की"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He suggested that visiting the same places might trigger his lost memory.",
+        "hi": "उन्होंने सुझाव दिया कि उन्हीं जगहों पर जाने से उनकी खोई हुई याददाश्त वापस आ सकती है।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "What happened when Bepin Babu reached Hudroo Falls?",
+        "hi": "जब बिपिन बाबू हुडरू फॉल्स पहुँचे तो क्या हुआ?"
+      },
+      "options": {
+        "a": {"en": "He remembered everything", "hi": "उन्हें सब कुछ याद आ गया"},
+        "b": {"en": "He fell unconscious", "hi": "वे बेहोश हो गए"},
+        "c": {"en": "He met Parimal Ghose again", "hi": "वे फिर से परिमल घोष से मिले"},
+        "d": {"en": "He found his lost bag", "hi": "उन्हें अपना खोया हुआ बैग मिला"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "At Hudroo, he fell unconscious and was found by two Gujaratis the next morning.",
+        "hi": "हुडरू में, वे बेहोश हो गए और अगली सुबह दो गुजरातियों द्वारा पाए गए।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What did Bepin Babu find in the envelope delivered to his home?",
+        "hi": "बिपिन बाबू को उनके घर पहुँचाए गए लिफाफे में क्या मिला?"
+      },
+      "options": {
+        "a": {"en": "A bill from the bookshop", "hi": "किताबों की दुकान का एक बिल"},
+        "b": {"en": "A letter from Chunilal", "hi": "चुन्नीलाल का एक पत्र"},
+        "c": {"en": "A photo from Ranchi", "hi": "रांची की एक फोटो"},
+        "d": {"en": "An invitation to a party", "hi": "एक पार्टी का निमंत्रण"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The letter revealed that the whole Ranchi memory lapse was a prank played by Chunilal.",
+        "hi": "पत्र से पता चला कि रांची की याददाश्त खोने का पूरा मामला चुन्नीलाल द्वारा किया गया एक मजाक था।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "Why did Chunilal play this prank on Bepin Babu?",
+        "hi": "चुन्नीलाल ने बिपिन बाबू के साथ यह मजाक क्यों किया?"
+      },
+      "options": {
+        "a": {"en": "Because he hated Bepin", "hi": "क्योंकि वह बिपिन से नफरत करता था"},
+        "b": {"en": "To take revenge for Bepin's unhelpfulness", "hi": "बिपिन द्वारा मदद न करने का बदला लेने के लिए"},
+        "c": {"en": "Just for fun", "hi": "सिर्फ मनोरंजन के लिए"},
+        "d": {"en": "To get money", "hi": "पैसे पाने के लिए"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Chunilal wanted to punish Bepin for not helping an old friend in his time of need.",
+        "hi": "चुन्नीलाल बिपिन को जरूरत के समय एक पुराने दोस्त की मदद न करने के लिए दंडित करना चाहता था।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What was the 'imagination' Chunilal used to trick Bepin?",
+        "hi": "बिपिन को धोखा देने के लिए चुन्नीलाल ने किस 'कल्पना' का उपयोग किया?"
+      },
+      "options": {
+        "a": {"en": "Writing a novel", "hi": "एक उपन्यास लिखना"},
+        "b": {"en": "Hiring actors", "hi": "अभिनेताओं को किराए पर लेना"},
+        "c": {"en": "Inventing a fake Ranchi trip", "hi": "एक फर्जी रांची यात्रा का आविष्कार करना"},
+        "d": {"en": "Stealing Bepin's diary", "hi": "बिपिन की डायरी चुराना"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "He created a fake narrative of a trip that never happened to test Bepin’s conscience.",
+        "hi": "उन्होंने एक ऐसी यात्रा की फर्जी कहानी बनाई जो कभी हुई ही नहीं थी।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What did Bepin tell Dr. Chanda at the end of the story?",
+        "hi": "कहानी के अंत में बिपिन ने डॉ. चंदा को क्या बताया?"
+      },
+      "options": {
+        "a": {"en": "That he remembered the trip", "hi": "कि उन्हें यात्रा याद आ गई"},
+        "b": {"en": "That he was feeling fine and his memory returned in Ranchi", "hi": "कि वे ठीक महसूस कर रहे हैं और उनकी याददाश्त रांची में वापस आ गई"},
+        "c": {"en": "That Chunilal tricked him", "hi": "कि चुन्नीलाल ने उन्हें धोखा दिया"},
+        "d": {"en": "That he wanted more medicine", "hi": "कि उन्हें और दवा चाहिए"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Bepin lied to the doctor to hide his embarrassment of being tricked.",
+        "hi": "धोखा खाने की शर्मिंदगी को छिपाने के लिए बिपिन ने डॉक्टर से झूठ बोला।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "The word 'Sane' used in the story means _______.",
+        "hi": "कहानी में प्रयुक्त 'Sane' शब्द का अर्थ _______ है।"
+      },
+      "options": {
+        "a": {"en": "Crazy", "hi": "पागल"},
+        "b": {"en": "Healthy and rational mind", "hi": "स्वस्थ और तर्कसंगत मन"},
+        "c": {"en": "Forgetful", "hi": "भुलक्कड़"},
+        "d": {"en": "Very rich", "hi": "बहुत अमीर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Bepin feared he was losing his mind or was no longer 'sane'.",
+        "hi": "बिपिन को डर था कि वह अपना मानसिक संतुलन खो रहा है।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What was the name of Bepin's servant?",
+        "hi": "बिपिन के नौकर का नाम क्या था?"
+      },
+      "options": {
+        "a": {"en": "Sitaram", "hi": "सिताराम"},
+        "b": {"en": "Ramoo", "hi": "रामू"},
+        "c": {"en": "Chuni", "hi": "चुन्नी"},
+        "d": {"en": "Hari", "hi": "हरि"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Sitaram was his servant who informed him about Chunilal’s visit.",
+        "hi": "सिताराम उनका नौकर था जिसने उन्हें चुन्नीलाल के आने की सूचना दी थी।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What did Bepin Babu do to verify the 'cut on his knee'?",
+        "hi": "बिपिन बाबू ने 'घुटने पर कट' की पुष्टि के लिए क्या किया?"
+      },
+      "options": {
+        "a": {"en": "He asked his servant", "hi": "उन्होंने अपने नौकर से पूछा"},
+        "b": {"en": "He rolled up his trousers to look", "hi": "उन्होंने देखने के लिए अपनी पतलून ऊपर की"},
+        "c": {"en": "He called the hospital", "hi": "उन्होंने अस्पताल फोन किया"},
+        "d": {"en": "He looked at old photos", "hi": "उन्होंने पुरानी फोटो देखी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "To his surprise, he actually found a mark on his right knee.",
+        "hi": "उनके आश्चर्य का ठिकाना नहीं रहा जब उन्हें वास्तव में अपने दाएं घुटने पर एक निशान मिला।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Bepin Babu lived _______.",
+        "hi": "बिपिन बाबू _______ रहते थे।"
+      },
+      "options": {
+        "a": {"en": "With a large family", "hi": "एक बड़े परिवार के साथ"},
+        "b": {"en": "Alone", "hi": "अकेले"},
+        "c": {"en": "With his wife", "hi": "अपनी पत्नी के साथ"},
+        "d": {"en": "In a hostel", "hi": "एक हॉस्टल में"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The story mentions Bepin lived alone and was not a good mixer.",
+        "hi": "कहानी में उल्लेख है कि बिपिन अकेले रहते थे और लोगों से ज्यादा मिलना-जुलना पसंद नहीं करते थे।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "What did Parimal Ghose say about Bepin's wife?",
+        "hi": "परिमल घोष ने बिपिन की पत्नी के बारे में क्या कहा?"
+      },
+      "options": {
+        "a": {"en": "She was still in Calcutta", "hi": "वह अभी भी कलकत्ता में थी"},
+        "b": {"en": "She had died ten years ago", "hi": "उनकी दस साल पहले मृत्यु हो गई थी"},
+        "c": {"en": "She was with him in Ranchi", "hi": "वह उनके साथ रांची में थी"},
+        "d": {"en": "She was a doctor", "hi": "वह एक डॉक्टर थी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Parimal knew intimate details, like the death of Bepin's wife and his brother's insanity.",
+        "hi": "परिमल को निजी बातें पता थीं, जैसे बिपिन की पत्नी की मृत्यु और उनके भाई का पागलपन।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Why was Bepin Babu's head spinning after talking to Dinesh?",
+        "hi": "दिनेश से बात करने के बाद बिपिन बाबू का सिर क्यों चकरा रहा था?"
+      },
+      "options": {
+        "a": {"en": "He was hungry", "hi": "वे भूखे थे"},
+        "b": {"en": "He was shocked that he forgot a major life event", "hi": "वे इस बात से हैरान थे कि वे जीवन की एक बड़ी घटना भूल गए"},
+        "c": {"en": "He had a fever", "hi": "उन्हें बुखार था"},
+        "d": {"en": "The room was hot", "hi": "कमरा गर्म था"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The confirmation from Dinesh made him doubt his own sanity.",
+        "hi": "दिनेश की पुष्टि ने उन्हें अपने मानसिक स्वास्थ्य पर संदेह करने के लिए मजबूर कर दिया।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "How did Bepin Babu travel to Ranchi?",
+        "hi": "बिपिन बाबू रांची कैसे गए?"
+      },
+      "options": {
+        "a": {"en": "By car", "hi": "कार से"},
+        "b": {"en": "By train", "hi": "ट्रेन से"},
+        "c": {"en": "By bus", "hi": "बस से"},
+        "d": {"en": "By plane", "hi": "हवाई जहाज से"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He took the train to Ranchi the very next morning after consulting the doctor.",
+        "hi": "डॉक्टर से सलाह लेने के अगले ही सुबह वे ट्रेन से रांची के लिए निकल गए।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "What did Bepin realize while sitting in the taxi in Ranchi?",
+        "hi": "रांची में टैक्सी में बैठे हुए बिपिन को क्या अहसास हुआ?"
+      },
+      "options": {
+        "a": {"en": "He recognized all the buildings", "hi": "उन्होंने सभी इमारतों को पहचान लिया"},
+        "b": {"en": "He had never seen these streets before", "hi": "उन्होंने इन सड़कों को पहले कभी नहीं देखा था"},
+        "c": {"en": "The taxi driver was Parimal Ghose", "hi": "टैक्सी ड्राइवर परिमल घोष था"},
+        "d": {"en": "He had forgotten his wallet", "hi": "वे अपना बटुआ भूल गए थे"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "None of the landmarks in Ranchi looked familiar to him.",
+        "hi": "रांची का कोई भी स्थान उन्हें जाना-पहचाना नहीं लग रहा था।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "Chunilal's letter mentioned his new _______ was coming out.",
+        "hi": "चुन्नीलाल के पत्र में उल्लेख था कि उसका नया _______ आने वाला है।"
+      },
+      "options": {
+        "a": {"en": "Movie", "hi": "फिल्म"},
+        "b": {"en": "Novel", "hi": "उपन्यास"},
+        "c": {"en": "Job", "hi": "नौकरी"},
+        "d": {"en": "Business", "hi": "व्यवसाय"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Chunilal informed Bepin that his novel had been accepted by a publisher.",
+        "hi": "चुन्नीलाल ने बिपिन को सूचित किया कि उसके उपन्यास को एक प्रकाशक ने स्वीकार कर लिया है।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "The story 'Bepin Choudhury’s Lapse of Memory' is written by:",
+        "hi": "'बिपिन चौधरी की स्मृति का लोप' कहानी किसके द्वारा लिखी गई है?"
+      },
+      "options": {
+        "a": {"en": "R.K. Narayan", "hi": "आर.के. नारायण"},
+        "b": {"en": "Satyajit Ray", "hi": "सत्यजीत राय"},
+        "c": {"en": "Ruskin Bond", "hi": "रस्किन बॉन्ड"},
+        "d": {"en": "Vikram Seth", "hi": "विक्रम सेठ"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The author is the legendary Indian filmmaker and writer Satyajit Ray.",
+        "hi": "इसके लेखक महान भारतीय फिल्म निर्माता और लेखक सत्यजीत राय हैं।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "What did Bepin Babu do to keep himself calm at work?",
+        "hi": "बिपिन बाबू ने काम पर खुद को शांत रखने के लिए क्या किया?"
+      },
+      "options": {
+        "a": {"en": "He took a leave", "hi": "उन्होंने छुट्टी ले ली"},
+        "b": {"en": "He tried to carry on as usual but couldn't concentrate", "hi": "उन्होंने हमेशा की तरह काम करने की कोशिश की लेकिन ध्यान केंद्रित नहीं कर सके"},
+        "c": {"en": "He fought with his boss", "hi": "वे अपने बॉस से लड़ पड़े"},
+        "d": {"en": "He listened to music", "hi": "उन्होंने संगीत सुना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The fear of memory loss made it impossible for him to do his work properly.",
+        "hi": "याददाश्त खोने के डर ने उनके लिए अपना काम ठीक से करना असंभव बना दिया।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "What was the color of the envelope left by Chunilal?",
+        "hi": "चुन्नीलाल द्वारा छोड़े गए लिफाफे का रंग क्या था?"
+      },
+      "options": {
+        "a": {"en": "Yellow", "hi": "पीला"},
+        "b": {"en": "Green", "hi": "हरा"},
+        "c": {"en": "Red", "hi": "लाल"},
+        "d": {"en": "Blue", "hi": "नीला"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The servant brought a greenish envelope for Bepin Babu.",
+        "hi": "नौकर बिपिन बाबू के लिए हरे रंग का लिफाफा लाया था।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "What is the moral lesson of the story?",
+        "hi": "कहानी का नैतिक पाठ क्या है?"
+      },
+      "options": {
+        "a": {"en": "Memory is unreliable", "hi": "याददाश्त अविश्वसनीय है"},
+        "b": {"en": "One should help friends in need", "hi": "जरूरत में दोस्तों की मदद करनी चाहिए"},
+        "c": {"en": "Don't visit Ranchi", "hi": "रांची मत जाओ"},
+        "d": {"en": "Doctors can solve any problem", "hi": "डॉक्टर किसी भी समस्या का समाधान कर सकते हैं"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The story shows that ignoring friends can lead to embarrassing consequences.",
+        "hi": "कहानी दिखाती है कि दोस्तों की अनदेखी करने से शर्मनाक परिणाम हो सकते हैं।"
+      }
+    }
+  ]
+}
