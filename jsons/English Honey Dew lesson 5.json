@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 5,
+    "chapter_title": "The Summit Within",
+    "chapter_title_hindi": "भीतर का शिखर",
+    "subject": "English - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_ENG_CH05_Summit_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Who is the author of the lesson 'The Summit Within'?",
+        "hi": "'द समिट विदिन' पाठ के लेखक कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "Tenzing Norgay", "hi": "तेनज़िंग नोर्गे"},
+        "b": {"en": "Major H.P.S. Ahluwalia", "hi": "मेजर एच.पी.एस. आहलूवालिया"},
+        "c": {"en": "Edmund Hillary", "hi": "एडमंड हिलेरी"},
+        "d": {"en": "R.K. Narayan", "hi": "आर.के. नारायण"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Major H.P.S. Ahluwalia was a member of the first successful Indian expedition to Mount Everest in 1965.",
+        "hi": "मेजर एच.पी.एस. आहलूवालिया 1965 में माउंट एवरेस्ट के पहले सफल भारतीय अभियान के सदस्य थे।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "What was the author's dominant emotion as he stood on the summit of Everest?",
+        "hi": "जब लेखक एवरेस्ट के शिखर पर खड़ा था, तो उसकी प्रमुख भावना क्या थी?"
+      },
+      "options": {
+        "a": {"en": "Pride", "hi": "गर्व"},
+        "b": {"en": "Humility", "hi": "विनम्रता"},
+        "c": {"en": "Joy", "hi": "खुशी"},
+        "d": {"en": "Anger", "hi": "क्रोध"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Standing on the vast summit makes one feel small, leading to a sense of deep humility.",
+        "hi": "विशाल शिखर पर खड़े होने से व्यक्ति खुद को छोटा महसूस करता है, जिससे गहरी विनम्रता की भावना पैदा होती है।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "According to the author, why do people climb mountains?",
+        "hi": "लेखक के अनुसार लोग पहाड़ों पर क्यों चढ़ते हैं?"
+      },
+      "options": {
+        "a": {"en": "Because they are there", "hi": "क्योंकि वे वहाँ हैं"},
+        "b": {"en": "To overcome obstacles", "hi": "बाधाओं को दूर करने के लिए"},
+        "c": {"en": "To gain fame", "hi": "प्रसिद्धि पाने के लिए"},
+        "d": {"en": "Both a and b", "hi": "a और b दोनों"}
+      },
+      "correct_option": "d",
+      "explanation": {
+        "en": "People climb mountains because it is a difficult task that tests physical endurance and the will to overcome obstacles.",
+        "hi": "लोग पहाड़ों पर चढ़ते हैं क्योंकि यह एक कठिन कार्य है जो शारीरिक सहनशक्ति और बाधाओं को दूर करने की इच्छा का परीक्षण करता है।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What are the three qualities that play a major role in climbing a mountain?",
+        "hi": "पहाड़ पर चढ़ने में प्रमुख भूमिका निभाने वाले तीन गुण कौन से हैं?"
+      },
+      "options": {
+        "a": {"en": "Endurance, Persistence, and Willpower", "hi": "सहनशक्ति, दृढ़ता और इच्छाशक्ति"},
+        "b": {"en": "Speed, Strength, and Luck", "hi": "गति, शक्ति और भाग्य"},
+        "c": {"en": "Money, Fame, and Power", "hi": "पैसा, प्रसिद्धि और शक्ति"},
+        "d": {"en": "Anger, Fear, and Pride", "hi": "क्रोध, भय और गर्व"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Ahluwalia emphasizes that physical qualities alone aren't enough; mind and spirit are equally important.",
+        "hi": "आहलूवालिया इस बात पर जोर देते हैं कि केवल शारीरिक गुण ही काफी नहीं हैं; मन और आत्मा समान रूप से महत्वपूर्ण हैं।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "What is the 'Summit Within'?",
+        "hi": "'भीतर का शिखर' (Summit Within) क्या है?"
+      },
+      "options": {
+        "a": {"en": "A smaller hill", "hi": "एक छोटी पहाड़ी"},
+        "b": {"en": "The summit of the mind", "hi": "मन का शिखर"},
+        "c": {"en": "A cave inside Everest", "hi": "एवरेस्ट के अंदर एक गुफा"},
+        "d": {"en": "A personal diary", "hi": "एक व्यक्तिगत डायरी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The 'Summit Within' refers to one's own mind, which is just as difficult to climb and master as Everest.",
+        "hi": "'भीतर का शिखर' मनुष्य के अपने मन को संदर्भित करता है, जिस पर चढ़ना और महारत हासिल करना एवरेस्ट जितना ही कठिन है।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "The author says that climbing a mountain is also a _______ experience.",
+        "hi": "लेखक कहता है कि पहाड़ पर चढ़ना एक _______ अनुभव भी है।"
+      },
+      "options": {
+        "a": {"en": "Spiritual", "hi": "आध्यात्मिक"},
+        "b": {"en": "Financial", "hi": "वित्तीय"},
+        "c": {"en": "Political", "hi": "राजनीतिक"},
+        "d": {"en": "Scientific", "hi": "वैज्ञानिक"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Climbing changes a person spiritually as they face the vastness of nature and their own limitations.",
+        "hi": "पहाड़ पर चढ़ना व्यक्ति को आध्यात्मिक रूप से बदल देता है क्योंकि वे प्रकृति की विशालता और अपनी सीमाओं का सामना करते हैं।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "What did the author leave on the summit of Everest?",
+        "hi": "लेखक ने एवरेस्ट के शिखर पर क्या छोड़ा?"
+      },
+      "options": {
+        "a": {"en": "A picture of Guru Nanak", "hi": "गुरु नानक की एक तस्वीर"},
+        "b": {"en": "An Indian Flag", "hi": "एक भारतीय झंडा"},
+        "c": {"en": "A wristwatch", "hi": "एक कलाई घड़ी"},
+        "d": {"en": "A walking stick", "hi": "एक छड़ी"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The author left a picture of Guru Nanak as a symbol of reverence.",
+        "hi": "लेखक ने श्रद्धा के प्रतीक के रूप में गुरु नानक की एक तस्वीर छोड़ी।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "What did Rawat leave on the summit?",
+        "hi": "रावत ने शिखर पर क्या छोड़ा?"
+      },
+      "options": {
+        "a": {"en": "A picture of Goddess Durga", "hi": "देवी दुर्गा की एक तस्वीर"},
+        "b": {"en": "A Buddha statue", "hi": "बुद्ध की एक मूर्ति"},
+        "c": {"en": "A Bible", "hi": "एक बाइबिल"},
+        "d": {"en": "A Cross", "hi": "एक क्रॉस"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Rawat, a fellow climber, left a picture of Goddess Durga.",
+        "hi": "सह-पर्वतारोही रावत ने देवी दुर्गा की एक तस्वीर छोड़ी।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "What did Phu Dorji leave on the summit?",
+        "hi": "फू दोरजी ने शिखर पर क्या छोड़ा?"
+      },
+      "options": {
+        "a": {"en": "A Cross", "hi": "एक क्रॉस"},
+        "b": {"en": "A relic of the Buddha", "hi": "बुद्ध का एक अवशेष"},
+        "c": {"en": "A Quran", "hi": "एक कुरान"},
+        "d": {"en": "A flower", "hi": "एक फूल"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Phu Dorji left a relic of the Buddha on Everest.",
+        "hi": "फू दोरजी ने एवरेस्ट पर बुद्ध का एक अवशेष छोड़ा।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Edmund Hillary had buried a _______ under a cairn in the snow.",
+        "hi": "एडमंड हिलेरी ने बर्फ में पत्थरों के ढेर (Cairn) के नीचे एक _______ दबाया था।"
+      },
+      "options": {
+        "a": {"en": "Cross", "hi": "क्रॉस (Cross)"},
+        "b": {"en": "Sword", "hi": "तलवार"},
+        "c": {"en": "Gold coin", "hi": "सोने का सिक्का"},
+        "d": {"en": "Letter", "hi": "पत्र"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Edmund Hillary left a Cross as a sign of his Christian faith.",
+        "hi": "एडमंड हिलेरी ने अपने ईसाई धर्म के प्रतीक के रूप में एक क्रॉस छोड़ा था।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "According to Ahluwalia, the 'internal summits' are _______ than Everest.",
+        "hi": "आहलूवालिया के अनुसार, 'आंतरिक शिखर' एवरेस्ट की तुलना में _______ हैं।"
+      },
+      "options": {
+        "a": {"en": "Easier", "hi": "आसान"},
+        "b": {"en": "Higher and more difficult", "hi": "ऊंचे और अधिक कठिन"},
+        "c": {"en": "Less important", "hi": "कम महत्वपूर्ण"},
+        "d": {"en": "Smaller", "hi": "छोटे"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The author believes that conquering one's own mind is the greatest climb of all.",
+        "hi": "लेखक का मानना है कि अपने मन पर विजय प्राप्त करना सबसे बड़ी चढ़ाई है।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What does a climber do when they reach the summit?",
+        "hi": "जब कोई पर्वतारोही शिखर पर पहुँचता है तो वह क्या करता है?"
+      },
+      "options": {
+        "a": {"en": "They bow down to God", "hi": "वे भगवान के सामने झुकते हैं"},
+        "b": {"en": "They dance", "hi": "वे नाचते हैं"},
+        "c": {"en": "They sleep", "hi": "वे सोते हैं"},
+        "d": {"en": "They run back immediately", "hi": "वे तुरंत वापस भागते हैं"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Reaching the summit is a moment of spiritual significance where climbers offer their thanks to a higher power.",
+        "hi": "शिखर पर पहुँचना आध्यात्मिक महत्व का क्षण है जहाँ पर्वतारोही ईश्वर को धन्यवाद देते हैं।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Climbing a mountain is a test of _______.",
+        "hi": "पहाड़ पर चढ़ना किसका परीक्षण है?"
+      },
+      "options": {
+        "a": {"en": "Physical strength", "hi": "शारीरिक शक्ति"},
+        "b": {"en": "Nervous system", "hi": "तंत्रिका तंत्र"},
+        "c": {"en": "Both a and b", "hi": "a और b दोनों"},
+        "d": {"en": "Wealth", "hi": "धन"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "It is a total test of a person's physical and mental endurance.",
+        "hi": "यह व्यक्ति की शारीरिक और मानसिक सहनशक्ति का संपूर्ण परीक्षण है।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "The author felt a sense of _______ when he reached the top.",
+        "hi": "शिखर पर पहुँचने पर लेखक ने कैसी भावना महसूस की?"
+      },
+      "options": {
+        "a": {"en": "Exhilaration", "hi": "अत्यधिक उल्लास/उत्साह"},
+        "b": {"en": "Deep sadness", "hi": "गहरी उदासी"},
+        "c": {"en": "Boredom", "hi": "ऊब"},
+        "d": {"en": "Frustration", "hi": "हताशा"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Exhilaration is the feeling of great happiness and excitement experienced upon success.",
+        "hi": "सफलता मिलने पर महसूस होने वाली खुशी और उत्साह की भावना को 'एक्ज़िलरेशन' कहा जाता है।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "Why is the climb to Everest considered a 'communion with God'?",
+        "hi": "एवरेस्ट की चढ़ाई को 'ईश्वर के साथ संवाद' (communion with God) क्यों माना जाता है?"
+      },
+      "options": {
+        "a": {"en": "Because it's very quiet", "hi": "क्योंकि यह बहुत शांत है"},
+        "b": {"en": "Because of the great height and beauty", "hi": "बड़ी ऊंचाई और सुंदरता के कारण"},
+        "c": {"en": "Because God lives there", "hi": "क्योंकि भगवान वहाँ रहते हैं"},
+        "d": {"en": "Because of the lack of oxygen", "hi": "ऑक्सीजन की कमी के कारण"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The overwhelming beauty and majesty of the mountains bring a person closer to a spiritual state.",
+        "hi": "पहाड़ों की अत्यधिक सुंदरता और महिमा व्यक्ति को आध्यात्मिक अवस्था के करीब लाती है।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What does 'Panoramas' mean in the text?",
+        "hi": "पाठ में 'Panoramas' का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Small photos", "hi": "छोटी तस्वीरें"},
+        "b": {"en": "Wide views of a wide area", "hi": "एक विस्तृत क्षेत्र के व्यापक दृश्य"},
+        "c": {"en": "A type of camera", "hi": "एक प्रकार का कैमरा"},
+        "d": {"en": "Mountains", "hi": "पहाड़"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "From the summit, one can see the surrounding peaks as a vast, wide view.",
+        "hi": "शिखर से, कोई भी आसपास की चोटियों को एक विशाल, व्यापक दृश्य के रूप में देख सकता है।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "The author mentions that mountains are nature at its _______.",
+        "hi": "लेखक का कहना है कि पहाड़ प्रकृति के अपने _______ रूप में हैं।"
+      },
+      "options": {
+        "a": {"en": "Worst", "hi": "सबसे खराब"},
+        "b": {"en": "Best", "hi": "सबसे अच्छे/श्रेष्ठ"},
+        "c": {"en": "Weakest", "hi": "सबसे कमजोर"},
+        "d": {"en": "Simple", "hi": "साधारण"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Mountains represent the most majestic and powerful form of the natural world.",
+        "hi": "पहाड़ प्राकृतिक दुनिया के सबसे राजसी और शक्तिशाली रूप का प्रतिनिधित्व करते हैं।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "How does the author describe the physical act of climbing?",
+        "hi": "लेखक चढ़ाई के शारीरिक कार्य का वर्णन कैसे करता है?"
+      },
+      "options": {
+        "a": {"en": "Easy and relaxing", "hi": "आसान और आरामदायक"},
+        "b": {"en": "A grim struggle with rock and ice", "hi": "चट्टान और बर्फ के साथ एक भयानक संघर्ष"},
+        "c": {"en": "Like walking in a garden", "hi": "बगीचे में टहलने जैसा"},
+        "d": {"en": "Boring and slow", "hi": "उबाऊ और धीमा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Every step is a battle against the elements and one's own physical exhaustion.",
+        "hi": "हर कदम प्राकृतिक तत्वों और अपनी शारीरिक थकावट के खिलाफ एक लड़ाई है।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What does a climber feel when they look down from the summit?",
+        "hi": "जब कोई पर्वतारोही शिखर से नीचे देखता है तो उसे क्या महसूस होता है?"
+      },
+      "options": {
+        "a": {"en": "That all the effort was worthwhile", "hi": "कि सारा प्रयास सार्थक था"},
+        "b": {"en": "Regret for coming so high", "hi": "इतनी ऊंचाई पर आने का पछतावा"},
+        "c": {"en": "Fear of falling", "hi": "गिरने का डर"},
+        "d": {"en": "Sleepiness", "hi": "नींद"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The magnificent view from the top justifies all the pain and hardships endured.",
+        "hi": "ऊपर से शानदार दृश्य उन सभी दर्द और कठिनाइयों को सही ठहराता है जो सहे गए थे।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "The experience of climbing Everest changed the author _______.",
+        "hi": "एवरेस्ट चढ़ने के अनुभव ने लेखक को _______ बदल दिया।"
+      },
+      "options": {
+        "a": {"en": "Completely", "hi": "पूरी तरह से"},
+        "b": {"en": "Slightly", "hi": "थोड़ा सा"},
+        "c": {"en": "Not at all", "hi": "बिल्कुल नहीं"},
+        "d": {"en": "Only physically", "hi": "केवल शारीरिक रूप से"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The author states that a person who has been to the mountains is never the same again.",
+        "hi": "लेखक का कहना है कि जो व्यक्ति पहाड़ों पर हो आया है वह फिर कभी पहले जैसा नहीं रहता।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Which year did the Indian expedition climb Everest?",
+        "hi": "भारतीय अभियान ने किस वर्ष एवरेस्ट की चढ़ाई की थी?"
+      },
+      "options": {
+        "a": {"en": "1947", "hi": "1947"},
+        "b": {"en": "1965", "hi": "1965"},
+        "c": {"en": "1953", "hi": "1953"},
+        "d": {"en": "1971", "hi": "1971"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The first successful Indian expedition to Everest took place in 1965.",
+        "hi": "एवरेस्ट के लिए पहला सफल भारतीय अभियान 1965 में हुआ था।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "The author compares the 'climb of life' to _______.",
+        "hi": "लेखक 'जीवन की चढ़ाई' की तुलना किससे करता है?"
+      },
+      "options": {
+        "a": {"en": "A river", "hi": "एक नदी"},
+        "b": {"en": "Climbing a mountain", "hi": "पहाड़ पर चढ़ने से"},
+        "c": {"en": "Running a race", "hi": "दौड़ लगाने से"},
+        "d": {"en": "Flying a plane", "hi": "विमान उड़ाने से"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Both require endurance and willpower to face internal and external challenges.",
+        "hi": "दोनों को आंतरिक और बाहरी चुनौतियों का सामना करने के लिए सहनशक्ति और इच्छाशक्ति की आवश्यकता होती है।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Why do fellow climbers hold each other's ropes?",
+        "hi": "साथी पर्वतारोही एक-दूसरे की रस्सी क्यों पकड़ते हैं?"
+      },
+      "options": {
+        "a": {"en": "For safety and support", "hi": "सुरक्षा और समर्थन के लिए"},
+        "b": {"en": "To pull each other down", "hi": "एक-दूसरे को नीचे खींचने के लिए"},
+        "c": {"en": "To play a game", "hi": "खेल खेलने के लिए"},
+        "d": {"en": "Because they are tied by the guide", "hi": "क्योंकि वे गाइड द्वारा बांधे गए हैं"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "They share the burden and ensure that if one slips, the other can provide stability.",
+        "hi": "वे बोझ साझा करते हैं और यह सुनिश्चित करते हैं कि यदि कोई फिसलता है, तो दूसरा स्थिरता प्रदान कर सके।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "Mount Everest is the _______ peak in the world.",
+        "hi": "माउंट एवरेस्ट दुनिया की _______ चोटी है।"
+      },
+      "options": {
+        "a": {"en": "Highest", "hi": "सबसे ऊंची"},
+        "b": {"en": "Smallest", "hi": "सबसे छोटी"},
+        "c": {"en": "Greenest", "hi": "सबसे हरी-भरी"},
+        "d": {"en": "Oldest", "hi": "सबसे पुरानी"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Everest is famously the highest point on Earth above sea level.",
+        "hi": "एवरेस्ट प्रसिद्ध रूप से समुद्र तल से ऊपर पृथ्वी का सबसे ऊंचा बिंदु है।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "What does 'formidable' mean in the text?",
+        "hi": "पाठ में 'formidable' का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Easy", "hi": "आसान"},
+        "b": {"en": "Difficult to overcome/fear-inspiring", "hi": "पार पाना कठिन/भय-प्रेरक"},
+        "c": {"en": "Very beautiful", "hi": "बहुत सुंदर"},
+        "d": {"en": "Soft", "hi": "कोमल"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The obstacles on Everest are formidable, meaning they are very challenging and inspire awe/fear.",
+        "hi": "एवरेस्ट पर बाधाएं 'formidable' हैं, जिसका अर्थ है कि वे बहुत चुनौतीपूर्ण हैं।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "When the author reached the summit, he was also feeling _______.",
+        "hi": "जब लेखक शिखर पर पहुँचा, तो वह _______ भी महसूस कर रहा था।"
+      },
+      "options": {
+        "a": {"en": "Tinged with sadness", "hi": "उदासी का पुट लिए हुए"},
+        "b": {"en": "Extremely angry", "hi": "बेहद गुस्से में"},
+        "c": {"en": "Hungry", "hi": "भूखा"},
+        "d": {"en": "Disappointed", "hi": "निराश"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "He felt sad because he had reached the ultimate peak and there was nothing higher to climb.",
+        "hi": "उसे दुख हुआ क्योंकि वह अंतिम शिखर पर पहुँच गया था और अब चढ़ने के लिए कुछ भी ऊंचा नहीं बचा था।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "The author says that a man who has been to the mountains is _______.",
+        "hi": "लेखक का कहना है कि जो व्यक्ति पहाड़ों पर गया है वह _______ है।"
+      },
+      "options": {
+        "a": {"en": "A new man", "hi": "एक नया आदमी"},
+        "b": {"en": "A tired man", "hi": "एक थका हुआ आदमी"},
+        "c": {"en": "A rich man", "hi": "एक अमीर आदमी"},
+        "d": {"en": "An old man", "hi": "एक बूढ़ा आदमी"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The spiritual and physical experience transforms the individual's perspective on life.",
+        "hi": "आध्यात्मिक और शारीरिक अनुभव जीवन पर व्यक्ति के दृष्टिकोण को बदल देता है।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "The 'internal summit' is _______.",
+        "hi": "'आंतरिक शिखर' _______ है।"
+      },
+      "options": {
+        "a": {"en": "Unfathomable", "hi": "अथाह/जिसकी गहराई न मापी जा सके"},
+        "b": {"en": "Visible from far", "hi": "दूर से दिखाई देने वाला"},
+        "c": {"en": "Easy to reach", "hi": "पहुँचने में आसान"},
+        "d": {"en": "Made of snow", "hi": "बर्फ का बना"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "One cannot easily measure or see the depths of one's own mind and spirit.",
+        "hi": "कोई भी अपने मन और आत्मा की गहराई को आसानी से माप या देख नहीं सकता।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "What did the author gain from his climb?",
+        "hi": "लेखक ने अपनी चढ़ाई से क्या हासिल किया?"
+      },
+      "options": {
+        "a": {"en": "Inspiration to face life's ordeals", "hi": "जीवन की कठिन परीक्षाओं का सामना करने की प्रेरणा"},
+        "b": {"en": "A lot of money", "hi": "बहुत सारा पैसा"},
+        "c": {"en": "A government job", "hi": "एक सरकारी नौकरी"},
+        "d": {"en": "A new house", "hi": "एक नया घर"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The strength gained from conquering the mountain helped him face life's challenges with courage.",
+        "hi": "पहाड़ पर विजय पाने से मिली शक्ति ने उन्हें जीवन की चुनौतियों का साहस के साथ सामना करने में मदद की।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "The main theme of the lesson is:",
+        "hi": "पाठ का मुख्य विषय है:"
+      },
+      "options": {
+        "a": {"en": "Importance of physical fitness", "hi": "शारीरिक फिटनेस का महत्व"},
+        "b": {"en": "Spiritual conquest of the self", "hi": "स्वयं की आध्यात्मिक विजय"},
+        "c": {"en": "History of Everest", "hi": "एवरेस्ट का इतिहास"},
+        "d": {"en": "Travel guide to Nepal", "hi": "नेपाल के लिए यात्रा गाइड"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "While it describes a physical climb, the core message is about the internal journey and personal growth.",
+        "hi": "हालांकि यह एक शारीरिक चढ़ाई का वर्णन करता है, इसका मुख्य संदेश आंतरिक यात्रा और व्यक्तिगत विकास के बारे में है।"
+      }
+    }
+  ]
+}
