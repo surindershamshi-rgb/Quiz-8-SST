@@ -1,7 +1,7 @@
 class QuizApp {
     constructor() {
         this.quizEngine = new QuizEngine();
-        this.SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwxt-akN_S5Dmr3HdtxpEL9by9J80kmZYCufXI1e9_fK3Ep0QYomPU-6jF-3ryPq7Q/exec";
+        this.SCRIPT_URL = "https://script.google.com/macros/s/AKfycbylxF5dn3_W1amFTbq_0h5fAC5jYdsMzCmos3XYzqDJ2zzIsy35WHwsrr8laraC00E/exec";
         this.ADMIN_PASSWORD = "Admin@2026"; 
         this.GITHUB_CONFIG = { owner: "surindershamshi-rgb ", repo: "Quiz-8-SST", path: "jsons" };
         this.currentAttempts = {}; this.hintUsed = {}; this.shuffledOrders = {}; 
