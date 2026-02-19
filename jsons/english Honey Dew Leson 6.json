@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 6,
+    "chapter_title": "This is Jody’s Fawn",
+    "chapter_title_hindi": "यह जोडी का मृग-शावक है",
+    "subject": "English - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_ENG_CH06_Fawn_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "What happened to Jody's father, Penny?",
+        "hi": "जोडी के पिता पेनी के साथ क्या हुआ था?"
+      },
+      "options": {
+        "a": {"en": "He got lost in the forest", "hi": "वह जंगल में खो गया था"},
+        "b": {"en": "He was bitten by a rattlesnake", "hi": "उसे एक रैटलस्नेक (सांप) ने काट लिया था"},
+        "c": {"en": "He fell from a tree", "hi": "वह एक पेड़ से गिर गया था"},
+        "d": {"en": "He was attacked by a bear", "hi": "उस पर एक भालू ने हमला किया था"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Penny was bitten by a poisonous rattlesnake while in the forest.",
+        "hi": "जंगल में पेनी को एक जहरीले रैटलस्नेक ने काट लिया था।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "How was Penny's life saved after the snake bite?",
+        "hi": "सांप के काटने के बाद पेनी की जान कैसे बचाई गई?"
+      },
+      "options": {
+        "a": {"en": "By taking him to a hospital", "hi": "उसे अस्पताल ले जाकर"},
+        "b": {"en": "By using the heart and liver of a doe to draw out poison", "hi": "जहर निकालने के लिए एक हिरणी के दिल और जिगर का उपयोग करके"},
+        "c": {"en": "By drinking a special herb", "hi": "एक विशेष जड़ी-बूटी पीकर"},
+        "d": {"en": "By resting for a week", "hi": "एक हफ्ते आराम करके"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "They killed a doe and used its heart and liver as a home remedy to extract the snake's venom.",
+        "hi": "उन्होंने एक हिरणी को मार डाला और सांप के जहर को निकालने के लिए उसके दिल और जिगर का उपयोग किया।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Why was Jody worried about the fawn?",
+        "hi": "जोडी मृग-शावक (हिरण के बच्चे) को लेकर क्यों चिंतित था?"
+      },
+      "options": {
+        "a": {"en": "Because it might be hungry and scared", "hi": "क्योंकि वह भूखा और डरा हुआ हो सकता है"},
+        "b": {"en": "Because it might attack him", "hi": "क्योंकि वह उस पर हमला कर सकता है"},
+        "c": {"en": "Because he wanted to sell it", "hi": "क्योंकि वह उसे बेचना चाहता था"},
+        "d": {"en": "Because his father hated it", "hi": "क्योंकि उसके पिता उससे नफरत करते थे"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Jody felt guilty because the fawn was left motherless and alone in the forest after they killed the doe.",
+        "hi": "जोडी को दोषी महसूस हो रहा था क्योंकि हिरणी को मारने के बाद शावक जंगल में बिना माँ के अकेला रह गया था।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What did Penny mean when he said, 'It ungrateful to leave it to starve'?",
+        "hi": "पेनी का क्या मतलब था जब उसने कहा, 'उसे भूखा मरने के लिए छोड़ना कृतघ्नता होगी'?"
+      },
+      "options": {
+        "a": {"en": "The fawn was useless", "hi": "शावक बेकार था"},
+        "b": {"en": "Since the mother saved him, they should save the child", "hi": "चूंकि माँ ने उसे बचाया, इसलिए उन्हें बच्चे को बचाना चाहिए"},
+        "c": {"en": "He wanted to hunt the fawn", "hi": "वह शावक का शिकार करना चाहता था"},
+        "d": {"en": "He didn't care about the fawn", "hi": "उसे शावक की परवाह नहीं थी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Penny agreed that it was their moral duty to care for the fawn because its mother died saving his life.",
+        "hi": "पेनी सहमत था कि शावक की देखभाल करना उनका नैतिक कर्तव्य था क्योंकि उसकी माँ उसकी जान बचाते हुए मर गई थी।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "What was Jody's mother's reaction when he proposed to bring the fawn home?",
+        "hi": "जब जोडी ने शावक को घर लाने का प्रस्ताव रखा तो उसकी माँ की क्या प्रतिक्रिया थी?"
+      },
+      "options": {
+        "a": {"en": "She was very happy", "hi": "वह बहुत खुश थी"},
+        "b": {"en": "She held the coffee pot in mid-air with surprise", "hi": "उसने आश्चर्य से कॉफी के बर्तन को हवा में ही रोक लिया"},
+        "c": {"en": "She started crying", "hi": "वह रोने लगी"},
+        "d": {"en": "She immediately agreed", "hi": "वह तुरंत सहमत हो गई"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "She was shocked and worried about how they would feed another mouth.",
+        "hi": "वह हैरान थी और चिंतित थी कि वे एक और जीव को कैसे खिलाएंगे।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "How did Jody offer to feed the fawn?",
+        "hi": "जोडी ने शावक को खिलाने के लिए क्या प्रस्ताव दिया?"
+      },
+      "options": {
+        "a": {"en": "By stealing milk from the neighbors", "hi": "पड़ोसियों से दूध चुराकर"},
+        "b": {"en": "By giving it his own share of milk", "hi": "उसे अपने हिस्से का दूध देकर"},
+        "c": {"en": "By finding a cow", "hi": "एक गाय खोजकर"},
+        "d": {"en": "By feeding it grass only", "hi": "उसे केवल घास खिलाकर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Jody was willing to sacrifice his own milk so the fawn could survive.",
+        "hi": "जोडी अपने दूध का त्याग करने के लिए तैयार था ताकि शावक जीवित रह सके।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Who went with Jody to the forest to find the fawn?",
+        "hi": "शावक को खोजने के लिए जोडी के साथ जंगल में कौन गया था?"
+      },
+      "options": {
+        "a": {"en": "Penny", "hi": "पेनी"},
+        "b": {"en": "Mill-wheel", "hi": "मिल-व्हील"},
+        "c": {"en": "Dr. Wilson", "hi": "डॉ. विल्सन"},
+        "d": {"en": "Ma Baxter", "hi": "मां बैक्सटर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Mill-wheel took Jody on his horse to help him find the fawn.",
+        "hi": "मिल-व्हील जोडी को अपने घोड़े पर ले गया ताकि उसे शावक खोजने में मदद मिल सके।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Why did Jody want to go alone after a certain point in the forest?",
+        "hi": "जोडी जंगल में एक निश्चित बिंदु के बाद अकेले क्यों जाना चाहता था?"
+      },
+      "options": {
+        "a": {"en": "He was afraid of Mill-wheel", "hi": "वह मिल-व्हील से डरता था"},
+        "b": {"en": "He didn't want Mill-wheel to see his disappointment or his joy", "hi": "वह नहीं चाहता था कि मिल-व्हील उसकी निराशा या उसकी खुशी देखे"},
+        "c": {"en": "The horse couldn't go further", "hi": "घोड़ा आगे नहीं जा सकता था"},
+        "d": {"en": "He knew the path better", "hi": "वह रास्ता बेहतर जानता था"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "If the fawn was dead, he didn't want anyone to see his sadness; if it was found, the moment would be too sacred to share.",
+        "hi": "यदि शावक मर गया होता, तो वह नहीं चाहता था कि कोई उसकी उदासी देखे; यदि वह मिल जाता, तो वह क्षण इतना निजी होता कि वह उसे साझा नहीं करना चाहता था।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "What are 'Buzzards'?",
+        "hi": "'बज़ार्ड्स' (Buzzards) क्या हैं?"
+      },
+      "options": {
+        "a": {"en": "Small singing birds", "hi": "छोटे गाने वाले पक्षी"},
+        "b": {"en": "Large birds like vultures that eat dead animals", "hi": "गिद्धों जैसे बड़े पक्षी जो मृत जानवरों को खाते हैं"},
+        "c": {"en": "Kind of wild cats", "hi": "एक प्रकार की जंगली बिल्लियाँ"},
+        "d": {"en": "Poisonous snakes", "hi": "जहरीले सांप"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Jody saw buzzards circling the place where the doe had been killed.",
+        "hi": "जोडी ने उस स्थान के ऊपर बज़ार्ड्स को मंडराते हुए देखा जहाँ हिरणी मारी गई थी।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "How did Jody recognize the spot where his father was bitten?",
+        "hi": "जोडी ने उस स्थान को कैसे पहचाना जहाँ उसके पिता को काटा गया था?"
+      },
+      "options": {
+        "a": {"en": "By the carcass of the doe", "hi": "हिरणी के कंकाल/शव से"},
+        "b": {"en": "By a sign on a tree", "hi": "पेड़ पर एक निशान से"},
+        "c": {"en": "By the sound of the snake", "hi": "सांप की आवाज से"},
+        "d": {"en": "By his father's hat", "hi": "अपने पिता की टोपी से"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "He saw the remains of the doe and the buzzards waiting nearby.",
+        "hi": "उसने हिरणी के अवशेषों और पास में इंतजार कर रहे बज़ार्ड्स को देखा।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "What did Jody see in the sand that worried him?",
+        "hi": "जोडी ने रेत में क्या देखा जिसने उसे चिंतित कर दिया?"
+      },
+      "options": {
+        "a": {"en": "The fawn's footprints", "hi": "शावक के पैरों के निशान"},
+        "b": {"en": "Big cat prints (panther)", "hi": "बड़ी बिल्ली (तेंदुए) के पैरों के निशान"},
+        "c": {"en": "Snake tracks", "hi": "सांप के निशान"},
+        "d": {"en": "Human footprints", "hi": "इंसानों के पैरों के निशान"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The rain had washed away most tracks except the large prints of a predator.",
+        "hi": "बारिश ने एक शिकारी के बड़े निशानों को छोड़कर अधिकांश निशानों को मिटा दिया था।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "How did the fawn react when Jody first touched it?",
+        "hi": "जब जोडी ने पहली बार शावक को छुआ तो उसने कैसी प्रतिक्रिया दी?"
+      },
+      "options": {
+        "a": {"en": "It ran away", "hi": "वह भाग गया"},
+        "b": {"en": "It quivered and looked at him", "hi": "वह कांप गया और उसकी ओर देखने लगा"},
+        "c": {"en": "It tried to bite him", "hi": "उसने उसे काटने की कोशिश की"},
+        "d": {"en": "It made a loud noise", "hi": "उसने तेज आवाज की"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The fawn was soft and shaking with surprise or fear when Jody reached out.",
+        "hi": "जब जोडी ने हाथ बढ़ाया तो शावक कोमल था और आश्चर्य या डर से कांप रहा था।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Why did the fawn not run away from Jody?",
+        "hi": "शावक जोडी से दूर क्यों नहीं भागा?"
+      },
+      "options": {
+        "a": {"en": "It was tied to a tree", "hi": "वह एक पेड़ से बंधा था"},
+        "b": {"en": "It was too weak and young to know how to run", "hi": "वह इतना कमजोर और छोटा था कि उसे भागना नहीं पता था"},
+        "c": {"en": "It recognized Jody", "hi": "उसने जोडी को पहचान लिया था"},
+        "d": {"en": "Its legs were broken", "hi": "उसके पैर टूटे हुए थे"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The fawn was very young and perhaps too dazed to run from the person helping it.",
+        "hi": "शावक बहुत छोटा था और शायद इतना घबराया हुआ था कि वह मदद करने वाले व्यक्ति से भाग नहीं पाया।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "How did Jody carry the fawn?",
+        "hi": "जोडी शावक को कैसे ले गया?"
+      },
+      "options": {
+        "a": {"en": "He pulled it with a rope", "hi": "उसने उसे रस्सी से खींचा"},
+        "b": {"en": "He carried it in his arms", "hi": "उसने उसे अपनी बाहों में उठाया"},
+        "c": {"en": "He put it in a bag", "hi": "उसने उसे एक बैग में रखा"},
+        "d": {"en": "The fawn followed him the whole way", "hi": "शावक पूरे रास्ते उसके पीछे चला"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Jody lifted the fawn and carried it with great care, even though his arms started to ache.",
+        "hi": "जोडी ने शावक को उठाया और बड़ी सावधानी से ले गया, भले ही उसकी बाहों में दर्द होने लगा था।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "What did Jody remember about fawns and their mothers?",
+        "hi": "जोडी को मृग-शावकों और उनकी माताओं के बारे में क्या याद था?"
+      },
+      "options": {
+        "a": {"en": "They always stay in caves", "hi": "वे हमेशा गुफाओं में रहते हैं"},
+        "b": {"en": "A fawn will follow its mother if it had first been carried", "hi": "यदि शावक को पहले गोद में उठाया गया हो, तो वह अपनी माँ के पीछे चलता है"},
+        "c": {"en": "They are afraid of water", "hi": "वे पानी से डरते हैं"},
+        "d": {"en": "They eat meat", "hi": "वे मांस खाते हैं"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Jody remembered his father saying a fawn would follow you if you carried it first.",
+        "hi": "जोडी को याद आया कि उसके पिता ने कहा था कि यदि आप शावक को पहले उठा लें, तो वह आपके पीछे चलेगा।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "How did Penny feel when he saw Jody with the fawn?",
+        "hi": "जब पेनी ने जोडी को शावक के साथ देखा तो उसे कैसा लगा?"
+      },
+      "options": {
+        "a": {"en": "Angry", "hi": "नाराज"},
+        "b": {"en": "Proud of his son", "hi": "अपने बेटे पर गर्व"},
+        "c": {"en": "Fearful", "hi": "डरा हुआ"},
+        "d": {"en": "Sad", "hi": "दुखी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Penny's eyes were bright, and he was glad Jody had found what he went for.",
+        "hi": "पेनी की आँखें चमक रही थीं, और वह खुश था कि जोडी को वह मिल गया जिसे वह ढूँढने गया था।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What problem did the fawn face while drinking milk from the gourd?",
+        "hi": "लौकी के बर्तन (gourd) से दूध पीते समय शावक को क्या समस्या हुई?"
+      },
+      "options": {
+        "a": {"en": "It didn't like the taste", "hi": "उसे स्वाद पसंद नहीं आया"},
+        "b": {"en": "It didn't know how to drink from a bowl", "hi": "उसे कटोरे से पीना नहीं आता था"},
+        "c": {"en": "The milk was too hot", "hi": "दूध बहुत गर्म था"},
+        "d": {"en": "The bowl was too deep", "hi": "कटोरा बहुत गहरा था"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The fawn could not understand how to drink milk from a vessel and kept butting it.",
+        "hi": "शावक समझ नहीं पा रहा था कि बर्तन से दूध कैसे पीना है और वह उसे टक्कर मारता रहा।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "How did Jody finally get the fawn to drink the milk?",
+        "hi": "अंत में जोडी ने शावक को दूध कैसे पिलाया?"
+      },
+      "options": {
+        "a": {"en": "He used a spoon", "hi": "उसने चम्मच का इस्तेमाल किया"},
+        "b": {"en": "He dipped his fingers in the milk and let the fawn suck them", "hi": "उसने अपनी उंगलियां दूध में डुबोईं और शावक को उन्हें चूसने दिया"},
+        "c": {"en": "He poured it into the fawn's mouth", "hi": "उसने इसे शावक के मुँह में डाल दिया"},
+        "d": {"en": "The fawn learned to drink by itself", "hi": "शावक ने खुद पीना सीख लिया"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Jody mimicked the way a mother would feed, using his fingers to guide the fawn to the milk.",
+        "hi": "जोडी ने अपनी उंगलियों का उपयोग करके शावक को दूध की ओर निर्देशित किया, जैसे माँ दूध पिलाती है।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What does the word 'Convulsion' mean in the context of the story?",
+        "hi": "कहानी के संदर्भ में 'Convulsion' शब्द का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "A loud shout", "hi": "एक तेज चिल्लाहट"},
+        "b": {"en": "A shiver or involuntary contraction of muscles", "hi": "कंपकंपी या मांसपेशियों का अनैच्छिक संकुचन"},
+        "c": {"en": "A heavy rain", "hi": "एक भारी बारिश"},
+        "d": {"en": "A deep sleep", "hi": "एक गहरी नींद"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The fawn's body quivered in small convulsions as it drank greedily.",
+        "hi": "लालच से दूध पीते समय शावक का शरीर छोटी-छोटी ऐंठन या कंपकंपी से कांप रहा था।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What did the spots on the fawn's body indicate?",
+        "hi": "शावक के शरीर पर बने धब्बे क्या दर्शाते थे?"
+      },
+      "options": {
+        "a": {"en": "They were in a line (meaning it was a buck-fawn)", "hi": "वे एक कतार में थे (मतलब यह एक नर शावक था)"},
+        "b": {"en": "They were random (meaning it was a doe-fawn)", "hi": "वे अव्यवस्थित थे (मतलब यह एक मादा शावक थी)"},
+        "c": {"en": "It was sick", "hi": "वह बीमार था"},
+        "d": {"en": "It was very old", "hi": "वह बहुत बूढ़ा था"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Penny noted that on a buck-fawn, the spots are all in a line, helping to identify its gender.",
+        "hi": "पेनी ने गौर किया कि नर शावक पर धब्बे एक कतार में होते हैं, जिससे उसका लिंग पहचानने में मदद मिलती है।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "The lesson 'This is Jody’s Fawn' shows Jody's _______.",
+        "hi": "'यह जोडी का शावक है' पाठ जोडी के _______ को दर्शाता है।"
+      },
+      "options": {
+        "a": {"en": "Selfishness", "hi": "स्वार्थ"},
+        "b": {"en": "Compassion and tenderness", "hi": "करुणा और कोमलता"},
+        "c": {"en": "Bravery in fighting snakes", "hi": "सांपों से लड़ने में बहादुरी"},
+        "d": {"en": "Intelligence in math", "hi": "गणित में बुद्धिमत्ता"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Jody's concern for the orphaned fawn highlights his sensitive and caring nature.",
+        "hi": "अनाथ शावक के लिए जोडी की चिंता उसके संवेदनशील और देखभाल करने वाले स्वभाव को उजागर करती है।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "What did the author mean by 'The fawn stared at him with liquid eyes'?",
+        "hi": "लेखक का क्या मतलब था कि 'शावक ने उसे तरल आँखों (liquid eyes) से घूरा'?"
+      },
+      "options": {
+        "a": {"en": "Its eyes were wet with water", "hi": "उसकी आँखें पानी से गीली थीं"},
+        "b": {"en": "Its eyes were soft, bright, and full of emotion", "hi": "उसकी आँखें कोमल, चमकदार और भावनाओं से भरी थीं"},
+        "c": {"en": "It was crying", "hi": "वह रो रहा था"},
+        "d": {"en": "It was blind", "hi": "वह अंधा था"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Liquid eyes often describe the beautiful, clear, and expressive eyes of a deer.",
+        "hi": "तरल आँखें अक्सर हिरण की सुंदर, स्पष्ट और अर्थपूर्ण आँखों का वर्णन करती हैं।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "How did Mill-wheel help Jody?",
+        "hi": "मिल-व्हील ने जोडी की मदद कैसे की?"
+      },
+      "options": {
+        "a": {"en": "By giving him money", "hi": "उसे पैसे देकर"},
+        "b": {"en": "By giving him a ride on his horse and keeping him company", "hi": "उसे अपने घोड़े पर सवारी कराकर और उसका साथ देकर"},
+        "c": {"en": "By catching the fawn for him", "hi": "उसके लिए शावक को पकड़कर"},
+        "d": {"en": "By killing the snake", "hi": "सांप को मारकर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Mill-wheel provided transportation and support during the search mission.",
+        "hi": "मिल-व्हील ने खोज अभियान के दौरान परिवहन और सहायता प्रदान की।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "What does 'Sidle' mean in the story?",
+        "hi": "कहानी में 'Sidle' का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "To run very fast", "hi": "बहुत तेज दौड़ना"},
+        "b": {"en": "To move sideways in a shy or cautious way", "hi": "शर्मीले या सतर्क तरीके से बगल की ओर खिसकना"},
+        "c": {"en": "To jump high", "hi": "ऊंची छलांग लगाना"},
+        "d": {"en": "To sleep soundly", "hi": "गहरी नींद सोना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Jody sidled towards the fawn to avoid scaring it away.",
+        "hi": "जोडी शावक को डराने से बचने के लिए उसकी ओर सतर्कता से खिसका।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "Who said 'Nothing in the world ever comes quite free'?",
+        "hi": "किसने कहा 'दुनिया में कुछ भी पूरी तरह मुफ्त नहीं मिलता'?"
+      },
+      "options": {
+        "a": {"en": "Penny", "hi": "पेनी"},
+        "b": {"en": "Dr. Wilson", "hi": "डॉ. विल्सन"},
+        "c": {"en": "Jody", "hi": "जोडी"},
+        "d": {"en": "The storekeeper", "hi": "दुकानदार"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Dr. Wilson said this to support Jody's wish to bring the fawn home, implying that one must give something to get something.",
+        "hi": "डॉ. विल्सन ने जोडी की शावक को घर लाने की इच्छा का समर्थन करने के लिए यह कहा था।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "What did Jody do when he found the fawn?",
+        "hi": "जब जोडी को शावक मिला तो उसने क्या किया?"
+      },
+      "options": {
+        "a": {"en": "He screamed with joy", "hi": "वह खुशी से चिल्लाया"},
+        "b": {"en": "He knelt down and put his arms around it", "hi": "वह घुटनों के बल बैठ गया और उसे अपनी बाहों में भर लिया"},
+        "c": {"en": "He ran back to tell Mill-wheel", "hi": "वह मिल-व्हील को बताने के लिए वापस भागा"},
+        "d": {"en": "He tried to feed it berries", "hi": "उसने उसे जामुन खिलाने की कोशिश की"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He was very gentle and emotional when he finally found the creature.",
+        "hi": "जब उसे आखिरकार वह जीव मिल गया, तो वह बहुत कोमल और भावुक था।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "What does 'Hoisted' mean in the sentence 'He hoisted it into his arms'?",
+        "hi": "'उसने उसे अपनी बाहों में उठा लिया' (hoisted it) वाक्य में 'Hoisted' का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "To drop", "hi": "गिराना"},
+        "b": {"en": "To raise or lift with effort", "hi": "प्रयास के साथ ऊपर उठाना"},
+        "c": {"en": "To push", "hi": "धक्का देना"},
+        "d": {"en": "To pull", "hi": "खींचना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Jody had to exert effort to lift the fawn up.",
+        "hi": "जोडी को शावक को ऊपर उठाने के लिए प्रयास करना पड़ा।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Why did Jody's heart thump when he found the fawn?",
+        "hi": "शावक मिलने पर जोडी का दिल क्यों धड़कने लगा?"
+      },
+      "options": {
+        "a": {"en": "Out of fear", "hi": "डर के मारे"},
+        "b": {"en": "Out of excitement and marvel", "hi": "उत्साह और विस्मय के कारण"},
+        "c": {"en": "Because he was tired", "hi": "क्योंकि वह थका हुआ था"},
+        "d": {"en": "Because it was cold", "hi": "क्योंकि ठंड थी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He was overwhelmed with the realization that he had actually found the fawn.",
+        "hi": "वह इस अहसास से अभिभूत था कि उसने वास्तव में शावक को ढूंढ लिया है।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "What did Jody do with the milk that was left over?",
+        "hi": "जो दूध बच गया था, जोडी ने उसका क्या किया?"
+      },
+      "options": {
+        "a": {"en": "He drank it", "hi": "उसने उसे पी लिया"},
+        "b": {"en": "He poured it out", "hi": "उसने उसे बाहर डाल दिया"},
+        "c": {"en": "He saved it for later", "hi": "उसने उसे बाद के लिए बचा लिया"},
+        "d": {"en": "He gave it to the cat", "hi": "उसने उसे बिल्ली को दे दिया"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "He intended to feed the fawn again as it was now his responsibility.",
+        "hi": "उसका इरादा शावक को फिर से खिलाने का था क्योंकि अब यह उसकी जिम्मेदारी थी।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "The story ends with Jody _______.",
+        "hi": "कहानी जोडी के _______ के साथ समाप्त होती है।"
+      },
+      "options": {
+        "a": {"en": "Going back to the forest", "hi": "जंगल वापस जाने"},
+        "b": {"en": "Feeding the fawn milk with satisfaction", "hi": "संतुष्टि के साथ शावक को दूध पिलाने"},
+        "c": {"en": "Crying for the doe", "hi": "हिरणी के लिए रोने"},
+        "d": {"en": "Sleeping in the barn", "hi": "खलिहान में सोने"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The final scene shows the bond forming as Jody feeds the fawn in his own home.",
+        "hi": "अंतिम दृश्य उस बंधन को दिखाता है जो तब बनता है जब जोडी अपने घर में शावक को दूध पिलाता है।"
+      }
+    }
+  ]
+}
