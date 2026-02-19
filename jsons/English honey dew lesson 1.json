@@ -1,193 +1,193 @@
 {
   "metadata": {
     "chapter_number": 1,
-    "chapter_title": "Components of Food",
-    "chapter_title_hindi": "भोजन के घटक",
-    "subject": "Science - Class 6",
+    "chapter_title": "The Best Christmas Present in the World",
+    "chapter_title_hindi": "दुनिया का सबसे अच्छा क्रिसमस उपहार",
+    "subject": "English - Class 8",
     "board": "CBSE (NCERT)",
     "total_questions": 10,
     "version": "1.0",
-    "naming_convention": "06_SCI_CH01_Food_MCQ.json"
+    "naming_convention": "08_ENG_CH01_Present_10MCQ.json"
   },
   "questions": [
     {
       "question_id": 1,
       "question": {
-        "en": "Which of the following are known as energy-giving foods?",
-        "hi": "निम्नलिखित में से किसे ऊर्जा देने वाला भोजन कहा जाता है?"
+        "en": "What did the author find in a junk shop?",
+        "hi": "लेखक को कबाड़ की दुकान में क्या मिला?"
       },
       "options": {
-        "a": {"en": "Carbohydrates and Fats", "hi": "कार्बोहाइड्रेट और वसा"},
-        "b": {"en": "Proteins and Minerals", "hi": "प्रोटीन और खनिज"},
-        "c": {"en": "Vitamins and Dietary fibers", "hi": "विटामिन और आहारीय रेशे"},
-        "d": {"en": "Water and Proteins", "hi": "जल और प्रोटीन"}
+        "a": {"en": "A roll-top desk", "hi": "एक रोल-टॉप डेस्क"},
+        "b": {"en": "An old chair", "hi": "एक पुरानी कुर्सी"},
+        "c": {"en": "A silver box", "hi": "एक चांदी का डिब्बा"},
+        "d": {"en": "A typewriter", "hi": "एक टाइपराइटर"}
       },
       "correct_option": "a",
       "explanation": {
-        "en": "Carbohydrates and fats mainly provide energy to our body. Fats give much more energy as compared to the same amount of carbohydrates.",
-        "hi": "कार्बोहाइड्रेट और वसा मुख्य रूप से हमारे शरीर को ऊर्जा प्रदान करते हैं। कार्बोहाइड्रेट की समान मात्रा की तुलना में वसा से बहुत अधिक ऊर्जा मिलती है।"
+        "en": "The author found a 19th-century oak roll-top desk in a junk shop in Bridport.",
+        "hi": "लेखक को ब्रिपोर्ट की एक कबाड़ की दुकान में 19वीं सदी का ओक से बना रोल-टॉप डेस्क मिला।"
       }
     },
     {
       "question_id": 2,
       "question": {
-        "en": "Which nutrient is required for the growth and repair of our body?",
-        "hi": "हमारे शरीर की वृद्धि और मरम्मत के लिए किस पोषक तत्व की आवश्यकता होती है?"
+        "en": "Who wrote the letter found in the secret drawer?",
+        "hi": "गुप्त दराज में मिले पत्र को किसने लिखा था?"
       },
       "options": {
-        "a": {"en": "Carbohydrates", "hi": "कार्बोहाइड्रेट"},
-        "b": {"en": "Proteins", "hi": "प्रोटीन"},
-        "c": {"en": "Vitamins", "hi": "विटामिन"},
-        "d": {"en": "Fats", "hi": "वसा"}
+        "a": {"en": "Hans Wolf", "hi": "हंस वोल्फ"},
+        "b": {"en": "Jim Macpherson", "hi": "जिम मैकफर्सन"},
+        "c": {"en": "Connie Macpherson", "hi": "कोनी मैकफर्सन"},
+        "d": {"en": "The author", "hi": "लेखक"}
       },
       "correct_option": "b",
       "explanation": {
-        "en": "Proteins are often called 'body-building foods' because they are needed for growth and repair.",
-        "hi": "प्रोटीन को अक्सर 'शरीर वर्धक भोजन' कहा जाता है क्योंकि वे वृद्धि और मरम्मत के लिए आवश्यक होते हैं।"
+        "en": "The letter was written by Jim Macpherson, a captain in the British army, to his wife Connie.",
+        "hi": "यह पत्र ब्रिटिश सेना के कप्तान जिम मैकफर्सन ने अपनी पत्नी कोनी को लिखा था।"
       }
     },
     {
       "question_id": 3,
       "question": {
-        "en": "A solution of which chemical is used to test the presence of starch in food?",
-        "hi": "भोजन में स्टार्च (मंड) की उपस्थिति का परीक्षण करने के लिए किस रसायन के घोल का उपयोग किया जाता है?"
+        "en": "In the letter, what was the special event that happened on Christmas?",
+        "hi": "पत्र में, क्रिसमस पर कौन सी विशेष घटना होने का जिक्र था?"
       },
       "options": {
-        "a": {"en": "Copper Sulphate", "hi": "कॉपर सल्फेट"},
-        "b": {"en": "Caustic Soda", "hi": "कास्टिक सोडा"},
-        "c": {"en": "Iodine", "hi": "आयोडीन"},
-        "d": {"en": "Alcohol", "hi": "अल्कोहल"}
+        "a": {"en": "A big battle", "hi": "एक बड़ी लड़ाई"},
+        "b": {"en": "A peace truce and celebration", "hi": "एक शांति समझौता और उत्सव"},
+        "c": {"en": "A heavy snowfall", "hi": "भारी हिमपात"},
+        "d": {"en": "A visit from the King", "hi": "राजा का आगमन"}
       },
-      "correct_option": "c",
+      "correct_option": "b",
       "explanation": {
-        "en": "A dilute solution of iodine turns blue-black when it comes in contact with starch.",
-        "hi": "आयोडीन का तनु विलयन स्टार्च के संपर्क में आने पर नीला-काला हो जाता है।"
+        "en": "Despite the war, British and German soldiers met in No Man's Land to celebrate Christmas together.",
+        "hi": "युद्ध के बावजूद, ब्रिटिश और जर्मन सैनिक क्रिसमस मनाने के लिए 'नो मैन्स लैंड' में एक साथ मिले।"
       }
     },
     {
       "question_id": 4,
       "question": {
-        "en": "Night blindness is caused due to the deficiency of which vitamin?",
-        "hi": "रतौंधी (दृष्टिहीनता) किस विटामिन की कमी के कारण होती है?"
+        "en": "What was the profession of Hans Wolf before the war?",
+        "hi": "युद्ध से पहले हंस वोल्फ का पेशा क्या था?"
       },
       "options": {
-        "a": {"en": "Vitamin B1", "hi": "विटामिन B1"},
-        "b": {"en": "Vitamin C", "hi": "विटामिन C"},
-        "c": {"en": "Vitamin D", "hi": "विटामिन D"},
-        "d": {"en": "Vitamin A", "hi": "विटामिन A"}
+        "a": {"en": "Teacher", "hi": "शिक्षक"},
+        "b": {"en": "Farmer", "hi": "किसान"},
+        "c": {"en": "Cello player in an orchestra", "hi": "ऑर्केस्ट्रा में सेलो वादक"},
+        "d": {"en": "Doctor", "hi": "डॉक्टर"}
       },
-      "correct_option": "d",
+      "correct_option": "c",
       "explanation": {
-        "en": "Deficiency of Vitamin A causes loss of vision or night blindness.",
-        "hi": "विटामिन A की कमी से दृष्टि की हानि या रतौंधी होती है।"
+        "en": "Hans Wolf, the German officer, told Jim that he played the cello in an orchestra in Dusseldorf.",
+        "hi": "जर्मन अधिकारी हंस वोल्फ ने जिम को बताया कि वह डसेलडोर्फ के एक ऑर्केस्ट्रा में सेलो बजाते थे।"
       }
     },
     {
       "question_id": 5,
       "question": {
-        "en": "Which of these is a rich source of Vitamin C?",
-        "hi": "इनमें से कौन विटामिन C का समृद्ध स्रोत है?"
+        "en": "The British and German soldiers played which sport together?",
+        "hi": "ब्रिटिश और जर्मन सैनिकों ने एक साथ कौन सा खेल खेला?"
       },
       "options": {
-        "a": {"en": "Milk", "hi": "दूध"},
-        "b": {"en": "Amla (Gooseberry)", "hi": "आंवला"},
-        "c": {"en": "Egg", "hi": "अंडा"},
-        "d": {"en": "Wheat", "hi": "गेहूँ"}
+        "a": {"en": "Cricket", "hi": "क्रिकेट"},
+        "b": {"en": "Football", "hi": "फुटबॉल"},
+        "c": {"en": "Hockey", "hi": "हॉकी"},
+        "d": {"en": "Tennis", "hi": "टेनिस"}
       },
       "correct_option": "b",
       "explanation": {
-        "en": "Citrus fruits like amla, lemon, and orange are excellent sources of Vitamin C.",
-        "hi": "आंवला, नींबू और संतरे जैसे खट्टे फल विटामिन C के बेहतरीन स्रोत हैं।"
+        "en": "The soldiers played a game of football using greatcoats as goalposts.",
+        "hi": "सैनिकों ने ओवरकोट को गोलपोस्ट बनाकर फुटबॉल का मैच खेला।"
       }
     },
     {
       "question_id": 6,
       "question": {
-        "en": "Roughage helps our body to _______.",
-        "hi": "रूक्षांश (आहारीय रेशे) हमारे शरीर की सहायता करते हैं _______।"
+        "en": "What did Connie think when she saw the author?",
+        "hi": "लेखक को देखकर कोनी ने क्या सोचा?"
       },
       "options": {
-        "a": {"en": "Gain weight", "hi": "वजन बढ़ाने में"},
-        "b": {"en": "Get rid of undigested food", "hi": "बिना पचे भोजन को बाहर निकालने में"},
-        "c": {"en": "Provide energy", "hi": "ऊर्जा प्रदान करने में"},
-        "d": {"en": "Fight against diseases", "hi": "रोगों से लड़ने में"}
+        "a": {"en": "He was a thief", "hi": "वह एक चोर था"},
+        "b": {"en": "He was her husband, Jim", "hi": "वह उसका पति जिम था"},
+        "c": {"en": "He was a postman", "hi": "वह एक डाकिया था"},
+        "d": {"en": "He was a doctor", "hi": "वह एक डॉक्टर था"}
       },
       "correct_option": "b",
       "explanation": {
-        "en": "Roughage does not provide any nutrient but helps in the removal of undigested food from our body.",
-        "hi": "रूक्षांश कोई पोषक तत्व प्रदान नहीं करते हैं लेकिन हमारे शरीर से बिना पचे भोजन को बाहर निकालने में मदद करते हैं।"
+        "en": "Due to her old age and long wait, she mistook the author for her husband Jim returning for Christmas.",
+        "hi": "अपने बुढ़ापे और लंबे इंतजार के कारण, उसने लेखक को अपना पति जिम समझ लिया जो क्रिसमस पर वापस आया था।"
       }
     },
     {
       "question_id": 7,
       "question": {
-        "en": "Which mineral is essential for keeping our bones and teeth healthy?",
-        "hi": "हमारी हड्डियों और दांतों को स्वस्थ रखने के लिए कौन सा खनिज आवश्यक है?"
+        "en": "What was 'the best Christmas present in the world' for Connie?",
+        "hi": "कोनी के लिए 'दुनिया का सबसे अच्छा क्रिसमस उपहार' क्या था?"
       },
       "options": {
-        "a": {"en": "Iron", "hi": "लोहा"},
-        "b": {"en": "Iodine", "hi": "आयोडीन"},
-        "c": {"en": "Calcium", "hi": "कैल्शियम"},
-        "d": {"en": "Sodium", "hi": "सोडियम"}
+        "a": {"en": "The roll-top desk", "hi": "रोल-टॉप डेस्क"},
+        "b": {"en": "The tin box", "hi": "टिन का डिब्बा"},
+        "c": {"en": "The return of her husband (Jim)", "hi": "उसके पति (जिम) की वापसी"},
+        "d": {"en": "The cake", "hi": "केक"}
       },
       "correct_option": "c",
       "explanation": {
-        "en": "Calcium is vital for the formation and strength of bones and teeth.",
-        "hi": "कैल्शियम हड्डियों और दांतों के निर्माण और मजबूती के लिए महत्वपूर्ण है।"
+        "en": "For Connie, the belief that Jim had finally come home as promised was the greatest gift.",
+        "hi": "कोनी के लिए, यह विश्वास कि जिम वादे के अनुसार आखिरकार घर आ गया है, सबसे बड़ा उपहार था।"
       }
     },
     {
       "question_id": 8,
       "question": {
-        "en": "Scurvy is a disease caused by the deficiency of _______.",
-        "hi": "स्कर्वी एक बीमारी है जो _______ की कमी के कारण होती है।"
+        "en": "What was the date on the letter?",
+        "hi": "पत्र पर क्या तारीख थी?"
       },
       "options": {
-        "a": {"en": "Vitamin C", "hi": "विटामिन C"},
-        "b": {"en": "Vitamin D", "hi": "विटामिन D"},
-        "c": {"en": "Iron", "hi": "लोहा"},
-        "d": {"en": "Vitamin A", "hi": "विटामिन A"}
+        "a": {"en": "Dec 25, 1914", "hi": "25 दिसंबर, 1914"},
+        "b": {"en": "Dec 26, 1914", "hi": "26 दिसंबर, 1914"},
+        "c": {"en": "Jan 1, 1915", "hi": "1 जनवरी, 1915"},
+        "d": {"en": "Dec 25, 1915", "hi": "25 दिसंबर, 1915"}
       },
-      "correct_option": "a",
+      "correct_option": "b",
       "explanation": {
-        "en": "Deficiency of Vitamin C leads to scurvy, characterized by bleeding gums.",
-        "hi": "विटामिन C की कमी से स्कर्वी होता है, जिसके लक्षण मसूड़ों से खून आना है।"
+        "en": "The letter was written on December 26, 1914, describing the events of Christmas day.",
+        "hi": "पत्र 26 दिसंबर 1914 को लिखा गया था, जिसमें क्रिसमस के दिन की घटनाओं का वर्णन था।"
       }
     },
     {
       "question_id": 9,
       "question": {
-        "en": "What happens if we leave a food item on paper and it leaves an oily patch?",
-        "hi": "क्या होता है यदि हम कागज पर कोई खाद्य पदार्थ छोड़ते हैं और वह तेल का धब्बा छोड़ देता है?"
+        "en": "How old was Connie when the author met her?",
+        "hi": "जब लेखक कोनी से मिला तब वह कितने साल की थी?"
       },
       "options": {
-        "a": {"en": "It contains protein", "hi": "इसमें प्रोटीन है"},
-        "b": {"en": "It contains starch", "hi": "इसमें स्टार्च है"},
-        "c": {"en": "It contains fat", "hi": "इसमें वसा है"},
-        "d": {"en": "It contains vitamins", "hi": "इसमें विटामिन हैं"}
+        "a": {"en": "100 years", "hi": "100 साल"},
+        "b": {"en": "101 years", "hi": "101 साल"},
+        "c": {"en": "95 years", "hi": "95 साल"},
+        "d": {"en": "110 years", "hi": "110 साल"}
       },
-      "correct_option": "c",
+      "correct_option": "b",
       "explanation": {
-        "en": "An oily patch on paper shows that the food item contains fat.",
-        "hi": "कागज पर तेल का धब्बा यह दर्शाता है कि खाद्य पदार्थ में वसा है।"
+        "en": "Connie Macpherson was 101 years old and was living in a nursing home.",
+        "hi": "कोनी मैकफर्सन 101 साल की थीं और एक नर्सिंग होम में रह रही थीं।"
       }
     },
     {
       "question_id": 10,
       "question": {
-        "en": "Diseases that occur due to lack of nutrients over a long period are called _______.",
-        "hi": "लंबे समय तक पोषक तत्वों की कमी के कारण होने वाले रोगों को _______ कहा जाता है।"
+        "en": "The phrase 'No Man's Land' refers to:",
+        "hi": "'नो मैन्स लैंड' वाक्यांश का तात्पर्य है:"
       },
       "options": {
-        "a": {"en": "Infectious diseases", "hi": "संक्रामक रोग"},
-        "b": {"en": "Deficiency diseases", "hi": "अभावजन्य रोग"},
-        "c": {"en": "Chronic diseases", "hi": "दीर्घकालिक रोग"},
-        "d": {"en": "Allergic diseases", "hi": "एलर्जी वाले रोग"}
+        "a": {"en": "A playground", "hi": "एक खेल का मैदान"},
+        "b": {"en": "Empty desert", "hi": "खाली रेगिस्तान"},
+        "c": {"en": "The disputed land between two opposing armies", "hi": "दो विरोधी सेनाओं के बीच की विवादित भूमि"},
+        "d": {"en": "A beautiful garden", "hi": "एक सुंदर बगीचा"}
       },
-      "correct_option": "b",
+      "correct_option": "c",
       "explanation": {
-        "en": "Deficiency diseases are caused by the lack of one or more nutrients in the diet over a long time.",
-        "hi": "अभावजन्य रोग लंबे समय तक आहार में एक या अधिक पोषक तत्वों की कमी के कारण होते हैं।"
+        "en": "In war, No Man's Land is the ground between the front lines of two enemy armies.",
+        "hi": "युद्ध में, नो मैन्स लैंड दो दुश्मन सेनाओं की अग्रिम पंक्तियों के बीच की ज़मीन होती है।"
       }
     }
   ]
