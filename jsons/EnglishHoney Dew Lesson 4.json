@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 3,
+    "chapter_title": "Glimpses of the Past",
+    "chapter_title_hindi": "अतीत की झलकियाँ",
+    "subject": "English - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_ENG_CH03_Glimpses_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Who is the famous singer seen singing 'Ae Mere Watan Ke Logon' in the first glimpse?",
+        "hi": "पहली झलक में 'ऐ मेरे वतन के लोगों' गाते हुए दिखाई देने वाली प्रसिद्ध गायिका कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "Asha Bhosle", "hi": "आशा भोंसले"},
+        "b": {"en": "Lata Mangeshkar", "hi": "लता मंगेशकर"},
+        "c": {"en": "Sarojini Naidu", "hi": "सरोजिनी नायडू"},
+        "d": {"en": "M.S. Subbulakshmi", "hi": "एम.एस. सुब्बुलक्ष्मी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Lata Mangeshkar sang this song in a function in Delhi to honor the martyrs of the 1962 war.",
+        "hi": "लता मंगेशकर ने 1962 के युद्ध के शहीदों के सम्मान में दिल्ली में एक समारोह में यह गीत गाया था।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "What was the main reason for the East India Company's quick conquest in India?",
+        "hi": "भारत में ईस्ट इंडिया कंपनी की त्वरित विजय का मुख्य कारण क्या था?"
+      },
+      "options": {
+        "a": {"en": "Superior weapons", "hi": "बेहतर हथियार"},
+        "b": {"en": "The short-sightedness of Indian Princes", "hi": "भारतीय राजकुमारों की दूरदर्शिता की कमी"},
+        "c": {"en": "Lack of unity among Indians", "hi": "भारतीयों में एकता का अभाव"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "explanation": {
+        "en": "Internal rivalries and superior technology allowed the British to take control easily.",
+        "hi": "आंतरिक प्रतिद्वंद्विता और बेहतर तकनीक ने अंग्रेजों को आसानी से नियंत्रण करने की अनुमति दी।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Who was the far-seeing ruler of Mysore who died fighting the British?",
+        "hi": "मैसूर का वह दूरदर्शी शासक कौन था जिसकी अंग्रेजों से लड़ते हुए मृत्यु हो गई थी?"
+      },
+      "options": {
+        "a": {"en": "Haidar Ali", "hi": "हैदर अली"},
+        "b": {"en": "Tipu Sultan", "hi": "टीपू सुल्तान"},
+        "c": {"en": "Raja Ram Mohan Roy", "hi": "राजा राम मोहन राय"},
+        "d": {"en": "Bahadur Shah Zafar", "hi": "बहादुर शाह ज़फ़र"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Tipu Sultan of Mysore fought the British until he died fighting in 1799.",
+        "hi": "मैसूर के टीपू सुल्तान ने 1799 में लड़ते हुए मरने तक अंग्रेजों से मुकाबला किया।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "During British rule, what did 'Regulation III' state?",
+        "hi": "ब्रिटिश शासन के दौरान, 'रेगुलेशन III' (Regulation III) क्या कहता था?"
+      },
+      "options": {
+        "a": {"en": "Indians could be jailed without trial in court", "hi": "भारतीयों को अदालत में मुकदमे के बिना जेल भेजा जा सकता था"},
+        "b": {"en": "Indians had to pay double taxes", "hi": "भारतीयों को दोगुना कर देना पड़ता था"},
+        "c": {"en": "English was mandatory in schools", "hi": "स्कूलों में अंग्रेजी अनिवार्य थी"},
+        "d": {"en": "Sati practice was banned", "hi": "सती प्रथा पर प्रतिबंध लगा दिया गया था"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "In 1818, Regulation III allowed the British to imprison Indians without a fair trial.",
+        "hi": "1818 में, रेगुलेशन III ने अंग्रेजों को बिना निष्पक्ष सुनवाई के भारतीयों को जेल में डालने की अनुमति दी।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Who was the social reformer from Bengal who visited England to understand their power?",
+        "hi": "बंगाल के वह समाज सुधारक कौन थे जिन्होंने अंग्रेजों की शक्ति को समझने के लिए इंग्लैंड का दौरा किया था?"
+      },
+      "options": {
+        "a": {"en": "Swami Vivekananda", "hi": "स्वामी विवेकानंद"},
+        "b": {"en": "Ishwar Chandra Vidyasagar", "hi": "ईश्वर चंद्र विद्यासागर"},
+        "c": {"en": "Raja Ram Mohan Roy", "hi": "राजा राम मोहन राय"},
+        "d": {"en": "Rabindranath Tagore", "hi": "रवींद्रनाथ टैगोर"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Raja Ram Mohan Roy was a learned man who wanted to reform Indian society and adopt modern knowledge.",
+        "hi": "राजा राम मोहन राय एक विद्वान व्यक्ति थे जो भारतीय समाज में सुधार करना और आधुनिक ज्ञान को अपनाना चाहते थे।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "What did Raja Ram Mohan Roy tell his wife Uma about religions?",
+        "hi": "राजा राम मोहन राय ने अपनी पत्नी उमा से धर्मों के बारे में क्या कहा था?"
+      },
+      "options": {
+        "a": {"en": "One religion is better than others", "hi": "एक धर्म दूसरों से बेहतर है"},
+        "b": {"en": "Cows of different colors give the same milk", "hi": "अलग-अलग रंगों की गायें एक जैसा ही दूध देती हैं"},
+        "c": {"en": "All religions are false", "hi": "सभी धर्म झूठे हैं"},
+        "d": {"en": "We should only follow Western culture", "hi": "हमें केवल पश्चिमी संस्कृति का पालन करना चाहिए"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He used the analogy of cows to explain that the essence of all religions is the same.",
+        "hi": "उन्होंने गायों के उदाहरण का उपयोग यह समझाने के लिए किया कि सभी धर्मों का सार एक ही है।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Which year did the British pass Regulation III?",
+        "hi": "अंग्रेजों ने रेगुलेशन III किस वर्ष पारित किया था?"
+      },
+      "options": {
+        "a": {"en": "1857", "hi": "1857"},
+        "b": {"en": "1818", "hi": "1818"},
+        "c": {"en": "1765", "hi": "1765"},
+        "d": {"en": "1833", "hi": "1833"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Regulation III was passed in 1818 as a tool for oppression.",
+        "hi": "रेगुलेशन III 1818 में दमन के एक साधन के रूप में पारित किया गया था।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Who suggested that the medium of education in India should be English?",
+        "hi": "किसने सुझाव दिया कि भारत में शिक्षा का माध्यम अंग्रेजी होना चाहिए?"
+      },
+      "options": {
+        "a": {"en": "Lord Clive", "hi": "लॉर्ड क्लाइव"},
+        "b": {"en": "Lord Macaulay", "hi": "लॉर्ड मैकाले"},
+        "c": {"en": "Lord Dalhousie", "hi": "लॉर्ड डलहौजी"},
+        "d": {"en": "Lord Canning", "hi": "लॉर्ड कैनिंग"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Macaulay suggested this in 1835 to create a class of 'clerks' who would help the British rule.",
+        "hi": "मैकाले ने 1835 में 'क्लर्कों' का एक वर्ग बनाने के लिए यह सुझाव दिया था जो ब्रिटिश शासन में मदद कर सके।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "By which year had the British conquered the whole of India?",
+        "hi": "किस वर्ष तक अंग्रेजों ने पूरे भारत पर विजय प्राप्त कर ली थी?"
+      },
+      "options": {
+        "a": {"en": "1856", "hi": "1856"},
+        "b": {"en": "1835", "hi": "1835"},
+        "c": {"en": "1757", "hi": "1757"},
+        "d": {"en": "1947", "hi": "1947"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The maps in the lesson show that by 1856, almost all of India was under British control.",
+        "hi": "पाठ के मानचित्र दिखाते हैं कि 1856 तक लगभग पूरा भारत ब्रिटिश नियंत्रण में था।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "What did the 'Doctrine of Lapse' help the British to do?",
+        "hi": "'डॉक्ट्रिन ऑफ लैप्स' (Doctrine of Lapse) ने अंग्रेजों को क्या करने में मदद की?"
+      },
+      "options": {
+        "a": {"en": "Collect more taxes", "hi": "अधिक कर वसूलने में"},
+        "b": {"en": "Annex kingdoms without a male heir", "hi": "बिना पुरुष उत्तराधिकारी वाले राज्यों को हड़पने में"},
+        "c": {"en": "Spread Christianity", "hi": "ईसाई धर्म फैलाने में"},
+        "d": {"en": "Improve Indian farming", "hi": "भारतीय खेती में सुधार करने में"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "It allowed them to take over princely states if the ruler died without a natural male heir.",
+        "hi": "इसने उन्हें उन रियासतों पर कब्ज़ा करने की अनुमति दी जिनके शासक की मृत्यु बिना किसी प्राकृतिक पुरुष उत्तराधिकारी के हो गई थी।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Why were the farmers in India dissatisfied with the British rule?",
+        "hi": "भारत के किसान ब्रिटिश शासन से असंतुष्ट क्यों थे?"
+      },
+      "options": {
+        "a": {"en": "Heavy taxes", "hi": "भारी कर"},
+        "b": {"en": "Loss of land", "hi": "भूमि की हानि"},
+        "c": {"en": "Frequent famines", "hi": "बार-बार अकाल पड़ना"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "explanation": {
+        "en": "The British imposed heavy taxes and ignored the plight of farmers during famines.",
+        "hi": "अंग्रेजों ने भारी कर लगाए और अकाल के दौरान किसानों की दुर्दशा की अनदेखी की।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "Who was Mangal Pandey?",
+        "hi": "मंगल पांडे कौन थे?"
+      },
+      "options": {
+        "a": {"en": "A king", "hi": "एक राजा"},
+        "b": {"en": "A social reformer", "hi": "एक समाज सुधारक"},
+        "c": {"en": "A sepoy in the British army", "hi": "ब्रिटिश सेना में एक सिपाही"},
+        "d": {"en": "A teacher", "hi": "एक शिक्षक"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Mangal Pandey was a sepoy in Barrackpore who attacked his adjutant and was executed.",
+        "hi": "मंगल पांडे बैरकपुर में एक सिपाही थे जिन्होंने अपने एडजुटेंट पर हमला किया और उन्हें फांसी दे दी गई।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Where did the revolt of 1857 start first?",
+        "hi": "1857 का विद्रोह सबसे पहले कहाँ शुरू हुआ था?"
+      },
+      "options": {
+        "a": {"en": "Delhi", "hi": "दिल्ली"},
+        "b": {"en": "Meerut", "hi": "मेरठ"},
+        "c": {"en": "Jhansi", "hi": "झाँसी"},
+        "d": {"en": "Lucknow", "hi": "लखनऊ"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The sepoys at Meerut mutinied first and then marched to Delhi.",
+        "hi": "मेरठ के सिपाहियों ने पहले विद्रोह किया और फिर दिल्ली की ओर कूच किया।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Which animal's fat was rumored to be on the new cartridges?",
+        "hi": "नए कारतूसों पर किस जानवर की चर्बी होने की अफवाह थी?"
+      },
+      "options": {
+        "a": {"en": "Cow and Pig", "hi": "गाय और सुअर"},
+        "b": {"en": "Goat and Sheep", "hi": "बकरी और भेड़"},
+        "c": {"en": "Lion and Tiger", "hi": "शेर और बाघ"},
+        "d": {"en": "Horse and Elephant", "hi": "घोड़ा और हाथी"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The grease on the cartridges was said to be made from cow and pig fat, offending both Hindus and Muslims.",
+        "hi": "कहा जाता था कि कारतूसों पर लगी ग्रीस गाय और सुअर की चर्बी से बनी थी, जिससे हिंदू और मुस्लिम दोनों की भावनाएं आहत हुईं।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "What did the sepoys use to spread the message of revolt among villagers?",
+        "hi": "सिपाहियों ने ग्रामीणों के बीच विद्रोह का संदेश फैलाने के लिए किसका उपयोग किया?"
+      },
+      "options": {
+        "a": {"en": "Letters", "hi": "पत्र"},
+        "b": {"en": "Chapatis", "hi": "चपातियाँ (रोटियां)"},
+        "c": {"en": "Guns", "hi": "बंदूकें"},
+        "d": {"en": "Flags", "hi": "झंडे"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Chapatis were sent from village to village to signal the coming of a revolution.",
+        "hi": "क्रांति के आगमन का संकेत देने के लिए गाँव-गाँव चपातियाँ भेजी गईं।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What was the symbol used to spread the message among Indian soldiers?",
+        "hi": "भारतीय सैनिकों के बीच संदेश फैलाने के लिए किस प्रतीक का उपयोग किया गया था?"
+      },
+      "options": {
+        "a": {"en": "Lotus flower", "hi": "कमल का फूल"},
+        "b": {"en": "Rose flower", "hi": "गुलाब का फूल"},
+        "c": {"en": "Sword", "hi": "तलवार"},
+        "d": {"en": "Eagle", "hi": "बाज"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The lotus flower was circulated among Indian sepoys to unite them for the revolt.",
+        "hi": "विद्रोह के लिए एकजुट करने के लिए भारतीय सिपाहियों के बीच कमल का फूल घुमाया गया।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "Who was proclaimed as the leader of the revolt in Delhi?",
+        "hi": "दिल्ली में विद्रोह के नेता के रूप में किसे घोषित किया गया था?"
+      },
+      "options": {
+        "a": {"en": "Nana Saheb", "hi": "नाना साहब"},
+        "b": {"en": "Kunwar Singh", "hi": "कुंवर सिंह"},
+        "c": {"en": "Bahadur Shah Zafar", "hi": "बहादुर शाह ज़फ़र"},
+        "d": {"en": "Begum Hazrat Mahal", "hi": "बेगम हज़रत महल"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "The mutineers reached Delhi and proclaimed the Mughal Emperor Bahadur Shah as their leader.",
+        "hi": "विद्रोही दिल्ली पहुंचे और मुगल सम्राट बहादुर शाह को अपना नेता घोषित किया।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "Which famous leader of the revolt was from Lucknow?",
+        "hi": "विद्रोह की कौन सी प्रसिद्ध नेता लखनऊ से थीं?"
+      },
+      "options": {
+        "a": {"en": "Rani Laxmi Bai", "hi": "रानी लक्ष्मी बाई"},
+        "b": {"en": "Begum Hazrat Mahal", "hi": "बेगम हज़रत महल"},
+        "c": {"en": "Razia Sultan", "hi": "रज़िया सुल्तान"},
+        "d": {"en": "Sarojini Naidu", "hi": "सरोजिनी नायडू"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Begum Hazrat Mahal of Lucknow joined the revolt because her kingdom had been taken away.",
+        "hi": "लखनऊ की बेगम हज़रत महल विद्रोह में शामिल हुईं क्योंकि उनका राज्य छीन लिया गया था।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Nana Saheb Peshwa was a leader from which city?",
+        "hi": "नाना साहब पेशवा किस शहर के नेता थे?"
+      },
+      "options": {
+        "a": {"en": "Lucknow", "hi": "लखनऊ"},
+        "b": {"en": "Kanpur", "hi": "कानपुर"},
+        "c": {"en": "Arrah", "hi": "आरा"},
+        "d": {"en": "Delhi", "hi": "दिल्ली"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Nana Saheb led the revolt in Kanpur during the 1857 uprising.",
+        "hi": "1857 के विद्रोह के दौरान नाना साहब ने कानपुर में विद्रोह का नेतृत्व किया था।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "Who was the 80-year-old leader from Bihar who received a bullet in his wrist?",
+        "hi": "बिहार के वह 80 वर्षीय नेता कौन थे जिनकी कलाई में गोली लगी थी?"
+      },
+      "options": {
+        "a": {"en": "Tantia Tope", "hi": "तांतिया टोपे"},
+        "b": {"en": "Azimullah Khan", "hi": "अजीमुल्ला खान"},
+        "c": {"en": "Kunwar Singh", "hi": "कुंवर सिंह"},
+        "d": {"en": "Bakht Khan", "hi": "बख्त खान"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Kunwar Singh of Arrah (Bihar) cut off his own hand and offered it to the Ganges after being hit by a bullet.",
+        "hi": "आरा (बिहार) के कुंवर सिंह ने गोली लगने के बाद अपना हाथ काट दिया और उसे गंगा में अर्पित कर दिया।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "What does the word 'Martyr' mean?",
+        "hi": "'शहीद' (Martyr) शब्द का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "A winner", "hi": "एक विजेता"},
+        "b": {"en": "A person who dies for their country or cause", "hi": "वह व्यक्ति जो अपने देश या उद्देश्य के लिए मर जाता है"},
+        "c": {"en": "A king", "hi": "एक राजा"},
+        "d": {"en": "A social worker", "hi": "एक सामाजिक कार्यकर्ता"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The lesson starts with a song dedicated to the martyrs of India.",
+        "hi": "पाठ की शुरुआत भारत के शहीदों को समर्पित एक गीत से होती है।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Why did the British value 'English education' for Indians?",
+        "hi": "अंग्रेज भारतीयों के लिए 'अंग्रेजी शिक्षा' को क्यों महत्व देते थे?"
+      },
+      "options": {
+        "a": {"en": "To make Indians smarter", "hi": "भारतीयों को चतुर बनाने के लिए"},
+        "b": {"en": "To help Indians get better jobs in England", "hi": "भारतीयों को इंग्लैंड में बेहतर नौकरियां दिलाने में मदद करने के लिए"},
+        "c": {"en": "To create clerks for administrative work", "hi": "प्रशासनिक कार्य के लिए क्लर्क बनाने के लिए"},
+        "d": {"en": "To preserve Indian languages", "hi": "भारतीय भाषाओं को संरक्षित करने के लिए"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "English education was intended to produce cheap clerical labor for the British administration.",
+        "hi": "अंग्रेजी शिक्षा का उद्देश्य ब्रिटिश प्रशासन के लिए सस्ते लिपिक (clerical) मजदूर तैयार करना था।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Which religious practice was criticized by reformers like Ram Mohan Roy?",
+        "hi": "राम मोहन राय जैसे सुधारकों ने किस धार्मिक प्रथा की आलोचना की थी?"
+      },
+      "options": {
+        "a": {"en": "Untouchability", "hi": "अस्पृश्यता"},
+        "b": {"en": "Child marriage", "hi": "बाल विवाह"},
+        "c": {"en": "Sati", "hi": "सती"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d",
+      "explanation": {
+        "en": "Reformers fought against many social evils including child marriage and superstitions.",
+        "hi": "सुधारकों ने बाल विवाह और अंधविश्वास सहित कई सामाजिक बुराइयों के खिलाफ लड़ाई लड़ी।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "British goods imported to India were _______.",
+        "hi": "भारत में आयातित ब्रिटिश सामान _______ थे।"
+      },
+      "options": {
+        "a": {"en": "Tax-free", "hi": "कर मुक्त"},
+        "b": {"en": "Very expensive", "hi": "बहुत महंगे"},
+        "c": {"en": "Banned", "hi": "प्रतिबंधित"},
+        "d": {"en": "Poor quality", "hi": "घटिया गुणवत्ता वाले"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The British made their own goods tax-free while taxing Indian goods heavily to destroy Indian industries.",
+        "hi": "अंग्रेजों ने अपने माल को कर-मुक्त कर दिया जबकि भारतीय उद्योगों को नष्ट करने के लिए भारतीय माल पर भारी कर लगाया।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "The period 1757-1849 is marked as the time of _______.",
+        "hi": "1757-1849 की अवधि को _______ के समय के रूप में चिह्नित किया गया है।"
+      },
+      "options": {
+        "a": {"en": "Company's Conquests", "hi": "कंपनी की विजय"},
+        "b": {"en": "Independent India", "hi": "स्वतंत्र भारत"},
+        "c": {"en": "Mughal Empire peak", "hi": "मुगल साम्राज्य का शिखर"},
+        "d": {"en": "Industrial Revolution in India", "hi": "भारत में औद्योगिक क्रांति"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "This period saw the East India Company expand its power over Indian states.",
+        "hi": "इस अवधि में ईस्ट इंडिया कंपनी ने भारतीय राज्यों पर अपनी शक्ति का विस्तार किया।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "What does 'Short-sighted' mean in the context of the Indian Princes?",
+        "hi": "भारतीय राजकुमारों के संदर्भ में 'अदूरदर्शी' (Short-sighted) का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "They couldn't see far things", "hi": "वे दूर की चीजें नहीं देख सकते थे"},
+        "b": {"en": "They didn't think about the long-term consequences", "hi": "उन्होंने भविष्य के परिणामों के बारे में नहीं सोचा"},
+        "c": {"en": "They were blind", "hi": "वे अंधे थे"},
+        "d": {"en": "They were very wise", "hi": "वे बहुत बुद्धिमान थे"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The princes invited the British to fight their rivals, not realizing the British would eventually rule them all.",
+        "hi": "राजकुमारों ने अपने प्रतिद्वंद्वियों से लड़ने के लिए अंग्रेजों को आमंत्रित किया, यह महसूस किए बिना कि अंग्रेज अंततः उन सभी पर शासन करेंगे।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Which year did the 'Sparks' of the revolt begin to fly significantly?",
+        "hi": "विद्रोह की 'चिंगारी' (Sparks) किस वर्ष महत्वपूर्ण रूप से उड़ने लगी थी?"
+      },
+      "options": {
+        "a": {"en": "1855", "hi": "1855"},
+        "b": {"en": "1757", "hi": "1757"},
+        "c": {"en": "1835", "hi": "1835"},
+        "d": {"en": "1818", "hi": "1818"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "By 1855-57, the dissatisfaction among sepoys and peasants had reached its peak.",
+        "hi": "1855-57 तक, सिपाहियों और किसानों के बीच असंतोष अपने चरम पर पहुँच गया था।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Who said 'Our old masters are being replaced by the British'?",
+        "hi": "किसने कहा 'हमारे पुराने स्वामियों की जगह अंग्रेज ले रहे हैं'?"
+      },
+      "options": {
+        "a": {"en": "Common people", "hi": "आम लोग"},
+        "b": {"en": "Kings", "hi": "राजा"},
+        "c": {"en": "The British themselves", "hi": "खुद अंग्रेज"},
+        "d": {"en": "Merchants", "hi": "व्यापारी"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Ordinary Indians felt the loss of their culture and old rulers as the British took over.",
+        "hi": "जैसे-जैसे अंग्रेजों ने कब्ज़ा किया, आम भारतीयों ने अपनी संस्कृति और पुराने शासकों के खोने को महसूस किया।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "Which city saw the 'Massacre' (killing) of many sepoys after the revolt?",
+        "hi": "विद्रोह के बाद किस शहर में कई सिपाहियों का 'नरसंहार' (Massacre) देखा गया?"
+      },
+      "options": {
+        "a": {"en": "Meerut", "hi": "मेरठ"},
+        "b": {"en": "Jhansi", "hi": "झाँसी"},
+        "c": {"en": "Barrackpore", "hi": "बैरकपुर"},
+        "d": {"en": "Calcutta", "hi": "कलकत्ता"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Sepoys like Mangal Pandey were executed at Barrackpore.",
+        "hi": "बैरकपुर में मंगल पांडे जैसे सिपाहियों को फांसी दे दी गई।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "The 1857 revolt is also known as _______.",
+        "hi": "1857 के विद्रोह को _______ के रूप में भी जाना जाता है।"
+      },
+      "options": {
+        "a": {"en": "The First War of Independence", "hi": "प्रथम स्वतंत्रता संग्राम"},
+        "b": {"en": "The Salt March", "hi": "नमक मार्च"},
+        "c": {"en": "The Quit India Movement", "hi": "भारत छोड़ो आंदोलन"},
+        "d": {"en": "The French Revolution", "hi": "फ्रांसीसी क्रांति"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The 1857 uprising was the first major organized struggle for freedom against British rule.",
+        "hi": "1857 का विद्रोह ब्रिटिश शासन के खिलाफ स्वतंत्रता के लिए पहला बड़ा संगठित संघर्ष था।"
+      }
+    }
+  ]
+}
