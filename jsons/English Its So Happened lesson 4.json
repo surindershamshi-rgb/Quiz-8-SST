@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 4,
+    "chapter_title": "The Treasure Within",
+    "chapter_title_hindi": "भीतर का खजाना",
+    "subject": "English Supplementary - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_ENG_SUPP_CH04_Treasure_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Who is the main subject of the interview in 'The Treasure Within'?",
+        "hi": "'द ट्रेजर विदिन' में साक्षात्कार का मुख्य विषय कौन है?"
+      },
+      "options": {
+        "a": {"en": "Bela Raja", "hi": "बेला राजा"},
+        "b": {"en": "Hafeez Contractor", "hi": "हफीज कॉन्ट्रैक्टर"},
+        "c": {"en": "Ruskin Bond", "hi": "रस्किन बॉन्ड"},
+        "d": {"en": "Satyajit Ray", "hi": "सत्यजीत राय"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Hafeez Contractor is a leading Indian architect whose life story is featured in this lesson.",
+        "hi": "हफीज कॉन्ट्रैक्टर एक प्रमुख भारतीय वास्तुकार (architect) हैं जिनकी जीवन कहानी इस पाठ में दिखाई गई है।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "How was Hafeez Contractor as a student in his early school years?",
+        "hi": "हफीज कॉन्ट्रैक्टर अपने शुरुआती स्कूली वर्षों में एक छात्र के रूप में कैसे थे?"
+      },
+      "options": {
+        "a": {"en": "He was a topper", "hi": "वह टॉपर थे"},
+        "b": {"en": "He was a good student but lost interest later", "hi": "वह एक अच्छे छात्र थे लेकिन बाद में उनकी रुचि कम हो गई"},
+        "c": {"en": "He hated studies from the beginning", "hi": "उन्हें शुरू से ही पढ़ाई से नफरत थी"},
+        "d": {"en": "He was an average student", "hi": "वह एक औसत छात्र थे"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "In the first and second years, he was a good student, but from the third standard onwards, he lost interest.",
+        "hi": "पहली और दूसरी कक्षा में वह एक अच्छे छात्र थे, लेकिन तीसरी कक्षा के बाद से उनकी रुचि कम हो गई।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "What did Hafeez used to have nightmares about?",
+        "hi": "हफीज को किस बारे में बुरे सपने आते थे?"
+      },
+      "options": {
+        "a": {"en": "Falling from a height", "hi": "ऊँचाई से गिरना"},
+        "b": {"en": "Appearing for a mathematics examination", "hi": "गणित की परीक्षा में शामिल होना"},
+        "c": {"en": "Ghosts", "hi": "भूत"},
+        "d": {"en": "Being late for school", "hi": "स्कूल के लिए देर होना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He had frequent nightmares about math exams where he didn't know anything.",
+        "hi": "उन्हें अक्सर गणित की परीक्षाओं के बारे में बुरे सपने आते थे जहाँ उन्हें कुछ भी नहीं पता होता था।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What would Hafeez rather do than study?",
+        "hi": "हफीज पढ़ाई के बजाय क्या करना पसंद करते थे?"
+      },
+      "options": {
+        "a": {"en": "Sleep", "hi": "सोना"},
+        "b": {"en": "Play games and do pranks", "hi": "खेल खेलना और शरारतें करना"},
+        "c": {"en": "Cook food", "hi": "खाना बनाना"},
+        "d": {"en": "Read novels", "hi": "उपन्यास पढ़ना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He was interested in games, running around, and playing jokes on others.",
+        "hi": "उनकी रुचि खेल कूद, इधर-उधर भागने और दूसरों के साथ मजाक करने में थी।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "What turning point changed Hafeez's life in the 11th standard?",
+        "hi": "11वीं कक्षा में हफीज के जीवन में क्या महत्वपूर्ण मोड़ आया?"
+      },
+      "options": {
+        "a": {"en": "He failed his exams", "hi": "वह अपनी परीक्षा में फेल हो गए"},
+        "b": {"en": "His principal's advice", "hi": "उनके प्रधानाचार्य की सलाह"},
+        "c": {"en": "He won a sports trophy", "hi": "उन्होंने एक खेल ट्रॉफी जीती"},
+        "d": {"en": "He moved to a new city", "hi": "वह एक नए शहर में चले गए"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The Principal told him he was a good student but never studied, and encouraged him to take responsibility.",
+        "hi": "प्रधानाचार्य ने उनसे कहा कि वह एक अच्छे छात्र हैं लेकिन कभी पढ़ते नहीं हैं, और उन्हें जिम्मेदारी लेने के लिए प्रोत्साहित किया।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "What was the result of the Principal's talk with Hafeez?",
+        "hi": "प्रधानाचार्य की हफीज के साथ बातचीत का क्या परिणाम हुआ?"
+      },
+      "options": {
+        "a": {"en": "He left school", "hi": "उन्होंने स्कूल छोड़ दिया"},
+        "b": {"en": "He did not go to the field to play that year", "hi": "वह उस वर्ष खेलने के लिए मैदान में नहीं गए"},
+        "c": {"en": "He started drawing buildings", "hi": "उन्होंने इमारतों के चित्र बनाना शुरू कर दिया"},
+        "d": {"en": "He became the sports captain", "hi": "वह स्पोर्ट्स कैप्टन बन गए"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "After the talk, he studied hard and didn't even go out to play.",
+        "hi": "बातचीत के बाद, उन्होंने कड़ी मेहनत की और यहाँ तक कि खेलने के लिए बाहर भी नहीं गए।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "How much percentage did Hafeez get in his SSC?",
+        "hi": "हफीज को अपने एसएससी (SSC) में कितने प्रतिशत अंक मिले?"
+      },
+      "options": {
+        "a": {"en": "90%", "hi": "90%"},
+        "b": {"en": "50%", "hi": "50%"},
+        "c": {"en": "75%", "hi": "75%"},
+        "d": {"en": "35%", "hi": "35%"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He scored 50% in his SSC, which he considered a great achievement given his lack of interest in studies.",
+        "hi": "उन्होंने अपने एसएससी में 50% अंक प्राप्त किए, जिसे उन्होंने पढ़ाई में अपनी रुचि की कमी को देखते हुए एक बड़ी उपलब्धि माना।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "What did Hafeez want to join after school?",
+        "hi": "स्कूल के बाद हफीज क्या जॉइन करना चाहते थे?"
+      },
+      "options": {
+        "a": {"en": "The Army", "hi": "सेना"},
+        "b": {"en": "A bank", "hi": "एक बैंक"},
+        "c": {"en": "The Police", "hi": "पुलिस"},
+        "d": {"en": "Architecture college", "hi": "आर्किटेक्चर कॉलेज"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "He initially wanted to join the Army, but his aunt and mother didn't allow it.",
+        "hi": "वे शुरू में सेना में शामिल होना चाहते थे, लेकिन उनकी मौसी और माँ ने इसकी अनुमति नहीं दी।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Why could Hafeez not join the Police Force?",
+        "hi": "हफीज पुलिस बल में क्यों शामिल नहीं हो सके?"
+      },
+      "options": {
+        "a": {"en": "He was too short", "hi": "वह बहुत छोटे थे"},
+        "b": {"en": "His mother told him to do his graduation instead", "hi": "उनकी माँ ने उनसे इसके बजाय ग्रेजुएशन करने को कहा"},
+        "c": {"en": "He failed the physical test", "hi": "वह शारीरिक परीक्षण में विफल रहे"},
+        "d": {"en": "He didn't like the uniform", "hi": "उन्हें वर्दी पसंद नहीं थी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "His mother advised him to complete his graduation before doing anything else.",
+        "hi": "उनकी माँ ने उन्हें कुछ और करने से पहले अपना ग्रेजुएशन पूरा करने की सलाह दी।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "In which college did Hafeez finally take admission?",
+        "hi": "हफीज ने अंततः किस कॉलेज में प्रवेश लिया?"
+      },
+      "options": {
+        "a": {"en": "St. Xavier’s", "hi": "सेंट जेवियर्स"},
+        "b": {"en": "Jai Hind College", "hi": "जय हिंद कॉलेज"},
+        "c": {"en": "IIT", "hi": "आईआईटी"},
+        "d": {"en": "National College", "hi": "नेशनल कॉलेज"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He took admission in Jai Hind College in Bombay (Mumbai).",
+        "hi": "उन्होंने बॉम्बे (मुंबई) के जय हिंद कॉलेज में प्रवेश लिया।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "How did Hafeez discover his talent for architecture?",
+        "hi": "हफीज को वास्तुकला (architecture) के लिए अपनी प्रतिभा का पता कैसे चला?"
+      },
+      "options": {
+        "a": {"en": "By designing a house for a friend", "hi": "एक दोस्त के लिए घर डिजाइन करके"},
+        "b": {"en": "By correcting a faulty window drawing in his cousin's husband's office", "hi": "अपने चचेरे भाई के पति के कार्यालय में एक दोषपूर्ण खिड़की के चित्र को ठीक करके"},
+        "c": {"en": "Through a school competition", "hi": "एक स्कूल प्रतियोगिता के माध्यम से"},
+        "d": {"en": "His teacher told him", "hi": "उनके शिक्षक ने उन्हें बताया"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He noticed someone drawing a window detail and pointed out that the window would not open, which turned out to be correct.",
+        "hi": "उन्होंने किसी को खिड़की का विवरण बनाते हुए देखा और बताया कि खिड़की नहीं खुलेगी, जो बाद में सही निकला।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What test did the architect give to Hafeez?",
+        "hi": "वास्तुकार ने हफीज को क्या परीक्षा दी?"
+      },
+      "options": {
+        "a": {"en": "A math test", "hi": "एक गणित की परीक्षा"},
+        "b": {"en": "To design a house", "hi": "एक घर डिजाइन करने के लिए"},
+        "c": {"en": "To draw a car", "hi": "एक कार बनाने के लिए"},
+        "d": {"en": "To build a model", "hi": "एक मॉडल बनाने के लिए"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The architect asked him to design a house, which Hafeez did instantly and perfectly.",
+        "hi": "वास्तुकार ने उनसे एक घर डिजाइन करने के लिए कहा, जिसे हफीज ने तुरंत और पूरी तरह से किया।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "What did Hafeez use to do when it rained during school hours?",
+        "hi": "स्कूल के समय में जब बारिश होती थी तब हफीज क्या करते थे?"
+      },
+      "options": {
+        "a": {"en": "Study geography", "hi": "भूगोल पढ़ना"},
+        "b": {"en": "Think about the flowing water and how to build a dam", "hi": "बहते पानी के बारे में सोचना और बांध कैसे बनाया जाए"},
+        "c": {"en": "Go home", "hi": "घर जाना"},
+        "d": {"en": "Play football", "hi": "फुटबॉल खेलना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He would observe the water flow and imagine how a dam would block it.",
+        "hi": "वे पानी के बहाव को देखते थे और कल्पना करते थे कि बांध इसे कैसे रोकेगा।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What did Hafeez use to carve from buttons?",
+        "hi": "हफीज बटनों से क्या तराशा करते थे?"
+      },
+      "options": {
+        "a": {"en": "Flowers", "hi": "फूल"},
+        "b": {"en": "Animals", "hi": "जानवर"},
+        "c": {"en": "Small weapons/swords", "hi": "छोटे हथियार/तलवारें"},
+        "d": {"en": "Cars", "hi": "कारें"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "When students lost buttons, he would carve new ones from chalk using a blade.",
+        "hi": "जब छात्रों के बटन खो जाते थे, तो वह ब्लेड का उपयोग करके चॉक से नए बटन तराशते थे।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "Why did Hafeez say he was 'gifted' in some ways but 'bad' at studies?",
+        "hi": "हफीज ने क्यों कहा कि वे कुछ मायनों में 'प्रतिभाशाली' थे लेकिन पढ़ाई में 'खराब' थे?"
+      },
+      "options": {
+        "a": {"en": "He liked cheating", "hi": "उन्हें नकल करना पसंद था"},
+        "b": {"en": "His mind was visual rather than academic", "hi": "उनका दिमाग अकादमिक के बजाय दृश्य (visual) था"},
+        "c": {"en": "He was lazy", "hi": "वह आलसी थे"},
+        "d": {"en": "He didn't have books", "hi": "उनके पास किताबें नहीं थीं"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He could remember things as a photograph but couldn't understand text easily.",
+        "hi": "वे चीजों को एक तस्वीर के रूप में याद रख सकते थे लेकिन टेक्स्ट को आसानी से नहीं समझ सकते थे।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "According to Hafeez, how does he decide on a design for a client?",
+        "hi": "हफीज के अनुसार, वे क्लाइंट के लिए डिजाइन कैसे तय करते हैं?"
+      },
+      "options": {
+        "a": {"en": "By looking at their clothes and way of talking", "hi": "उनके कपड़े और बात करने के तरीके को देखकर"},
+        "b": {"en": "By charging more money", "hi": "ज्यादा पैसे लेकर"},
+        "c": {"en": "By following a textbook", "hi": "एक पाठ्यपुस्तक का पालन करके"},
+        "d": {"en": "By asking other architects", "hi": "दूसरे वास्तुकारों से पूछकर"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "He observes the client's personality, taste, and habits to create a suitable design.",
+        "hi": "वह उपयुक्त डिजाइन बनाने के लिए क्लाइंट के व्यक्तित्व, पसंद और आदतों का निरीक्षण करते हैं।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What did Mrs. Gupta, his teacher, tell him when he was in 2nd or 3rd standard?",
+        "hi": "जब वह दूसरी या तीसरी कक्षा में थे, तब उनकी शिक्षिका श्रीमती गुप्ता ने उनसे क्या कहा था?"
+      },
+      "options": {
+        "a": {"en": "That he should leave school", "hi": "कि उन्हें स्कूल छोड़ देना चाहिए"},
+        "b": {"en": "That he will become an architect one day", "hi": "कि वे एक दिन वास्तुकार बनेंगे"},
+        "c": {"en": "That he is a bad boy", "hi": "कि वह एक बुरा लड़का है"},
+        "d": {"en": "That he should focus on math", "hi": "कि उन्हें गणित पर ध्यान देना चाहिए"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Even back then, she saw his talent for drawing and predicted his future profession.",
+        "hi": "तभी उन्होंने उनके चित्र बनाने की प्रतिभा को देखा था और उनके भविष्य के पेशे की भविष्यवाणी की थी।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "Why did Hafeez call math a 'design'?",
+        "hi": "हफीज ने गणित को 'डिजाइन' क्यों कहा?"
+      },
+      "options": {
+        "a": {"en": "Because it is easy", "hi": "क्योंकि यह आसान है"},
+        "b": {"en": "Because he sees numbers as sketches and structures", "hi": "क्योंकि वे संख्याओं को रेखाचित्रों और संरचनाओं के रूप में देखते हैं"},
+        "c": {"en": "Because he likes the word", "hi": "क्योंकि उन्हें यह शब्द पसंद है"},
+        "d": {"en": "He was joking", "hi": "वह मजाक कर रहे थे"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He relates mathematics to the visual process of architectural design.",
+        "hi": "वे गणित को वास्तुशिल्प डिजाइन की दृश्य प्रक्रिया से जोड़ते हैं।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What was the 'punishment' Hafeez received almost every week in school?",
+        "hi": "स्कूल में हफीज को लगभग हर हफ्ते क्या 'सजा' मिलती थी?"
+      },
+      "options": {
+        "a": {"en": "He was sent home", "hi": "उन्हें घर भेज दिया जाता था"},
+        "b": {"en": "He got a caning", "hi": "उन्हें बेंत से पिटाई (caning) मिलती थी"},
+        "c": {"en": "He had to clean the floor", "hi": "उन्हें फर्श साफ करना पड़ता था"},
+        "d": {"en": "He was made to stand on the bench", "hi": "उन्हें बेंच पर खड़ा कर दिया जाता था"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He often received caning for not doing his homework or for bad behavior.",
+        "hi": "होमवर्क न करने या खराब व्यवहार के कारण उन्हें अक्सर बेंत की मार पड़ती थी।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "How did Hafeez feel about receiving a caning?",
+        "hi": "बेंत की मार मिलने पर हफीज को कैसा महसूस होता था?"
+      },
+      "options": {
+        "a": {"en": "He would cry for hours", "hi": "वे घंटों रोते थे"},
+        "b": {"en": "He would forget about it as soon as he went to play", "hi": "खेलने जाते ही वे इसके बारे में भूल जाते थे"},
+        "c": {"en": "He felt very shameful", "hi": "उन्हें बहुत शर्म महसूस होती थी"},
+        "d": {"en": "He would plan revenge", "hi": "वह बदला लेने की योजना बनाते थे"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "His interest in playing was so strong that physical punishment didn't affect him for long.",
+        "hi": "खेलने में उनकी रुचि इतनी प्रबल थी कि शारीरिक दंड का उन पर अधिक समय तक प्रभाव नहीं पड़ता था।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "What did Hafeez do during the 'chor-police' game in school?",
+        "hi": "स्कूल में 'चोर-पुलिस' खेल के दौरान हफीज क्या करते थे?"
+      },
+      "options": {
+        "a": {"en": "He was always the police", "hi": "वह हमेशा पुलिस बनते थे"},
+        "b": {"en": "He would plan the strategies and distract the teachers", "hi": "वे रणनीतियां बनाते थे और शिक्षकों का ध्यान भटकाते थे"},
+        "c": {"en": "He would hide in the library", "hi": "वह पुस्तकालय में छिप जाते थे"},
+        "d": {"en": "He didn't like playing", "hi": "उन्हें खेलना पसंद नहीं था"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He was a leader in games and distractions, often leading his classmates.",
+        "hi": "वे खेलों और ध्यान भटकाने वाली गतिविधियों में अग्रणी थे, और अक्सर अपने सहपाठियों का नेतृत्व करते थे।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "What is the meaning of 'The Treasure Within'?",
+        "hi": "'द ट्रेजर विदिन' का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Hidden gold in a house", "hi": "घर में छिपा सोना"},
+        "b": {"en": "The hidden talent inside every child", "hi": "हर बच्चे के अंदर छिपी प्रतिभा"},
+        "c": {"en": "Money in a bank", "hi": "बैंक में पैसा"},
+        "d": {"en": "Knowledge from books", "hi": "किताबों से ज्ञान"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The title refers to the unique abilities and talents every student possesses.",
+        "hi": "शीर्षक उन अद्वितीय क्षमताओं और प्रतिभाओं को संदर्भित करता है जो प्रत्येक छात्र के पास होती हैं।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Hafeez was the _______ of his school.",
+        "hi": "हफीज अपने स्कूल के _______ थे।"
+      },
+      "options": {
+        "a": {"en": "Head Boy", "hi": "हेड बॉय"},
+        "b": {"en": "Senior Champion for many years", "hi": "कई वर्षों तक सीनियर चैंपियन"},
+        "c": {"en": "Slowest runner", "hi": "सबसे धीमे धावक"},
+        "d": {"en": "Most quiet student", "hi": "सबसे शांत छात्र"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He excelled in sports and was a champion in his school days.",
+        "hi": "वे खेलों में उत्कृष्ट थे और अपने स्कूली दिनों में चैंपियन थे।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "How did Hafeez study for his SSC exams?",
+        "hi": "हफीज ने अपनी एसएससी परीक्षाओं के लिए कैसे पढ़ाई की?"
+      },
+      "options": {
+        "a": {"en": "By reading all books twice", "hi": "सभी किताबों को दो बार पढ़कर"},
+        "b": {"en": "By only eating and sleeping", "hi": "केवल खाकर और सोकर"},
+        "c": {"en": "By studying just enough to pass after the Principal's talk", "hi": "प्रधानाचार्य की बातचीत के बाद पास होने लायक पढ़ाई करके"},
+        "d": {"en": "He didn't study at all", "hi": "उन्होंने बिल्कुल भी पढ़ाई नहीं की"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "He took the Principal's words seriously and worked hard for that one year.",
+        "hi": "उन्होंने प्रधानाचार्य की बातों को गंभीरता से लिया और उस एक साल तक कड़ी मेहनत की।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "What happened to Hafeez when he went for the interview at the architecture college?",
+        "hi": "जब हफीज आर्किटेक्चर कॉलेज में साक्षात्कार के लिए गए तो क्या हुआ?"
+      },
+      "options": {
+        "a": {"en": "He was rejected", "hi": "उन्हें अस्वीकार कर दिया गया"},
+        "b": {"en": "The principal allowed him to sit for the entrance exam as a special case", "hi": "प्रधानाचार्य ने उन्हें एक विशेष मामले के रूप में प्रवेश परीक्षा में बैठने की अनुमति दी"},
+        "c": {"en": "He got a scholarship", "hi": "उन्हें छात्रवृत्ति मिली"},
+        "d": {"en": "He left the interview halfway", "hi": "उन्होंने बीच में ही इंटरव्यू छोड़ दिया"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Despite not having high marks, his drawing talent earned him a chance to prove himself.",
+        "hi": "उच्च अंक न होने के बावजूद, उनके ड्राइंग टैलेंट ने उन्हें खुद को साबित करने का मौका दिया।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "What grade did Hafeez get in his entrance exam for architecture?",
+        "hi": "हफीज को वास्तुकला की प्रवेश परीक्षा में कौन सा ग्रेड मिला?"
+      },
+      "options": {
+        "a": {"en": "C Grade", "hi": "सी ग्रेड"},
+        "b": {"en": "A+ Grade", "hi": "ए+ ग्रेड"},
+        "c": {"en": "B Grade", "hi": "बी ग्रेड"},
+        "d": {"en": "He failed", "hi": "वे फेल हो गए"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He scored an A+ in the entrance exam, showing his natural aptitude for the subject.",
+        "hi": "उन्होंने प्रवेश परीक्षा में ए+ स्कोर किया, जो इस विषय के प्रति उनकी स्वाभाविक योग्यता को दर्शाता है।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Hafeez thinks that 'school life made him _______'.",
+        "hi": "हफीज का मानना है कि 'स्कूली जीवन ने उन्हें _______ बनाया'।"
+      },
+      "options": {
+        "a": {"en": "Dull", "hi": "सुस्त"},
+        "b": {"en": "Street smart", "hi": "चतुर (Street smart)"},
+        "c": {"en": "Angry", "hi": "क्रोधित"},
+        "d": {"en": "A bookworm", "hi": "किताबी कीड़ा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He believes that his practical experiences in school were more valuable than what he learned from books.",
+        "hi": "उनका मानना है कि स्कूल में उनके व्यावहारिक अनुभव किताबों से सीखी गई बातों से अधिक मूल्यवान थे।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "What does Hafeez do when a client wants a house?",
+        "hi": "जब कोई क्लाइंट घर चाहता है तो हफीज क्या करते हैं?"
+      },
+      "options": {
+        "a": {"en": "He sketches a design on the spot", "hi": "वे मौके पर ही एक डिजाइन तैयार करते हैं"},
+        "b": {"en": "He asks them to come after a month", "hi": "वे उन्हें एक महीने बाद आने के लिए कहते हैं"},
+        "c": {"en": "He gives them a book to read", "hi": "वे उन्हें पढ़ने के लिए एक किताब देते हैं"},
+        "d": {"en": "He refuses to help", "hi": "वे मदद करने से मना कर देते हैं"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "His ability to visualize and sketch designs immediately is one of his greatest strengths.",
+        "hi": "डिजाइनों को तुरंत देखने और स्केच करने की उनकी क्षमता उनकी सबसे बड़ी शक्तियों में से एक है।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "Why does Hafeez say he was 'bad' at languages?",
+        "hi": "हफीज ने क्यों कहा कि वे भाषाओं में 'खराब' थे?"
+      },
+      "options": {
+        "a": {"en": "He didn't like talking", "hi": "उन्हें बात करना पसंद नहीं था"},
+        "b": {"en": "He couldn't remember words but could remember sketches", "hi": "वे शब्दों को याद नहीं रख सकते थे लेकिन स्केच को याद रख सकते थे"},
+        "c": {"en": "He never went to language class", "hi": "वे कभी भाषा की कक्षा में नहीं गए"},
+        "d": {"en": "He spoke too fast", "hi": "वे बहुत तेज बोलते थे"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He struggled with subjects that required rote memorization of text.",
+        "hi": "उन्हें उन विषयों में कठिनाई होती थी जिनमें टेक्स्ट को रटने की आवश्यकता होती थी।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "What is the message for teachers and parents in this story?",
+        "hi": "इस कहानी में शिक्षकों और अभिभावकों के लिए क्या संदेश है?"
+      },
+      "options": {
+        "a": {"en": "Only marks matter", "hi": "केवल अंक मायने रखते हैं"},
+        "b": {"en": "Every child has a different way of learning and succeeding", "hi": "हर बच्चे के सीखने और सफल होने का तरीका अलग होता है"},
+        "c": {"en": "Children should not play games", "hi": "बच्चों को खेल नहीं खेलना चाहिए"},
+        "d": {"en": "Architects don't need to study", "hi": "वास्तुकारों को पढ़ने की जरूरत नहीं है"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The story emphasizes that academic performance is not the only measure of intelligence.",
+        "hi": "कहानी इस बात पर जोर देती है कि शैक्षणिक प्रदर्शन ही बुद्धिमत्ता का एकमात्र पैमाना नहीं है।"
+      }
+    }
+  ]
+}
