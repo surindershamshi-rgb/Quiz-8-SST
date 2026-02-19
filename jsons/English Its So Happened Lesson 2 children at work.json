@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 2,
+    "chapter_title": "Children at Work",
+    "chapter_title_hindi": "काम पर बच्चे",
+    "subject": "English Supplementary - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_ENG_SUPP_CH02_Work_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Why did Velu run away from home?",
+        "hi": "वेलु घर से क्यों भाग गया था?"
+      },
+      "options": {
+        "a": {"en": "He wanted to see the world", "hi": "वह दुनिया देखना चाहता था"},
+        "b": {"en": "He couldn't stand his father's beatings", "hi": "वह अपने पिता की पिटाई सहन नहीं कर सकता था"},
+        "c": {"en": "He wanted to become rich", "hi": "वह अमीर बनना चाहता था"},
+        "d": {"en": "His friends forced him", "hi": "उसके दोस्तों ने उसे मजबूर किया"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Velu's father was a drunkard who would beat him and snatch away his and his sister's earnings.",
+        "hi": "वेलु का पिता एक शराबी था जो उसे पीटता था और उसकी और उसकी बहन की कमाई छीन लेता था।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "To which city did Velu travel by train?",
+        "hi": "वेलु ने ट्रेन से किस शहर की यात्रा की?"
+      },
+      "options": {
+        "a": {"en": "Mumbai", "hi": "मुंबई"},
+        "b": {"en": "Delhi", "hi": "दिल्ली"},
+        "c": {"en": "Chennai", "hi": "चेन्नई"},
+        "d": {"en": "Kolkata", "hi": "कोलकाता"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "Velu boarded the Kanyakumari Express and reached Chennai Central station.",
+        "hi": "वेलु कन्याकुमारी एक्सप्रेस में सवार होकर चेन्नई सेंट्रल स्टेशन पहुँचा।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "How did Velu manage to travel without a ticket?",
+        "hi": "वेलु बिना टिकट यात्रा करने में कैसे सफल रहा?"
+      },
+      "options": {
+        "a": {"en": "He hid under the seat", "hi": "वह सीट के नीचे छिप गया"},
+        "b": {"en": "The ticket collector didn't come to the unreserved carriage", "hi": "टिकट कलेक्टर अनारक्षित डिब्बे में नहीं आया"},
+        "c": {"en": "He was a staff member", "hi": "वह एक कर्मचारी था"},
+        "d": {"en": "He jumped off the moving train", "hi": "वह चलती ट्रेन से कूद गया"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Luckily for Velu, the ticket collector did not come to the unreserved section of the train.",
+        "hi": "वेलु के लिए सौभाग्य से, टिकट कलेक्टर ट्रेन के अनारक्षित हिस्से में नहीं आया।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What was in Velu's small bundle?",
+        "hi": "वेलु की छोटी सी पोटली में क्या था?"
+      },
+      "options": {
+        "a": {"en": "Money and toys", "hi": "पैसे और खिलौने"},
+        "b": {"en": "A shirt, a towel, and a comb", "hi": "एक शर्ट, एक तौलिया और एक कंघी"},
+        "c": {"en": "Books and pens", "hi": "किताबें और पेन"},
+        "d": {"en": "Food for the journey", "hi": "यात्रा के लिए भोजन"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Velu carried very few belongings when he ran away from home.",
+        "hi": "जब वेलु घर से भागा था तब उसके पास बहुत कम सामान था।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Who did Velu meet at the railway station?",
+        "hi": "रेलवे स्टेशन पर वेलु की मुलाकात किससे हुई?"
+      },
+      "options": {
+        "a": {"en": "His uncle", "hi": "उसके चाचा"},
+        "b": {"en": "A girl named Jaya", "hi": "जया नाम की एक लड़की"},
+        "c": {"en": "A policeman", "hi": "एक पुलिसकर्मी"},
+        "d": {"en": "A shopkeeper", "hi": "एक दुकानदार"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Jaya was a ragpicker girl who noticed Velu sitting alone on the platform.",
+        "hi": "जया एक कूड़ा बीनने वाली लड़की थी जिसने वेलु को प्लेटफॉर्म पर अकेला बैठा देखा था।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "What was Jaya carrying on her shoulder?",
+        "hi": "जया ने अपने कंधे पर क्या उठा रखा था?"
+      },
+      "options": {
+        "a": {"en": "A school bag", "hi": "एक स्कूल बैग"},
+        "b": {"en": "A huge sack", "hi": "एक बड़ा बोरा"},
+        "c": {"en": "A water bottle", "hi": "पानी की एक बोतल"},
+        "d": {"en": "An umbrella", "hi": "एक छाता"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "She was using the sack to collect plastic cups, paper, and glass bottles.",
+        "hi": "वह प्लास्टिक के कप, कागज और कांच की बोतलों को इकट्ठा करने के लिए बोरे का इस्तेमाल कर रही थी।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "How did Velu feel when he stood on the platform?",
+        "hi": "प्लेटफॉर्म पर खड़े होने पर वेलु को कैसा महसूस हुआ?"
+      },
+      "options": {
+        "a": {"en": "Excited", "hi": "उत्साहित"},
+        "b": {"en": "Miserable and his legs felt shaky", "hi": "दयनीय और उसके पैर कांप रहे थे"},
+        "c": {"en": "Angry", "hi": "नाराज"},
+        "d": {"en": "Confident", "hi": "आत्मविश्वासी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He was exhausted, hungry, and overwhelmed by the noise and crowd of the big city.",
+        "hi": "वह थका हुआ, भूखा और बड़े शहर के शोर और भीड़ से घबराया हुआ था।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Why could Velu not read the signboards on the road?",
+        "hi": "वेलु सड़क पर लगे साइनबोर्ड क्यों नहीं पढ़ सका?"
+      },
+      "options": {
+        "a": {"en": "The light was too bright", "hi": "रोशनी बहुत तेज थी"},
+        "b": {"en": "They were written in English", "hi": "वे अंग्रेजी में लिखे गए थे"},
+        "c": {"en": "He was blind", "hi": "वह अंधा था"},
+        "d": {"en": "It was raining", "hi": "बारिश हो रही थी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Velu only knew how to read Tamil, not English.",
+        "hi": "वेलु को केवल तमिल पढ़ना आता था, अंग्रेजी नहीं।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "What was written on the large billboard that Velu saw?",
+        "hi": "वेलु ने जो बड़ा बिलबोर्ड देखा, उस पर क्या लिखा था?"
+      },
+      "options": {
+        "a": {"en": "Welcome to Chennai", "hi": "चेन्नई में आपका स्वागत है"},
+        "b": {"en": "Pictures of tyres, pens, and movies", "hi": "टायरों, पेन और फिल्मों के चित्र"},
+        "c": {"en": "Political slogans", "hi": "राजनीतिक नारे"},
+        "d": {"en": "Lost and found", "hi": "खोया और पाया"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Velu saw advertisements for various products but couldn't understand the English text.",
+        "hi": "वेलु ने विभिन्न उत्पादों के विज्ञापन देखे लेकिन वह अंग्रेजी टेक्स्ट नहीं समझ सका।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Where did Jaya take Velu to find food?",
+        "hi": "जया वेलु को खाना खोजने के लिए कहाँ ले गई?"
+      },
+      "options": {
+        "a": {"en": "To a restaurant", "hi": "एक रेस्तरां में"},
+        "b": {"en": "To a wedding hall's garbage bin", "hi": "शादी के हॉल के कूड़ेदान के पास"},
+        "c": {"en": "To her home", "hi": "अपने घर"},
+        "d": {"en": "To a supermarket", "hi": "एक सुपरमार्केट में"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "She took him behind a marriage hall where there was a big pile of garbage.",
+        "hi": "वह उसे एक मैरिज हॉल के पीछे ले गई जहाँ कचरे का बड़ा ढेर लगा था।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "What was the first thing Velu ate in Chennai?",
+        "hi": "चेन्नई में वेलु ने सबसे पहले क्या खाया?"
+      },
+      "options": {
+        "a": {"en": "A pizza", "hi": "एक पिज्जा"},
+        "b": {"en": "A squashy banana and a vada", "hi": "एक कुचला हुआ केला और एक वड़ा"},
+        "c": {"en": "Rice and dal", "hi": "चावल और दाल"},
+        "d": {"en": "An apple", "hi": "एक सेब"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Jaya found a squashy banana and a vada in the garbage and gave them to Velu.",
+        "hi": "जया को कचरे में एक कुचला हुआ केला और एक वड़ा मिला और उसने उन्हें वेलु को दे दिया।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "Why did Velu initially hesitate to eat the food from the garbage?",
+        "hi": "वेलु शुरू में कचरे का खाना खाने में क्यों झिझक रहा था?"
+      },
+      "options": {
+        "a": {"en": "He wasn't hungry", "hi": "उसे भूख नहीं थी"},
+        "b": {"en": "He felt it was disgusting and dirty", "hi": "उसे लगा कि यह घृणित और गंदा है"},
+        "c": {"en": "He was waiting for a better meal", "hi": "वह बेहतर भोजन का इंतज़ार कर रहा था"},
+        "d": {"en": "He didn't like bananas", "hi": "उसे केले पसंद नहीं थे"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Velu had never eaten leftovers from a bin before and was shocked by the idea.",
+        "hi": "वेलु ने पहले कभी कूड़ेदान से बचा हुआ खाना नहीं खाया था और वह इस विचार से हैरान था।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "What kind of houses did Velu see in the slum where Jaya lived?",
+        "hi": "वेलु ने उस झुग्गी-बस्ती में किस तरह के घर देखे जहाँ जया रहती थी?"
+      },
+      "options": {
+        "a": {"en": "Brick and cement houses", "hi": "ईंट और सीमेंट के घर"},
+        "b": {"en": "Tall skyscrapers", "hi": "गगनचुंबी इमारतें"},
+        "c": {"en": "Strange huts made of tin, bricks, wood, and plastic", "hi": "टीन, ईंट, लकड़ी और प्लास्टिक से बनी अजीबोगरीब झोपड़ियाँ"},
+        "d": {"en": "Wooden cottages", "hi": "लकड़ी के कॉटेज"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "The huts were built out of all sorts of waste materials and looked like they would fall any moment.",
+        "hi": "झोपड़ियाँ हर तरह के कचरे से बनी थीं और ऐसा लग रहा था कि वे किसी भी पल गिर जाएँगी।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What did Jaya do with the plastic and paper she collected?",
+        "hi": "जया अपने द्वारा इकट्ठा किए गए प्लास्टिक और कागज का क्या करती थी?"
+      },
+      "options": {
+        "a": {"en": "She burned them", "hi": "वह उन्हें जला देती थी"},
+        "b": {"en": "She sold them to Jaggu at Jam Bazaar", "hi": "वह उन्हें जाम बाजार में जग्गू को बेच देती थी"},
+        "c": {"en": "She made toys out of them", "hi": "वह उनसे खिलौने बनाती थी"},
+        "d": {"en": "She threw them back in the river", "hi": "उसने उन्हें वापस नदी में फेंक दिया"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The ragpickers sell the waste to a middleman who then sells it to factories for recycling.",
+        "hi": "कूड़ा बीनने वाले कचरे को एक बिचौलिए को बेचते हैं जो फिर उसे रीसाइक्लिंग के लिए कारखानों को बेच देता है।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "What work did Velu finally decide to do?",
+        "hi": "अंत में वेलु ने क्या काम करने का फैसला किया?"
+      },
+      "options": {
+        "a": {"en": "Farming", "hi": "खेती"},
+        "b": {"en": "Ragpicking", "hi": "कूड़ा बीनना"},
+        "c": {"en": "Cleaning dishes in a hotel", "hi": "होटल में बर्तन साफ करना"},
+        "d": {"en": "Selling newspapers", "hi": "अखबार बेचना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Velu decided to become a ragpicker for the time being until he found a better job.",
+        "hi": "वेलु ने बेहतर काम मिलने तक फिलहाल कूड़ा बीनने वाला बनने का फैसला किया।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "The bridge Jaya and Velu crossed was over which river?",
+        "hi": "जया और वेलु ने जिस पुल को पार किया वह किस नदी पर था?"
+      },
+      "options": {
+        "a": {"en": "Ganga", "hi": "गंगा"},
+        "b": {"en": "Buckingham Canal", "hi": "बकिंघम नहर"},
+        "c": {"en": "Yamuna", "hi": "यमुना"},
+        "d": {"en": "Cauvery", "hi": "कावेरी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Jaya pointed to a dirty puddle of water and called it the Buckingham Canal.",
+        "hi": "जया ने पानी के एक गंदे गड्ढे की ओर इशारा किया और उसे बकिंघम नहर कहा।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What did Jaya call the dirty water body near the huts?",
+        "hi": "जया ने झोपड़ियों के पास के गंदे जल निकाय को क्या कहा?"
+      },
+      "options": {
+        "a": {"en": "A lake", "hi": "एक झील"},
+        "b": {"en": "Buckingham Canal", "hi": "बकिंघम नहर"},
+        "c": {"en": "The Ocean", "hi": "महासागर"},
+        "d": {"en": "A swimming pool", "hi": "एक स्विमिंग पूल"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "This irony highlights the polluted state of the canal in the city.",
+        "hi": "यह विडंबना शहर में नहर की प्रदूषित स्थिति को उजागर करती है।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "How old was Velu?",
+        "hi": "वेलु की उम्र कितनी थी?"
+      },
+      "options": {
+        "a": {"en": "9 years", "hi": "9 वर्ष"},
+        "b": {"en": "11 years", "hi": "11 वर्ष"},
+        "c": {"en": "15 years", "hi": "15 वर्ष"},
+        "d": {"en": "13 years", "hi": "13 वर्ष"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Velu was an eleven-year-old boy when he ran away from his village.",
+        "hi": "जब वेलु अपने गाँव से भागा था तब वह ग्यारह साल का लड़का था।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What did the girl mean by 'Warning' when she pointed at the Central Jail?",
+        "hi": "जब लड़की ने सेंट्रल जेल की ओर इशारा किया तो 'चेतावनी' से उसका क्या मतलब था?"
+      },
+      "options": {
+        "a": {"en": "Don't get caught by the police", "hi": "पुलिस के हत्थे मत चढ़ना"},
+        "b": {"en": "The jail is a tourist spot", "hi": "जेल एक पर्यटन स्थल है"},
+        "c": {"en": "There is a fire in the jail", "hi": "जेल में आग लगी है"},
+        "d": {"en": "The jail is closed", "hi": "जेल बंद है"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "She warned Velu that he didn't have to do anything wrong to end up in jail; just standing around doing nothing could get him caught.",
+        "hi": "उसने वेलु को चेतावनी दी कि जेल जाने के लिए उसे कुछ गलत करने की ज़रूरत नहीं है; बस बिना कुछ किए इधर-उधर खड़े रहने से भी वह पकड़ा जा सकता है।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "Why was the girl in a hurry to cross the road?",
+        "hi": "लड़की सड़क पार करने की जल्दी में क्यों थी?"
+      },
+      "options": {
+        "a": {"en": "She was late for school", "hi": "उसे स्कूल के लिए देर हो रही थी"},
+        "b": {"en": "Because of the heavy and fast traffic", "hi": "भारी और तेज़ यातायात के कारण"},
+        "c": {"en": "It was her birthday", "hi": "उसका जन्मदिन था"},
+        "d": {"en": "She wanted to catch a bus", "hi": "वह बस पकड़ना चाहती थी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The traffic in the city was scary for a village boy like Velu, and Jaya had to pull him across.",
+        "hi": "वेलु जैसे गाँव के लड़के के लिए शहर का ट्रैफिक डरावना था, और जया को उसे खींचकर पार ले जाना पड़ा।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "The girl found a second banana, but she _______.",
+        "hi": "लड़की को दूसरा केला मिला, लेकिन उसने _______।"
+      },
+      "options": {
+        "a": {"en": "Gave it to Velu", "hi": "उसे वेलु को दे दिया"},
+        "b": {"en": "Ate it herself", "hi": "उसे खुद खा लिया"},
+        "c": {"en": "Threw it away", "hi": "उसे फेंक दिया"},
+        "d": {"en": "Sold it", "hi": "उसे बेच दिया"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Jaya ate the second banana herself because she was also hungry.",
+        "hi": "जया ने दूसरा केला खुद खा लिया क्योंकि वह भी भूखी थी।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "What does Velu think of the houses in the city compared to his village?",
+        "hi": "वेलु अपने गाँव की तुलना में शहर के घरों के बारे में क्या सोचता है?"
+      },
+      "options": {
+        "a": {"en": "They are much bigger", "hi": "वे बहुत बड़े हैं"},
+        "b": {"en": "In his village, houses are made of mud and palm leaves", "hi": "उसके गाँव में घर मिट्टी और ताड़ के पत्तों से बने होते हैं"},
+        "c": {"en": "They are more colorful", "hi": "वे अधिक रंगीन हैं"},
+        "d": {"en": "They are all made of glass", "hi": "वे सभी कांच के बने हैं"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Velu found the slum houses strange because they were made of metal and plastic waste, unlike the mud houses in his village.",
+        "hi": "वेलु को झुग्गी-झोपड़ी वाले घर अजीब लगे क्योंकि वे धातु और प्लास्टिक के कचरे से बने थे, उसके गाँव के मिट्टी के घरों के विपरीत।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "What did the 'Central Jail' building represent to Velu?",
+        "hi": "'सेंट्रल जेल' की इमारत वेलु के लिए क्या दर्शाती थी?"
+      },
+      "options": {
+        "a": {"en": "A big school", "hi": "एक बड़ा स्कूल"},
+        "b": {"en": "A place of fear/prison", "hi": "डर की जगह/जेल"},
+        "c": {"en": "A hospital", "hi": "एक अस्पताल"},
+        "d": {"en": "A palace", "hi": "एक महल"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Jaya used the jail to warn Velu to be careful and stay out of trouble with the police.",
+        "hi": "जया ने वेलु को सावधान रहने और पुलिस के साथ पचड़े में न पड़ने की चेतावनी देने के लिए जेल का इस्तेमाल किया।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "What did Jaya do when she reached her hut?",
+        "hi": "अपने झोपड़े में पहुँचने पर जया ने क्या किया?"
+      },
+      "options": {
+        "a": {"en": "She went to sleep", "hi": "वह सो गई"},
+        "b": {"en": "She changed her sack and went out again", "hi": "उसने अपना बोरा बदला और फिर बाहर चली गई"},
+        "c": {"en": "She cooked food", "hi": "उसने खाना बनाया"},
+        "d": {"en": "She started reading a book", "hi": "वह एक किताब पढ़ने लगी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Her life was a continuous cycle of collecting and selling waste to survive.",
+        "hi": "उसका जीवन जीवित रहने के लिए कचरा इकट्ठा करने और बेचने का एक निरंतर चक्र था।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "The name of the girl who helped Velu was _______.",
+        "hi": "वेलु की मदद करने वाली लड़की का नाम _______ था।"
+      },
+      "options": {
+        "a": {"en": "Maya", "hi": "माया"},
+        "b": {"en": "Jaya", "hi": "जया"},
+        "c": {"en": "Sita", "hi": "सीता"},
+        "d": {"en": "Rani", "hi": "रानी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Jaya is the central character who guides Velu through the city.",
+        "hi": "जया केंद्रीय पात्र है जो शहर में वेलु का मार्गदर्शन करती है।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "Why did Velu decide to follow the girl?",
+        "hi": "वेलु ने लड़की के पीछे जाने का फैसला क्यों किया?"
+      },
+      "options": {
+        "a": {"en": "He liked her", "hi": "वह उसे पसंद करता था"},
+        "b": {"en": "He had no idea where to go or what to do", "hi": "उसे पता नहीं था कि कहाँ जाना है या क्या करना है"},
+        "c": {"en": "She promised him a lot of money", "hi": "उसने उससे बहुत सारे पैसे का वादा किया था"},
+        "d": {"en": "She was his relative", "hi": "वह उसकी रिश्तेदार थी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Velu was lost and hungry in a strange city, so he followed her as his only hope.",
+        "hi": "वेलु एक अजनबी शहर में खो गया था और भूखा था, इसलिए वह अपनी इकलौती उम्मीद के तौर पर उसके पीछे चला गया।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "The 'Glance' Velu gave to the food meant he was _______.",
+        "hi": "वेलु ने भोजन पर जो 'झलक' (glance) डाली, उसका अर्थ था कि वह _______ था।"
+      },
+      "options": {
+        "a": {"en": "Not hungry", "hi": "भूखा नहीं"},
+        "b": {"en": "Starving but hesitant", "hi": "भूखा लेकिन झिझक रहा था"},
+        "c": {"en": "Happy", "hi": "खुश"},
+        "d": {"en": "Angry", "hi": "नाराज"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "His stomach was pinching him with hunger, yet his pride made him look at the garbage food with distaste.",
+        "hi": "भूख से उसका पेट पिचक रहा था, फिर भी उसके स्वाभिमान ने उसे कचरे के भोजन को अरुचि से देखने पर मजबूर कर दिया।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "What did the ragpickers do with the plastic bottles?",
+        "hi": "कूड़ा बीनने वाले प्लास्टिक की बोतलों का क्या करते थे?"
+      },
+      "options": {
+        "a": {"en": "Used them to drink water", "hi": "उनका उपयोग पानी पीने के लिए करते थे"},
+        "b": {"en": "Sold them for recycling", "hi": "उन्हें रीसाइक्लिंग के लिए बेच दिया"},
+        "c": {"en": "Planted flowers in them", "hi": "उनमें फूल लगाए"},
+        "d": {"en": "Threw them in the river", "hi": "उन्हें नदी में फेंक दिया"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Collecting plastic is a major part of a ragpicker's income.",
+        "hi": "प्लास्टिक इकट्ठा करना कूड़ा बीनने वाले की आय का एक बड़ा हिस्सा है।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "Velu's experience shows the reality of _______.",
+        "hi": "वेलु का अनुभव _______ की वास्तविकता को दर्शाता है।"
+      },
+      "options": {
+        "a": {"en": "Child labor and poverty", "hi": "बाल श्रम और गरीबी"},
+        "b": {"en": "Luxury city life", "hi": "शानदार शहर का जीवन"},
+        "c": {"en": "School education", "hi": "स्कूली शिक्षा"},
+        "d": {"en": "Tourism in Chennai", "hi": "चेन्नई में पर्यटन"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "The story highlights how children are forced to work in terrible conditions due to poverty.",
+        "hi": "कहानी इस बात पर प्रकाश डालती है कि कैसे गरीबी के कारण बच्चों को भयानक परिस्थितियों में काम करने के लिए मजबूर किया जाता है।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "Did Velu want to be a ragpicker forever?",
+        "hi": "क्या वेलु हमेशा के लिए कूड़ा बीनने वाला बनना चाहता था?"
+      },
+      "options": {
+        "a": {"en": "Yes", "hi": "हाँ"},
+        "b": {"en": "No, only until he found a better job", "hi": "नहीं, केवल तब तक जब तक उसे बेहतर काम न मिल जाए"},
+        "c": {"en": "He didn't care", "hi": "उसे कोई परवाह नहीं थी"},
+        "d": {"en": "He loved the work", "hi": "उसे यह काम पसंद था"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He sighed and thought he would do it for now, showing his reluctance.",
+        "hi": "उसने आह भरी और सोचा कि वह इसे अभी के लिए करेगा, जो उसकी अनिच्छा को दर्शाता है।"
+      }
+    }
+  ]
+}
