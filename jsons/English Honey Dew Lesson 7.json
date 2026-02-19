@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "chapter_number": 7,
+    "chapter_title": "A Visit to Cambridge",
+    "chapter_title_hindi": "कैम्ब्रिज की एक यात्रा",
+    "subject": "English - Class 8",
+    "board": "CBSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "08_ENG_CH07_Cambridge_30MCQ.json"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Who is the author of 'A Visit to Cambridge'?",
+        "hi": "'ए विजिट टू कैम्ब्रिज' के लेखक कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "Stephen Hawking", "hi": "स्टीफन हॉकिंग"},
+        "b": {"en": "Firdaus Kanga", "hi": "फिरदौस कांगा"},
+        "c": {"en": "Satyajit Ray", "hi": "सत्यजीत राय"},
+        "d": {"en": "H.P.S. Ahluwalia", "hi": "एच.पी.एस. आहलूवालिया"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Firdaus Kanga is an Indian writer and journalist who lives and works in London.",
+        "hi": "फिरदौस कांगा एक भारतीय लेखक और पत्रकार हैं जो लंदन में रहते हैं और काम करते हैं।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Which university was the author visiting?",
+        "hi": "लेखक किस विश्वविद्यालय का दौरा कर रहे थे?"
+      },
+      "options": {
+        "a": {"en": "Oxford", "hi": "ऑक्सफोर्ड"},
+        "b": {"en": "Cambridge", "hi": "कैम्ब्रिज"},
+        "c": {"en": "Delhi University", "hi": "दिल्ली विश्वविद्यालय"},
+        "d": {"en": "Harvard", "hi": "हार्वर्ड"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The story is set during the author's walking tour through Cambridge.",
+        "hi": "यह कहानी लेखक के कैम्ब्रिज के पैदल दौरे के दौरान की है।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Who did the guide mention as the successor to Isaac Newton at the university?",
+        "hi": "गाइड ने विश्वविद्यालय में आइजैक न्यूटन के उत्तराधिकारी के रूप में किसका उल्लेख किया?"
+      },
+      "options": {
+        "a": {"en": "Albert Einstein", "hi": "अल्बर्ट आइंस्टीन"},
+        "b": {"en": "Stephen Hawking", "hi": "स्टीफन हॉकिंग"},
+        "c": {"en": "Firdaus Kanga", "hi": "फिरदौस कांगा"},
+        "d": {"en": "C.V. Raman", "hi": "सी.वी. रमन"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Stephen Hawking held the same chair (professorship) that Newton once held.",
+        "hi": "स्टीफन हॉकिंग के पास वही पद (प्रोफेसर का पद) था जो कभी न्यूटन के पास था।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What disability did Firdaus Kanga have?",
+        "hi": "फिरदौस कांगा को क्या विकलांगता थी?"
+      },
+      "options": {
+        "a": {"en": "He was blind", "hi": "वह अंधे थे"},
+        "b": {"en": "He had brittle bones and used a wheelchair", "hi": "उनकी हड्डियाँ कमज़ोर (brittle bones) थीं और वे व्हीलचेयर का उपयोग करते थे"},
+        "c": {"en": "He was deaf", "hi": "वह बहरे थे"},
+        "d": {"en": "He could not speak", "hi": "वह बोल नहीं सकते थे"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Kanga mentions that he was born with 'brittle bones' that tended to break easily.",
+        "hi": "कांगा ने उल्लेख किया है कि वे 'भंगुर हड्डियों' (brittle bones) के साथ पैदा हुए थे जो आसानी से टूट जाती थीं।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "What condition did Stephen Hawking suffer from?",
+        "hi": "स्टीफन हॉकिंग किस स्थिति/बीमारी से पीड़ित थे?"
+      },
+      "options": {
+        "a": {"en": "Polio", "hi": "पोलियो"},
+        "b": {"en": "A form of paralysis", "hi": "लकवा का एक रूप"},
+        "c": {"en": "Blindness", "hi": "अंधापन"},
+        "d": {"en": "Asthma", "hi": "अस्थमा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Hawking suffered from a form of paralysis that confined him to a wheelchair and allowed him to speak only through a computer.",
+        "hi": "हॉकिंग लकवा के एक रूप से पीड़ित थे जिसने उन्हें व्हीलचेयर तक सीमित कर दिया था और वे केवल कंप्यूटर के माध्यम से बोल सकते थे।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "How much time did Hawking's assistant give Kanga for the interview?",
+        "hi": "हॉकिंग के सहायक ने कांगा को साक्षात्कार के लिए कितना समय दिया?"
+      },
+      "options": {
+        "a": {"en": "Ten minutes", "hi": "दस मिनट"},
+        "b": {"en": "Thirty minutes", "hi": "तीस मिनट"},
+        "c": {"en": "One hour", "hi": "एक घंटा"},
+        "d": {"en": "Full day", "hi": "पूरा दिन"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The assistant allowed him from 3:30 to 4:00.",
+        "hi": "सहायक ने उन्हें 3:30 से 4:00 बजे तक का समय दिया।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "How did Stephen Hawking communicate?",
+        "hi": "स्टीफन हॉकिंग कैसे संवाद करते थे?"
+      },
+      "options": {
+        "a": {"en": "By writing on paper", "hi": "कागज पर लिखकर"},
+        "b": {"en": "By using a speech synthesizer on a computer", "hi": "कंप्यूटर पर स्पीच सिंथेसाइज़र का उपयोग करके"},
+        "c": {"en": "By sign language", "hi": "सांकेतिक भाषा से"},
+        "d": {"en": "Through an interpreter", "hi": "एक दुभाषिया के माध्यम से"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He tapped a switch in his hand to choose words on a screen, which were then spoken by a machine.",
+        "hi": "उन्होंने स्क्रीन पर शब्दों को चुनने के लिए अपने हाथ में एक स्विच दबाया, जिन्हें फिर एक मशीन द्वारा बोला गया।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "What was Hawking's answer to the question if he found it amusing when people patronized him?",
+        "hi": "जब लोग उन पर दया दिखाते थे, तो क्या उन्हें यह मनोरंजक लगता था? इस पर हॉकिंग का क्या जवाब था?"
+      },
+      "options": {
+        "a": {"en": "Yes", "hi": "हाँ"},
+        "b": {"en": "No", "hi": "नहीं"},
+        "c": {"en": "He didn't answer", "hi": "उन्होंने जवाब नहीं दिया"},
+        "d": {"en": "He got angry", "hi": "वे क्रोधित हो गए"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Hawking candidly admitted with a 'Yes' that he found the patronization of others amusing.",
+        "hi": "हॉकिंग ने स्पष्ट रूप से 'हाँ' के साथ स्वीकार किया कि उन्हें दूसरों का उपकार दिखाना मनोरंजक लगता था।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "How did Kanga feel when he was about to meet Hawking?",
+        "hi": "जब कांगा हॉकिंग से मिलने वाले थे तो उन्हें कैसा महसूस हो रहा था?"
+      },
+      "options": {
+        "a": {"en": "Brave", "hi": "बहादुर"},
+        "b": {"en": "Nervous and excited", "hi": "घबराया हुआ और उत्साहित"},
+        "c": {"en": "Bored", "hi": "ऊब महसूस कर रहे थे"},
+        "d": {"en": "Sad", "hi": "दुखी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Kanga felt weak in the presence of such a great man and was nervous about the meeting.",
+        "hi": "कांगा इतने महान व्यक्ति की उपस्थिति में खुद को कमजोर महसूस कर रहे थे और बैठक को लेकर घबराए हुए थे।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "What did Hawking say was the only thing that makes you stronger?",
+        "hi": "हॉकिंग ने क्या कहा कि वह एकमात्र चीज है जो आपको मजबूत बनाती है?"
+      },
+      "options": {
+        "a": {"en": "Money", "hi": "पैसा"},
+        "b": {"en": "Seeing someone like you achieving something great", "hi": "अपने जैसे किसी व्यक्ति को कुछ महान हासिल करते हुए देखना"},
+        "c": {"en": "Exercise", "hi": "व्यायाम"},
+        "d": {"en": "Reading books", "hi": "किताबें पढ़ना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Hawking believed that seeing others with similar disabilities succeed gives one hope.",
+        "hi": "हॉकिंग का मानना था कि समान विकलांगता वाले दूसरों को सफल होते देखना आशा देता है।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "What did the author compare Hawking's body to?",
+        "hi": "लेखक ने हॉकिंग के शरीर की तुलना किससे की?"
+      },
+      "options": {
+        "a": {"en": "A fortress", "hi": "एक किला"},
+        "b": {"en": "A lantern whose walls are worn so thin you see only the light", "hi": "एक लालटेन जिसकी दीवारें इतनी घिस गई हैं कि आपको केवल रोशनी दिखाई देती है"},
+        "c": {"en": "A machine", "hi": "एक मशीन"},
+        "d": {"en": "A statue", "hi": "एक मूर्ति"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He used the metaphor of a lantern to describe Hawking's brilliant mind inside a frail body.",
+        "hi": "उन्होंने एक कमजोर शरीर के भीतर हॉकिंग के प्रतिभाशाली दिमाग का वर्णन करने के लिए लालटेन के रूपक का उपयोग किया।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "According to Hawking, disabled people should concentrate on _______.",
+        "hi": "हॉकिंग के अनुसार, विकलांग लोगों को _______ पर ध्यान केंद्रित करना चाहिए।"
+      },
+      "options": {
+        "a": {"en": "Politics", "hi": "राजनीति"},
+        "b": {"en": "What they are good at", "hi": "जिसमें वे अच्छे हैं"},
+        "c": {"en": "Complaining", "hi": "शिकायत करने पर"},
+        "d": {"en": "Olympic games", "hi": "ओलंपिक खेलों पर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Hawking felt it was a waste of time to try things one cannot do; one should focus on their strengths.",
+        "hi": "हॉकिंग को लगा कि उन चीजों को करने की कोशिश करना समय की बर्बादी है जो कोई नहीं कर सकता; व्यक्ति को अपनी ताकत पर ध्यान देना चाहिए।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "What did Hawking think of the 'Disabled Olympics'?",
+        "hi": "विकलांगों के लिए 'ओलंपिक' के बारे में हॉकिंग का क्या विचार था?"
+      },
+      "options": {
+        "a": {"en": "He loved them", "hi": "वे उन्हें पसंद थे"},
+        "b": {"en": "He thought they were a waste of time", "hi": "उन्हें लगा कि वे समय की बर्बादी हैं"},
+        "c": {"en": "He wanted to participate", "hi": "वे भाग लेना चाहते थे"},
+        "d": {"en": "He sponsored them", "hi": "उन्होंने उन्हें प्रायोजित किया"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He believed that such events don't really help the disabled find their true potential.",
+        "hi": "उनका मानना था कि इस तरह की घटनाएं वास्तव में विकलांगों को उनकी वास्तविक क्षमता खोजने में मदद नहीं करती हैं।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What 'incandescent' thing did Kanga see in Hawking?",
+        "hi": "कांगा ने हॉकिंग में कौन सी 'देदीप्यमान' (incandescent) चीज देखी?"
+      },
+      "options": {
+        "a": {"en": "His clothes", "hi": "उनके कपड़े"},
+        "b": {"en": "The inner glow of his spirit/soul", "hi": "उनकी आत्मा/मन की आंतरिक चमक"},
+        "c": {"en": "His computer", "hi": "उनका कंप्यूटर"},
+        "d": {"en": "His wheelchair", "hi": "उनकी व्हीलचेयर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Incandescent means glowing with heat; Kanga saw the vibrant life and intelligence inside Hawking.",
+        "hi": "देदीप्यमान का अर्थ है गर्मी से चमकना; कांगा ने हॉकिंग के अंदर जीवंत जीवन और बुद्धिमत्ता को देखा।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "What did the author do at the end of the interview?",
+        "hi": "साक्षात्कार के अंत में लेखक ने क्या किया?"
+      },
+      "options": {
+        "a": {"en": "He shook Hawking's hand", "hi": "उन्होंने हॉकिंग से हाथ मिलाया"},
+        "b": {"en": "He touched Hawking's shoulder and wheeled out", "hi": "उन्होंने हॉकिंग के कंधे को छुआ और बाहर निकल गए"},
+        "c": {"en": "He took a selfie", "hi": "उन्होंने एक सेल्फी ली"},
+        "d": {"en": "He started crying", "hi": "वे रोने लगे"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Kanga couldn't shake hands or kiss him, so he touched his shoulder in a gesture of respect.",
+        "hi": "कांगा हाथ नहीं मिला सकते थे, इसलिए उन्होंने सम्मान के प्रतीक के रूप में उनके कंधे को छुआ।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "Which famous book was written by Stephen Hawking?",
+        "hi": "स्टीफन हॉकिंग द्वारा कौन सी प्रसिद्ध पुस्तक लिखी गई थी?"
+      },
+      "options": {
+        "a": {"en": "Harry Potter", "hi": "हैरी पॉटर"},
+        "b": {"en": "A Brief History of Time", "hi": "ए ब्रीफ हिस्ट्री ऑफ टाइम (समय का संक्षिप्त इतिहास)"},
+        "c": {"en": "The Guide", "hi": "द गाइड"},
+        "d": {"en": "Wings of Fire", "hi": "विंग्स ऑफ फायर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "It is one of the best-selling science books of all time.",
+        "hi": "यह अब तक की सबसे अधिक बिकने वाली विज्ञान पुस्तकों में से एक है।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "The author says that Cambridge was his _______ to England.",
+        "hi": "लेखक का कहना है कि कैम्ब्रिज उनके लिए इंग्लैंड का _______ था।"
+      },
+      "options": {
+        "a": {"en": "Metaphor", "hi": "रूपक (Metaphor)"},
+        "b": {"en": "Enemy", "hi": "दुश्मन"},
+        "c": {"en": "Capital", "hi": "राजधानी"},
+        "d": {"en": "Last stop", "hi": "अंतिम पड़ाव"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "To him, Cambridge represented the whole of England.",
+        "hi": "उनके लिए, कैम्ब्रिज पूरे इंग्लैंड का प्रतिनिधित्व करता था।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "How does Hawking describe his state of being?",
+        "hi": "हॉकिंग अपनी स्थिति का वर्णन कैसे करते हैं?"
+      },
+      "options": {
+        "a": {"en": "He is very brave", "hi": "वे बहुत बहादुर हैं"},
+        "b": {"en": "He hasn't been brave, he just had no choice", "hi": "वे बहादुर नहीं रहे हैं, बस उनके पास कोई विकल्प नहीं था"},
+        "c": {"en": "He is miserable", "hi": "वे दुखी हैं"},
+        "d": {"en": "He is a hero", "hi": "वे एक नायक हैं"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Hawking was very humble and did not see his survival as an act of bravery but as a necessity.",
+        "hi": "हॉकिंग बहुत विनम्र थे और उन्होंने अपने अस्तित्व को बहादुरी के कार्य के रूप में नहीं बल्कि एक आवश्यकता के रूप में देखा।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What did the author feel while watching Hawking's struggle with the computer?",
+        "hi": "कंप्यूटर के साथ हॉकिंग के संघर्ष को देखते हुए लेखक ने क्या महसूस किया?"
+      },
+      "options": {
+        "a": {"en": "Anguish", "hi": "पीड़ा/वेदना"},
+        "b": {"en": "Laughter", "hi": "हंसी"},
+        "c": {"en": "Boredom", "hi": "ऊब"},
+        "d": {"en": "Confusion", "hi": "भ्रम"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Kanga felt the effort and pain Hawking went through just to speak a few words.",
+        "hi": "कांगा ने उस प्रयास और दर्द को महसूस किया जिससे हॉकिंग को केवल कुछ शब्द बोलने के लिए गुजरना पड़ा।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "Hawking's voice on the computer was _______.",
+        "hi": "कंप्यूटर पर हॉकिंग की आवाज _______ थी।"
+      },
+      "options": {
+        "a": {"en": "Very emotional", "hi": "बहुत भावुक"},
+        "b": {"en": "Inflectionless and expressionless", "hi": "बिना उतार-चढ़ाव और भावहीन"},
+        "c": {"en": "Musical", "hi": "सुरीली"},
+        "d": {"en": "Loud and angry", "hi": "तेज और गुस्से वाली"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The machine-generated voice had no tone or feeling, yet the words were powerful.",
+        "hi": "मशीन द्वारा उत्पन्न आवाज में कोई लहजा या भावना नहीं थी, फिर भी शब्द शक्तिशाली थे।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "The meeting between the two men was a journey from _______ to _______.",
+        "hi": "दोनों व्यक्तियों के बीच की मुलाकात _______ से _______ तक की यात्रा थी।"
+      },
+      "options": {
+        "a": {"en": "India to England", "hi": "भारत से इंग्लैंड"},
+        "b": {"en": "Fear to confidence", "hi": "डर से आत्मविश्वास"},
+        "c": {"en": "Helplessness to hope", "hi": "बेबसी से आशा"},
+        "d": {"en": "Darkness to light", "hi": "अंधेरे से उजाला"}
+      },
+      "correct_option": "c",
+      "explanation": {
+        "en": "The interaction inspired Kanga and gave him a new perspective on his own life.",
+        "hi": "बातचीत ने कांगा को प्रेरित किया और उन्हें अपने जीवन पर एक नया दृष्टिकोण दिया।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "What did Kanga see in the garden?",
+        "hi": "कांगा ने बगीचे में क्या देखा?"
+      },
+      "options": {
+        "a": {"en": "Hawking in his wheelchair moving under the sun", "hi": "धूप में अपनी व्हीलचेयर पर घूमते हुए हॉकिंग"},
+        "b": {"en": "Beautiful flowers", "hi": "सुंदर फूल"},
+        "c": {"en": "Students studying", "hi": "पढ़ते हुए छात्र"},
+        "d": {"en": "Newton's apple tree", "hi": "न्यूटन के सेब का पेड़"}
+      },
+      "correct_option": "a",
+      "explanation": {
+        "en": "Hawking took him for a tour of his garden in his motorized wheelchair.",
+        "hi": "हॉकिंग उन्हें अपनी मोटर चालित व्हीलचेयर में अपने बगीचे की सैर पर ले गए।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "The word 'Propelling' in the story means _______.",
+        "hi": "कहानी में 'Propelling' शब्द का अर्थ _______ है।"
+      },
+      "options": {
+        "a": {"en": "Stopping", "hi": "रुकना"},
+        "b": {"en": "Pushing or driving forward", "hi": "आगे धकेलना या चलाना"},
+        "c": {"en": "Flying", "hi": "उड़ना"},
+        "d": {"en": "Sleeping", "hi": "सोना"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Kanga talks about 'propelling' his wheelchair through the streets.",
+        "hi": "कांगा सड़कों पर अपनी व्हीलचेयर 'चलाने' (propelling) के बारे में बात करते हैं।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "Hawking smiled at the end because _______.",
+        "hi": "अंत में हॉकिंग मुस्कुराए क्योंकि _______।"
+      },
+      "options": {
+        "a": {"en": "He told a joke", "hi": "उन्होंने एक चुटकुला सुनाया"},
+        "b": {"en": "He knew Kanga understood his spirit", "hi": "वे जानते थे कि कांगा उनकी आत्मा/विचारों को समझ गए हैं"},
+        "c": {"en": "It was time for lunch", "hi": "दोपहर के भोजन का समय हो गया था"},
+        "d": {"en": "He saw a bird", "hi": "उन्होंने एक पक्षी देखा"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "There was a silent understanding between the two about the strength of the mind over the body.",
+        "hi": "शरीर पर मन की शक्ति के बारे में दोनों के बीच एक मूक समझ थी।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "Why did the author feel 'guilty' during the interview?",
+        "hi": "साक्षात्कार के दौरान लेखक ने 'दोषी' क्यों महसूस किया?"
+      },
+      "options": {
+        "a": {"en": "Because he was asking too many questions", "hi": "क्योंकि वे बहुत सारे सवाल पूछ रहे थे"},
+        "b": {"en": "Because he was making Hawking use his limited energy to speak", "hi": "क्योंकि वे हॉकिंग को बोलने के लिए उनकी सीमित ऊर्जा का उपयोग करने के लिए मजबूर कर रहे थे"},
+        "c": {"en": "Because he was late", "hi": "क्योंकि उन्हें देर हो गई थी"},
+        "d": {"en": "Because he didn't bring a gift", "hi": "क्योंकि वे उपहार नहीं लाए थे"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Kanga knew that every word Hawking spoke required a lot of physical effort.",
+        "hi": "कांगा जानते थे कि हॉकिंग द्वारा बोले गए प्रत्येक शब्द के लिए बहुत अधिक शारीरिक प्रयास की आवश्यकता होती है।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "Kanga's wheelchair was _______.",
+        "hi": "कांगा की व्हीलचेयर _______ थी।"
+      },
+      "options": {
+        "a": {"en": "Motorized", "hi": "मोटर चालित"},
+        "b": {"en": "Manual (pushed by hand)", "hi": "मैनुअल (हाथ से धकेलने वाली)"},
+        "c": {"en": "Golden", "hi": "सुनहरी"},
+        "d": {"en": "Very large", "hi": "बहुत बड़ी"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Unlike Hawking's motorized chair, Kanga was 'propelling' his chair manually.",
+        "hi": "हॉकिंग की मोटर चालित कुर्सी के विपरीत, कांगा अपनी कुर्सी को मैन्युअल रूप से चला रहे थे।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "What did the author realize after the meeting?",
+        "hi": "बैठक के बाद लेखक ने क्या महसूस किया?"
+      },
+      "options": {
+        "a": {"en": "That he was very weak", "hi": "कि वे बहुत कमजोर थे"},
+        "b": {"en": "That he could also achieve great things despite his disability", "hi": "कि वे अपनी विकलांगता के बावजूद महान चीजें हासिल कर सकते हैं"},
+        "c": {"en": "That England is a cold country", "hi": "कि इंग्लैंड एक ठंडा देश है"},
+        "d": {"en": "That he should become a scientist", "hi": "कि उन्हें वैज्ञानिक बनना चाहिए"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "The meeting was a source of great inspiration and strength for Kanga.",
+        "hi": "यह बैठक कांगा के लिए महान प्रेरणा और शक्ति का स्रोत थी।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Stephen Hawking is known for his work in _______.",
+        "hi": "स्टीफन हॉकिंग को उनके _______ में काम के लिए जाना जाता है।"
+      },
+      "options": {
+        "a": {"en": "Biology", "hi": "जीव विज्ञान"},
+        "b": {"en": "Theoretical Physics and Cosmology", "hi": "सैद्धांतिक भौतिकी और ब्रह्मांड विज्ञान"},
+        "c": {"en": "Economics", "hi": "अर्थशास्त्र"},
+        "d": {"en": "Music", "hi": "संगीत"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He made groundbreaking discoveries about black holes and the origins of the universe.",
+        "hi": "उन्होंने ब्लैक होल और ब्रह्मांड की उत्पत्ति के बारे में अभूतपूर्व खोजें कीं।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "What does 'Claustrophobic' mean?",
+        "hi": "'क्लॉस्ट्रोफोबिक' (Claustrophobic) का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "Fear of heights", "hi": "ऊंचाई का डर"},
+        "b": {"en": "Fear of being in small, closed spaces", "hi": "छोटे, बंद स्थानों में होने का डर"},
+        "c": {"en": "Fear of water", "hi": "पानी का डर"},
+        "d": {"en": "Fear of people", "hi": "लोगों का डर"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "Kanga used this to describe the feeling of being trapped inside a disabled body.",
+        "hi": "कांगा ने इसका उपयोग विकलांग शरीर के अंदर फंसे होने की भावना का वर्णन करने के लिए किया।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "The meeting made Kanga feel that his own body was _______.",
+        "hi": "मुलाकात ने कांगा को महसूस कराया कि उनका अपना शरीर _______ था।"
+      },
+      "options": {
+        "a": {"en": "A prison", "hi": "एक जेल"},
+        "b": {"en": "Just a shell for the spirit", "hi": "आत्मा के लिए केवल एक आवरण/खोल"},
+        "c": {"en": "Beautiful", "hi": "सुंदर"},
+        "d": {"en": "A burden", "hi": "एक बोझ"}
+      },
+      "correct_option": "b",
+      "explanation": {
+        "en": "He realized that the spirit is more important than the physical body.",
+        "hi": "उन्होंने महसूस किया कि भौतिक शरीर की तुलना में आत्मा अधिक महत्वपूर्ण है।"
+      }
+    }
+  ]
+}
